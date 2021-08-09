@@ -4,8 +4,5 @@ channels:
 dependencies:
   - conda
   - python=3.9
-  - menuinst
-  - console_shortcut
-  - powershell_shortcut
   - notebook
   - r-irkernel
