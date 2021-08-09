@@ -9,4 +9,3 @@ dependencies:
   - powershell_shortcut
   - notebook
   - r-irkernel
-prefix: C:\Users\demetriospagonis\Miniconda3
