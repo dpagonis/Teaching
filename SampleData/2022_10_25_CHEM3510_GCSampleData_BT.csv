@@ -1,0 +1,5 @@
+Sample_Number,BenzenePeakArea_pAs,ToluenePeakArea_pAs,SamplingTime_min,FlowRate_Lmin,StartTime_SecSinceMidnight
+1,56.6,155.1,60,1.36,
+2,211.6,1100.7,30,0.51,
+4,10215,14408.1,1,0.51,
+5,73.6,140.7,3,0.51,
