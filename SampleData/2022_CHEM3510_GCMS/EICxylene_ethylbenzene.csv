@@ -1,5 +1,5 @@
 #"+ EIC(106.0) Scan tube3HHW.D "
-#Point,X(Minutes),Y(Counts)
+point,rt,signal
 0,0.596,297
 1,0.605,218
 2,0.614,297

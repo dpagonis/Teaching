@@ -1,5 +1,5 @@
 #"Cpd 23: m,p-xylene: + ECC Scan tube3HHW.D "
-#Point,X(Minutes),Y(Counts)
+point,rt,signal
 0,20.694,2162475
 1,20.703,2052225
 2,20.712,2099546

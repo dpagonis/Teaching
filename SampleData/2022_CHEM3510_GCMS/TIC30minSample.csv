@@ -1,5 +1,5 @@
 #"+ TIC Scan tube3HHW.d "
-#Point,X(Minutes),Y(Counts)
+point,rt,signal
 0,0.596,81864
 1,0.605,87592
 2,0.614,247741

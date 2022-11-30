@@ -1,5 +1,5 @@
 #"Cpd 22: ethylbenzyne: + ECC Scan tube3HHW.D "
-#Point,X(Minutes),Y(Counts)
+point,rt,signal
 0,20.538,269025
 1,20.547,261918
 2,20.556,267597

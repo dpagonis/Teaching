@@ -1,5 +1,5 @@
 #"Cpd 21: Nonane: + Compound Spectrum (rt: 20.409-20.804 min) tube3HHW.D "
-#Point,X(Thompsons),Y(Counts)
+point,mz,signal
 0,41.11,26.2144045734342
 1,42.11,8.37957478032369
 2,43.11,56.2801891090473
