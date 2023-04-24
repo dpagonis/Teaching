@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+        .header {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-77%);
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            z-index: 1;
+        }
+        .header img {
+            width: auto;
+            height: 70px;
+        }
+        .title {
+            font-size: 40px;
+            margin-top: 10px;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 5px auto;
+        }
+        td {
+            border: 2px solid black;
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            width: 60px;
+            max-width: 60px;
+            height: 60px;
+            vertical-align: top;
+            position: relative;
+        }
+        td.empty {
+            border: none;
+            background-color: white;
+        }
+        .symbol {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .atomic-number {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+        }
+        .f-block {
+            margin-top: 20px;
+        }
+        .dashed-right-border {
+            border-right: 2px dashed black;
+        }
+        .dashed-left-border {
+            border-left: 2px dashed black;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="title">Periodic Table of the Elements</div>
+        <img src="png/chembio_horiz.png" alt="Logo">
+    </div>
+    <table>
+        {% for row in table %}
+        <tr>
+            {% for cell in row %}
+            {% if cell.atomic_number is none %}
+            <td style="height: 10px; border: none;"></td>
+            {% else %}
+            <td class="{{ cell.class }} {{ cell.border_class }}">
+                <div class="symbol">{{ cell.symbol }}</div>
+                <div>{{ cell.name }}</div>
+                <div class="atomic-number">{{ cell.atomic_number }}</div>
+                {% if cell.mass is not none %}
+                <div>{{ cell.mass | format_mass }}</div>
+                {% endif %}
+                {% for property, value in cell.extra_properties.items() %}
+                <div>{{ property }}: {{ value }}</div>
+                {% endfor %}
+            </td>
+            {% endif %}
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+
+    <script>
+        function checkOverflowAndAdjustFontSize() {
+            var elementNames = document.querySelectorAll('td > div:nth-child(2)');
+            elementNames.forEach(function (elementName) {
+                if (elementName.scrollWidth > elementName.clientWidth) {
+                    elementName.style.fontSize = '10px';
+                }
+            });
+        }
+    
+        // Run the function after the DOM has loaded
+        document.addEventListener('DOMContentLoaded', checkOverflowAndAdjustFontSize);
+    </script>
+    
+</body>
+</html>

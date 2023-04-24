@@ -1,0 +1,13 @@
+#basename,
+#num_questions,
+#question_type,short_answer_question
+#sigfig_vars,
+#sigfig_var_ranges,
+#sigfig_nsigfig_ranges,
+#int_vars,
+#int_var_ranges,
+#periodictable_vars,symbol;
+#periodictable_weighted,
+
+question_text,answer_equation
+...,...

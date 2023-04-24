@@ -1,0 +1,25 @@
+﻿Name,Molecular Formula
+Hydroxide,OH^{-}
+Chloride,Cl^{-}
+Bromide,Br^{-}
+Iodide,I^{-}
+Nitrate,NO_3^{-}
+Sulfate,SO_4^{2-}
+Phosphate,PO_4^{3-}
+Carbonate,CO_3^{2-}
+Bicarbonate,HCO_3^{-}
+Acetate,C_2H_3O_2^{-}
+Oxide,O^{2-}
+Sulfide,S^{2-}
+Nitrite,NO_2^{-}
+Sulfite,SO_3^{2-}
+Phosphite,PO_3^{3-}
+Permanganate,MnO_4^{-}
+Chromate,CrO_4^{2-}
+Dichromate,Cr_2O_7^{2-}
+Hypochlorite,ClO^{-}
+Chlorate,ClO_3^{-}
+Perchlorate,ClO_4^{-}
+Cyanide,CN^{-}
+Thiocyanate,SCN^{-}
+Peroxide,O_2^{2-}
