@@ -1,19 +1,10 @@
+#manifest code isn't working with new quiz imports
+#eventually need other question types to be supported
+
 import pandas as pd
 from lxml import etree
 import zipfile
-
-
-def main():
-    basename = str(input("base name of csv (omit .csv extension): "))
-    input_csv = basename+".csv"
-    output_zip = basename+".zip" # Output ZIP file path
-    #output_xml = "qti_questions.xml"
-
-    questions_df = pd.read_csv(input_csv)
-    qti_xml = create_qti_xml(questions_df, basename)
-    save_to_zip(qti_xml, output_zip)
-    #etree.ElementTree(qti_xml).write(output_xml, encoding="ISO-8859-1", pretty_print=True, xml_declaration=True)
-
+import urllib.parse
 
 # Save the XML file to a ZIP file
 def save_to_zip(xml_tree, output_path):
@@ -100,6 +91,14 @@ def create_qti_xml(questions_df,basename, assessment_ident):
     
     return questestinterop
 
+
+def create_mattext_element(latex_code):
+    base_url = "https://weber.instructure.com/equation_images/"
+    scale = "1.5"
+    img_src = f"{base_url}{urllib.parse.quote_plus(latex_code)}?scale={scale}"
+    mattext = f'<mattext texttype="text/html"><img class="equation_image" title="{latex_code}" src="{img_src}" alt="LaTeX: {latex_code}" data-equation-content="{latex_code}" data-ignore-a11y-check=""></mattext>'
+    return mattext
+
 def create_manifest_xml(assessment_ident, assessment_title):
     # Register the namespaces
     etree.register_namespace("ims", "http://www.imsglobal.org/xsd/imscp_v1p1")
@@ -130,6 +129,3 @@ def create_manifest_xml(assessment_ident, assessment_title):
     manifest_xml = etree.tostring(imsmanifest, encoding="UTF-8", method="xml").decode("UTF-8")
 
     return manifest_xml
-
-if __name__ == "__main__":
-    main()

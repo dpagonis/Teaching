@@ -17,7 +17,7 @@ km
 nm
 s
 ms
-µs
+ns
 yr
 h
 L

@@ -1,3 +1,5 @@
+#sigmas need to be 1 or 2 sig-fig values when passed to uv
+
 from scipy.stats import f
 import hashlib
 import pandas as pd
@@ -10,18 +12,14 @@ from uncertainvalue import uncertainvalue as uv
 from sigfig import sigfig
 
 def generate_questions():
-    basename = 'F_test' #this string is used to name the bank and the hash ID
+    basename = 's_pooled' #this string is used to name the bank and the hash ID
     
     num_questions = 1000    #recommend 1000
 
     question_type = 'short_answer_question'
-    
-    float_vars = 'sigma_x;sigma_y'
-    ranges = '0.1,0.7; 0.1,0.99'
-    float_vars_ranges = [(float(rng.split(',')[0]), float(rng.split(',')[1])) for rng in ranges.split(';')]
-    
-    float_vars_logdist = 'xbar;ybar'
-    ranges = '1,100; 0.11,100'
+        
+    float_vars_logdist = 'xbar;ybar;sigma_x'
+    ranges = '1,100; 0.11,100;0.12,30'
     float_vars_logdist_ranges = [(float(rng.split(',')[0]), float(rng.split(',')[1])) for rng in ranges.split(';')]
 
     int_vars = 'nx;ny'
@@ -30,24 +28,23 @@ def generate_questions():
     
     str_vars = ['unit']
 
-    intermediate_calcs = 'x;y;Fcalc;n1;n2;Ftable;Ho'
-    intermediate_equations = [
+    intermediate_calcs = 'n1;n2;F_table;sigma_y;x;y;s_pooled'
+    intermediate_equations = [  
+        'nx',
+        'ny',
+        'f.ppf(1 - 0.05/2, n1, n2)',
+        'sigma_x/(F_table/2)**0.5',
         'uv(xbar,sigma_x,nx)',
         'uv(ybar,sigma_y,ny)',
-        'sigfig(str((max(x.stdev.value,y.stdev.value)/min(x.stdev.value,y.stdev.value))**2), sig_figs=2)',
-        'nx if x.stdev.value > y.stdev.value else ny',
-        'ny if x.stdev.value > y.stdev.value else nx',
-        'sigfig(str(f.ppf(1 - 0.05/2, n1, n2)),last_decimal_place=-2)',
-        'True if Fcalc.value<float(Ftable.scientific_notation()) else False'
+        '((x.stdev**2 *(nx-1)+y.stdev**2 * (ny-1))/(nx+ny-2))**0.5'
     ]
     
     question_data = [
-        'Given the following measurements calculate F:<br>{x} {unit}, n={nx}<br>{y} {unit}, n={ny};Fcalc.answers(sf_tolerance=1)',
-        'Calculate the F statistic for the following measurements:<br>{x} {unit}, n={nx}<br>{y} {unit}, n={ny};Fcalc.answers(sf_tolerance=1)',
-        'Give the tabulated F value (F_table) for the following measurements:<br>{x} {unit}, n={nx}<br>{y} {unit}, n={ny};Ftable.answers()',
-        'Are the following standard deviations significantly different?<br>{x} {unit}, n={nx}<br>{y} {unit}, n={ny}; yes_no(not Ho)',
-        'Do the standard deviations of these measurements agree within experimental error?<br>{x} {unit}, n={nx}<br>{y} {unit}, n={ny}; yes_no(Ho)'
+        'Given the following measurements calculate {spool_eqn_html}:<br>{x} {unit}, n={nx}<br>{y} {unit}, n={ny};s_pooled.answers(sf_tolerance=1)'
     ]
+    
+    html_vars=['spool_eqn_html']
+    html_strings = [create_mattext_element("s_{pooled}")]
 
     print(f"generating {num_questions} questions for question bank {basename}")
 
@@ -75,10 +72,6 @@ def generate_questions():
         for var, var_rng in zip(float_vars_logdist.split(';'), float_vars_logdist_ranges):
             values[var] = math.e**random.uniform(np.log(var_rng[0]),np.log(var_rng[1]))
 
-        #generate sigma_x, sigma_y
-        for var, var_rng, in zip(float_vars.split(';'), float_vars_ranges):
-            values[var] = float(uv(0,random.uniform(var_rng[0],var_rng[1])).stdev.scientific_notation())
-
         #get units
         for var in str_vars:
             values[var] = get_random_unit()
@@ -88,14 +81,17 @@ def generate_questions():
             namespace = {**values}
             values[var] =  eval(eqn.format(**namespace), current_globals, namespace)
 
+        # generate html vars
+        for var, string in zip(html_vars,html_strings):
+            namespace = {**values}
+            values[var] =  string
+
         # Replace placeholders in the question with the generated values
         namespace = {**values}
         formatted_question = question_text.format(**values)
         
         # Calculate the answer using the provided equation
-        
         answer = eval(answer_equation.format(**namespace), current_globals, namespace)
-        
 
         questions.append({
             'question': formatted_question,

@@ -1,5 +1,0 @@
-setup.py
-uncertainvalues.egg-info/PKG-INFO
-uncertainvalues.egg-info/SOURCES.txt
-uncertainvalues.egg-info/dependency_links.txt
-uncertainvalues.egg-info/top_level.txt

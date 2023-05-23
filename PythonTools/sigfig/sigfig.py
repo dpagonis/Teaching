@@ -1,18 +1,27 @@
 import math
+import random
+import warnings
 from decimal import Decimal, ROUND_HALF_UP
+
+from units import units as units_class
 
 class sigfig:
 
-  def __init__(self, value, sig_figs=None, last_decimal_place=None):
+  def __init__(self, value, sig_figs=None, last_decimal_place=None, units_str=""):
     
     if not isinstance(value, str):
-      raise TypeError("Input must be a string")  
+      raise TypeError("value input must be a string")  
     
+    if not isinstance(units_str, str):
+      raise TypeError("Units input must be a string")  
+
     self.value_str = value
     self.value = float(self.value_str)
 
     if sig_figs is not None and last_decimal_place is not None:
         raise ValueError("Cannot set both sig_figs and last_decimal_place.")
+    
+    self.units = units_class(units_str)
 
     if sig_figs is None and last_decimal_place is None:
         self.sig_figs = self._find_first_decimal_place(self.value_str)-self._find_last_decimal_place(self.value_str) +1
@@ -23,10 +32,12 @@ class sigfig:
     else:
         self.last_decimal_place = last_decimal_place
         self.sig_figs = self._find_first_decimal_place(self.value_str) - self.last_decimal_place +1
-
+   
   def scientific_notation(self):
     prec = self.sig_figs if self._check_rounded_exponent_increase(self.sig_figs-1) else self.sig_figs-1
-    formatted = f"{self.value:.{prec}e}"
+    prec = 0 if prec < 0 else prec
+    rounded_value = self._round_to_decimal_place()
+    formatted = format(rounded_value, ".{}e".format(prec))
     split_s = formatted.split('e')
     exponent = int(split_s[1])
     if exponent < 0:
@@ -43,66 +54,106 @@ class sigfig:
     return formatted
   
   def as_num(self):
+    # return the value in scientific notation if it's out of the range 1e-6 to 1e6
+    if abs(self.value) > 1e6 or abs(self.value) < 1e-6:
+        return self.scientific_notation()
+    
     #return the value as a floating point number with the correct sig figs, if possible
     if self.last_decimal_place >= 0:
       #if it's not a decimal, we need to handle the weird cases like 10. or 100 with 2 sig figs 
       if self._last_sf_is_zero():
         if self.last_decimal_place == 0:
-          formatted = str(int(self._round_to_decimal_place()))+'.'
+          formatted = str(int(self._round_to_decimal_place())) + '.'
         else:
           formatted = self.scientific_notation()
       else:
         formatted = str(int(self._round_to_decimal_place()))
     #if it's a decimal do the easy formatting
     else:
-      formatted = "{:.{}f}".format(self.value, -1*self.last_decimal_place)
+      formatted = "{:.{}f}".format(self._round_to_decimal_place(), -1 * self.last_decimal_place)
     return formatted
-  
+
   def answers(self, sf_tolerance=0):
     def _generate_answers(sf_value):
       sf_instance = sigfig(self.value_str, sig_figs=sf_value)
       answers = [
         sf_instance.as_num(),
         sf_instance.scientific_notation(),
-        sf_instance.scientific_notation().replace('e', ' e'),
-        sf_instance.scientific_notation().replace('e', 'e '),
-        sf_instance.scientific_notation().replace('e', ' e '),
+        # sf_instance.scientific_notation().replace('e', ' e'),
+        # sf_instance.scientific_notation().replace('e', 'e '),
+        # sf_instance.scientific_notation().replace('e', ' e '),
         sf_instance.scientific_notation().replace('e', 'E'),
-        sf_instance.scientific_notation().replace('e', ' E'),
-        sf_instance.scientific_notation().replace('e', 'E '),
-        sf_instance.scientific_notation().replace('e', ' E ')
+        # sf_instance.scientific_notation().replace('e', ' E'),
+        # sf_instance.scientific_notation().replace('e', 'E '),
+        # sf_instance.scientific_notation().replace('e', ' E ')
       ]
       if sf_instance.last_decimal_place == 0:
         answers += [sf_instance.as_num() + '.']
+      
+      # If the number is less than 1 and not 0, add the version without leading zero
       if abs(sf_instance.value) < 1 and sf_instance.value != 0:
-        no_lead_zero_str = '.'+sf_instance.as_num().split('.')[1]
-        answers+= [no_lead_zero_str]
+        as_num_str = sf_instance.as_num()
+        if '.' in as_num_str:
+          no_lead_zero_str = '.'+as_num_str.split('.')[1]
+          answers += [no_lead_zero_str]
   
-      # Add leading/trailing spaces for all answers
-      answers_with_leading_space = [' ' + ans for ans in answers]
-      answers_with_trailing_space = [ans + ' ' for ans in answers]
+      # # Add leading/trailing spaces for all answers
+      # answers_with_leading_space = [' ' + ans for ans in answers]
+      # answers_with_trailing_space = [ans + ' ' for ans in answers]
 
       # Combine both lists and join them with semicolons
-      all_answers = answers + answers_with_leading_space + answers_with_trailing_space
+      all_answers = answers# + answers_with_leading_space + answers_with_trailing_space
       return all_answers
 
     # Call _generate_answers for the current number of significant figures and for the numbers within the range specified by sf_tolerance
     final_answers = []
-    for sf_adjust in range(-sf_tolerance, sf_tolerance + 1):
+    
+    # Process native sigfigs first
+    final_answers.extend(_generate_answers(self.sig_figs))
+
+    # Process the remaining values
+    for sf_adjust in list(range(-sf_tolerance, 0)) + list(range(1, sf_tolerance + 1)):
       adjusted_sf = self.sig_figs + sf_adjust
       if adjusted_sf >= 1:
-        final_answers.extend(_generate_answers(adjusted_sf))
+          final_answers.extend(_generate_answers(adjusted_sf))
 
     # Combine the generated answers and return the final answer string
     answer_string = ';'.join(final_answers)
     return answer_string
 
+  def convert_to(self, output_unit_str):
+    factor = self.units.convert_to(output_unit_str) 
+    if factor is None:
+      warnings.simplefilter("default")
+      warnings.warn("Unit conversion of sigfig object failed. Conversion did not occur.")
+      return self
+    else:
+      output_sf = self * factor
+      return output_sf
+
+  @staticmethod
+  def random_value(value_range=(1e-3, 1000), sf_range=(1, 5), value_log=False):
+    min_value, max_value = value_range
+    min_sig_figs, max_sig_figs = sf_range
+    
+    if value_log:
+      log_min_value = math.log(min_value) if min_value > 0 else 0
+      log_max_value = math.log(max_value)
+      log_value = random.uniform(log_min_value, log_max_value)
+      value = math.exp(log_value)
+    else:
+      value = random.uniform(min_value, max_value)
+  
+    sig_figs = random.randint(min_sig_figs, max_sig_figs)
+    
+    value_str = "{:.{}e}".format(value, sig_figs - 1)
+    return sigfig(value_str, sig_figs=sig_figs)
 
   def _round_to_decimal_place(self):
     factor = 10 ** self.last_decimal_place
-    num_to_round = self.value/factor
-    rounded_number = Decimal(num_to_round).quantize(Decimal('1'), rounding=ROUND_HALF_UP)
-    return rounded_number * factor
+    num_to_round = Decimal(self.value/factor)
+    rounded_number = num_to_round.quantize(Decimal('1'), rounding=ROUND_HALF_UP)
+    return rounded_number * Decimal(factor)
   
   def _find_last_decimal_place(self, value_str):
     number_str = value_str
@@ -154,6 +205,7 @@ class sigfig:
   def _check_rounded_exponent_increase(self, dplaces):
     # Convert the original number to a string in scientific notation
     num = self.value
+    dplaces = 0 if dplaces < 0 else dplaces
     rounded_sci_notation = format(num, f".{dplaces}e")
     rounded_exponent = int(rounded_sci_notation.split("e")[-1])
     # Round the number and convert it to a string in scientific notation
@@ -199,7 +251,17 @@ class sigfig:
     else:
       result = self.value - other
       return sigfig(str(result),last_decimal_place=self.last_decimal_place)
+  
+  def __radd__(self, other):
+    # Assuming other is a float
+    result = other + self.value
+    return sigfig(str(result),last_decimal_place=self.last_decimal_place)
 
+  def __rsub__(self, other):
+    # Assuming other is a float
+    result = other - self.value
+    return sigfig(str(result),last_decimal_place=self.last_decimal_place)
+  
   def __mul__(self, other):
     if isinstance(other, sigfig):
       result = self.value * other.value
@@ -207,6 +269,11 @@ class sigfig:
     else:
       result = self.value * other
       return sigfig(str(result),sig_figs=self.sig_figs)
+    
+  def __rmul__(self, other):
+    # Assuming other is a basic numeric type
+    result = other * self.value
+    return sigfig(str(result), sig_figs=self.sig_figs)
 
   def __truediv__(self, other):
     if isinstance(other, sigfig):
@@ -215,6 +282,11 @@ class sigfig:
     else:
       result = self.value / other
       return sigfig(str(result),sig_figs=self.sig_figs)
+    
+  def __rtruediv__(self, other):
+    # Assuming other is a basic numeric type
+    result = other / self.value
+    return sigfig(str(result), sig_figs=self.sig_figs)
     
   def __pow__(self, other):
     if isinstance(other, sigfig):
