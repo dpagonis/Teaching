@@ -1,0 +1,6 @@
+name,formula_tex,conc_init
+sulfuric acid,H_2SO_4,18.4
+nitric acid,HNO_3,15.8
+acetic acid,HC_2H_3O_2,17.4
+hydrochloric acid,HCl,11.65
+perchloric acid,HClO_4,11.6

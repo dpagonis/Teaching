@@ -1,0 +1,30 @@
+name,formula,cation,anion,pKsp
+copper (I) chloride,CuCl,Cu+,Cl-,6.73
+silver chloride,AgCl,Ag+,Cl-,9.74
+thallium (I) chloride,TlCl,Tl+,Cl-,3.74
+lead (II) chloride,PbCl2,Pb++,Cl-,4.78
+copper (I) bromide,CuBr,Cu+,Br-,8.3
+silver bromide,AgBr,Ag+,Br-,12.30
+thallium (I) bromide,TlBr,Tl+,Br-,5.44
+lead (II) bromide,PbBr2,Pb++,Br-,5.68
+copper iodide,CuI,Cu+,I-,12.0
+silver iodide,AgI,Ag+,I-,16.08
+thallium (I) iodide,TlI,Tl+,I-,7.23
+lead (II) iodide,PbI2,Pb++,I-,8.10
+magnesium carbonate,MgCO3,Mg++,CO3--,7.46
+,FeCO3,Fe++,CO3--,10.68
+,PbCO3,Pb++,CO3--,13.13
+,Ag2CO3,Ag+,CO3--,11.09
+,LiF,Li+,F-,2.77
+,MgF2,Mg++,F-,8.13
+,PbF2,Pb++,F-,7.44
+,La(OH)3,La+++,OH-,20.7
+,Mn(OH)2,Mn++,OH-,12.8
+,Ca(OH)2,Ca++,OH-,5.19
+,Fe(OH)2,Fe++,OH-,15.1
+,Co(OH)2,Co++,OH-,14.9
+,Ni(OH)2,Ni++,OH-,15.2
+,Fe(OH)3,Fe+++,OH-,38.8
+,CaSO4,Ca++,SO4--,4.62
+,BaSO4,Ba++,SO4--,9.96
+,Ag2SO4,Ag+,SO4--,4.83

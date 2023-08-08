@@ -1,0 +1,1001 @@
+question,correct_answers,question_type
+"Do these measurements agree within experimental error?<br>2.34 ± 0.10 bar, n=3<br>5 ± 2 bar, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>2.2 ± 0.4 Pa, n=5<br>1.7 ± 0.7 Pa, n=5<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Given the following measurements calculate t:<br>0.024 ± 0.006 cal, n=4<br>0.023 ± 0.010 cal, n=6,<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.17;1.7e-1;1.7E-1;.17,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0019 ± 0.0007 ns, n=4<br>0.0015 ± 0.0005 ns, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Calculate the t statistic for the following measurements:<br>6 ± 2 g, n=6<br>4.04 ± 0.05 g, n=3<br>Use 95% confidence level",3;3e0;3E0;3.;2.9;2.9e0;2.9E0,short_answer
+"Do these measurements agree within experimental error?<br>31 ± 13 J, n=3<br>23 ± 8 J, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.28 ± 0.14 A, n=4<br>0.45 ± 0.09 A, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Do these measurements agree within experimental error?<br>13 ± 5 J, n=4<br>20. ± 4 J, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>6 ± 2 cal, n=4<br>9 ± 2 cal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0087 ± 0.0008 W, n=3<br>0.009 ± 0.002 W, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>330 ± 90 kcal, n=6<br>600 ± 200 kcal, n=3,<br>Use 95% confidence level",3.0;3.0e0;3.0E0;3;3e0;3E0;3.;2.96;2.96e0;2.96E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.06 ± 0.03 kJ, n=5<br>0.041 ± 0.006 kJ, n=6<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0178 ± 0.0005 mol, n=4<br>0.034 ± 0.002 mol, n=4<br>Use 95% confidence level",20;2e1;2E1;21;2.1e1;2.1E1;21.,short_answer
+"Are the following measurements significantly different?<br>0.0021 ± 0.0007 yr, n=5<br>0.0020 ± 0.0008 yr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.006 ± 0.003 kcal, n=5<br>0.0049 ± 0.0009 kcal, n=3<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Do these measurements agree within experimental error?<br>80 ± 20 mL, n=4<br>133.7 ± 0.4 mL, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.00262 ± 0.00006 kPa, n=4<br>0.0022 ± 0.0004 kPa, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.183 ± 0.004 W, n=6<br>0.16 ± 0.05 W, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.008 ± 0.002 V, n=3<br>0.0046 ± 0.0002 V, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>620 ± 120 mmHg, n=6<br>330 ± 90 mmHg, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.07 ± 0.03 M, n=3<br>0.12 ± 0.02 M, n=5<br>Use 95% confidence level",3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+"Are the following measurements significantly different?<br>22 ± 2 g, n=4<br>23 ± 11 g, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.48 ± 0.02 s, n=4<br>0.9 ± 0.2 s, n=4<br>Use 95% confidence level",4;4e0;4E0;4.;4.3;4.3e0;4.3E0,short_answer
+"Are the following measurements significantly different?<br>2.0e2 ± 50 kcal, n=6<br>290 ± 60 kcal, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>82.0 ± 0.5 L, n=6<br>80 ± 30 L, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Given the following measurements calculate t:<br>0.009 ± 0.003 kg, n=6<br>0.013 ± 0.002 kg, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Do these measurements agree within experimental error?<br>0.80 ± 0.13 kPa, n=5<br>0.40 ± 0.11 kPa, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>33 ± 7 kg, n=6<br>45.6 ± 1.1 kg, n=4<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Are the following measurements significantly different?<br>70 ± 20 mol, n=6<br>105.6 ± 0.4 mol, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.13 ± 0.05 atm, n=3<br>0.19 ± 0.04 atm, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>40 ± 20 Torr, n=6<br>30 ± 20 Torr, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Do these measurements agree within experimental error?<br>84 ± 2 kV, n=3<br>60 ± 20 kV, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>600 ± 200 L, n=6<br>589 ± 3 L, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.9 ± 0.2 J, n=6<br>1.41 ± 0.07 J, n=5<br>Use 95% confidence level",6;6e0;6E0;6.;5.9;5.9e0;5.9E0,short_answer
+"Given the following measurements calculate t:<br>4.0 ± 0.7 mol, n=4<br>2.5 ± 0.7 mol, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;3.3;3.3e0;3.3E0,short_answer
+"Given the following measurements calculate t:<br>430 ± 110 atm, n=3<br>700 ± 300 atm, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Calculate the t statistic for the following measurements:<br>29 ± 9 g, n=4<br>21.0 ± 0.8 g, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Given the following measurements calculate t:<br>42 ± 4 K, n=6<br>60 ± 20 K, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Given the following measurements calculate t:<br>57 ± 14 kV, n=6<br>110 ± 30 kV, n=6,<br>Use 95% confidence level",4;4e0;4E0;4.;3.5;3.5e0;3.5E0,short_answer
+"Calculate the t statistic for the following measurements:<br>170. ± 5 mL, n=3<br>2.0e2 ± 40 mL, n=3<br>Use 95% confidence level",1;1e0;1E0;1.;1.5;1.5e0;1.5E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>3 ± 2 K, n=6<br>5.1 ± 1.1 K, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.024 ± 0.003 ns, n=5<br>0.046 ± 0.009 ns, n=5<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Are the following measurements significantly different?<br>0.10 ± 0.03 kV, n=6<br>0.13 ± 0.02 kV, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>13.6 ± 0.6 mA, n=5<br>22.5 ± 1.0 mA, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.70 ± 0.14 bar, n=3<br>0.7 ± 0.3 bar, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>120 ± 40 V, n=3<br>216 ± 6 V, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.1 ± 0.3 yr, n=6<br>1.30 ± 0.04 yr, n=4<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.29 ± 0.08 Torr, n=6<br>0.54 ± 0.03 Torr, n=4<br>Use 95% confidence level",6;6e0;6E0;6.;5.9;5.9e0;5.9E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.13 ± 0.03 Torr, n=6<br>0.17 ± 0.06 Torr, n=6<br>Use 95% confidence level",2.228;2.228e0;2.228E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.117 ± 0.013 mmHg, n=3<br>0.061 ± 0.014 mmHg, n=5<br>Use 95% confidence level",5.56;5.56e0;5.56E0;5.6;5.6e0;5.6E0;5.563;5.563e0;5.563E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>44 ± 12 h, n=6<br>31 ± 8 h, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>700 ± 200 mbar, n=5<br>1.075e3 ± 5e0 mbar, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Do these measurements agree within experimental error?<br>0.11 ± 0.02 mA, n=6<br>0.12 ± 0.04 mA, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>10. ± 2 J, n=3<br>19 ± 6 J, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.3;2.3e0;2.3E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>3.0 ± 0.2 kcal, n=5<br>4.1 ± 0.7 kcal, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Given the following measurements calculate t:<br>2.5 ± 0.7 W, n=4<br>2.9 ± 0.3 W, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Given the following measurements calculate t:<br>290 ± 60 m, n=4<br>480 ± 90 m, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;3.4;3.4e0;3.4E0,short_answer
+"Are the following measurements significantly different?<br>0.010 ± 0.003 mbar, n=4<br>0.0114 ± 0.0014 mbar, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.0e3 ± 200 J, n=6<br>720 ± 20 J, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Are the following measurements significantly different?<br>4 ± 2 mmHg, n=6<br>6.3 ± 1.3 mmHg, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>7 ± 2 kg, n=3<br>6 ± 2 kg, n=5<br>Use 95% confidence level",0.5;5e-1;5E-1;.5;0.51;5.1e-1;5.1E-1;.51,short_answer
+"Calculate the t statistic for the following measurements:<br>0.05 ± 0.02 J, n=3<br>0.07 ± 0.03 J, n=3<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.87;8.7e-1;8.7E-1;.87,short_answer
+"Do these measurements agree within experimental error?<br>0.05 ± 0.02 ns, n=4<br>0.058 ± 0.006 ns, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.007 ± 0.003 mM, n=3<br>0.008 ± 0.003 mM, n=3<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.31;3.1e-1;3.1E-1;.31,short_answer
+"Given the following measurements calculate t:<br>6 ± 2 s, n=3<br>7 ± 3 s, n=4,<br>Use 95% confidence level",0.6;6e-1;6E-1;.6;0.61;6.1e-1;6.1E-1;.61,short_answer
+"Calculate the t statistic for the following measurements:<br>0.032 ± 0.011 mA, n=3<br>0.017 ± 0.008 mA, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;2.3;2.3e0;2.3E0,short_answer
+"Given the following measurements calculate t:<br>1.5 ± 0.7 A, n=4<br>2.0 ± 0.8 A, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Given the following measurements calculate t:<br>270 ± 110 Hz, n=3<br>410 ± 50 Hz, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;2.7;2.7e0;2.7E0,short_answer
+"Given the following measurements calculate t:<br>42 ± 2 ms, n=4<br>27 ± 10. ms, n=4,<br>Use 95% confidence level",3.0;3.0e0;3.0E0;3;3e0;3E0;3.;3.02;3.02e0;3.02E0,short_answer
+"Given the following measurements calculate t:<br>27 ± 11 g, n=5<br>23 ± 3 g, n=4,<br>Use 95% confidence level",0.63;6.3e-1;6.3E-1;.63;0.6;6e-1;6E-1;.6;0.625;6.25e-1;6.25E-1;.625,short_answer
+"Do these measurements agree within experimental error?<br>0.007 ± 0.002 cal, n=6<br>0.0095 ± 0.0011 cal, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>5 ± 2 ns, n=5<br>3.24 ± 0.08 ns, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0046 ± 0.0003 ms, n=5<br>0.007 ± 0.003 ms, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.1;2.1e0;2.1E0,short_answer
+"Given the following measurements calculate t:<br>0.16 ± 0.06 m, n=6<br>0.17 ± 0.05 m, n=3,<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.39;3.9e-1;3.9E-1;.39,short_answer
+"Given the following measurements calculate t:<br>28 ± 2 mM, n=5<br>32 ± 2 mM, n=4,<br>Use 95% confidence level",3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+"Given the following measurements calculate t:<br>230 ± 90 K, n=3<br>290 ± 30 K, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Are the following measurements significantly different?<br>8 ± 3 ms, n=6<br>14 ± 6 ms, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>300 ± 200 J, n=3<br>500 ± 200 J, n=3<br>Use 95% confidence level",1.5;1.5e0;1.5E0;1;1e0;1E0;1.;1.47;1.47e0;1.47E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0036 ± 0.0003 Hz, n=3<br>0.0019 ± 0.0003 Hz, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>1.4 ± 0.4 kJ, n=3<br>2.4 ± 1.2 kJ, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>1.7 ± 0.5 kV, n=3<br>1.24 ± 0.14 kV, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.012 ± 0.004 mM, n=4<br>0.018 ± 0.006 mM, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>14 ± 6 V, n=3<br>11 ± 2 V, n=4<br>Use 95% confidence level",1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0172 ± 0.0007 J, n=3<br>0.0087 ± 0.0013 J, n=3<br>Use 95% confidence level",9.9;9.9e0;9.9E0;10.;1.0e1;1.0E1;10..;9.90;9.90e0;9.90E0,short_answer
+"Do these measurements agree within experimental error?<br>14 ± 3 L, n=3<br>9 ± 3 L, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.0033 ± 0.0004 h, n=6<br>0.0054 ± 0.0011 h, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.007 ± 0.003 g, n=3<br>0.013 ± 0.006 g, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;1.6;1.6e0;1.6E0,short_answer
+"Given the following measurements calculate t:<br>60 ± 20 mM, n=6<br>1.0e2 ± 40 mM, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.10 ± 0.02 kPa, n=5<br>0.070 ± 0.007 kPa, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;3.1;3.1e0;3.1E0,short_answer
+"Do these measurements agree within experimental error?<br>0.004 ± 0.002 N, n=6<br>0.007 ± 0.003 N, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>240 ± 110 km, n=5<br>2.0e2 ± 50 km, n=4<br>Use 95% confidence level",0.68;6.8e-1;6.8E-1;.68;0.7;7e-1;7E-1;.7;0.677;6.77e-1;6.77E-1;.677,short_answer
+"Do these measurements agree within experimental error?<br>600 ± 200 cal, n=5<br>600 ± 200 cal, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>809 ± 8 K, n=4<br>750 ± 50 K, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Calculate the t statistic for the following measurements:<br>8.1 ± 1.2 mol, n=5<br>10. ± 5 mol, n=3<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.79;7.9e-1;7.9E-1;.79,short_answer
+"Given the following measurements calculate t:<br>1.1 ± 0.2 kcal, n=6<br>0.8 ± 0.3 kcal, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.15 ± 0.05 kPa, n=5<br>0.129 ± 0.006 kPa, n=6<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.79;7.9e-1;7.9E-1;.79,short_answer
+"Given the following measurements calculate t:<br>0.0031 ± 0.0004 J, n=4<br>0.0052 ± 0.0014 J, n=3,<br>Use 95% confidence level",2.5;2.5e0;2.5E0;3;3e0;3E0;3.;2.55;2.55e0;2.55E0,short_answer
+"Do these measurements agree within experimental error?<br>2.1 ± 0.3 kcal, n=6<br>2.3 ± 0.3 kcal, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.252 ± 0.010 s, n=4<br>0.14 ± 0.03 s, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>1.77 ± 0.06 kcal, n=5<br>1.53 ± 0.14 kcal, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0071 ± 0.0013 atm, n=6<br>0.012 ± 0.003 atm, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Given the following measurements calculate t:<br>0.04 ± 0.02 V, n=5<br>0.09 ± 0.02 V, n=5,<br>Use 95% confidence level",4;4e0;4E0;4.;3.5;3.5e0;3.5E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>34 ± 8 km, n=6<br>60 ± 30 km, n=6<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Given the following measurements calculate t:<br>170 ± 60 yr, n=4<br>146 ± 11 yr, n=5,<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.79;7.9e-1;7.9E-1;.79,short_answer
+"Are the following measurements significantly different?<br>30 ± 20 K, n=5<br>70 ± 20 K, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>190 ± 20 kg, n=4<br>370 ± 70 kg, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.18 ± 0.09 mA, n=6<br>0.19 ± 0.05 mA, n=6<br>Use 95% confidence level",2.228;2.228e0;2.228E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0014 ± 0.0003 W, n=3<br>0.0021 ± 0.0008 W, n=6<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>6 ± 2 kV, n=5<br>6 ± 2 kV, n=6<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Are the following measurements significantly different?<br>0.0033 ± 0.0013 s, n=4<br>0.0035 ± 0.0010 s, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.007 ± 0.003 M, n=5<br>0.005 ± 0.002 M, n=5<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0045 ± 0.0003 ms, n=5<br>0.007 ± 0.002 ms, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.053 ± 0.012 ns, n=6<br>0.05 ± 0.02 ns, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Given the following measurements calculate t:<br>480 ± 60 J, n=5<br>550 ± 30 J, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;2.3;2.3e0;2.3E0,short_answer
+"Do these measurements agree within experimental error?<br>11 ± 2 ms, n=5<br>20. ± 3 ms, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.008 ± 0.002 mmHg, n=6<br>0.015 ± 0.004 mmHg, n=3,<br>Use 95% confidence level",4;4e0;4E0;4.;3.7;3.7e0;3.7E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>600 ± 200 cal, n=3<br>580 ± 50 cal, n=6<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0022 ± 0.0008 m, n=5<br>0.0017 ± 0.0007 m, n=6<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Given the following measurements calculate t:<br>0.0010 ± 0.0004 km, n=6<br>0.0016 ± 0.0005 km, n=3,<br>Use 95% confidence level",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Calculate the t statistic for the following measurements:<br>60. ± 3 mM, n=3<br>70 ± 30 mM, n=6<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.74;7.4e-1;7.4E-1;.74,short_answer
+"Do these measurements agree within experimental error?<br>0.007 ± 0.003 atm, n=5<br>0.009 ± 0.005 atm, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.024 ± 0.007 mA, n=3<br>0.026 ± 0.005 mA, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Are the following measurements significantly different?<br>8.3 ± 1.0 cal, n=4<br>12 ± 6 cal, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>180 ± 20 W, n=5<br>350 ± 20 W, n=6<br>Use 95% confidence level",10;1e1;1E1;14;1.4e1;1.4E1;14.,short_answer
+"Are the following measurements significantly different?<br>70 ± 30 yr, n=4<br>67 ± 11 yr, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.5 ± 0.2 kcal, n=5<br>0.3 ± 0.2 kcal, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>1.6 ± 0.3 W, n=6<br>2.8 ± 0.8 W, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;3.4;3.4e0;3.4E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.03 ± 0.06 kJ, n=6<br>2.6 ± 0.8 kJ, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Given the following measurements calculate t:<br>50 ± 20 nm, n=3<br>81 ± 14 nm, n=5,<br>Use 95% confidence level",2.9;2.9e0;2.9E0;3;3e0;3E0;3.;2.90;2.90e0;2.90E0,short_answer
+"Given the following measurements calculate t:<br>0.026 ± 0.005 cal, n=6<br>0.05 ± 0.02 cal, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;2.5;2.5e0;2.5E0,short_answer
+"Do these measurements agree within experimental error?<br>24.83 ± 0.04 atm, n=5<br>41 ± 9 atm, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.0049 ± 0.0007 V, n=3<br>0.0028 ± 0.0002 V, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>84 ± 12 K, n=4<br>50 ± 20 K, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>1.0 ± 0.2 g, n=3<br>1.2 ± 0.5 g, n=4<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.66;6.6e-1;6.6E-1;.66,short_answer
+"Do these measurements agree within experimental error?<br>0.012 ± 0.004 M, n=4<br>0.015 ± 0.004 M, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.0e2 ± 70 Pa, n=4<br>390 ± 80 Pa, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.012 ± 0.005 nm, n=3<br>0.0080 ± 0.0007 nm, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Are the following measurements significantly different?<br>15 ± 2 kcal, n=6<br>9.0 ± 1.4 kcal, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.324 ± 0.013 kJ, n=5<br>0.6 ± 0.3 kJ, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Do these measurements agree within experimental error?<br>0.004 ± 0.002 kPa, n=4<br>0.0037 ± 0.0007 kPa, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>900 ± 300 cal, n=4<br>1.3e3 ± 5e2 cal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0099 ± 0.0004 h, n=3<br>0.018 ± 0.009 h, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>60 ± 20 bar, n=5<br>70 ± 30 bar, n=4<br>Use 95% confidence level",0.5;5e-1;5E-1;.5;0.47;4.7e-1;4.7E-1;.47,short_answer
+"Are the following measurements significantly different?<br>400 ± 200 V, n=4<br>500 ± 200 V, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>50 ± 20 mL, n=5<br>70 ± 30 mL, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>66 ± 2 J, n=5<br>35 ± 12 J, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.023 ± 0.010 mM, n=4<br>0.032 ± 0.003 mM, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>3 ± 2 N, n=4<br>2.1 ± 0.7 N, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.050 ± 0.003 yr, n=3<br>0.06 ± 0.03 yr, n=4<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.89;8.9e-1;8.9E-1;.89,short_answer
+"Given the following measurements calculate t:<br>170 ± 80 Hz, n=6<br>170 ± 30 Hz, n=5,<br>Use 95% confidence level",0.10;1.0e-1;1.0E-1;.10;0.099;9.9e-2;9.9E-2;.099,short_answer
+"Are the following measurements significantly different?<br>170 ± 50 bar, n=3<br>250 ± 20 bar, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>330 ± 110 Torr, n=6<br>3.0e2 ± 60 Torr, n=5,<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.67;6.7e-1;6.7E-1;.67,short_answer
+"Given the following measurements calculate t:<br>0.007 ± 0.002 m, n=3<br>0.0049 ± 0.0004 m, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Are the following measurements significantly different?<br>0.24 ± 0.04 V, n=3<br>0.36 ± 0.12 V, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>1.8 ± 0.4 kV, n=6<br>3.4 ± 0.5 kV, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>800 ± 200 km, n=6<br>1.15e3 ± 1.3e2 km, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.4 ± 0.2 m, n=3<br>0.47 ± 0.10 m, n=5<br>Use 95% confidence level",0.87;8.7e-1;8.7E-1;.87;0.9;9e-1;9E-1;.9;0.875;8.75e-1;8.75E-1;.875,short_answer
+"Calculate the t statistic for the following measurements:<br>900 ± 400 kPa, n=6<br>1.4e3 ± 6e2 kPa, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Do these measurements agree within experimental error?<br>6.9 ± 0.8 cal, n=5<br>8.4 ± 1.3 cal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.39 ± 0.06 atm, n=4<br>0.26 ± 0.12 atm, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;2.1;2.1e0;2.1E0,short_answer
+"Do these measurements agree within experimental error?<br>1.0e2 ± 20 mA, n=6<br>133 ± 13 mA, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>310 ± 140 cal, n=5<br>500 ± 200 cal, n=6<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Calculate the t statistic for the following measurements:<br>500 ± 200 mmHg, n=3<br>5.0e2 ± 90 mmHg, n=4<br>Use 95% confidence level",0.19;1.9e-1;1.9E-1;.19;0.2;2e-1;2E-1;.2;0.191;1.91e-1;1.91E-1;.191,short_answer
+"Are the following measurements significantly different?<br>0.0017 ± 0.0003 Torr, n=3<br>0.00187 ± 0.00013 Torr, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.26 ± 0.12 km, n=6<br>0.4 ± 0.2 km, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0037 ± 0.0010 kcal, n=5<br>0.004 ± 0.002 kcal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.029 ± 0.012 Hz, n=6<br>0.037 ± 0.003 Hz, n=5<br>Use 95% confidence level",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Do these measurements agree within experimental error?<br>130 ± 50 Hz, n=6<br>101 ± 8 Hz, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>120 ± 50 kJ, n=3<br>120 ± 50 kJ, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>12 ± 5 g, n=5<br>20. ± 8 g, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Are the following measurements significantly different?<br>0.1305 ± 0.0004 kV, n=4<br>0.11 ± 0.02 kV, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>22 ± 5 Torr, n=6<br>35 ± 6 Torr, n=5<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Given the following measurements calculate t:<br>2.9 ± 0.6 kcal, n=6<br>5.7 ± 0.4 kcal, n=6,<br>Use 95% confidence level",9;9e0;9E0;9.;9.5;9.5e0;9.5E0,short_answer
+"Are the following measurements significantly different?<br>0.32 ± 0.07 mM, n=4<br>0.48 ± 0.12 mM, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.1871 ± 0.0003 kV, n=5<br>0.28 ± 0.05 kV, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Do these measurements agree within experimental error?<br>17.6 ± 0.4 atm, n=3<br>20. ± 6 atm, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.39 ± 0.02 K, n=4<br>0.73 ± 0.02 K, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>270 ± 110 K, n=6<br>370 ± 140 K, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0012 ± 0.0005 mA, n=4<br>8.8e-4 ± 1.1e-4 mA, n=5<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Do these measurements agree within experimental error?<br>0.022 ± 0.002 Pa, n=5<br>0.017 ± 0.007 Pa, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>350 ± 70 W, n=5<br>340 ± 120 W, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.004 ± 0.002 km, n=4<br>0.0031 ± 0.0006 km, n=5,<br>Use 95% confidence level",1.0;1.0e0;1.0E0;.0;0.98;9.8e-1;9.8E-1;.98,short_answer
+"Are the following measurements significantly different?<br>0.21 ± 0.02 N, n=5<br>0.241 ± 0.006 N, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>35 ± 9 N, n=6<br>31 ± 4 N, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>19 ± 9 K, n=6<br>26 ± 3 K, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Are the following measurements significantly different?<br>0.32 ± 0.11 bar, n=5<br>0.40 ± 0.10 bar, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.24 ± 0.07 Pa, n=6<br>0.29 ± 0.09 Pa, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0033 ± 0.0010 kcal, n=4<br>0.0063 ± 0.0004 kcal, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>400 ± 200 h, n=3<br>700 ± 300 h, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>350 ± 30 km, n=5<br>300 ± 200 km, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Are the following measurements significantly different?<br>0.14 ± 0.05 yr, n=3<br>0.22 ± 0.02 yr, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>1.3 ± 0.5 V, n=3<br>2.6 ± 1.2 V, n=3,<br>Use 95% confidence level",1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.73;1.73e0;1.73E0,short_answer
+"Calculate the t statistic for the following measurements:<br>1.4 ± 0.4 ns, n=4<br>1.49 ± 0.07 ns, n=6<br>Use 95% confidence level",0.6;6e-1;6E-1;.6;0.64;6.4e-1;6.4E-1;.64,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.012 ± 0.002 N, n=4<br>0.019 ± 0.003 N, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>160 ± 80 M, n=4<br>135.3 ± 0.9 M, n=5<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.68;6.8e-1;6.8E-1;.68,short_answer
+"Do these measurements agree within experimental error?<br>0.72 ± 0.05 mA, n=4<br>1.4 ± 0.2 mA, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.0654 ± 0.0011 g, n=4<br>0.08 ± 0.02 g, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>49.1 ± 0.7 mbar, n=4<br>70 ± 20 mbar, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.00220 ± 0.00015 m, n=5<br>0.0024 ± 0.0011 m, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Do these measurements agree within experimental error?<br>1.9 ± 0.9 g, n=6<br>2.0 ± 0.3 g, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.0021 ± 0.0004 N, n=5<br>0.0025 ± 0.0009 N, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.79 ± 0.09 Torr, n=6<br>1.1 ± 0.2 Torr, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;3.2;3.2e0;3.2E0,short_answer
+"Given the following measurements calculate t:<br>130 ± 20 s, n=5<br>250 ± 60 s, n=3,<br>Use 95% confidence level",3;3e0;3E0;3.;3.4;3.4e0;3.4E0,short_answer
+"Do these measurements agree within experimental error?<br>0.00698 ± 0.00002 V, n=5<br>0.008 ± 0.003 V, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.010 ± 0.004 A, n=5<br>0.0079 ± 0.0009 A, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>700 ± 200 m, n=4<br>610 ± 40 m, n=4,<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.93;9.3e-1;9.3E-1;.93,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.07 ± 0.03 Pa, n=3<br>0.066 ± 0.014 Pa, n=4<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Given the following measurements calculate t:<br>0.11 ± 0.02 V, n=3<br>0.18 ± 0.04 V, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;2.8;2.8e0;2.8E0,short_answer
+"Given the following measurements calculate t:<br>500 ± 200 yr, n=3<br>670 ± 110 yr, n=6,<br>Use 95% confidence level",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.76;1.76e0;1.76E0,short_answer
+"Given the following measurements calculate t:<br>0.034 ± 0.003 mmHg, n=6<br>0.065 ± 0.011 mmHg, n=4,<br>Use 95% confidence level",5.6;5.6e0;5.6E0;6;6e0;6E0;6.;5.56;5.56e0;5.56E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.026 ± 0.009 A, n=4<br>0.04 ± 0.02 A, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.004 ± 0.002 Pa, n=3<br>0.005 ± 0.002 Pa, n=6<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.57 ± 0.11 m, n=3<br>1.13 ± 0.09 m, n=6<br>Use 95% confidence level",8;8e0;8E0;8.;8.2;8.2e0;8.2E0,short_answer
+"Do these measurements agree within experimental error?<br>0.016 ± 0.006 K, n=3<br>0.025 ± 0.010 K, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.06 ± 0.03 A, n=5<br>0.031 ± 0.002 A, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.1;2.1e0;2.1E0,short_answer
+"Do these measurements agree within experimental error?<br>310 ± 140 mbar, n=3<br>370 ± 50 mbar, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>12.2 ± 0.4 kV, n=4<br>15 ± 4 kV, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.9 ± 0.4 kcal, n=5<br>0.8 ± 0.3 kcal, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>15 ± 8 kJ, n=5<br>27 ± 13 kJ, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;1.6;1.6e0;1.6E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.00212 ± 0.00010 atm, n=4<br>0.0011 ± 0.0005 atm, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;4.4;4.4e0;4.4E0,short_answer
+"Are the following measurements significantly different?<br>0.005 ± 0.003 kV, n=6<br>0.006 ± 0.002 kV, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>39 ± 2 kg, n=3<br>65 ± 9 kg, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>28 ± 3 ms, n=5<br>19 ± 6 ms, n=5<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0052 ± 0.0014 mol, n=4<br>0.005 ± 0.002 mol, n=4<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0020 ± 0.0010 atm, n=5<br>0.0027 ± 0.0012 atm, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>3.0e2 ± 140 mol, n=5<br>160 ± 40 mol, n=4<br>Use 95% confidence level",2.603;2.603e0;2.603E0,short_answer
+"Do these measurements agree within experimental error?<br>2.2 ± 0.6 Torr, n=4<br>2.7 ± 1.1 Torr, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0036 ± 0.0008 m, n=4<br>0.0054 ± 0.0005 m, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>4 ± 2 L, n=6<br>4.9 ± 0.4 L, n=3<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Given the following measurements calculate t:<br>0.07 ± 0.02 kcal, n=3<br>0.11 ± 0.05 kcal, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Do these measurements agree within experimental error?<br>24 ± 9 g, n=4<br>33 ± 3 g, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.008 ± 0.003 J, n=3<br>0.0046 ± 0.0008 J, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.036 ± 0.002 mmHg, n=5<br>0.034 ± 0.004 mmHg, n=6<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.77;7.7e-1;7.7E-1;.77,short_answer
+"Do these measurements agree within experimental error?<br>1.0 ± 0.4 L, n=6<br>0.8 ± 0.3 L, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>12 ± 3 mbar, n=6<br>7 ± 3 mbar, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>11 ± 2 A, n=3<br>9.2 ± 0.2 A, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Are the following measurements significantly different?<br>88 ± 4 yr, n=6<br>110 ± 20 yr, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>40 ± 20 mol, n=3<br>40 ± 20 mol, n=6,<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.19;1.9e-1;1.9E-1;.19,short_answer
+"Calculate the t statistic for the following measurements:<br>70 ± 20 mL, n=4<br>1.0e2 ± 40 mL, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Do these measurements agree within experimental error?<br>4.0e2 ± 30 L, n=6<br>230 ± 60 L, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.008 ± 0.002 Torr, n=5<br>0.010 ± 0.003 Torr, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>170 ± 50 mmHg, n=5<br>310 ± 20 mmHg, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.049 ± 0.011 mA, n=4<br>0.028 ± 0.012 mA, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>10.6 ± 0.6 km, n=5<br>16.0 ± 1.1 km, n=6,<br>Use 95% confidence level",10.;1.0e1;1.0E1;10..;9.7;9.7e0;9.7E0,short_answer
+"Do these measurements agree within experimental error?<br>170 ± 40 L, n=4<br>138 ± 2 L, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.002552 ± 0.000014 mA, n=6<br>0.005 ± 0.002 mA, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.85 ± 0.13 kV, n=3<br>1.1 ± 0.5 kV, n=5<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.75;7.5e-1;7.5E-1;.75,short_answer
+"Are the following measurements significantly different?<br>6 ± 2 M, n=5<br>9 ± 3 M, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0056 ± 0.0007 kPa, n=3<br>0.005 ± 0.002 kPa, n=6<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>150 ± 50 mM, n=6<br>2.0e2 ± 1.0e2 mM, n=3<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>7 ± 2 kg, n=3<br>10. ± 2 kg, n=5<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Do these measurements agree within experimental error?<br>380 ± 1.0e2 K, n=4<br>340 ± 80 K, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.10 ± 0.04 L, n=6<br>0.14 ± 0.03 L, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>51 ± 5 mol, n=4<br>29 ± 3 mol, n=6<br>Use 95% confidence level",8.8;8.8e0;8.8E0;9;9e0;9E0;9.;8.84;8.84e0;8.84E0,short_answer
+"Do these measurements agree within experimental error?<br>0.030 ± 0.004 kcal, n=4<br>0.020 ± 0.009 kcal, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>7.5 ± 0.6 ns, n=4<br>13 ± 5 ns, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0044 ± 0.0003 atm, n=3<br>0.007 ± 0.003 atm, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.23 ± 0.10 m, n=5<br>0.22 ± 0.04 m, n=4<br>Use 95% confidence level",0.12;1.2e-1;1.2E-1;.12;0.1;1e-1;1E-1;.1;0.121;1.21e-1;1.21E-1;.121,short_answer
+"Are the following measurements significantly different?<br>0.009 ± 0.003 km, n=3<br>0.0066 ± 0.0008 km, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.0132 ± 0.0006 Pa, n=6<br>0.0124 ± 0.0006 Pa, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Given the following measurements calculate t:<br>0.0200 ± 0.0014 M, n=5<br>0.031 ± 0.013 M, n=3,<br>Use 95% confidence level",1.5;1.5e0;1.5E0;1;1e0;1E0;1.;1.49;1.49e0;1.49E0,short_answer
+"Given the following measurements calculate t:<br>140 ± 30 yr, n=3<br>140 ± 40 yr, n=6,<br>Use 95% confidence level",0.1;1e-1;1E-1;.1;0.12;1.2e-1;1.2E-1;.12,short_answer
+"Do these measurements agree within experimental error?<br>39 ± 7 Torr, n=5<br>40. ± 6 Torr, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.04 ± 0.02 mA, n=5<br>0.057 ± 0.011 mA, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Given the following measurements calculate t:<br>63 ± 7 cal, n=3<br>62 ± 7 cal, n=4,<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.19;1.9e-1;1.9E-1;.19,short_answer
+"Calculate the t statistic for the following measurements:<br>25 ± 2 kPa, n=3<br>25.2 ± 0.3 kPa, n=6<br>Use 95% confidence level",0.08;8e-2;8E-2;.08;0.076;7.6e-2;7.6E-2;.076,short_answer
+"Calculate the t statistic for the following measurements:<br>0.022 ± 0.002 kcal, n=3<br>0.026 ± 0.004 kcal, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;1.5;1.5e0;1.5E0,short_answer
+"Calculate the t statistic for the following measurements:<br>22 ± 7 m, n=4<br>21 ± 4 m, n=4<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.30;3.0e-1;3.0E-1;.30,short_answer
+"Given the following measurements calculate t:<br>0.012 ± 0.002 mbar, n=4<br>0.0151 ± 0.0009 mbar, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;2.9;2.9e0;2.9E0,short_answer
+"Are the following measurements significantly different?<br>60 ± 20 kg, n=4<br>43 ± 14 kg, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.21 ± 0.02 V, n=5<br>0.31 ± 0.05 V, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>170 ± 20 Hz, n=5<br>230 ± 20 Hz, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.5 ± 0.2 m, n=5<br>0.8 ± 0.2 m, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.32 ± 0.06 W, n=6<br>0.46 ± 0.13 W, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.3;2.3e0;2.3E0,short_answer
+"Do these measurements agree within experimental error?<br>5.0e2 ± 110 km, n=5<br>700 ± 200 km, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>30.9 ± 0.9 ms, n=5<br>36 ± 6 ms, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Given the following measurements calculate t:<br>0.013 ± 0.004 mM, n=3<br>0.025 ± 0.007 mM, n=4,<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Are the following measurements significantly different?<br>5 ± 2 kPa, n=5<br>8 ± 2 kPa, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.0035 ± 0.0006 mmHg, n=5<br>0.00416 ± 0.00002 mmHg, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Given the following measurements calculate t:<br>5.5 ± 1.1 nm, n=4<br>7.1 ± 1.3 nm, n=6,<br>Use 95% confidence level",1.96;1.96e0;1.96E0;2.0;2.0e0;2.0E0;1.965;1.965e0;1.965E0,short_answer
+"Do these measurements agree within experimental error?<br>223 ± 12 mM, n=3<br>230 ± 80 mM, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>5 ± 2 atm, n=4<br>4.0 ± 1.4 atm, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Do these measurements agree within experimental error?<br>0.8 ± 0.3 nm, n=3<br>0.62 ± 0.06 nm, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0037 ± 0.0003 kJ, n=5<br>0.0067 ± 0.0003 kJ, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>22 ± 10. V, n=5<br>17 ± 2 V, n=4,<br>Use 95% confidence level",1.1;1.1e0;1.1E0;1;1e0;1E0;1.;1.05;1.05e0;1.05E0,short_answer
+"Do these measurements agree within experimental error?<br>1.0e3 ± 400 bar, n=4<br>1.8e3 ± 5e2 bar, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>600 ± 200 M, n=3<br>700 ± 200 M, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.41 ± 0.10 kV, n=6<br>0.8 ± 0.3 kV, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0045 ± 0.0007 N, n=3<br>0.004 ± 0.002 N, n=3<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.24;2.4e-1;2.4E-1;.24,short_answer
+"Are the following measurements significantly different?<br>5 ± 2 W, n=3<br>9 ± 3 W, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>20. ± 6 nm, n=5<br>40 ± 20 nm, n=5<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Do these measurements agree within experimental error?<br>0.27 ± 0.13 cal, n=5<br>0.18 ± 0.03 cal, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>29 ± 10. A, n=4<br>24 ± 8 A, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.18 ± 0.02 km, n=6<br>0.11 ± 0.04 km, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Are the following measurements significantly different?<br>550 ± 1.0e2 ns, n=4<br>800 ± 300 ns, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.008 ± 0.003 g, n=3<br>0.014 ± 0.004 g, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.007 ± 0.002 J, n=5<br>0.010 ± 0.005 J, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.0045 ± 0.0008 mL, n=3<br>0.007 ± 0.002 mL, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0033 ± 0.0013 kV, n=3<br>0.004 ± 0.002 kV, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.004 ± 0.002 N, n=6<br>0.004 ± 0.002 N, n=5<br>Use 95% confidence level",0.08;8e-2;8E-2;.08;0.076;7.6e-2;7.6E-2;.076,short_answer
+"Given the following measurements calculate t:<br>1.4 ± 0.2 s, n=4<br>2.2 ± 0.6 s, n=3,<br>Use 95% confidence level",3;3e0;3E0;3.;2.7;2.7e0;2.7E0,short_answer
+"Given the following measurements calculate t:<br>0.012 ± 0.003 mL, n=6<br>0.007 ± 0.003 mL, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.5;2.5e0;2.5E0,short_answer
+"Are the following measurements significantly different?<br>0.7 ± 0.2 kPa, n=5<br>0.67 ± 0.11 kPa, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>3.4 ± 1.3 Pa, n=6<br>6 ± 3 Pa, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.0014 ± 0.0007 mmHg, n=6<br>0.0017 ± 0.0003 mmHg, n=6,<br>Use 95% confidence level",1.0;1.0e0;1.0E0;.0;0.98;9.8e-1;9.8E-1;.98,short_answer
+"Given the following measurements calculate t:<br>130 ± 40 h, n=4<br>160 ± 70 h, n=3,<br>Use 95% confidence level",0.77;7.7e-1;7.7E-1;.77;0.8;8e-1;8E-1;.8;0.768;7.68e-1;7.68E-1;.768,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>500 ± 200 kJ, n=6<br>900 ± 300 kJ, n=6<br>Use 95% confidence level",2.228;2.228e0;2.228E0,short_answer
+"Do these measurements agree within experimental error?<br>0.005 ± 0.002 nm, n=3<br>0.006 ± 0.003 nm, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.028 ± 0.010 cal, n=5<br>0.021 ± 0.003 cal, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.05 ± 0.02 ns, n=3<br>0.071 ± 0.007 ns, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>3.2 ± 0.9 m, n=5<br>4 ± 2 m, n=5<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Given the following measurements calculate t:<br>270 ± 20 cal, n=4<br>180 ± 20 cal, n=6,<br>Use 95% confidence level",8;8e0;8E0;8.;7.7;7.7e0;7.7E0,short_answer
+"Are the following measurements significantly different?<br>0.0019 ± 0.0003 L, n=4<br>0.0015 ± 0.0006 L, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>4 ± 2 Hz, n=3<br>3.6 ± 0.4 Hz, n=5,<br>Use 95% confidence level",0.6;6e-1;6E-1;.6;0.55;5.5e-1;5.5E-1;.55,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.0e2 ± 40 h, n=3<br>152 ± 12 h, n=5<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Calculate the t statistic for the following measurements:<br>270 ± 120 W, n=5<br>400 ± 200 W, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.5;1.5e0;1.5E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.8 ± 0.2 bar, n=3<br>2.1 ± 0.8 bar, n=5<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Given the following measurements calculate t:<br>10. ± 4 g, n=5<br>18 ± 5 g, n=4,<br>Use 95% confidence level",2.7;2.7e0;2.7E0;3;3e0;3E0;3.;2.67;2.67e0;2.67E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.09 ± 0.04 J, n=4<br>0.15 ± 0.04 J, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Given the following measurements calculate t:<br>1.7 ± 0.5 ns, n=5<br>1.9 ± 0.5 ns, n=5,<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.86;8.6e-1;8.6E-1;.86,short_answer
+"Calculate the t statistic for the following measurements:<br>3.3 ± 0.8 s, n=6<br>2.0 ± 0.7 s, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>27 ± 8 ms, n=4<br>50 ± 20 ms, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>1.6 ± 0.5 bar, n=4<br>2.1 ± 1.0 bar, n=5<br>Use 95% confidence level",0.92;9.2e-1;9.2E-1;.92;0.9;9e-1;9E-1;.9;0.923;9.23e-1;9.23E-1;.923,short_answer
+"Given the following measurements calculate t:<br>0.21 ± 0.04 bar, n=5<br>0.28 ± 0.11 bar, n=3,<br>Use 95% confidence level",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.31;1.31e0;1.31E0,short_answer
+"Do these measurements agree within experimental error?<br>600 ± 200 mA, n=5<br>1.0e3 ± 2e2 mA, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>22 ± 3 mA, n=4<br>36.0 ± 1.1 mA, n=4<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.09 ± 0.04 km, n=5<br>0.166 ± 0.008 km, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;4.2;4.2e0;4.2E0,short_answer
+"Calculate the t statistic for the following measurements:<br>800 ± 400 Pa, n=4<br>600 ± 300 Pa, n=5<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.00109 ± 0.00008 s, n=6<br>0.00136 ± 0.00009 s, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.28 ± 0.07 km, n=6<br>0.5 ± 0.2 km, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Calculate the t statistic for the following measurements:<br>17 ± 5 K, n=3<br>10. ± 3 K, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;2.7;2.7e0;2.7E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.008 ± 0.003 s, n=4<br>0.008 ± 0.004 s, n=6<br>Use 95% confidence level",0.17;1.7e-1;1.7E-1;.17;0.2;2e-1;2E-1;.2;0.174;1.74e-1;1.74E-1;.174,short_answer
+"Are the following measurements significantly different?<br>0.21 ± 0.07 M, n=6<br>0.105 ± 0.006 M, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>27 ± 11 K, n=5<br>40 ± 20 K, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>7 ± 3 cal, n=4<br>6.9 ± 1.2 cal, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Given the following measurements calculate t:<br>191 ± 6 ms, n=3<br>119 ± 12 ms, n=4,<br>Use 95% confidence level",9.3;9.3e0;9.3E0;9;9e0;9E0;9.;9.31;9.31e0;9.31E0,short_answer
+"Do these measurements agree within experimental error?<br>0.41 ± 0.12 kcal, n=6<br>0.57 ± 0.09 kcal, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>180 ± 90 kcal, n=5<br>150 ± 40 kcal, n=6,<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.92;9.2e-1;9.2E-1;.92,short_answer
+"Calculate the t statistic for the following measurements:<br>0.24 ± 0.04 mol, n=3<br>0.21 ± 0.08 mol, n=3<br>Use 95% confidence level",0.5;5e-1;5E-1;.5;0.48;4.8e-1;4.8E-1;.48,short_answer
+"Do these measurements agree within experimental error?<br>16.9 ± 1.2 K, n=6<br>10. ± 2 K, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>5.2 ± 0.5 kJ, n=4<br>4.5 ± 0.8 kJ, n=6,<br>Use 95% confidence level",1;1e0;1E0;1.;1.5;1.5e0;1.5E0,short_answer
+"Given the following measurements calculate t:<br>10. ± 2 kPa, n=4<br>12.6 ± 1.2 kPa, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Do these measurements agree within experimental error?<br>0.15 ± 0.05 Torr, n=5<br>0.087 ± 0.014 Torr, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.053 ± 0.010 atm, n=4<br>0.10 ± 0.02 atm, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Do these measurements agree within experimental error?<br>0.00107 ± 0.00013 L, n=4<br>0.0021 ± 0.0004 L, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>90 ± 40 kg, n=4<br>114 ± 8 kg, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.035 ± 0.007 nm, n=6<br>0.022 ± 0.008 nm, n=3<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Given the following measurements calculate t:<br>310 ± 140 A, n=6<br>590 ± 1.0e2 A, n=6,<br>Use 95% confidence level",3.98;3.98e0;3.98E0;4.0;4.0e0;4.0E0;3.979;3.979e0;3.979E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>600 ± 200 ms, n=6<br>402 ± 12 ms, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Calculate the t statistic for the following measurements:<br>9.9 ± 1.0 K, n=4<br>16 ± 8 K, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;1.5;1.5e0;1.5E0,short_answer
+"Are the following measurements significantly different?<br>0.072 ± 0.009 kV, n=6<br>0.091 ± 0.012 kV, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>187 ± 5 ms, n=5<br>270 ± 30 ms, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Do these measurements agree within experimental error?<br>1.0 ± 0.2 nm, n=6<br>1.46 ± 0.12 nm, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.162 ± 0.006 km, n=4<br>0.26 ± 0.04 km, n=5,<br>Use 95% confidence level",6;6e0;6E0;6.;5.6;5.6e0;5.6E0,short_answer
+"Calculate the t statistic for the following measurements:<br>400 ± 200 nm, n=4<br>400 ± 200 nm, n=3<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.26;2.6e-1;2.6E-1;.26,short_answer
+"Do these measurements agree within experimental error?<br>0.00159 ± 0.00003 K, n=6<br>0.0027 ± 0.0013 K, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0061 ± 0.0005 kJ, n=6<br>0.0041 ± 0.0012 kJ, n=4<br>Use 95% confidence level",4;4e0;4E0;4.;3.8;3.8e0;3.8E0,short_answer
+"Calculate the t statistic for the following measurements:<br>1.2 ± 0.2 h, n=3<br>0.884 ± 0.011 h, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;2.5;2.5e0;2.5E0,short_answer
+"Given the following measurements calculate t:<br>0.047 ± 0.012 Torr, n=6<br>0.029 ± 0.005 Torr, n=4,<br>Use 95% confidence level",2.9;2.9e0;2.9E0;3;3e0;3E0;3.;2.87;2.87e0;2.87E0,short_answer
+"Do these measurements agree within experimental error?<br>0.76 ± 0.14 mol, n=3<br>1.1 ± 0.5 mol, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>340 ± 140 L, n=6<br>400 ± 200 L, n=6<br>Use 95% confidence level",2.228;2.228e0;2.228E0,short_answer
+"Do these measurements agree within experimental error?<br>2.76 ± 0.07 kJ, n=3<br>3.3 ± 0.5 kJ, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.011 ± 0.002 mL, n=3<br>0.0065 ± 0.0012 mL, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.13 ± 0.05 N, n=4<br>0.157 ± 0.008 N, n=3,<br>Use 95% confidence level",1.0;1.0e0;1.0E0;.0;0.96;9.6e-1;9.6E-1;.96,short_answer
+"Are the following measurements significantly different?<br>29 ± 7 M, n=5<br>32 ± 5 M, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>14 ± 5 kg, n=4<br>14 ± 3 kg, n=3,<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.24;2.4e-1;2.4E-1;.24,short_answer
+"Are the following measurements significantly different?<br>70 ± 30 N, n=6<br>140 ± 50 N, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>25 ± 7 bar, n=3<br>12.9 ± 0.7 bar, n=3<br>Use 95% confidence level",3;3e0;3E0;3.;2.9;2.9e0;2.9E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>620 ± 120 kcal, n=6<br>480 ± 70 kcal, n=5<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.66 ± 0.04 J, n=6<br>1.2 ± 0.6 J, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Calculate the t statistic for the following measurements:<br>16.9 ± 1.4 Hz, n=3<br>24 ± 11 Hz, n=5<br>Use 95% confidence level",1.5;1.5e0;1.5E0;1;1e0;1E0;1.;1.49;1.49e0;1.49E0,short_answer
+"Given the following measurements calculate t:<br>0.16 ± 0.02 kcal, n=4<br>0.301 ± 0.014 kcal, n=3,<br>Use 95% confidence level",10;1e1;1E1;11;1.1e1;1.1E1;11.,short_answer
+"Are the following measurements significantly different?<br>0.06 ± 0.03 mbar, n=3<br>0.04 ± 0.02 mbar, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.004 ± 0.002 W, n=5<br>0.005 ± 0.002 W, n=4,<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.68;6.8e-1;6.8E-1;.68,short_answer
+"Calculate the t statistic for the following measurements:<br>230 ± 40 K, n=3<br>190 ± 80 K, n=3<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.84;8.4e-1;8.4E-1;.84,short_answer
+"Do these measurements agree within experimental error?<br>90 ± 40 Pa, n=6<br>70 ± 30 Pa, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.004 ± 0.002 M, n=5<br>0.004 ± 0.002 M, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Are the following measurements significantly different?<br>0.017 ± 0.003 V, n=4<br>0.016 ± 0.006 V, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>5.6 ± 0.6 ms, n=5<br>3.28 ± 0.06 ms, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>600 ± 300 K, n=6<br>430 ± 80 K, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Given the following measurements calculate t:<br>5 ± 2 m, n=3<br>8 ± 2 m, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Do these measurements agree within experimental error?<br>0.064 ± 0.002 atm, n=6<br>0.08 ± 0.03 atm, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>16 ± 7 ms, n=6<br>11 ± 5 ms, n=3,<br>Use 95% confidence level",1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+"Given the following measurements calculate t:<br>16 ± 2 mbar, n=3<br>19 ± 5 mbar, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+"Are the following measurements significantly different?<br>0.17 ± 0.06 h, n=4<br>0.17 ± 0.06 h, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0027 ± 0.0007 h, n=4<br>0.0047 ± 0.0013 h, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Do these measurements agree within experimental error?<br>3.6 ± 1.4 V, n=3<br>4.98 ± 0.05 V, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.0221 ± 0.0006 nm, n=5<br>0.039 ± 0.006 nm, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.002806 ± 0.000005 kg, n=6<br>0.00282 ± 0.00010 kg, n=3,<br>Use 95% confidence level",0.31;3.1e-1;3.1E-1;.31;0.3;3e-1;3E-1;.3;0.311;3.11e-1;3.11E-1;.311,short_answer
+"Are the following measurements significantly different?<br>0.03 ± 0.02 g, n=5<br>0.027 ± 0.010 g, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>17 ± 3 ns, n=4<br>23.7 ± 0.6 ns, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;4.4;4.4e0;4.4E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>5.8 ± 0.2 kg, n=4<br>10. ± 4 kg, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Given the following measurements calculate t:<br>32 ± 14 m, n=3<br>50 ± 20 m, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.070 ± 0.007 mA, n=5<br>0.056 ± 0.009 mA, n=4<br>Use 95% confidence level",3;3e0;3E0;3.;2.5;2.5e0;2.5E0,short_answer
+"Are the following measurements significantly different?<br>0.0017 ± 0.0006 mbar, n=4<br>0.0013 ± 0.0006 mbar, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>9 ± 2 V, n=3<br>14 ± 5 V, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Are the following measurements significantly different?<br>0.038 ± 0.010 kJ, n=5<br>0.041 ± 0.004 kJ, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.010 ± 0.005 s, n=4<br>0.015 ± 0.006 s, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>22 ± 10. V, n=4<br>33 ± 4 V, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.06 ± 0.02 N, n=5<br>0.10 ± 0.02 N, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;3.7;3.7e0;3.7E0,short_answer
+"Are the following measurements significantly different?<br>0.36 ± 0.06 kPa, n=5<br>0.6 ± 0.2 kPa, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>350 ± 50 g, n=3<br>322 ± 3 g, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Do these measurements agree within experimental error?<br>34 ± 2 mL, n=4<br>19 ± 2 mL, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>267 ± 8 kV, n=3<br>390 ± 140 kV, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.080 ± 0.010 K, n=4<br>0.049 ± 0.005 K, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>1.0e2 ± 40 mmHg, n=6<br>60 ± 20 mmHg, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Calculate the t statistic for the following measurements:<br>400 ± 200 K, n=6<br>800 ± 300 K, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Do these measurements agree within experimental error?<br>0.8 ± 0.2 mbar, n=3<br>0.96 ± 0.02 mbar, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>2.0e2 ± 50 Hz, n=3<br>260. ± 2 Hz, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>1.6 ± 0.7 mol, n=3<br>3.0 ± 1.0 mol, n=5<br>Use 95% confidence level",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;2.05;2.05e0;2.05E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0028 ± 0.0003 kV, n=6<br>0.0019 ± 0.0008 kV, n=6<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.00505 ± 0.00009 Hz, n=3<br>0.0061 ± 0.0013 Hz, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.05 ± 0.02 km, n=6<br>0.08 ± 0.03 km, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0015 ± 0.0004 kg, n=6<br>0.0018 ± 0.0002 kg, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Given the following measurements calculate t:<br>0.23 ± 0.08 km, n=3<br>0.39 ± 0.14 km, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Do these measurements agree within experimental error?<br>1.17 ± 0.11 Torr, n=3<br>2.0 ± 0.5 Torr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.7 ± 0.3 s, n=4<br>1.1 ± 0.2 s, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Given the following measurements calculate t:<br>0.21 ± 0.08 bar, n=6<br>0.28 ± 0.09 bar, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Calculate the t statistic for the following measurements:<br>500 ± 200 mmHg, n=6<br>800 ± 300 mmHg, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Given the following measurements calculate t:<br>0.007 ± 0.003 M, n=3<br>0.007 ± 0.002 M, n=5,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.28;2.8e-1;2.8E-1;.28,short_answer
+"Calculate the t statistic for the following measurements:<br>0.13 ± 0.04 N, n=6<br>0.21 ± 0.06 N, n=4<br>Use 95% confidence level",3;3e0;3E0;3.;2.8;2.8e0;2.8E0,short_answer
+"Given the following measurements calculate t:<br>0.99 ± 0.06 mmHg, n=3<br>1.9 ± 0.5 mmHg, n=6,<br>Use 95% confidence level",4;4e0;4E0;4.;4.4;4.4e0;4.4E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.004 ± 0.002 mbar, n=6<br>0.0025 ± 0.0005 mbar, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Given the following measurements calculate t:<br>0.131 ± 0.010 kV, n=5<br>0.25 ± 0.02 kV, n=6,<br>Use 95% confidence level",10;1e1;1E1;12;1.2e1;1.2E1;12.,short_answer
+"Calculate the t statistic for the following measurements:<br>0.015 ± 0.004 mL, n=4<br>0.011 ± 0.005 mL, n=5<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Given the following measurements calculate t:<br>900 ± 400 ms, n=5<br>1.6e3 ± 2e2 ms, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;3.5;3.5e0;3.5E0,short_answer
+"Do these measurements agree within experimental error?<br>1.6 ± 0.4 ns, n=3<br>1.8 ± 0.8 ns, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>60 ± 20 mA, n=3<br>50 ± 20 mA, n=5,<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.43;4.3e-1;4.3E-1;.43,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>8.9 ± 0.7 mA, n=3<br>9 ± 2 mA, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Are the following measurements significantly different?<br>0.008 ± 0.002 km, n=5<br>0.013 ± 0.005 km, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>370 ± 140 mbar, n=4<br>510 ± 80 mbar, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Given the following measurements calculate t:<br>36.5 ± 0.5 mol, n=3<br>50 ± 20 mol, n=3,<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.78;7.8e-1;7.8E-1;.78,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.6 ± 0.4 mol, n=4<br>1.9 ± 0.5 mol, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Given the following measurements calculate t:<br>450 ± 140 nm, n=5<br>600 ± 200 nm, n=3,<br>Use 95% confidence level",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.65;1.65e0;1.65E0,short_answer
+"Calculate the t statistic for the following measurements:<br>6.0e2 ± 110 mmHg, n=5<br>900 ± 200 mmHg, n=3<br>Use 95% confidence level",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.09;3.09e0;3.09E0,short_answer
+"Are the following measurements significantly different?<br>0.18 ± 0.06 h, n=3<br>0.32 ± 0.10 h, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>2.1 ± 0.9 atm, n=6<br>4 ± 2 atm, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>26 ± 8 nm, n=4<br>15 ± 2 nm, n=5<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Are the following measurements significantly different?<br>5.3 ± 0.4 W, n=4<br>9.2 ± 1.4 W, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.046 ± 0.006 K, n=5<br>0.039 ± 0.005 K, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.015 ± 0.005 J, n=3<br>0.029 ± 0.005 J, n=3<br>Use 95% confidence level",3.3;3.3e0;3.3E0;3;3e0;3E0;3.;3.35;3.35e0;3.35E0,short_answer
+"Do these measurements agree within experimental error?<br>0.10 ± 0.02 N, n=4<br>0.15 ± 0.03 N, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.8 ± 0.3 M, n=5<br>0.39 ± 0.07 M, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;2.8;2.8e0;2.8E0,short_answer
+"Given the following measurements calculate t:<br>1.7 ± 0.4 kJ, n=6<br>2.2 ± 0.4 kJ, n=3,<br>Use 95% confidence level",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Do these measurements agree within experimental error?<br>400 ± 200 W, n=3<br>390 ± 80 W, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>114 ± 6 Torr, n=3<br>120 ± 20 Torr, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>18 ± 5 K, n=6<br>32 ± 13 K, n=4,<br>Use 95% confidence level",2.1;2.1e0;2.1E0;2;2e0;2E0;2.;2.15;2.15e0;2.15E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0016 ± 0.0006 J, n=5<br>0.0025 ± 0.0008 J, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>140 ± 30 ns, n=5<br>90 ± 40 ns, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>2.5 ± 0.8 ns, n=3<br>1.4 ± 0.5 ns, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.1;2.1e0;2.1E0,short_answer
+"Do these measurements agree within experimental error?<br>0.22 ± 0.06 mol, n=6<br>0.4 ± 0.2 mol, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>117 ± 4 kPa, n=6<br>210 ± 60 kPa, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>320 ± 70 Torr, n=4<br>470 ± 110 Torr, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Do these measurements agree within experimental error?<br>9.47 ± 0.04 kPa, n=5<br>15 ± 6 kPa, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>3.19 ± 0.07 bar, n=4<br>5 ± 2 bar, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.70 ± 0.02 m, n=5<br>1.1 ± 0.4 m, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>4.3 ± 0.2 m, n=5<br>5.0 ± 0.5 m, n=6<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Given the following measurements calculate t:<br>7.1 ± 1.1 N, n=3<br>11 ± 2 N, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;2.9;2.9e0;2.9E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.021 ± 0.005 kg, n=4<br>0.0306 ± 0.0004 kg, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+"Are the following measurements significantly different?<br>0.0058 ± 0.0004 mmHg, n=3<br>0.012 ± 0.002 mmHg, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>290 ± 70 nm, n=6<br>230 ± 70 nm, n=5<br>Use 95% confidence level",1;1e0;1E0;1.;1.5;1.5e0;1.5E0,short_answer
+"Are the following measurements significantly different?<br>240 ± 40 A, n=5<br>378.6 ± 1.0 A, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.07 ± 0.03 N, n=5<br>0.090 ± 0.002 N, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>600 ± 200 mbar, n=5<br>700 ± 300 mbar, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>4.7 ± 1.0 mmHg, n=5<br>4.6 ± 0.3 mmHg, n=5<br>Use 95% confidence level",0.29;2.9e-1;2.9E-1;.29;0.3;3e-1;3E-1;.3;0.290;2.90e-1;2.90E-1;.290,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>11 ± 2 N, n=5<br>13.7 ± 0.7 N, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Are the following measurements significantly different?<br>50 ± 20 s, n=6<br>27 ± 2 s, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.4 ± 0.2 M, n=3<br>0.4 ± 0.2 M, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.0267 ± 0.0014 J, n=5<br>0.04 ± 0.02 J, n=3,<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.79;7.9e-1;7.9E-1;.79,short_answer
+"Do these measurements agree within experimental error?<br>0.0015 ± 0.0003 J, n=4<br>0.0028 ± 0.0005 J, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.045 ± 0.013 N, n=3<br>0.07 ± 0.03 N, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>920 ± 90 s, n=6<br>800 ± 200 s, n=5<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Are the following measurements significantly different?<br>0.006 ± 0.002 g, n=5<br>0.0039 ± 0.0014 g, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>3.5 ± 0.2 h, n=6<br>5 ± 3 h, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Given the following measurements calculate t:<br>0.06 ± 0.02 kPa, n=3<br>0.06 ± 0.02 kPa, n=3,<br>Use 95% confidence level",0.094;9.4e-2;9.4E-2;.094;0.09;9e-2;9E-2;.09;0.0939;9.39e-2;9.39E-2;.0939,short_answer
+"Given the following measurements calculate t:<br>0.016 ± 0.002 nm, n=4<br>0.025 ± 0.005 nm, n=4,<br>Use 95% confidence level",3;3e0;3E0;3.;3.5;3.5e0;3.5E0,short_answer
+"Do these measurements agree within experimental error?<br>5.5 ± 0.5 kJ, n=6<br>3.3 ± 0.4 kJ, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>55 ± 7 mol, n=3<br>52 ± 2 mol, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>400 ± 200 yr, n=3<br>700 ± 200 yr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0044 ± 0.0009 N, n=3<br>0.0063 ± 0.0006 N, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>11 ± 5 Pa, n=5<br>13 ± 6 Pa, n=5<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Calculate the t statistic for the following measurements:<br>3.8 ± 0.4 L, n=4<br>6 ± 3 L, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Calculate the t statistic for the following measurements:<br>250 ± 1.0e2 mol, n=3<br>2.0e2 ± 20 mol, n=5<br>Use 95% confidence level",0.77;7.7e-1;7.7E-1;.77;0.8;8e-1;8E-1;.8;0.774;7.74e-1;7.74E-1;.774,short_answer
+"Given the following measurements calculate t:<br>0.00233 ± 0.00010 ns, n=4<br>0.0020 ± 0.0008 ns, n=3,<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.73;7.3e-1;7.3E-1;.73,short_answer
+"Given the following measurements calculate t:<br>0.128 ± 0.002 kJ, n=3<br>0.09 ± 0.03 kJ, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.3;2.3e0;2.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>24 ± 4 kcal, n=4<br>15.1 ± 0.7 kcal, n=4<br>Use 95% confidence level",5;5e0;5E0;5.;4.5;4.5e0;4.5E0,short_answer
+"Calculate the t statistic for the following measurements:<br>50 ± 20 yr, n=3<br>77 ± 7 yr, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.5;2.5e0;2.5E0,short_answer
+"Are the following measurements significantly different?<br>0.296 ± 0.002 mA, n=4<br>0.35 ± 0.04 mA, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.18 ± 0.03 kPa, n=6<br>0.158 ± 0.010 kPa, n=3,<br>Use 95% confidence level",1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+"Given the following measurements calculate t:<br>500 ± 200 kV, n=5<br>700 ± 200 kV, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Are the following measurements significantly different?<br>33 ± 9 yr, n=5<br>35 ± 10. yr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.008 ± 0.002 yr, n=4<br>0.0084 ± 0.0010 yr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.017 ± 0.004 Torr, n=4<br>0.015 ± 0.006 Torr, n=5<br>Use 95% confidence level",0.6;6e-1;6E-1;.6;0.61;6.1e-1;6.1E-1;.61,short_answer
+"Calculate the t statistic for the following measurements:<br>58 ± 5 m, n=4<br>60 ± 20 m, n=6<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.16;1.6e-1;1.6E-1;.16,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>53 ± 12 Hz, n=3<br>90 ± 20 Hz, n=6<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Given the following measurements calculate t:<br>50 ± 20 L, n=6<br>40 ± 20 L, n=4,<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.44;4.4e-1;4.4E-1;.44,short_answer
+"Given the following measurements calculate t:<br>0.77 ± 0.05 M, n=4<br>1.39 ± 0.02 M, n=5,<br>Use 95% confidence level",30;3e1;3E1;25;2.5e1;2.5E1;25.,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0032 ± 0.0002 h, n=4<br>0.006 ± 0.003 h, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;2.1;2.1e0;2.1E0,short_answer
+"Given the following measurements calculate t:<br>0.013 ± 0.006 K, n=3<br>0.021 ± 0.002 K, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.3;2.3e0;2.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.28 ± 0.05 ns, n=6<br>0.5 ± 0.2 ns, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Are the following measurements significantly different?<br>0.4 ± 0.2 km, n=4<br>0.45 ± 0.07 km, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.28 ± 0.14 kV, n=4<br>0.43 ± 0.05 kV, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.25 ± 0.12 mmHg, n=6<br>0.18 ± 0.08 mmHg, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Do these measurements agree within experimental error?<br>140 ± 70 M, n=3<br>120 ± 30 M, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.059 ± 0.002 L, n=6<br>0.07 ± 0.02 L, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.7 ± 0.3 kg, n=3<br>1.44 ± 0.09 kg, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+"Do these measurements agree within experimental error?<br>0.032 ± 0.006 V, n=3<br>0.0372 ± 0.0010 V, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0024 ± 0.0010 kPa, n=6<br>0.0038 ± 0.0014 kPa, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.2 ± 0.7 bar, n=3<br>1.7 ± 0.9 bar, n=4<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.022 ± 0.002 Hz, n=3<br>0.011 ± 0.002 Hz, n=6<br>Use 95% confidence level",8;8e0;8E0;8.;7.7;7.7e0;7.7E0,short_answer
+"Given the following measurements calculate t:<br>1.7 ± 0.6 km, n=3<br>2.1 ± 0.9 km, n=3,<br>Use 95% confidence level",0.6;6e-1;6E-1;.6;0.59;5.9e-1;5.9E-1;.59,short_answer
+"Given the following measurements calculate t:<br>7 ± 2 mM, n=4<br>10. ± 3 mM, n=6,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>5 ± 2 g, n=4<br>3.6 ± 0.8 g, n=5<br>Use 95% confidence level",1;1e0;1E0;1.;1.5;1.5e0;1.5E0,short_answer
+"Given the following measurements calculate t:<br>0.026 ± 0.003 kcal, n=6<br>0.016 ± 0.005 kcal, n=4,<br>Use 95% confidence level",3.9;3.9e0;3.9E0;4;4e0;4E0;4.;3.92;3.92e0;3.92E0,short_answer
+"Are the following measurements significantly different?<br>3.8 ± 0.3 kg, n=4<br>4.2 ± 1.4 kg, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.0013 ± 0.0003 V, n=3<br>0.0013 ± 0.0003 V, n=3,<br>Use 95% confidence level",0.10;1.0e-1;1.0E-1;.10;0.100;1.00e-1;1.00E-1;.100,short_answer
+"Are the following measurements significantly different?<br>0.026 ± 0.012 M, n=6<br>0.036 ± 0.008 M, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.5 ± 0.2 ms, n=5<br>0.8 ± 0.2 ms, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>40 ± 20 A, n=5<br>70 ± 20 A, n=5<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Given the following measurements calculate t:<br>0.043 ± 0.013 W, n=6<br>0.029 ± 0.005 W, n=4,<br>Use 95% confidence level",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;2.00;2.00e0;2.00E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>5.1 ± 0.3 J, n=6<br>10. ± 2 J, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Do these measurements agree within experimental error?<br>590 ± 120 V, n=5<br>5.0e2 ± 70 V, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>8.3 ± 0.9 mA, n=5<br>14 ± 3 mA, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>6.0e2 ± 90 cal, n=6<br>870 ± 40 cal, n=5,<br>Use 95% confidence level",6;6e0;6E0;6.;6.2;6.2e0;6.2E0,short_answer
+"Are the following measurements significantly different?<br>0.0028 ± 0.0012 Hz, n=3<br>0.0038 ± 0.0003 Hz, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>40 ± 20 Torr, n=5<br>26 ± 12 Torr, n=3<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.07 ± 0.02 atm, n=4<br>0.13 ± 0.02 atm, n=5<br>Use 95% confidence level",5;5e0;5E0;5.;4.8;4.8e0;4.8E0,short_answer
+"Calculate the t statistic for the following measurements:<br>1.0e3 ± 200 J, n=5<br>1.8e3 ± 6e2 J, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;3.3;3.3e0;3.3E0,short_answer
+"Are the following measurements significantly different?<br>0.0067 ± 0.0009 Hz, n=6<br>0.009 ± 0.004 Hz, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.0015 ± 0.0007 ns, n=6<br>0.00256 ± 0.00003 ns, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>1.9 ± 0.4 kPa, n=5<br>3.3 ± 1.0 kPa, n=6,<br>Use 95% confidence level",3.0;3.0e0;3.0E0;3;3e0;3E0;3.;3.03;3.03e0;3.03E0,short_answer
+"Do these measurements agree within experimental error?<br>27.3 ± 0.3 nm, n=4<br>15 ± 6 nm, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.0 ± 0.6 M, n=5<br>4 ± 2 M, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Given the following measurements calculate t:<br>0.0012 ± 0.0005 J, n=3<br>0.0018 ± 0.0008 J, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Do these measurements agree within experimental error?<br>220 ± 50 mM, n=5<br>4.0e2 ± 80 mM, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.21 ± 0.03 Torr, n=3<br>0.20 ± 0.09 Torr, n=3,<br>Use 95% confidence level",0.07;7e-2;7E-2;.07;0.071;7.1e-2;7.1E-2;.071,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0050 ± 0.0008 kPa, n=5<br>0.0055 ± 0.0004 kPa, n=5<br>Use 95% confidence level",1;1e0;1E0;1.;1.4;1.4e0;1.4E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.9 ± 1.1 N, n=3<br>1.5 ± 0.3 N, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.26 ± 0.11 J, n=5<br>0.21 ± 0.02 J, n=4<br>Use 95% confidence level",2.702;2.702e0;2.702E0,short_answer
+"Given the following measurements calculate t:<br>1.0e3 ± 300 kcal, n=6<br>1.3e3 ± 3e2 kcal, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Do these measurements agree within experimental error?<br>600 ± 200 mL, n=3<br>600 ± 200 mL, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.09 ± 0.02 nm, n=3<br>0.127 ± 0.010 nm, n=5<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Do these measurements agree within experimental error?<br>90 ± 40 N, n=6<br>160 ± 50 N, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>1.66 ± 0.08 kJ, n=6<br>1.6 ± 0.2 kJ, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0055 ± 0.0002 km, n=6<br>0.0076 ± 0.0010 km, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>6.4 ± 1.2 mmHg, n=4<br>7 ± 2 mmHg, n=4,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.26;2.6e-1;2.6E-1;.26,short_answer
+"Calculate the t statistic for the following measurements:<br>33 ± 2 nm, n=4<br>44 ± 14 nm, n=3<br>Use 95% confidence level",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.28;1.28e0;1.28E0,short_answer
+"Are the following measurements significantly different?<br>0.0036 ± 0.0010 m, n=4<br>0.0053 ± 0.0003 m, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>8 ± 2 yr, n=6<br>14 ± 5 yr, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>3.1 ± 0.8 atm, n=6<br>4.7 ± 0.9 atm, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>67 ± 8 mL, n=5<br>80 ± 30 mL, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.63 ± 0.10 m, n=6<br>0.63 ± 0.02 m, n=3,<br>Use 95% confidence level",0.071;7.1e-2;7.1E-2;.071;0.07;7e-2;7E-2;.07;0.0709;7.09e-2;7.09E-2;.0709,short_answer
+"Are the following measurements significantly different?<br>0.0021 ± 0.0009 nm, n=6<br>0.0040 ± 0.0003 nm, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>120 ± 30 N, n=5<br>187 ± 11 N, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>150 ± 50 Pa, n=3<br>150 ± 50 Pa, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Do these measurements agree within experimental error?<br>0.078 ± 0.006 kg, n=3<br>0.053 ± 0.009 kg, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>240 ± 80 yr, n=6<br>210 ± 40 yr, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>190 ± 30 kV, n=4<br>1.0e2 ± 30 kV, n=4,<br>Use 95% confidence level",4;4e0;4E0;4.;4.3;4.3e0;4.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>30 ± 20 ms, n=5<br>34 ± 14 ms, n=6<br>Use 95% confidence level",0.31;3.1e-1;3.1E-1;.31;0.3;3e-1;3E-1;.3;0.314;3.14e-1;3.14E-1;.314,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0010 ± 0.0003 N, n=5<br>0.0017 ± 0.0003 N, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;3.6;3.6e0;3.6E0,short_answer
+"Are the following measurements significantly different?<br>0.43 ± 0.10 kPa, n=5<br>0.7 ± 0.3 kPa, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>21 ± 3 cal, n=5<br>14 ± 2 cal, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.022 ± 0.004 bar, n=4<br>0.04 ± 0.02 bar, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Calculate the t statistic for the following measurements:<br>350 ± 30 kg, n=6<br>180 ± 80 kg, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;4.3;4.3e0;4.3E0,short_answer
+"Are the following measurements significantly different?<br>0.005 ± 0.002 cal, n=5<br>0.007 ± 0.003 cal, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0035 ± 0.0005 Hz, n=5<br>0.00186 ± 0.00008 Hz, n=4<br>Use 95% confidence level",7;7e0;7E0;7.;7.3;7.3e0;7.3E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>150 ± 70 ms, n=5<br>80 ± 20 ms, n=4<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Are the following measurements significantly different?<br>0.018 ± 0.005 mA, n=4<br>0.033 ± 0.010 mA, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>19.5 ± 0.6 g, n=4<br>30. ± 2 g, n=4<br>Use 95% confidence level",10.;1.0e1;1.0E1;10..;9.6;9.6e0;9.6E0,short_answer
+"Are the following measurements significantly different?<br>44 ± 6 atm, n=4<br>76 ± 10. atm, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>900 ± 200 kJ, n=5<br>790 ± 20 kJ, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.010 ± 0.002 K, n=5<br>0.0204 ± 0.0014 K, n=5<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.31 ± 0.03 g, n=3<br>0.23 ± 0.10 g, n=5<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Are the following measurements significantly different?<br>2.9 ± 0.8 N, n=6<br>1.7 ± 0.3 N, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>68 ± 9 mM, n=6<br>41 ± 13 mM, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.008 ± 0.002 J, n=4<br>0.007 ± 0.002 J, n=3<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.83;8.3e-1;8.3E-1;.83,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>775 ± 2 s, n=5<br>1.2e3 ± 4e2 s, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Given the following measurements calculate t:<br>490 ± 120 mL, n=6<br>600 ± 300 mL, n=4,<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.75;7.5e-1;7.5E-1;.75,short_answer
+"Given the following measurements calculate t:<br>0.008 ± 0.002 yr, n=6<br>0.014 ± 0.002 yr, n=5,<br>Use 95% confidence level",5;5e0;5E0;5.;4.7;4.7e0;4.7E0,short_answer
+"Are the following measurements significantly different?<br>280 ± 90 L, n=4<br>320 ± 70 L, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.5 ± 0.6 kPa, n=3<br>1.3 ± 0.5 kPa, n=5<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Calculate the t statistic for the following measurements:<br>91 ± 13 yr, n=5<br>80 ± 30 yr, n=4<br>Use 95% confidence level",1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+"Given the following measurements calculate t:<br>0.0145 ± 0.0006 kJ, n=5<br>0.009 ± 0.004 kJ, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;3.2;3.2e0;3.2E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.36 ± 0.05 bar, n=4<br>0.46 ± 0.07 bar, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.9 ± 0.2 W, n=3<br>1.2 ± 0.6 W, n=6<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0103 ± 0.0004 cal, n=3<br>0.015 ± 0.003 cal, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Given the following measurements calculate t:<br>0.020 ± 0.007 kcal, n=4<br>0.012 ± 0.004 kcal, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Given the following measurements calculate t:<br>0.0282 ± 0.0003 kJ, n=3<br>0.04 ± 0.02 kJ, n=3,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Given the following measurements calculate t:<br>0.014 ± 0.004 kPa, n=4<br>0.008 ± 0.002 kPa, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+"Given the following measurements calculate t:<br>0.007 ± 0.002 mM, n=4<br>0.011 ± 0.005 mM, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Given the following measurements calculate t:<br>1.06 ± 0.03 s, n=3<br>1.08 ± 0.11 s, n=5,<br>Use 95% confidence level",0.33;3.3e-1;3.3E-1;.33;0.3;3e-1;3E-1;.3;0.328;3.28e-1;3.28E-1;.328,short_answer
+"Do these measurements agree within experimental error?<br>0.22 ± 0.04 nm, n=3<br>0.18 ± 0.07 nm, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>1.8 ± 0.2 nm, n=5<br>3.2 ± 0.4 nm, n=4<br>Use 95% confidence level",7;7e0;7E0;7.;7.1;7.1e0;7.1E0,short_answer
+"Do these measurements agree within experimental error?<br>41 ± 7 ms, n=6<br>40 ± 20 ms, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>21 ± 10. km, n=4<br>27 ± 12 km, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>100. ± 3 kV, n=6<br>180 ± 60 kV, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;3.3;3.3e0;3.3E0,short_answer
+"Are the following measurements significantly different?<br>32 ± 7 kV, n=4<br>41 ± 4 kV, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.006 ± 0.002 mA, n=3<br>0.009 ± 0.004 mA, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Do these measurements agree within experimental error?<br>3.1 ± 1.0 mol, n=5<br>2.5 ± 0.7 mol, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>24 ± 7 yr, n=4<br>30. ± 10. yr, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.2 ± 0.3 km, n=3<br>0.6 ± 0.2 km, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Are the following measurements significantly different?<br>4 ± 2 mmHg, n=4<br>5 ± 2 mmHg, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>6.4 ± 1.3 K, n=6<br>9.5 ± 0.6 K, n=5,<br>Use 95% confidence level",5;5e0;5E0;5.;4.9;4.9e0;4.9E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0016 ± 0.0002 ns, n=4<br>0.0017 ± 0.0008 ns, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.0 ± 0.4 kV, n=6<br>1.79 ± 0.13 kV, n=5<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Do these measurements agree within experimental error?<br>50 ± 20 yr, n=5<br>90 ± 20 yr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>500 ± 200 bar, n=6<br>400 ± 200 bar, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0362 ± 0.0008 atm, n=3<br>0.046 ± 0.003 atm, n=4<br>Use 95% confidence level",6;6e0;6E0;6.;5.6;5.6e0;5.6E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.027 ± 0.012 K, n=5<br>0.0181 ± 0.0012 K, n=4<br>Use 95% confidence level",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.59;1.59e0;1.59E0,short_answer
+"Calculate the t statistic for the following measurements:<br>41 ± 6 ms, n=5<br>22 ± 10. ms, n=6<br>Use 95% confidence level",4;4e0;4E0;4.;3.7;3.7e0;3.7E0,short_answer
+"Are the following measurements significantly different?<br>0.013 ± 0.005 kJ, n=5<br>0.013 ± 0.004 kJ, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>70 ± 30 cal, n=4<br>90 ± 20 cal, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>140 ± 20 kg, n=6<br>152.2 ± 1.1 kg, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>380 ± 1.0e2 mL, n=5<br>290.9 ± 0.7 mL, n=5<br>Use 95% confidence level",1.9;1.9e0;1.9E0;2;2e0;2E0;2.;1.91;1.91e0;1.91E0,short_answer
+"Do these measurements agree within experimental error?<br>940 ± 110 mbar, n=3<br>620 ± 110 mbar, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>33 ± 13 nm, n=5<br>60 ± 20 nm, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.5;2.5e0;2.5E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.59 ± 0.15 kJ, n=3<br>0.94 ± 0.05 kJ, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Are the following measurements significantly different?<br>0.14 ± 0.02 m, n=4<br>0.133 ± 0.009 m, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.37 ± 0.11 kJ, n=4<br>0.27 ± 0.11 kJ, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0044 ± 0.0013 M, n=4<br>0.006 ± 0.002 M, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>6.7 ± 0.7 ns, n=6<br>7 ± 3 ns, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Do these measurements agree within experimental error?<br>1.5 ± 0.6 mM, n=4<br>1.9 ± 0.7 mM, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.035 ± 0.009 yr, n=4<br>0.06 ± 0.02 yr, n=3,<br>Use 95% confidence level",2.1;2.1e0;2.1E0;2;2e0;2E0;2.;2.06;2.06e0;2.06E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.004 ± 0.002 yr, n=3<br>0.0037 ± 0.0014 yr, n=3<br>Use 95% confidence level",0.40;4.0e-1;4.0E-1;.40;0.4;4e-1;4E-1;.4;0.398;3.98e-1;3.98E-1;.398,short_answer
+"Calculate the t statistic for the following measurements:<br>930 ± 1.0e2 bar, n=4<br>1.6e3 ± 2e2 bar, n=6<br>Use 95% confidence level",6;6e0;6E0;6.;6.1;6.1e0;6.1E0,short_answer
+"Given the following measurements calculate t:<br>14.5 ± 0.8 s, n=6<br>13 ± 6 s, n=4,<br>Use 95% confidence level",0.5;5e-1;5E-1;.5;0.52;5.2e-1;5.2E-1;.52,short_answer
+"Do these measurements agree within experimental error?<br>630 ± 70 kV, n=3<br>860 ± 140 kV, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>21 ± 8 kV, n=5<br>27 ± 3 kV, n=4<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Are the following measurements significantly different?<br>390 ± 70 mL, n=4<br>4.0e2 ± 130 mL, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.011 ± 0.003 m, n=4<br>0.0184 ± 0.0007 m, n=4,<br>Use 95% confidence level",5;5e0;5E0;5.;4.6;4.6e0;4.6E0,short_answer
+"Are the following measurements significantly different?<br>900 ± 400 cal, n=5<br>740 ± 20 cal, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>38 ± 4 Torr, n=3<br>39.3 ± 0.4 Torr, n=3<br>Use 95% confidence level",0.6;6e-1;6E-1;.6;0.63;6.3e-1;6.3E-1;.63,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.0e2 ± 20 mM, n=5<br>170 ± 60 mM, n=4<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>80 ± 20 mbar, n=5<br>60. ± 14 mbar, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Given the following measurements calculate t:<br>1.2 ± 0.6 nm, n=4<br>0.9 ± 0.2 nm, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>60 ± 20 K, n=6<br>50 ± 20 K, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0022 ± 0.0007 K, n=5<br>0.0036 ± 0.0011 K, n=3<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Are the following measurements significantly different?<br>0.060 ± 0.013 Pa, n=4<br>0.11 ± 0.04 Pa, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.018 ± 0.007 ms, n=6<br>0.03 ± 0.02 ms, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.29 ± 0.05 s, n=6<br>0.5 ± 0.2 s, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Given the following measurements calculate t:<br>320 ± 1.0e2 J, n=6<br>310 ± 40 J, n=3,<br>Use 95% confidence level",0.23;2.3e-1;2.3E-1;.23;0.2;2e-1;2E-1;.2;0.232;2.32e-1;2.32E-1;.232,short_answer
+"Are the following measurements significantly different?<br>70 ± 30 s, n=6<br>45 ± 8 s, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>19 ± 8 J, n=3<br>28 ± 13 J, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.9 ± 0.3 bar, n=6<br>0.4 ± 0.2 bar, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;2.9;2.9e0;2.9E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.8 ± 0.2 ns, n=5<br>1.0 ± 0.5 ns, n=5<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.77;7.7e-1;7.7E-1;.77,short_answer
+"Calculate the t statistic for the following measurements:<br>0.042 ± 0.013 kJ, n=3<br>0.065 ± 0.010 kJ, n=4<br>Use 95% confidence level",2.7;2.7e0;2.7E0;3;3e0;3E0;3.;2.72;2.72e0;2.72E0,short_answer
+"Calculate the t statistic for the following measurements:<br>2.3 ± 0.8 kg, n=3<br>4.46 ± 0.04 kg, n=4<br>Use 95% confidence level",5;5e0;5E0;5.;4.8;4.8e0;4.8E0,short_answer
+"Are the following measurements significantly different?<br>24 ± 5 ns, n=4<br>45 ± 6 ns, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>130 ± 50 h, n=3<br>79 ± 3 h, n=4<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0017 ± 0.0002 Pa, n=6<br>0.0020 ± 0.0008 Pa, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.028 ± 0.012 g, n=4<br>0.048 ± 0.005 g, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.0090 ± 0.0011 atm, n=3<br>0.0154 ± 0.0005 atm, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.026 ± 0.007 ms, n=6<br>0.05 ± 0.02 ms, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Given the following measurements calculate t:<br>12 ± 5 kPa, n=6<br>6 ± 2 kPa, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Do these measurements agree within experimental error?<br>0.24 ± 0.11 L, n=5<br>0.21 ± 0.06 L, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.013 ± 0.003 K, n=5<br>0.007 ± 0.003 K, n=4,<br>Use 95% confidence level",3;3e0;3E0;3.;2.9;2.9e0;2.9E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.1 ± 0.4 bar, n=4<br>2.0 ± 0.9 bar, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>4.0 ± 1.2 mA, n=4<br>5.0 ± 1.0 mA, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Do these measurements agree within experimental error?<br>0.12 ± 0.05 g, n=3<br>0.18 ± 0.08 g, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.0016 ± 0.0004 L, n=3<br>0.0012 ± 0.0004 L, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.29 ± 0.13 kg, n=5<br>0.52 ± 0.08 kg, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0017 ± 0.0007 L, n=5<br>0.0025 ± 0.0010 L, n=6<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Given the following measurements calculate t:<br>0.0027 ± 0.0002 Hz, n=3<br>0.0031 ± 0.0012 Hz, n=6,<br>Use 95% confidence level",0.89;8.9e-1;8.9E-1;.89;0.9;9e-1;9E-1;.9;0.895;8.95e-1;8.95E-1;.895,short_answer
+"Do these measurements agree within experimental error?<br>550 ± 80 L, n=3<br>3.0e2 ± 60 L, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.9 ± 0.4 A, n=4<br>0.64 ± 0.08 A, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.0015 ± 0.0007 mol, n=6<br>0.0018 ± 0.0006 mol, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>10. ± 3 g, n=5<br>18 ± 3 g, n=3,<br>Use 95% confidence level",4;4e0;4E0;4.;3.8;3.8e0;3.8E0,short_answer
+"Given the following measurements calculate t:<br>120 ± 40 Hz, n=6<br>90 ± 40 Hz, n=3,<br>Use 95% confidence level",1.2;1.2e0;1.2E0;1;1e0;1E0;1.;1.19;1.19e0;1.19E0,short_answer
+"Given the following measurements calculate t:<br>0.022 ± 0.006 W, n=6<br>0.017 ± 0.005 W, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Are the following measurements significantly different?<br>2.5 ± 0.8 g, n=6<br>5 ± 2 g, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>1.2 ± 0.2 mbar, n=5<br>1.6 ± 0.5 mbar, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;1.5;1.5e0;1.5E0,short_answer
+"Are the following measurements significantly different?<br>2.5 ± 0.3 m, n=3<br>2.3 ± 1.0 m, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.035 ± 0.005 N, n=5<br>0.05 ± 0.02 N, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>700 ± 400 atm, n=6<br>740 ± 90 atm, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>600 ± 200 m, n=5<br>1.02e3 ± 4e1 m, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Given the following measurements calculate t:<br>0.0024 ± 0.0005 mL, n=4<br>0.0025 ± 0.0012 mL, n=3,<br>Use 95% confidence level",0.20;2.0e-1;2.0E-1;.20;0.2;2e-1;2E-1;.2;0.199;1.99e-1;1.99E-1;.199,short_answer
+"Are the following measurements significantly different?<br>50 ± 20 V, n=6<br>73 ± 13 V, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>220 ± 70 J, n=5<br>170 ± 70 J, n=4<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.94;9.4e-1;9.4E-1;.94,short_answer
+"Are the following measurements significantly different?<br>25 ± 3 mmHg, n=4<br>20.29 ± 0.09 mmHg, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.003 ± 0.002 bar, n=4<br>0.0031 ± 0.0003 bar, n=6,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.32;3.2e-1;3.2E-1;.32,short_answer
+"Given the following measurements calculate t:<br>0.0010 ± 0.0005 kPa, n=3<br>0.0010 ± 0.0002 kPa, n=6,<br>Use 95% confidence level",0.06;6e-2;6E-2;.06;0.062;6.2e-2;6.2E-2;.062,short_answer
+"Do these measurements agree within experimental error?<br>0.0024 ± 0.0002 V, n=4<br>0.00306 ± 0.00006 V, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>500 ± 300 J, n=5<br>330 ± 1.0e2 J, n=4<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Are the following measurements significantly different?<br>150 ± 30 mM, n=4<br>160 ± 30 mM, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.024 ± 0.009 Pa, n=6<br>0.029 ± 0.003 Pa, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0040 ± 0.0010 kg, n=4<br>0.006 ± 0.002 kg, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;1.5;1.5e0;1.5E0,short_answer
+"Are the following measurements significantly different?<br>500 ± 200 Hz, n=6<br>910 ± 20 Hz, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>6 ± 3 bar, n=4<br>9 ± 4 bar, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>7 ± 3 mM, n=6<br>12 ± 4 mM, n=6<br>Use 95% confidence level",2.6;2.6e0;2.6E0;3;3e0;3E0;3.;2.59;2.59e0;2.59E0,short_answer
+"Given the following measurements calculate t:<br>2.73 ± 0.10 ns, n=6<br>3 ± 2 ns, n=3,<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.44;4.4e-1;4.4E-1;.44,short_answer
+"Calculate the t statistic for the following measurements:<br>0.6 ± 0.2 Hz, n=5<br>0.55 ± 0.06 Hz, n=5<br>Use 95% confidence level",0.1;1e-1;1E-1;.1;0.11;1.1e-1;1.1E-1;.11,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>290 ± 40 ns, n=5<br>500 ± 200 ns, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.006 ± 0.002 Torr, n=6<br>0.003 ± 0.002 Torr, n=5<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Do these measurements agree within experimental error?<br>0.041 ± 0.014 s, n=6<br>0.05 ± 0.02 s, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>380 ± 20 cal, n=5<br>580 ± 20 cal, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>70 ± 20 Pa, n=6<br>79 ± 13 Pa, n=5<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.38;3.8e-1;3.8E-1;.38,short_answer
+"Are the following measurements significantly different?<br>0.0021 ± 0.0004 mmHg, n=6<br>0.0030 ± 0.0007 mmHg, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.101 ± 0.014 A, n=5<br>0.09 ± 0.04 A, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.012 ± 0.002 kJ, n=3<br>0.014 ± 0.005 kJ, n=5<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.025 ± 0.003 kPa, n=4<br>0.0150 ± 0.0006 kPa, n=3<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Given the following measurements calculate t:<br>9.3 ± 0.4 ns, n=4<br>7 ± 3 ns, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;2.1;2.1e0;2.1E0,short_answer
+"Are the following measurements significantly different?<br>0.047 ± 0.007 mol, n=4<br>0.040 ± 0.012 mol, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>15 ± 5 cal, n=5<br>22 ± 7 cal, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>3.10 ± 0.14 yr, n=3<br>4.6 ± 1.4 yr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>6.5 ± 1.4 g, n=3<br>6 ± 2 g, n=5<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.44;4.4e-1;4.4E-1;.44,short_answer
+"Do these measurements agree within experimental error?<br>800 ± 200 kg, n=4<br>1.2e3 ± 4e2 kg, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.11 ± 0.02 mM, n=3<br>0.11 ± 0.04 mM, n=3<br>Use 95% confidence level",0.05;5e-2;5E-2;.05;0.049;4.9e-2;4.9E-2;.049,short_answer
+"Do these measurements agree within experimental error?<br>0.18 ± 0.07 kg, n=6<br>0.28 ± 0.06 kg, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>2.2 ± 0.6 m, n=4<br>2.7 ± 1.1 m, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.020 ± 0.009 L, n=6<br>0.03 ± 0.02 L, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>23 ± 10. mbar, n=6<br>37 ± 7 mbar, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.18 ± 0.03 mA, n=6<br>0.30 ± 0.12 mA, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>6.5 ± 0.5 mmHg, n=5<br>9 ± 4 mmHg, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.009 ± 0.002 atm, n=3<br>0.0061 ± 0.0010 atm, n=6<br>Use 95% confidence level",2.5;2.5e0;2.5E0;3;3e0;3E0;3.;2.54;2.54e0;2.54E0,short_answer
+"Do these measurements agree within experimental error?<br>9.3 ± 1.0 K, n=4<br>11 ± 4 K, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>8.0 ± 1.1 kcal, n=6<br>12.33 ± 0.06 kcal, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>70 ± 20 kPa, n=3<br>70 ± 30 kPa, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.00265 ± 0.00014 cal, n=5<br>0.00265 ± 0.00013 cal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.0025 ± 0.0002 L, n=5<br>0.004414 ± 0.000010 L, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.07 ± 0.02 nm, n=4<br>0.05 ± 0.02 nm, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.06 ± 0.03 mM, n=6<br>0.08 ± 0.03 mM, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>130 ± 50 kg, n=5<br>190 ± 80 kg, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;1.5;1.5e0;1.5E0,short_answer
+"Do these measurements agree within experimental error?<br>0.6 ± 0.2 L, n=4<br>1.1 ± 0.2 L, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>9.0e2 ± 60 bar, n=4<br>1.34e3 ± 9e1 bar, n=6<br>Use 95% confidence level",9;9e0;9E0;9.;8.5;8.5e0;8.5E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.10 ± 0.02 g, n=4<br>0.14 ± 0.04 g, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>10.9 ± 0.6 V, n=4<br>8.3 ± 0.2 V, n=4<br>Use 95% confidence level",8;8e0;8E0;8.;8.3;8.3e0;8.3E0,short_answer
+"Given the following measurements calculate t:<br>18 ± 5 kPa, n=5<br>28 ± 11 kPa, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0062 ± 0.0012 K, n=6<br>0.004 ± 0.002 K, n=3<br>Use 95% confidence level",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.76;1.76e0;1.76E0,short_answer
+"Are the following measurements significantly different?<br>550 ± 130 M, n=4<br>320 ± 50 M, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.014 ± 0.003 cal, n=4<br>0.026 ± 0.003 cal, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Are the following measurements significantly different?<br>0.06 ± 0.02 A, n=5<br>0.09 ± 0.04 A, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.0065 ± 0.0012 mA, n=5<br>0.013 ± 0.004 mA, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>12 ± 3 V, n=4<br>12 ± 4 V, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>1.8 ± 0.9 Hz, n=6<br>2.0 ± 0.8 Hz, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>380 ± 70 Torr, n=3<br>700 ± 200 Torr, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Given the following measurements calculate t:<br>0.018 ± 0.002 kcal, n=5<br>0.014 ± 0.002 kcal, n=4,<br>Use 95% confidence level",3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+"Are the following measurements significantly different?<br>140 ± 40 h, n=4<br>70 ± 20 h, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.10 ± 0.03 M, n=4<br>0.09 ± 0.04 M, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0064 ± 0.0002 V, n=4<br>0.0049 ± 0.0008 V, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Do these measurements agree within experimental error?<br>3.0e2 ± 80 kPa, n=6<br>570 ± 130 kPa, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.035 ± 0.008 ns, n=4<br>0.039 ± 0.012 ns, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>12 ± 2 kPa, n=4<br>10. ± 2 kPa, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Are the following measurements significantly different?<br>0.0080 ± 0.0012 g, n=4<br>0.010 ± 0.002 g, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.009 ± 0.004 mA, n=4<br>0.013 ± 0.003 mA, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>490 ± 80 s, n=4<br>290 ± 40 s, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0027 ± 0.0007 kg, n=6<br>0.0018 ± 0.0008 kg, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Calculate the t statistic for the following measurements:<br>380 ± 20 kcal, n=4<br>500 ± 200 kcal, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Given the following measurements calculate t:<br>0.014 ± 0.007 mA, n=6<br>0.021 ± 0.005 mA, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.33 ± 0.07 kg, n=3<br>0.5 ± 0.2 kg, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Are the following measurements significantly different?<br>0.031 ± 0.008 L, n=3<br>0.01551 ± 0.00008 L, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>8 ± 2 kV, n=3<br>7 ± 3 kV, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0057 ± 0.0007 M, n=5<br>0.0090 ± 0.0013 M, n=3<br>Use 95% confidence level",5;5e0;5E0;5.;4.9;4.9e0;4.9E0,short_answer
+"Given the following measurements calculate t:<br>1.5 ± 0.7 nm, n=3<br>1.15 ± 0.03 nm, n=4,<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.88;8.8e-1;8.8E-1;.88,short_answer
+"Given the following measurements calculate t:<br>5.8 ± 0.2 kg, n=6<br>9 ± 4 kg, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Given the following measurements calculate t:<br>0.0038 ± 0.0003 K, n=5<br>0.0035 ± 0.0002 K, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.6;1.6e0;1.6E0,short_answer
+"Are the following measurements significantly different?<br>0.0023 ± 0.0002 kPa, n=6<br>0.00232 ± 0.00004 kPa, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>1.0e3 ± 400 mbar, n=6<br>1.01e3 ± 7e1 mbar, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>60 ± 20 mbar, n=3<br>60 ± 20 mbar, n=4,<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.16;1.6e-1;1.6E-1;.16,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0041 ± 0.0011 K, n=4<br>0.0037 ± 0.0009 K, n=6<br>Use 95% confidence level",0.6;6e-1;6E-1;.6;0.59;5.9e-1;5.9E-1;.59,short_answer
+"Are the following measurements significantly different?<br>1.1 ± 0.2 Pa, n=3<br>1.7 ± 0.5 Pa, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.0149 ± 0.0006 Pa, n=4<br>0.013 ± 0.002 Pa, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Calculate the t statistic for the following measurements:<br>350 ± 140 atm, n=4<br>630 ± 50 atm, n=5<br>Use 95% confidence level",3.8;3.8e0;3.8E0;4;4e0;4E0;4.;3.83;3.83e0;3.83E0,short_answer
+"Given the following measurements calculate t:<br>0.50 ± 0.12 Hz, n=5<br>0.89 ± 0.10 Hz, n=5,<br>Use 95% confidence level",5.6;5.6e0;5.6E0;6;6e0;6E0;6.;5.58;5.58e0;5.58E0,short_answer
+"Calculate the t statistic for the following measurements:<br>33 ± 9 Hz, n=6<br>29 ± 11 Hz, n=3<br>Use 95% confidence level",0.5;5e-1;5E-1;.5;0.53;5.3e-1;5.3E-1;.53,short_answer
+"Given the following measurements calculate t:<br>0.08 ± 0.03 V, n=5<br>0.08 ± 0.02 V, n=3,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.26;2.6e-1;2.6E-1;.26,short_answer
+"Do these measurements agree within experimental error?<br>0.34 ± 0.14 Pa, n=6<br>0.22 ± 0.02 Pa, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>600 ± 200 m, n=5<br>1.1e3 ± 4e2 m, n=3<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0049 ± 0.0012 kJ, n=6<br>0.005 ± 0.002 kJ, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>1.05 ± 0.14 A, n=5<br>1.2 ± 0.4 A, n=5<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.89;8.9e-1;8.9E-1;.89,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.066 ± 0.007 mbar, n=5<br>0.067 ± 0.005 mbar, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Given the following measurements calculate t:<br>0.8 ± 0.3 N, n=5<br>0.7 ± 0.2 N, n=5,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.30;3.0e-1;3.0E-1;.30,short_answer
+"Given the following measurements calculate t:<br>4.8 ± 0.3 mM, n=6<br>3.1 ± 0.3 mM, n=4,<br>Use 95% confidence level",9;9e0;9E0;9.;8.5;8.5e0;8.5E0,short_answer
+"Are the following measurements significantly different?<br>0.12 ± 0.02 ms, n=6<br>0.19 ± 0.08 ms, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>154.6 ± 1.2 nm, n=5<br>120 ± 40 nm, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>57 ± 8 A, n=3<br>1.0e2 ± 20 A, n=4<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Are the following measurements significantly different?<br>2.6 ± 0.3 J, n=3<br>2.227 ± 0.008 J, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.036 ± 0.006 h, n=6<br>0.018 ± 0.008 h, n=6<br>Use 95% confidence level",2.228;2.228e0;2.228E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.14 ± 0.05 V, n=3<br>0.153 ± 0.009 V, n=5<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Are the following measurements significantly different?<br>2.4 ± 1.2 nm, n=6<br>1.5 ± 0.4 nm, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>0.5 ± 0.2 N, n=6<br>0.6 ± 0.2 N, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>584 ± 7 mbar, n=3<br>1.2e3 ± 4e2 mbar, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>90. ± 8 W, n=5<br>160 ± 40 W, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Calculate the t statistic for the following measurements:<br>118 ± 6 W, n=3<br>110 ± 30 W, n=3<br>Use 95% confidence level",0.2;2e-1;2E-1;.2;0.18;1.8e-1;1.8E-1;.18,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0031 ± 0.0003 bar, n=3<br>0.00610 ± 0.00006 bar, n=5<br>Use 95% confidence level",20;2e1;2E1;17;1.7e1;1.7E1;17.,short_answer
+"Given the following measurements calculate t:<br>0.032 ± 0.012 yr, n=6<br>0.055 ± 0.010 yr, n=4,<br>Use 95% confidence level",3.11;3.11e0;3.11E0;3.1;3.1e0;3.1E0;3.105;3.105e0;3.105E0,short_answer
+"Are the following measurements significantly different?<br>0.60 ± 0.14 bar, n=4<br>0.50 ± 0.11 bar, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>63 ± 7 mL, n=4<br>90 ± 30 mL, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Do these measurements agree within experimental error?<br>430 ± 60 Hz, n=6<br>320 ± 70 Hz, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>7 ± 3 Torr, n=5<br>6 ± 2 Torr, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0012 ± 0.0003 A, n=6<br>0.0016 ± 0.0006 A, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Are the following measurements significantly different?<br>0.031 ± 0.003 M, n=6<br>0.0397 ± 0.0013 M, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.026 ± 0.008 V, n=6<br>0.015 ± 0.002 V, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;3.3;3.3e0;3.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>48 ± 7 bar, n=5<br>50 ± 20 bar, n=4<br>Use 95% confidence level",0.1;1e-1;1E-1;.1;0.12;1.2e-1;1.2E-1;.12,short_answer
+"Are the following measurements significantly different?<br>1.5 ± 0.3 kcal, n=5<br>1.1 ± 0.2 kcal, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.00136 ± 0.00012 kJ, n=5<br>0.0011 ± 0.0002 kJ, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0069 ± 0.0010 W, n=6<br>0.012 ± 0.002 W, n=3<br>Use 95% confidence level",5.7;5.7e0;5.7E0;6;6e0;6E0;6.;5.69;5.69e0;5.69E0,short_answer
+"Are the following measurements significantly different?<br>0.0014 ± 0.0004 kg, n=4<br>0.0023 ± 0.0006 kg, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>90 ± 20 yr, n=5<br>170 ± 50 yr, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;3.3;3.3e0;3.3E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.06 ± 0.02 kV, n=3<br>0.0724 ± 0.0013 kV, n=5<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Are the following measurements significantly different?<br>3.4 ± 0.4 h, n=4<br>4.9 ± 1.3 h, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>500 ± 200 h, n=3<br>700 ± 200 h, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Given the following measurements calculate t:<br>0.4 ± 0.2 yr, n=3<br>0.6 ± 0.3 yr, n=3,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.40 ± 0.02 kcal, n=3<br>0.42 ± 0.02 kcal, n=4<br>Use 95% confidence level",1.0;1.0e0;1.0E0;.0;0.99;9.9e-1;9.9E-1;.99,short_answer
+"Calculate the t statistic for the following measurements:<br>15 ± 2 Pa, n=5<br>27 ± 5 Pa, n=5<br>Use 95% confidence level",5;5e0;5E0;5.;4.7;4.7e0;4.7E0,short_answer
+"Given the following measurements calculate t:<br>0.0021 ± 0.0007 N, n=4<br>0.0036 ± 0.0014 N, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Given the following measurements calculate t:<br>8 ± 4 h, n=6<br>9 ± 3 h, n=4,<br>Use 95% confidence level",0.70;7.0e-1;7.0E-1;.70;0.7;7e-1;7E-1;.7;0.695;6.95e-1;6.95E-1;.695,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.26 ± 0.07 kPa, n=4<br>0.18 ± 0.03 kPa, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.020 ± 0.009 s, n=5<br>0.04 ± 0.02 s, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0013 ± 0.0005 cal, n=5<br>0.0012 ± 0.0004 cal, n=6<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Given the following measurements calculate t:<br>0.00162 ± 0.00006 atm, n=5<br>0.0013 ± 0.0003 atm, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Do these measurements agree within experimental error?<br>0.016 ± 0.003 K, n=6<br>0.029 ± 0.008 K, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.80 ± 0.03 mA, n=6<br>1.2 ± 0.3 mA, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Given the following measurements calculate t:<br>0.33 ± 0.07 kJ, n=6<br>0.6 ± 0.3 kJ, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;2.1;2.1e0;2.1E0,short_answer
+"Are the following measurements significantly different?<br>0.27 ± 0.14 A, n=6<br>0.35 ± 0.11 A, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>70 ± 30 kg, n=3<br>110 ± 20 kg, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Given the following measurements calculate t:<br>50. ± 4 K, n=3<br>60 ± 20 K, n=6,<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.74;7.4e-1;7.4E-1;.74,short_answer
+"Are the following measurements significantly different?<br>0.26 ± 0.07 kcal, n=5<br>0.13 ± 0.04 kcal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>370 ± 120 N, n=3<br>600 ± 200 N, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.7 ± 0.6 km, n=5<br>2.7 ± 0.7 km, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.003 ± 0.002 mmHg, n=6<br>0.004 ± 0.002 mmHg, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Given the following measurements calculate t:<br>1.36 ± 0.06 W, n=5<br>2.5 ± 0.8 W, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.5;2.5e0;2.5E0,short_answer
+"Given the following measurements calculate t:<br>0.0026 ± 0.0005 kcal, n=5<br>0.0030 ± 0.0011 kcal, n=6,<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.73;7.3e-1;7.3E-1;.73,short_answer
+"Are the following measurements significantly different?<br>160 ± 50 mol, n=5<br>150 ± 50 mol, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Do these measurements agree within experimental error?<br>780 ± 140 mM, n=5<br>800 ± 400 mM, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0085 ± 0.0012 mol, n=4<br>0.013 ± 0.005 mol, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Given the following measurements calculate t:<br>0.030 ± 0.005 ms, n=5<br>0.04 ± 0.02 ms, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Do these measurements agree within experimental error?<br>3.7 ± 0.3 nm, n=3<br>3.42 ± 0.10 nm, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>900 ± 300 A, n=4<br>1.0e3 ± 400 A, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.006 ± 0.002 cal, n=6<br>0.0075 ± 0.0014 cal, n=4<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Are the following measurements significantly different?<br>268 ± 10. Torr, n=3<br>210 ± 80 Torr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>3.7 ± 0.3 ns, n=6<br>6 ± 3 ns, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Given the following measurements calculate t:<br>2.8 ± 0.3 kg, n=6<br>3.8 ± 0.6 kg, n=5,<br>Use 95% confidence level",4;4e0;4E0;4.;3.6;3.6e0;3.6E0,short_answer
+"Calculate the t statistic for the following measurements:<br>55 ± 7 L, n=4<br>35 ± 3 L, n=4<br>Use 95% confidence level",5;5e0;5E0;5.;5.2;5.2e0;5.2E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.426 ± 0.007 h, n=4<br>0.80 ± 0.05 h, n=3<br>Use 95% confidence level",10;1e1;1E1;13;1.3e1;1.3E1;13.,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0039 ± 0.0006 V, n=6<br>0.0044 ± 0.0008 V, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Calculate the t statistic for the following measurements:<br>26 ± 7 mL, n=5<br>51 ± 11 mL, n=3<br>Use 95% confidence level",4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+"Are the following measurements significantly different?<br>0.18 ± 0.04 J, n=5<br>0.23 ± 0.07 J, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.004 ± 0.002 mbar, n=4<br>0.007 ± 0.002 mbar, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+"Given the following measurements calculate t:<br>0.0037 ± 0.0006 h, n=6<br>0.0036 ± 0.0006 h, n=4,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.28;2.8e-1;2.8E-1;.28,short_answer
+"Given the following measurements calculate t:<br>0.059 ± 0.008 s, n=6<br>0.046 ± 0.005 s, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;2.5;2.5e0;2.5E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.35 ± 0.14 A, n=4<br>0.6 ± 0.2 A, n=3<br>Use 95% confidence level",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.18;2.18e0;2.18E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0079 ± 0.0006 W, n=3<br>0.013 ± 0.005 W, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>700 ± 200 mM, n=5<br>800 ± 200 mM, n=6<br>Use 95% confidence level",2.262;2.262e0;2.262E0,short_answer
+"Are the following measurements significantly different?<br>0.006 ± 0.002 Hz, n=6<br>0.0092 ± 0.0014 Hz, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>3.7 ± 0.3 V, n=6<br>4.5 ± 0.5 V, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Are the following measurements significantly different?<br>38 ± 11 J, n=6<br>70 ± 20 J, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>2.3 ± 1.1 mol, n=6<br>2.0 ± 1.0 mol, n=6<br>Use 95% confidence level",2.228;2.228e0;2.228E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.06 ± 0.02 cal, n=4<br>0.078 ± 0.012 cal, n=6<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Are the following measurements significantly different?<br>0.0018 ± 0.0002 mol, n=3<br>0.0023 ± 0.0005 mol, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.23 ± 0.05 Torr, n=3<br>0.23 ± 0.09 Torr, n=5<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Do these measurements agree within experimental error?<br>0.014 ± 0.006 kg, n=3<br>0.019 ± 0.002 kg, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0019 ± 0.0003 mbar, n=6<br>0.00372 ± 0.00012 mbar, n=5<br>Use 95% confidence level",10;1e1;1E1;13;1.3e1;1.3E1;13.,short_answer
+"Given the following measurements calculate t:<br>13 ± 4 kg, n=3<br>12.0 ± 0.7 kg, n=4,<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.37;3.7e-1;3.7E-1;.37,short_answer
+"Do these measurements agree within experimental error?<br>110 ± 40 A, n=3<br>61 ± 4 A, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0011 ± 0.0004 g, n=5<br>0.00157 ± 0.00005 g, n=4<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.049 ± 0.004 Pa, n=6<br>0.09 ± 0.03 Pa, n=6<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Given the following measurements calculate t:<br>3.5 ± 0.8 m, n=5<br>6.1 ± 0.4 m, n=5,<br>Use 95% confidence level",6;6e0;6E0;6.;6.4;6.4e0;6.4E0,short_answer
+"Are the following measurements significantly different?<br>6 ± 2 J, n=5<br>8 ± 4 J, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>16 ± 4 Pa, n=4<br>11.83 ± 0.08 Pa, n=5,<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Are the following measurements significantly different?<br>149 ± 11 m, n=5<br>250 ± 110 m, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>713 ± 14 N, n=4<br>1.3e3 ± 6e2 N, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.3;2.3e0;2.3E0,short_answer
+"Given the following measurements calculate t:<br>0.0011 ± 0.0005 g, n=3<br>6.9e-4 ± 1.3e-4 g, n=6,<br>Use 95% confidence level",1;1e0;1E0;1.;1.5;1.5e0;1.5E0,short_answer
+"Given the following measurements calculate t:<br>5 ± 3 nm, n=4<br>8.2 ± 0.5 nm, n=3,<br>Use 95% confidence level",2;2e0;2E0;2.;1.8;1.8e0;1.8E0,short_answer
+"Are the following measurements significantly different?<br>300 ± 200 L, n=4<br>360 ± 70 L, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>300 ± 200 s, n=6<br>400 ± 200 s, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>350 ± 30 mmHg, n=3<br>610 ± 1.0e2 mmHg, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.060 ± 0.007 M, n=6<br>0.08 ± 0.04 M, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.023 ± 0.008 Torr, n=5<br>0.0376 ± 0.0003 Torr, n=4<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Do these measurements agree within experimental error?<br>0.00227 ± 0.00010 mA, n=5<br>0.0041 ± 0.0009 mA, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.011 ± 0.002 kg, n=4<br>0.016 ± 0.002 kg, n=4,<br>Use 95% confidence level",3;3e0;3E0;3.;3.3;3.3e0;3.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>15 ± 4 kcal, n=3<br>10. ± 4 kcal, n=6<br>Use 95% confidence level",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;2.02;2.02e0;2.02E0,short_answer
+"Given the following measurements calculate t:<br>170 ± 30 mM, n=5<br>310 ± 130 mM, n=6,<br>Use 95% confidence level",2.7;2.7e0;2.7E0;3;3e0;3E0;3.;2.66;2.66e0;2.66E0,short_answer
+"Given the following measurements calculate t:<br>2.9 ± 0.9 J, n=6<br>2.41 ± 0.03 J, n=6,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Do these measurements agree within experimental error?<br>7 ± 3 kcal, n=3<br>8 ± 2 kcal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.33 ± 0.12 mbar, n=5<br>0.5 ± 0.2 mbar, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.38 ± 0.09 bar, n=4<br>0.438 ± 0.014 bar, n=5,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.23 ± 0.02 mmHg, n=6<br>0.44 ± 0.14 mmHg, n=5<br>Use 95% confidence level",3.3;3.3e0;3.3E0;3;3e0;3E0;3.;3.31;3.31e0;3.31E0,short_answer
+"Are the following measurements significantly different?<br>70 ± 20 V, n=5<br>130 ± 50 V, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.060 ± 0.010 V, n=4<br>0.12 ± 0.04 V, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.17 ± 0.08 ns, n=3<br>0.1103 ± 0.0013 ns, n=4,<br>Use 95% confidence level",1;1e0;1E0;1.;1.3;1.3e0;1.3E0,short_answer
+"Are the following measurements significantly different?<br>44 ± 3 Pa, n=3<br>54 ± 7 Pa, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>28 ± 9 km, n=4<br>17 ± 3 km, n=6<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Given the following measurements calculate t:<br>4.1 ± 0.4 kcal, n=6<br>2.208 ± 0.014 kcal, n=3,<br>Use 95% confidence level",10;1e1;1E1;11;1.1e1;1.1E1;11.,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>30 ± 20 atm, n=4<br>70 ± 30 atm, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Do these measurements agree within experimental error?<br>60 ± 20 atm, n=4<br>40.0 ± 1.1 atm, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.03980 ± 0.00006 N, n=5<br>0.05 ± 0.02 N, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>3.2 ± 0.4 K, n=6<br>4.00 ± 0.07 K, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.2 ± 0.4 cal, n=5<br>0.9 ± 0.3 cal, n=5<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Calculate the t statistic for the following measurements:<br>2.0e2 ± 70 nm, n=6<br>190 ± 50 nm, n=5<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.40;4.0e-1;4.0E-1;.40,short_answer
+"Are the following measurements significantly different?<br>0.00149 ± 0.00002 g, n=4<br>0.0027 ± 0.0011 g, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.015 ± 0.006 L, n=5<br>0.014 ± 0.003 L, n=6,<br>Use 95% confidence level",0.4;4e-1;4E-1;.4;0.37;3.7e-1;3.7E-1;.37,short_answer
+"Calculate the t statistic for the following measurements:<br>0.6 ± 0.2 A, n=3<br>1.2 ± 0.5 A, n=4<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.079 ± 0.013 ms, n=4<br>0.09 ± 0.03 ms, n=3<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Calculate the t statistic for the following measurements:<br>17 ± 8 ns, n=3<br>33 ± 7 ns, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+"Are the following measurements significantly different?<br>0.014 ± 0.004 s, n=6<br>0.017 ± 0.007 s, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.31 ± 0.13 W, n=5<br>0.46 ± 0.11 W, n=3<br>Use 95% confidence level",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.63;1.63e0;1.63E0,short_answer
+"Calculate the t statistic for the following measurements:<br>140 ± 50 A, n=4<br>180 ± 60 A, n=5<br>Use 95% confidence level",1.0;1.0e0;1.0E0;.0;0.97;9.7e-1;9.7E-1;.97,short_answer
+"Calculate the t statistic for the following measurements:<br>1.3 ± 0.5 Pa, n=3<br>1.6 ± 0.6 Pa, n=6<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.70;7.0e-1;7.0E-1;.70,short_answer
+"Calculate the t statistic for the following measurements:<br>0.14 ± 0.07 J, n=3<br>0.20 ± 0.03 J, n=5<br>Use 95% confidence level",1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.73;1.73e0;1.73E0,short_answer
+"Calculate the t statistic for the following measurements:<br>1.14 ± 0.08 mM, n=3<br>1.8 ± 0.4 mM, n=5<br>Use 95% confidence level",4;4e0;4E0;4.;3.6;3.6e0;3.6E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0013 ± 0.0004 nm, n=6<br>0.0021 ± 0.0005 nm, n=5<br>Use 95% confidence level",3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.61 ± 0.08 mM, n=6<br>1.1 ± 0.3 mM, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Do these measurements agree within experimental error?<br>9.43 ± 0.12 mA, n=5<br>6 ± 3 mA, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>140 ± 20 yr, n=4<br>120 ± 30 yr, n=3<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.063 ± 0.005 mbar, n=3<br>0.09 ± 0.03 mbar, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>19 ± 5 atm, n=5<br>11 ± 3 atm, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.044 ± 0.014 mmHg, n=3<br>0.04 ± 0.02 mmHg, n=6<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Do these measurements agree within experimental error?<br>2.0e2 ± 90 L, n=3<br>170 ± 60 L, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.0059 ± 0.0006 M, n=3<br>0.010 ± 0.005 M, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>1.8 ± 0.7 kcal, n=3<br>3.0 ± 1.1 kcal, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>380 ± 40 N, n=3<br>700 ± 300 N, n=3<br>Use 95% confidence level",4.303;4.303e0;4.303E0,short_answer
+"Are the following measurements significantly different?<br>9 ± 3 cal, n=3<br>6 ± 2 cal, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>15 ± 2 atm, n=5<br>28 ± 7 atm, n=4,<br>Use 95% confidence level",4;4e0;4E0;4.;3.6;3.6e0;3.6E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>350 ± 120 ms, n=3<br>310 ± 1.0e2 ms, n=3<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>4.4 ± 0.3 L, n=3<br>7 ± 2 L, n=5<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Do these measurements agree within experimental error?<br>16 ± 2 ms, n=6<br>15 ± 2 ms, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>12 ± 5 atm, n=4<br>22.1 ± 0.5 atm, n=3<br>Use 95% confidence level",4;4e0;4E0;4.;4.1;4.1e0;4.1E0,short_answer
+"Given the following measurements calculate t:<br>0.0067 ± 0.0003 kg, n=5<br>0.007 ± 0.002 kg, n=5,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.32;3.2e-1;3.2E-1;.32,short_answer
+"Calculate the t statistic for the following measurements:<br>10.6 ± 0.3 A, n=3<br>6 ± 2 A, n=6<br>Use 95% confidence level",5;5e0;5E0;5.;5.4;5.4e0;5.4E0,short_answer
+"Calculate the t statistic for the following measurements:<br>460 ± 40 L, n=3<br>270 ± 110 L, n=3<br>Use 95% confidence level",2.7;2.7e0;2.7E0;3;3e0;3E0;3.;2.74;2.74e0;2.74E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0237 ± 0.0009 ms, n=3<br>0.027 ± 0.009 ms, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Given the following measurements calculate t:<br>0.23 ± 0.03 V, n=4<br>0.18 ± 0.07 V, n=3,<br>Use 95% confidence level",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0020 ± 0.0003 g, n=4<br>0.0028 ± 0.0008 g, n=3<br>Use 95% confidence level",2;2e0;2E0;2.;1.9;1.9e0;1.9E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.0e2 ± 20 V, n=6<br>180 ± 50 V, n=4<br>Use 95% confidence level",2.776;2.776e0;2.776E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.007 ± 0.003 kJ, n=4<br>0.0062 ± 0.0002 kJ, n=3<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Do these measurements agree within experimental error?<br>0.0052 ± 0.0005 Hz, n=6<br>0.0041 ± 0.0010 Hz, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>18 ± 7 N, n=5<br>31 ± 12 N, n=5<br>Use 95% confidence level",2.306;2.306e0;2.306E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.35 ± 0.13 A, n=5<br>0.6 ± 0.2 A, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;2.7;2.7e0;2.7E0,short_answer
+"Given the following measurements calculate t:<br>0.19 ± 0.02 mL, n=6<br>0.24 ± 0.10 mL, n=6,<br>Use 95% confidence level",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.03;1.03e0;1.03E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0039 ± 0.0014 Pa, n=5<br>0.0034 ± 0.0008 Pa, n=3<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Given the following measurements calculate t:<br>0.009 ± 0.003 mA, n=5<br>0.008 ± 0.004 mA, n=6,<br>Use 95% confidence level",0.31;3.1e-1;3.1E-1;.31;0.3;3e-1;3E-1;.3;0.310;3.10e-1;3.10E-1;.310,short_answer
+"Given the following measurements calculate t:<br>0.51 ± 0.04 h, n=3<br>0.359 ± 0.012 h, n=5,<br>Use 95% confidence level",6;6e0;6E0;6.;6.5;6.5e0;6.5E0,short_answer
+"Calculate the t statistic for the following measurements:<br>6 ± 2 kJ, n=4<br>10. ± 3 kJ, n=6<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Do these measurements agree within experimental error?<br>12.4 ± 0.2 km, n=3<br>21 ± 10. km, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.003 ± 0.002 g, n=4<br>0.0048 ± 0.0003 g, n=4,<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Are the following measurements significantly different?<br>0.0022 ± 0.0008 mL, n=3<br>0.0021 ± 0.0003 mL, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>4.29 ± 0.04 kJ, n=6<br>2.8 ± 0.5 kJ, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>1.0 ± 0.3 kcal, n=5<br>0.91 ± 0.05 kcal, n=3,<br>Use 95% confidence level",0.3;3e-1;3E-1;.3;0.32;3.2e-1;3.2E-1;.32,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>1.0 ± 0.2 mmHg, n=6<br>0.7 ± 0.2 mmHg, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Are the following measurements significantly different?<br>1.0 ± 0.5 mmHg, n=4<br>1.7 ± 0.6 mmHg, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>90 ± 40 mM, n=4<br>120 ± 60 mM, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.008 ± 0.003 Pa, n=5<br>0.0112 ± 0.0007 Pa, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.080 ± 0.010 kg, n=4<br>0.049 ± 0.009 kg, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0031 ± 0.0014 mL, n=6<br>0.0017 ± 0.0005 mL, n=5<br>Use 95% confidence level",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.27;2.27e0;2.27E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>550 ± 130 V, n=5<br>900 ± 500 V, n=6<br>Use 95% confidence level",2.447;2.447e0;2.447E0,short_answer
+"Given the following measurements calculate t:<br>16.2 ± 1.2 K, n=6<br>12 ± 3 K, n=3,<br>Use 95% confidence level",3;3e0;3E0;3.;3.4;3.4e0;3.4E0,short_answer
+"Do these measurements agree within experimental error?<br>5.1 ± 1.3 mbar, n=6<br>5 ± 2 mbar, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>140 ± 60 L, n=4<br>190 ± 20 L, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>0.08 ± 0.03 nm, n=3<br>0.15 ± 0.03 nm, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0131 ± 0.0013 ms, n=5<br>0.011 ± 0.003 ms, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.5;1.5e0;1.5E0,short_answer
+"Are the following measurements significantly different?<br>0.004 ± 0.002 kV, n=6<br>0.0050 ± 0.0010 kV, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>12 ± 6 atm, n=3<br>20. ± 3 atm, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.006 ± 0.003 Torr, n=4<br>0.0033 ± 0.0008 Torr, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;1.7;1.7e0;1.7E0,short_answer
+"Do these measurements agree within experimental error?<br>1.36 ± 0.14 L, n=4<br>2.1 ± 0.5 L, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>50 ± 20 N, n=4<br>92 ± 7 N, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>110 ± 20 km, n=4<br>111 ± 2 km, n=5<br>Use 95% confidence level",0.5;5e-1;5E-1;.5;0.47;4.7e-1;4.7E-1;.47,short_answer
+"Given the following measurements calculate t:<br>20.9 ± 0.3 A, n=6<br>16 ± 2 A, n=4,<br>Use 95% confidence level",5;5e0;5E0;5.;5.1;5.1e0;5.1E0,short_answer
+"Given the following measurements calculate t:<br>22 ± 7 km, n=4<br>45 ± 13 km, n=5,<br>Use 95% confidence level",3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.13 ± 0.04 cal, n=3<br>0.15 ± 0.02 cal, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.1;1.1e0;1.1E0,short_answer
+"Are the following measurements significantly different?<br>290 ± 140 Pa, n=3<br>213 ± 2 Pa, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.00287 ± 0.00006 g, n=4<br>0.00164 ± 0.00010 g, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Are the following measurements significantly different?<br>0.00159 ± 0.00013 Hz, n=5<br>0.0018 ± 0.0006 Hz, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.20 ± 0.06 N, n=5<br>0.23 ± 0.09 N, n=5<br>Use 95% confidence level",0.7;7e-1;7E-1;.7;0.65;6.5e-1;6.5E-1;.65,short_answer
+"Given the following measurements calculate t:<br>8 ± 3 N, n=4<br>4.0 ± 0.4 N, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Are the following measurements significantly different?<br>0.032 ± 0.004 N, n=3<br>0.031 ± 0.013 N, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0085 ± 0.0007 N, n=3<br>0.006 ± 0.002 N, n=5<br>Use 95% confidence level",2;2e0;2E0;2.;2.2;2.2e0;2.2E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0015 ± 0.0003 A, n=4<br>0.0027 ± 0.0009 A, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Given the following measurements calculate t:<br>18 ± 4 kPa, n=3<br>21 ± 6 kPa, n=6,<br>Use 95% confidence level",0.9;9e-1;9E-1;.9;0.92;9.2e-1;9.2E-1;.92,short_answer
+"Do these measurements agree within experimental error?<br>0.0269 ± 0.0014 mM, n=6<br>0.016 ± 0.005 mM, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.015 ± 0.007 kJ, n=3<br>0.025 ± 0.010 kJ, n=5<br>Use 95% confidence level",No;no;N;n,short_answer
+"Given the following measurements calculate t:<br>0.0011 ± 0.0004 J, n=6<br>0.0012 ± 0.0003 J, n=5,<br>Use 95% confidence level",0.70;7.0e-1;7.0E-1;.70;0.7;7e-1;7E-1;.7;0.703;7.03e-1;7.03E-1;.703,short_answer
+"Are the following measurements significantly different?<br>0.027 ± 0.013 W, n=3<br>0.04 ± 0.02 W, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Are the following measurements significantly different?<br>0.031 ± 0.002 Torr, n=5<br>0.036 ± 0.004 Torr, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>300 ± 200 A, n=4<br>490 ± 60 A, n=5<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>0.25 ± 0.05 Pa, n=3<br>0.5 ± 0.2 Pa, n=4<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0020 ± 0.0007 mL, n=5<br>0.0031 ± 0.0013 mL, n=4<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Are the following measurements significantly different?<br>0.072 ± 0.004 K, n=6<br>0.13 ± 0.02 K, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>4.94 ± 0.06 mL, n=4<br>7 ± 2 mL, n=5<br>Use 95% confidence level",3;3e0;3E0;3.;2.8;2.8e0;2.8E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.0018 ± 0.0007 J, n=3<br>0.0020 ± 0.0006 J, n=4<br>Use 95% confidence level",2.571;2.571e0;2.571E0,short_answer
+"Do these measurements agree within experimental error?<br>3.0e2 ± 40 m, n=4<br>340 ± 140 m, n=6<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>7.5 ± 0.5 mM, n=4<br>15 ± 3 mM, n=3<br>Use 95% confidence level",4;4e0;4E0;4.;4.1;4.1e0;4.1E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.007 ± 0.003 kJ, n=4<br>0.007 ± 0.002 kJ, n=5<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>19 ± 4 V, n=6<br>20. ± 7 V, n=6<br>Use 95% confidence level",2.228;2.228e0;2.228E0,short_answer
+"Are the following measurements significantly different?<br>0.017 ± 0.003 mL, n=4<br>0.009 ± 0.003 mL, n=4<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Do these measurements agree within experimental error?<br>1.1 ± 0.3 Torr, n=6<br>1.8 ± 0.7 Torr, n=6<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>55 ± 11 M, n=3<br>50 ± 20 M, n=6<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>26 ± 6 yr, n=6<br>21 ± 2 yr, n=3<br>Use 95% confidence level",2.365;2.365e0;2.365E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.0053 ± 0.0002 m, n=6<br>0.0086 ± 0.0008 m, n=4<br>Use 95% confidence level",8;8e0;8E0;8.;7.9;7.9e0;7.9E0,short_answer
+"Calculate the t statistic for the following measurements:<br>0.045 ± 0.009 mM, n=3<br>0.08 ± 0.02 mM, n=6<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Given the following measurements calculate t:<br>0.043 ± 0.005 mA, n=4<br>0.06 ± 0.02 mA, n=6,<br>Use 95% confidence level",2;2e0;2E0;2.;2.4;2.4e0;2.4E0,short_answer
+"Do these measurements agree within experimental error?<br>19 ± 8 kcal, n=3<br>10. ± 3 kcal, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Are the following measurements significantly different?<br>380 ± 30 mM, n=4<br>220 ± 20 mM, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Calculate the t statistic for the following measurements:<br>0.6 ± 0.2 M, n=3<br>0.55 ± 0.03 M, n=6<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.81;8.1e-1;8.1E-1;.81,short_answer
+"Given the following measurements calculate t:<br>79 ± 3 mmHg, n=6<br>1.0e2 ± 40 mmHg, n=3,<br>Use 95% confidence level",0.8;8e-1;8E-1;.8;0.85;8.5e-1;8.5E-1;.85,short_answer
+"Calculate the t statistic for the following measurements:<br>0.14 ± 0.04 ns, n=4<br>0.20 ± 0.08 ns, n=6<br>Use 95% confidence level",1;1e0;1E0;1.;1.2;1.2e0;1.2E0,short_answer
+"Are the following measurements significantly different?<br>14.7 ± 1.4 mbar, n=6<br>13 ± 5 mbar, n=3<br>Use 95% confidence level",No;no;N;n,short_answer
+"Give the tabulated t value (t_table) for the following measurements:<br>0.09 ± 0.02 N, n=5<br>0.17 ± 0.08 N, n=4<br>Use 95% confidence level",3.182;3.182e0;3.182E0,short_answer
+"Do these measurements agree within experimental error?<br>0.06 ± 0.02 yr, n=5<br>0.081 ± 0.014 yr, n=3<br>Use 95% confidence level",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate t:<br>0.039 ± 0.004 kg, n=5<br>0.06 ± 0.02 kg, n=6,<br>Use 95% confidence level",3;3e0;3E0;3.;2.6;2.6e0;2.6E0,short_answer
+"Do these measurements agree within experimental error?<br>24 ± 5 Torr, n=6<br>13 ± 3 Torr, n=5<br>Use 95% confidence level",No;no;N;n,short_answer

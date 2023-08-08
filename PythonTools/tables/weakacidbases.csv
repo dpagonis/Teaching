@@ -1,0 +1,84 @@
+﻿name,formula_neutral,pKa,N_acidic_proton_neutral
+acetic acid,C2H4O2,4.756,1
+sodium acetate,NaC2H3O2,4.756,0
+phthalic acid,C8H6O4,2.950;5.408,2
+potassium hydrogen phthalate,KC8H5O4,2.950;5.408,1
+pyridine,C5H5N,5.2,0
+pyridine HCl,C5H6NCl,5.2,1
+leucine,C6H13NO2,2.328;9.744,1
+sodium leucate,NaC6H12NO2,2.328;9.744,0
+leucine HCl,C6H14NO2Cl,2.328;9.744,2
+propanoic acid,C3H6O2,4.874,1
+sodium propanoate,NaC3H5O2,4.874,0
+piperidine,C5H11N,11.125,0
+piperidine HCl,C5H12NCl,11.125,1
+aniline,C6H7N,4.601,0
+aniline HCl,C6H8NCl,4.601,1
+ammonia,NH3,9.245,0
+arsenious acid,As(OH)3,9.29,1
+benzylamine,C7H9N,9.35,0
+benzylamine HCl,C7H10NCl,9.35,1
+boric acid,B(OH)3,9.237;12.74;13.80,3
+bromoacetic acid,BrC2H3O2,2.902,1
+butanoic acid,C4H8O2,4.818,1
+formic acid,CH2O2,3.744,1
+hydrofluoric acid,HF,3.17,1
+phenol,C6H6O,9.997,1
+nitrous acid,HNO2,3.15,1
+glycine,C2H5NO2,2.350;9.778,1
+sodium glycinate,NaC2H4NO2,2.350;9.778,0
+glycine HCl,C2H6NO2Cl,2.350;9.778,2
+alanine,C3H7NO2,2.344;9.868,1
+alanine sodium salt,NaC3H6NO2,2.344;9.868,0
+alanine HCl,C3H8NO2Cl,2.344;9.868,2
+valine,C5H11NO2,2.286;9.719,1
+valine sodium salt,NaC5H10NO2,2.286;9.719,0
+valine HCl,C5H12NO2Cl,2.286;9.719,2
+isoleucine,C6H13NO2,2.318;9.758,1
+isoleucine,NaC6H12NO2,2.318;9.758,0
+isoleucine HCl,C6H14NO2Cl,2.318;9.758,2
+methionine,C5H11NO2S,2.18;9.08,1
+methionine sodium salt,NaC5H10NO2S,2.18;9.08,0
+methionine HCl,C5H12NO2SCl,2.18;9.08,2
+phenylalanine,C9H11NO2,2.20;9.31,1
+phenylalanine sodium salt,NaC9H10NO2,2.20;9.31,0
+phenylalanine HCl,C9H12NO2Cl,2.20;9.31,2
+proline,C5H9NO2,1.952;10.640,1
+proline sodium salt,NaC5H8NO2,1.952;10.640,0
+proline HCl,C5H10NO2Cl,1.952;10.640,2
+serine,C3H7NO3,2.187;9.209,1
+serine sodium salt,NaC3H6NO3,2.187;9.209,0
+serine HCl,C3H8NO3Cl,2.187;9.209,2
+threonine,C4H9NO3,2.088;9.100,1
+sodium threonate,NaC4H8NO3,2.088;9.100,0
+threonine HCl,C4H10NO3Cl,2.088;9.100,2
+cysteine,C3H7NO2S,1.7;8.36;10.74,2
+sodium cystate,NaC3H6NO2S,1.7;8.36;10.74,1
+cysteine HCl,C3H8NO2SCl,1.7;8.36;10.74,3
+tyrosine,C9H11NO3,2.41;8.67;11.01,2
+tyrosine sodium salt,NaC9H10NO3,2.41;8.67;11.01,1
+tyrosine HCl,C9H12NO3Cl,2.41;8.67;11.01,3
+asparagine,C4H8N2O3,2.16;8.73,1
+asparagine sodium salt,NaC4H7N2O3,2.16;8.73,0
+asparagine HCl,C4H9N2O3Cl,2.16;8.73,2
+glutamine,C5H10N2O3,2.19;9.00,1
+sodium glutamate,NaC5H9N2O3,2.19;9.00,0
+glutamine HCl,C5H11N2O3Cl,2.19;9.00,2
+aspartate,C4H7NO4,1.990;3.900;10.002,2
+sodium aspartate,NaC4H6NO4,1.990;3.900;10.002,1
+aspartate HCl,C4H8NO4Cl,1.990;3.900;10.002,3
+glutamate,C5H9NO4,2.160;4.30;9.96,2
+sodium glutamate,NaC5H8NO4,2.160;4.30;9.96,1
+glutamate HCl,C5H10NO4Cl,2.160;4.30;9.96,3
+lysine,C6H14N2O2,1.77;9.07;10.82,2
+lysine sodium salt,NaC6H13N2O2,1.77;9.07;10.82,1
+lysine HCl,C6H15N2O2Cl,1.77;9.07;10.82,3
+arginine,C6H14N4O2,1.823;8.991;12.48,2
+arginine sodium salt,NaC6H13N4O2,1.823;8.991;12.48,1
+arginine HCl,C6H15N4O2Cl,1.823;8.991;12.48,3
+histidine,C6H9N3O2,1.6;5.97;9.28,2
+histidine sodium salt,NaC6H8N3O2,1.6;5.97;9.28,1
+histidine HCl,C6H10N3O2Cl,1.6;5.97;9.28,3
+tryptophan,C11H12N2O2,2.37;9.33,1
+tryptophan sodium salt,NaC11H11N2O2,2.37;9.33,0
+tryptophan HCl,C11H13N2O2Cl,2.37;9.33,2

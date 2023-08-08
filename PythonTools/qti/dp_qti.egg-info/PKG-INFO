@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: dp-qti
+Version: 0.1
+Summary: A package combining modules for generating QTI-formatted chemistry question banks
+Author: Demetrios Pagonis
+Author-email: demetriospagonis@weber.edu

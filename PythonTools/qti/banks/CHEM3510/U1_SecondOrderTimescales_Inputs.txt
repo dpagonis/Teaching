@@ -1,0 +1,6 @@
+rxn_tex,k_298K_1atm,wrt,given,conc
+O+O_2\longrightarrow{}O_3,1.5e-14,O,O2,4.92e18
+O+NO_2\longrightarrow{}NO_3,1.26e-11,O,NO2,4e11
+OH+NO_2\longrightarrow{}HNO_3,1.1e-11,OH,NO2,4e11
+OH+NO\longrightarrow{}HONO,7.4e-12,OH,NO,4e11
+OH+SO_2\longrightarrow{}HSO_3,9.5e-13,OH,SO2,2e10

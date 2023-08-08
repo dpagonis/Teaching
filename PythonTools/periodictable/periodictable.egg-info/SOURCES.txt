@@ -1,5 +1,0 @@
-setup.py
-periodictable.egg-info/PKG-INFO
-periodictable.egg-info/SOURCES.txt
-periodictable.egg-info/dependency_links.txt
-periodictable.egg-info/top_level.txt

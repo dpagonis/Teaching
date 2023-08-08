@@ -1,0 +1,1001 @@
+question,correct_answers,question_type
+"Do the standard deviations of these measurements agree within experimental error?<br>72.1 ± 0.6 mA, n=18<br>61.0 ± 0.9 mA, n=15",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>1.4 ± 0.6 km, n=12<br>3.5 ± 0.8 km, n=18",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Given the following measurements calculate F:<br>15.7 ± 0.7 kPa, n=12<br>18.3 ± 0.6 kPa, n=19",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Given the following measurements calculate F:<br>1.4 ± 0.3 m, n=6<br>0.2 ± 0.4 m, n=14",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Are the following standard deviations significantly different?<br>21.0 ± 0.2 N, n=15<br>22.0 ± 0.4 N, n=11",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>9.8 ± 0.7 ms, n=16<br>0.3 ± 0.9 ms, n=11",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>6.7 ± 0.6 N, n=13<br>70.8 ± 0.4 N, n=4",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>44.1 ± 0.6 ms, n=15<br>2.0 ± 0.2 ms, n=20",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.5 ± 0.6 nm, n=15<br>0.6 ± 0.6 nm, n=4",3.80;3.80e0;3.80E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>12.1 ± 0.7 L, n=8<br>20.4 ± 0.9 L, n=16",4.08;4.08e0;4.08E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>23.6 ± 0.3 mbar, n=9<br>0.6 ± 0.8 mbar, n=20",3.67;3.67e0;3.67E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>70.5 ± 0.4 kcal, n=20<br>15.72 ± 0.15 kcal, n=4",8.56;8.56e0;8.56E0,short_answer
+"Are the following standard deviations significantly different?<br>55.5 ± 0.6 yr, n=8<br>4.45 ± 0.10 yr, n=6",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>10.6 ± 0.3 kg, n=15<br>0.6 ± 0.3 kg, n=13",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>31.0 ± 0.4 mM, n=18<br>1.1 ± 0.5 mM, n=15",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.07 ± 0.14 mA, n=18<br>89.5 ± 0.5 mA, n=18",2.60;2.60e0;2.60E0,short_answer
+"Are the following standard deviations significantly different?<br>10.0 ± 0.6 N, n=15<br>24.6 ± 0.3 N, n=7",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>2.6 ± 0.7 mA, n=7<br>2.4 ± 0.4 mA, n=6",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Given the following measurements calculate F:<br>1.9 ± 0.2 mmHg, n=16<br>38.8 ± 0.6 mmHg, n=5",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>3.0 ± 0.4 ms, n=8<br>5.7 ± 0.2 ms, n=10",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.8 ± 0.7 h, n=13<br>4.5 ± 0.6 h, n=20",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Are the following standard deviations significantly different?<br>9.1 ± 0.2 atm, n=19<br>38.0 ± 0.5 atm, n=20",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>2.13 ± 0.10 cal, n=4<br>22.1 ± 0.5 cal, n=6",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Calculate the F statistic for the following measurements:<br>59.47 ± 0.14 cal, n=8<br>0.2 ± 0.5 cal, n=12",13;1.3e1;1.3E1;13.;10;1e1;1E1;12.8;1.28e1;1.28E1,short_answer
+"Calculate the F statistic for the following measurements:<br>51.0 ± 0.4 A, n=3<br>6.1 ± 0.6 A, n=6",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>7.07 ± 0.15 mol, n=14<br>83.3 ± 0.7 mol, n=9",22;2.2e1;2.2E1;22.;20;2e1;2E1;21.8;2.18e1;2.18E1,short_answer
+"Given the following measurements calculate F:<br>8.8 ± 0.2 s, n=9<br>0.9 ± 0.5 s, n=7",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.3 ± 0.3 K, n=4<br>2.9 ± 0.7 K, n=11",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>4.4 ± 0.5 Pa, n=11<br>0.1 ± 0.4 Pa, n=20",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>5.9 ± 0.5 ms, n=17<br>2.7 ± 0.8 ms, n=4",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>19.9 ± 0.4 A, n=18<br>17.3 ± 0.3 A, n=13",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Given the following measurements calculate F:<br>62.8 ± 0.4 L, n=13<br>1.5 ± 0.3 L, n=12",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Given the following measurements calculate F:<br>5.5 ± 0.6 m, n=14<br>2.8 ± 0.6 m, n=9",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>14.0 ± 0.5 yr, n=9<br>35.0 ± 0.2 yr, n=19",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>1.7 ± 0.2 V, n=20<br>35.2 ± 0.9 V, n=18",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>71.4 ± 0.3 h, n=11<br>5.7 ± 0.3 h, n=15",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>13.99 ± 0.10 s, n=19<br>0.7 ± 0.4 s, n=14",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>1.3 ± 0.5 Torr, n=18<br>0.4 ± 0.7 Torr, n=19",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Given the following measurements calculate F:<br>24.2 ± 0.6 km, n=19<br>0.3 ± 0.7 km, n=19",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Are the following standard deviations significantly different?<br>39.2 ± 0.7 mbar, n=9<br>2.9 ± 0.5 mbar, n=13",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>48.1 ± 0.2 kcal, n=13<br>3.2 ± 0.8 kcal, n=19",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>12.0 ± 0.3 bar, n=3<br>8.1 ± 0.4 bar, n=17",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>73.7 ± 0.3 h, n=5<br>0.2 ± 0.9 h, n=13",6.49;6.49e0;6.49E0,short_answer
+"Are the following standard deviations significantly different?<br>70.2 ± 0.2 Torr, n=6<br>16.4 ± 0.3 Torr, n=18",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>42.2 ± 0.6 N, n=18<br>18.6 ± 0.2 N, n=7",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Are the following standard deviations significantly different?<br>73.0 ± 0.3 ns, n=3<br>1.8 ± 0.8 ns, n=16",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>1.1 ± 0.2 mmHg, n=11<br>0.3 ± 0.8 mmHg, n=17",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.2 ± 0.6 kJ, n=6<br>0.5 ± 0.2 kJ, n=19",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>34.2 ± 0.2 W, n=12<br>6.9 ± 0.6 W, n=5",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>2.0 ± 0.2 kV, n=19<br>0.4 ± 0.9 kV, n=19",20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.3;2.03e1;2.03E1,short_answer
+"Are the following standard deviations significantly different?<br>12.3 ± 0.2 yr, n=8<br>17.88 ± 0.12 yr, n=14",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>37.2 ± 0.5 m, n=9<br>0.2 ± 0.6 m, n=12",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>3.1 ± 0.4 atm, n=18<br>1.24 ± 0.14 atm, n=16",8.2;8.2e0;8.2E0;8;8e0;8E0;8.;8.16;8.16e0;8.16E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.3 ± 0.7 km, n=19<br>3.4 ± 0.9 km, n=17",1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.65;1.65e0;1.65E0,short_answer
+"Given the following measurements calculate F:<br>44.2 ± 0.6 kV, n=8<br>53.7 ± 0.3 kV, n=12",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>5.3 ± 0.3 ms, n=9<br>0.1 ± 0.9 ms, n=17",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>7.6 ± 0.7 Torr, n=20<br>0.8 ± 0.6 Torr, n=20",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.8 ± 0.6 s, n=8<br>24.1 ± 0.7 s, n=3",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Given the following measurements calculate F:<br>1.35 ± 0.11 W, n=16<br>0.5 ± 0.5 W, n=11",21;2.1e1;2.1E1;21.;20;2e1;2E1;20.7;2.07e1;2.07E1,short_answer
+"Are the following standard deviations significantly different?<br>3.1 ± 0.5 kJ, n=12<br>20.5 ± 0.2 kJ, n=7",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>17.1 ± 0.2 mol, n=3<br>29.2 ± 0.6 mol, n=5",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>25.6 ± 0.3 cal, n=9<br>12.2 ± 0.5 cal, n=9",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Given the following measurements calculate F:<br>3.6 ± 0.3 kJ, n=19<br>23.65 ± 0.13 kJ, n=7",5.3;5.3e0;5.3E0;5;5e0;5E0;5.;5.33;5.33e0;5.33E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>70.3 ± 0.6 kPa, n=17<br>0.92 ± 0.11 kPa, n=5",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>3.2 ± 0.3 ms, n=9<br>0.4 ± 0.7 ms, n=3",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.4 ± 0.2 s, n=6<br>5.4 ± 0.8 s, n=10",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>44.1 ± 0.2 km, n=3<br>9.9 ± 0.4 km, n=20",14.17;1.417e1;1.417E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>64.6 ± 0.2 mL, n=6<br>2.5 ± 0.6 mL, n=16",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.8 ± 0.5 km, n=15<br>0.2 ± 0.3 km, n=18",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>16.2 ± 0.6 km, n=12<br>8.6 ± 0.5 km, n=18",2.77;2.77e0;2.77E0,short_answer
+"Calculate the F statistic for the following measurements:<br>44.4 ± 0.2 kcal, n=15<br>45.7 ± 0.9 kcal, n=19",20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.3;2.03e1;2.03E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.5 ± 0.4 ns, n=6<br>1.4 ± 0.7 ns, n=6",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.9 ± 0.6 mol, n=20<br>6.0 ± 0.2 mol, n=3",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.2 ± 0.4 yr, n=15<br>0.3 ± 0.9 yr, n=10",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>2.0 ± 0.2 N, n=14<br>26.2 ± 0.4 N, n=6",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>7.5 ± 0.3 atm, n=8<br>0.1 ± 0.2 atm, n=5",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>1.7 ± 0.4 atm, n=11<br>0.2 ± 0.6 atm, n=13",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.2 ± 0.7 h, n=20<br>1.0 ± 0.5 h, n=14",2.84;2.84e0;2.84E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>46.7 ± 0.5 kPa, n=11<br>16.3 ± 0.6 kPa, n=11",3.47;3.47e0;3.47E0,short_answer
+"Calculate the F statistic for the following measurements:<br>55.8 ± 0.6 A, n=11<br>16.6 ± 0.5 A, n=6",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Are the following standard deviations significantly different?<br>71.4 ± 0.2 kcal, n=8<br>1.9 ± 0.8 kcal, n=14",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.8 ± 0.5 kV, n=18<br>8.6 ± 0.7 kV, n=4",3.61;3.61e0;3.61E0,short_answer
+"Given the following measurements calculate F:<br>1.50 ± 0.14 mol, n=18<br>0.2 ± 0.7 mol, n=15",25;2.5e1;2.5E1;25.;20;2e1;2E1;25.0;2.50e1;2.50E1,short_answer
+"Given the following measurements calculate F:<br>26.8 ± 0.7 nm, n=16<br>18.6 ± 0.8 nm, n=10",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.31;1.31e0;1.31E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.9 ± 0.4 s, n=18<br>0.2 ± 0.7 s, n=5",3.38;3.38e0;3.38E0,short_answer
+"Calculate the F statistic for the following measurements:<br>19.3 ± 0.2 W, n=3<br>0.6 ± 1.0 W, n=20",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Calculate the F statistic for the following measurements:<br>55.63 ± 0.15 mA, n=16<br>0.2 ± 0.9 mA, n=11",36;3.6e1;3.6E1;36.;40;4e1;4E1;36.0;3.60e1;3.60E1,short_answer
+"Are the following standard deviations significantly different?<br>3.0 ± 0.2 mM, n=11<br>0.8 ± 0.3 mM, n=9",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>82.6 ± 0.2 kV, n=15<br>1.1 ± 0.8 kV, n=11",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Given the following measurements calculate F:<br>53.7 ± 0.2 M, n=12<br>2.4 ± 0.7 M, n=10",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Are the following standard deviations significantly different?<br>11.1 ± 0.3 kV, n=18<br>0.1 ± 0.9 kV, n=18",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>22.43 ± 0.13 mM, n=12<br>1.5 ± 0.5 mM, n=16",15;1.5e1;1.5E1;15.;10;1e1;1E1;14.8;1.48e1;1.48E1,short_answer
+"Calculate the F statistic for the following measurements:<br>2.1 ± 0.6 V, n=4<br>21.3 ± 0.5 V, n=5",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>20.6 ± 0.2 mbar, n=13<br>7.4 ± 0.6 mbar, n=20",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.6 ± 0.2 V, n=14<br>0.2 ± 0.7 V, n=17",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>13.7 ± 0.4 mol, n=11<br>3.0 ± 0.9 mol, n=4",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>18.2 ± 0.2 J, n=4<br>0.7 ± 0.7 J, n=14",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Calculate the F statistic for the following measurements:<br>78.7 ± 0.3 mbar, n=11<br>1.5 ± 0.2 mbar, n=13",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>8.8 ± 0.6 mM, n=19<br>3.1 ± 0.8 mM, n=8",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Given the following measurements calculate F:<br>1.5 ± 0.6 kV, n=3<br>14.42 ± 0.11 kV, n=14",30.;3.0e1;3.0E1;30..;30;3e1;3E1;29.8;2.98e1;2.98E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.5 ± 0.5 m, n=15<br>10.4 ± 0.6 m, n=3",4.15;4.15e0;4.15E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.8 ± 0.5 Hz, n=10<br>0.8 ± 0.3 Hz, n=16",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>86.6 ± 0.2 mA, n=4<br>26.4 ± 0.4 mA, n=14",8.68;8.68e0;8.68E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.3 ± 0.2 ns, n=19<br>0.9 ± 0.6 ns, n=10",2.82;2.82e0;2.82E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.5 ± 0.4 ns, n=6<br>38.0 ± 0.7 ns, n=8",5.60;5.60e0;5.60E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>73.2 ± 0.2 kPa, n=5<br>0.4 ± 0.8 kPa, n=14",6.46;6.46e0;6.46E0,short_answer
+"Are the following standard deviations significantly different?<br>6.9 ± 0.4 L, n=5<br>0.2 ± 0.6 L, n=6",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>83.6 ± 0.3 K, n=9<br>24.1 ± 0.9 K, n=14",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>71.3 ± 0.5 N, n=15<br>0.22 ± 0.14 N, n=13",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>11.3 ± 0.3 ns, n=4<br>9.9 ± 0.6 ns, n=8",8.98;8.98e0;8.98E0,short_answer
+"Given the following measurements calculate F:<br>1.0 ± 0.7 cal, n=19<br>82.5 ± 0.8 cal, n=11",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.31;1.31e0;1.31E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.6 ± 0.4 ms, n=16<br>0.1 ± 0.3 ms, n=13",3.03;3.03e0;3.03E0,short_answer
+"Are the following standard deviations significantly different?<br>3.3 ± 0.2 Pa, n=5<br>3.1 ± 0.3 Pa, n=5",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>3.0 ± 0.3 mA, n=13<br>0.2 ± 0.9 mA, n=18",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Are the following standard deviations significantly different?<br>3.7 ± 0.4 kJ, n=13<br>0.3 ± 0.9 kJ, n=10",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>3.48 ± 0.11 J, n=20<br>3.7 ± 0.7 J, n=16",40.;4.0e1;4.0E1;40..;40;4e1;4E1;40.5;4.05e1;4.05E1,short_answer
+"Calculate the F statistic for the following measurements:<br>3.2 ± 0.4 atm, n=7<br>74.6 ± 0.2 atm, n=8",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Are the following standard deviations significantly different?<br>1.1 ± 0.6 mA, n=12<br>61.0 ± 0.5 mA, n=18",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>10.9 ± 0.2 nm, n=12<br>9.6 ± 0.4 nm, n=12",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Given the following measurements calculate F:<br>1.25 ± 0.10 N, n=9<br>14.1 ± 0.3 N, n=18",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>13.2 ± 0.5 h, n=17<br>4.3 ± 0.7 h, n=15",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Calculate the F statistic for the following measurements:<br>11.0 ± 0.6 kV, n=8<br>0.2 ± 0.7 kV, n=4",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>12.4 ± 0.2 kg, n=4<br>0.94 ± 0.15 kg, n=4",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>89.4 ± 0.3 bar, n=15<br>37.3 ± 0.8 bar, n=10",3.06;3.06e0;3.06E0,short_answer
+"Calculate the F statistic for the following measurements:<br>91.2 ± 0.4 L, n=16<br>13.4 ± 0.3 L, n=16",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.3 ± 0.7 ms, n=4<br>2.8 ± 0.7 ms, n=13",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>14.9 ± 0.2 atm, n=18<br>12.6 ± 1.0 atm, n=14",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Calculate the F statistic for the following measurements:<br>4.9 ± 0.3 atm, n=18<br>0.2 ± 0.6 atm, n=10",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.8 ± 0.2 ms, n=15<br>0.1 ± 0.7 ms, n=10",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>33.5 ± 0.4 K, n=9<br>0.4 ± 0.4 K, n=16",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>2.6 ± 0.3 V, n=13<br>65.3 ± 0.7 V, n=20",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Calculate the F statistic for the following measurements:<br>5.3 ± 0.6 h, n=19<br>21.3 ± 0.6 h, n=5",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>7.9 ± 0.5 Hz, n=4<br>0.6 ± 0.9 Hz, n=19",8.58;8.58e0;8.58E0,short_answer
+"Given the following measurements calculate F:<br>4.9 ± 0.2 ns, n=18<br>19.2 ± 0.4 ns, n=16",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>57.1 ± 0.6 Hz, n=18<br>33.4 ± 0.3 Hz, n=15",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>7.75 ± 0.10 M, n=13<br>4.7 ± 0.8 M, n=16",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>1.7 ± 0.5 ms, n=4<br>2.4 ± 0.2 ms, n=18",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.1 ± 0.3 mmHg, n=17<br>0.1 ± 0.5 mmHg, n=9",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.1 ± 0.3 kV, n=16<br>22.1 ± 0.7 kV, n=7",3.22;3.22e0;3.22E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.8 ± 0.4 Torr, n=5<br>2.2 ± 0.3 Torr, n=4",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Are the following standard deviations significantly different?<br>1.3 ± 0.4 mM, n=3<br>0.5 ± 0.5 mM, n=15",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>8.56 ± 0.15 ms, n=7<br>0.1 ± 0.5 ms, n=6",11;1.1e1;1.1E1;11.;10;1e1;1E1;11.1;1.11e1;1.11E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>48.6 ± 0.7 mM, n=8<br>1.9 ± 0.4 mM, n=5",6.76;6.76e0;6.76E0,short_answer
+"Are the following standard deviations significantly different?<br>36.3 ± 0.6 s, n=18<br>11.5 ± 0.8 s, n=4",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.2 ± 0.7 mbar, n=14<br>1.0 ± 0.9 mbar, n=3",4.24;4.24e0;4.24E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>28.0 ± 0.4 ns, n=8<br>81.9 ± 0.5 ns, n=10",4.30;4.30e0;4.30E0,short_answer
+"Are the following standard deviations significantly different?<br>20.9 ± 0.3 V, n=14<br>1.3 ± 1.0 V, n=8",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>7.3 ± 0.5 Torr, n=12<br>1.1 ± 0.8 Torr, n=8",3.51;3.51e0;3.51E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>15.85 ± 0.11 L, n=3<br>6.4 ± 0.8 L, n=9",14.47;1.447e1;1.447E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.3 ± 0.2 ns, n=17<br>0.5 ± 0.3 ns, n=13",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.7 ± 0.6 h, n=15<br>9.9 ± 0.5 h, n=14",2.95;2.95e0;2.95E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.1 ± 0.3 bar, n=19<br>25.5 ± 0.8 bar, n=16",2.59;2.59e0;2.59E0,short_answer
+"Calculate the F statistic for the following measurements:<br>76.1 ± 0.6 m, n=15<br>1.2 ± 0.8 m, n=5",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>48.42 ± 0.14 ms, n=14<br>0.4 ± 0.3 ms, n=14",4.6;4.6e0;4.6E0;5;5e0;5E0;5.;4.59;4.59e0;4.59E0,short_answer
+"Are the following standard deviations significantly different?<br>26.89 ± 0.13 M, n=13<br>1.3 ± 0.8 M, n=11",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>4.0 ± 0.3 cal, n=20<br>92.7 ± 0.3 cal, n=7",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>15.8 ± 0.4 mmHg, n=14<br>1.9 ± 0.5 mmHg, n=6",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>17.42 ± 0.13 Torr, n=10<br>1.4 ± 0.3 Torr, n=7",3.95;3.95e0;3.95E0,short_answer
+"Calculate the F statistic for the following measurements:<br>17.4 ± 0.6 s, n=15<br>3.5 ± 0.9 s, n=11",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.1 ± 0.2 kcal, n=13<br>4.4 ± 0.2 kcal, n=9",3.31;3.31e0;3.31E0,short_answer
+"Are the following standard deviations significantly different?<br>19.5 ± 0.3 W, n=19<br>8.4 ± 0.5 W, n=7",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>23.6 ± 0.4 L, n=3<br>5.3 ± 0.7 L, n=11",14.37;1.437e1;1.437E1,short_answer
+"Are the following standard deviations significantly different?<br>13.2 ± 0.5 Pa, n=10<br>2.3 ± 0.8 Pa, n=12",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>96.5 ± 0.6 h, n=12<br>2.9 ± 0.7 h, n=8",3.51;3.51e0;3.51E0,short_answer
+"Are the following standard deviations significantly different?<br>4.6 ± 0.4 s, n=15<br>0.3 ± 0.6 s, n=7",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>5.5 ± 0.2 kV, n=4<br>15.8 ± 0.9 kV, n=4",20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.3;2.03e1;2.03E1,short_answer
+"Given the following measurements calculate F:<br>1.2 ± 0.6 km, n=12<br>0.7 ± 0.2 km, n=8",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>5.8 ± 0.3 mol, n=4<br>3.0 ± 0.8 mol, n=6",7.1;7.1e0;7.1E0;7;7e0;7E0;7.;7.11;7.11e0;7.11E0,short_answer
+"Calculate the F statistic for the following measurements:<br>70.5 ± 0.7 h, n=19<br>79.09 ± 0.14 h, n=15",25;2.5e1;2.5E1;25.;20;2e1;2E1;25.0;2.50e1;2.50E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>32.2 ± 0.2 M, n=19<br>60.0 ± 0.7 M, n=8",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>6.6 ± 0.2 Hz, n=18<br>2.1 ± 0.9 Hz, n=8",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>1.4 ± 0.2 cal, n=18<br>4.5 ± 0.6 cal, n=12",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>9.2 ± 0.5 V, n=4<br>14.6 ± 0.7 V, n=16",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.0 ± 0.5 mmHg, n=17<br>7.7 ± 0.3 mmHg, n=18",2.62;2.62e0;2.62E0,short_answer
+"Given the following measurements calculate F:<br>91.5 ± 0.5 Hz, n=5<br>0.7 ± 0.8 Hz, n=8",2.6;2.6e0;2.6E0;3;3e0;3E0;3.;2.56;2.56e0;2.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.8 ± 0.5 mM, n=20<br>0.5 ± 0.2 mM, n=8",4.00;4.00e0;4.00E0,short_answer
+"Are the following standard deviations significantly different?<br>34.8 ± 0.2 kcal, n=12<br>50.1 ± 0.7 kcal, n=20",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>15.2 ± 0.4 mM, n=16<br>1.1 ± 0.7 mM, n=8",3.12;3.12e0;3.12E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.2 ± 0.2 nm, n=8<br>11.2 ± 0.5 nm, n=6",4.65;4.65e0;4.65E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>13.6 ± 0.5 M, n=10<br>35.9 ± 0.2 M, n=20",2.77;2.77e0;2.77E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>28.1 ± 0.5 ns, n=20<br>3.0 ± 0.4 ns, n=14",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.6 ± 0.4 mbar, n=13<br>1.8 ± 0.2 mbar, n=20",2.64;2.64e0;2.64E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>21.6 ± 0.2 bar, n=4<br>18.58 ± 0.11 bar, n=7",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>3.7 ± 0.3 Pa, n=18<br>0.4 ± 0.6 Pa, n=3",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>35.4 ± 0.3 kPa, n=5<br>0.5 ± 0.6 kPa, n=3",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>13.2 ± 0.3 atm, n=5<br>1.8 ± 0.9 atm, n=8",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>60.5 ± 0.4 Torr, n=8<br>25.0 ± 0.6 Torr, n=7",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>11.1 ± 0.2 g, n=14<br>12.7 ± 0.2 g, n=12",3.05;3.05e0;3.05E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>55.9 ± 0.3 J, n=4<br>0.3 ± 0.6 J, n=20",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>24.2 ± 0.3 L, n=7<br>0.2 ± 0.4 L, n=20",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.25 ± 0.14 ns, n=3<br>0.55 ± 0.14 ns, n=7",14.62;1.462e1;1.462E1,short_answer
+"Are the following standard deviations significantly different?<br>2.4 ± 0.4 yr, n=18<br>2.26 ± 0.15 yr, n=16",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>17.5 ± 0.6 kV, n=13<br>36.2 ± 0.8 kV, n=13",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>7.9 ± 0.3 A, n=16<br>5.5 ± 0.3 A, n=20",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.45 ± 0.12 J, n=17<br>7.7 ± 0.7 J, n=15",2.72;2.72e0;2.72E0,short_answer
+"Calculate the F statistic for the following measurements:<br>3.2 ± 0.7 km, n=4<br>1.9 ± 0.2 km, n=15",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Given the following measurements calculate F:<br>2.0 ± 0.3 kPa, n=15<br>5.7 ± 0.3 kPa, n=14",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>27.2 ± 0.6 kcal, n=17<br>1.7 ± 0.5 kcal, n=4",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>7.2 ± 0.3 Pa, n=17<br>2.8 ± 0.4 Pa, n=12",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>9.8 ± 0.4 mA, n=18<br>1.0 ± 0.6 mA, n=11",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.21 ± 0.14 h, n=20<br>83.4 ± 0.4 h, n=5",3.29;3.29e0;3.29E0,short_answer
+"Are the following standard deviations significantly different?<br>63.4 ± 0.5 nm, n=15<br>3.7 ± 0.8 nm, n=18",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.0 ± 0.4 ms, n=17<br>3.7 ± 0.4 ms, n=4",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>83.7 ± 0.2 kg, n=5<br>1.0 ± 0.7 kg, n=12",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>53.4 ± 0.6 Pa, n=9<br>68.76 ± 0.11 Pa, n=16",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>2.8 ± 0.6 ns, n=7<br>65.7 ± 0.4 ns, n=7",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.0 ± 0.2 yr, n=15<br>0.4 ± 0.5 yr, n=20",2.76;2.76e0;2.76E0,short_answer
+"Given the following measurements calculate F:<br>6.2 ± 0.7 J, n=17<br>0.4 ± 0.5 J, n=10",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Are the following standard deviations significantly different?<br>1.0 ± 0.7 mol, n=6<br>94.9 ± 0.5 mol, n=3",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>35.7 ± 0.6 h, n=10<br>3.2 ± 0.4 h, n=13",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>5.7 ± 0.2 W, n=17<br>6.8 ± 0.7 W, n=7",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>31.6 ± 0.5 kcal, n=18<br>0.7 ± 0.8 kcal, n=16",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.7 ± 0.2 mbar, n=5<br>66.4 ± 0.8 mbar, n=11",6.57;6.57e0;6.57E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.7 ± 0.5 mA, n=15<br>9.9 ± 0.5 mA, n=4",3.80;3.80e0;3.80E0,short_answer
+"Are the following standard deviations significantly different?<br>20.4 ± 0.7 mA, n=9<br>64.5 ± 0.4 mA, n=19",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>35.4 ± 0.4 J, n=3<br>45.1 ± 0.9 J, n=11",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>44.5 ± 0.3 ns, n=8<br>1.8 ± 0.7 ns, n=19",4.02;4.02e0;4.02E0,short_answer
+"Calculate the F statistic for the following measurements:<br>84.6 ± 0.4 kg, n=12<br>0.2 ± 0.5 kg, n=17",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Are the following standard deviations significantly different?<br>8.2 ± 0.7 m, n=7<br>52.9 ± 0.2 m, n=6",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>63.7 ± 0.3 nm, n=6<br>1.4 ± 0.6 nm, n=13",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>57.91 ± 0.14 Hz, n=17<br>0.5 ± 0.4 Hz, n=14",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>19.3 ± 0.5 nm, n=15<br>0.1 ± 0.8 nm, n=14",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>7.2 ± 0.2 N, n=17<br>6.0 ± 0.4 N, n=18",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>7.81 ± 0.10 mmHg, n=17<br>4.7 ± 1.0 mmHg, n=7",1.0e2;1.0e2;1.0E2;100;1e2;1E2;100.;1.00e2;1.00E2;100..,short_answer
+"Calculate the F statistic for the following measurements:<br>14.7 ± 0.3 ns, n=18<br>56.6 ± 0.4 ns, n=7",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>98.1 ± 0.5 s, n=10<br>51.9 ± 0.4 s, n=8",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.2 ± 0.4 ms, n=11<br>2.4 ± 0.5 ms, n=15",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Are the following standard deviations significantly different?<br>63.7 ± 0.2 h, n=16<br>39.1 ± 0.4 h, n=6",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>2.6 ± 0.2 A, n=14<br>0.2 ± 0.6 A, n=8",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>24.6 ± 0.5 nm, n=20<br>1.5 ± 0.9 nm, n=20",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>31.8 ± 0.6 V, n=13<br>2.0 ± 0.3 V, n=14",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>1.1 ± 0.5 bar, n=11<br>1.4 ± 0.2 bar, n=17",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.4 ± 0.4 Pa, n=8<br>0.2 ± 0.8 Pa, n=4",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>47.8 ± 0.3 J, n=11<br>12.0 ± 0.2 J, n=10",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>1.7 ± 0.3 mA, n=20<br>0.2 ± 0.3 mA, n=3",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.6 ± 0.7 Hz, n=8<br>37.8 ± 0.5 Hz, n=11",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Calculate the F statistic for the following measurements:<br>39.5 ± 0.7 mol, n=18<br>2.8 ± 0.8 mol, n=3",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.31;1.31e0;1.31E0,short_answer
+"Given the following measurements calculate F:<br>3.0 ± 0.3 Pa, n=13<br>0.3 ± 0.5 Pa, n=12",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>60.7 ± 0.3 km, n=18<br>0.3 ± 0.9 km, n=9",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>52.7 ± 0.2 ns, n=3<br>43.4 ± 0.5 ns, n=20",14.17;1.417e1;1.417E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>50.6 ± 0.4 mol, n=15<br>0.2 ± 0.7 mol, n=20",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.82 ± 0.13 bar, n=7<br>13.6 ± 1.0 bar, n=18",4.50;4.50e0;4.50E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>11.5 ± 0.2 g, n=10<br>0.5 ± 0.5 g, n=19",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>3.1 ± 0.7 m, n=20<br>0.7 ± 0.8 m, n=16",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.31;1.31e0;1.31E0,short_answer
+"Calculate the F statistic for the following measurements:<br>80.0 ± 0.4 ns, n=13<br>2.4 ± 0.9 ns, n=6",5.1;5.1e0;5.1E0;5;5e0;5E0;5.;5.06;5.06e0;5.06E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>76.8 ± 0.4 mol, n=18<br>1.5 ± 0.2 mol, n=19",2.55;2.55e0;2.55E0,short_answer
+"Are the following standard deviations significantly different?<br>2.9 ± 0.5 N, n=14<br>30.2 ± 0.8 N, n=19",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>13.3 ± 0.6 ms, n=8<br>0.2 ± 0.8 ms, n=19",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>59.3 ± 0.3 Pa, n=6<br>3.2 ± 1.0 Pa, n=14",11;1.1e1;1.1E1;11.;10;1e1;1E1;11.1;1.11e1;1.11E1,short_answer
+"Are the following standard deviations significantly different?<br>26.0 ± 0.7 yr, n=6<br>8.5 ± 0.4 yr, n=4",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>21.3 ± 0.2 Torr, n=9<br>16.7 ± 0.5 Torr, n=18",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.3 ± 0.7 kPa, n=7<br>26.1 ± 0.4 kPa, n=11",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Given the following measurements calculate F:<br>4.1 ± 0.6 ms, n=3<br>5.6 ± 0.9 ms, n=8",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Are the following standard deviations significantly different?<br>4.4 ± 0.2 cal, n=18<br>0.3 ± 0.2 cal, n=10",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>27.8 ± 0.6 mL, n=8<br>94.1 ± 0.8 mL, n=5",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.4 ± 0.2 bar, n=18<br>0.2 ± 0.8 bar, n=10",2.87;2.87e0;2.87E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>7.6 ± 0.6 A, n=17<br>13.8 ± 0.4 A, n=20",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>4.7 ± 0.4 mmHg, n=13<br>0.4 ± 0.6 mmHg, n=11",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>14.7 ± 0.4 Pa, n=18<br>0.1 ± 0.7 Pa, n=18",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Calculate the F statistic for the following measurements:<br>32.4 ± 0.2 K, n=11<br>33.8 ± 0.3 K, n=17",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Are the following standard deviations significantly different?<br>73.9 ± 0.3 V, n=17<br>4.0 ± 0.7 V, n=8",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>85.1 ± 0.4 km, n=12<br>12.1 ± 0.3 km, n=19",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>9.6 ± 0.5 h, n=6<br>2.5 ± 0.8 h, n=3",2.6;2.6e0;2.6E0;3;3e0;3E0;3.;2.56;2.56e0;2.56E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>30.4 ± 0.6 mbar, n=17<br>0.2 ± 0.9 mbar, n=7",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.1 ± 0.7 mbar, n=17<br>0.7 ± 0.2 mbar, n=10",3.47;3.47e0;3.47E0,short_answer
+"Are the following standard deviations significantly different?<br>33.6 ± 0.6 J, n=18<br>27.5 ± 0.5 J, n=7",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>62.6 ± 0.6 A, n=5<br>1.0 ± 0.7 A, n=15",6.43;6.43e0;6.43E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.7 ± 0.7 J, n=12<br>2.8 ± 0.6 J, n=5",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>2.9 ± 0.5 A, n=20<br>0.2 ± 0.8 A, n=13",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>3.2 ± 0.6 m, n=13<br>0.3 ± 0.9 m, n=6",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>80.2 ± 0.3 L, n=7<br>0.3 ± 0.5 L, n=10",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>19.0 ± 0.2 kPa, n=20<br>0.2 ± 0.3 kPa, n=6",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>1.4 ± 0.6 K, n=14<br>2.5 ± 0.5 K, n=10",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.4 ± 0.7 Pa, n=4<br>0.6 ± 0.3 Pa, n=20",3.51;3.51e0;3.51E0,short_answer
+"Are the following standard deviations significantly different?<br>1.3 ± 0.3 h, n=10<br>0.8 ± 0.9 h, n=11",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>43.2 ± 0.6 h, n=16<br>31.3 ± 0.8 h, n=6",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>3.7 ± 0.3 kJ, n=6<br>1.7 ± 1.0 kJ, n=15",11;1.1e1;1.1E1;11.;10;1e1;1E1;11.1;1.11e1;1.11E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>99.9 ± 0.3 mol, n=6<br>3.9 ± 0.8 mol, n=6",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>15.1 ± 0.2 V, n=5<br>56.5 ± 0.2 V, n=6",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>2.9 ± 0.5 bar, n=19<br>3.5 ± 0.7 bar, n=19",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Given the following measurements calculate F:<br>24.5 ± 0.6 yr, n=13<br>1.9 ± 0.4 yr, n=16",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>2.7 ± 0.6 km, n=8<br>0.3 ± 0.5 km, n=20",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.9 ± 0.4 yr, n=19<br>1.89 ± 0.11 yr, n=12",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>3.2 ± 0.5 m, n=6<br>0.2 ± 0.4 m, n=7",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Given the following measurements calculate F:<br>7.5 ± 0.4 J, n=14<br>7.3 ± 0.5 J, n=20",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>24.4 ± 0.2 Torr, n=8<br>13.5 ± 0.8 Torr, n=18",4.03;4.03e0;4.03E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.2 ± 0.7 N, n=11<br>0.2 ± 0.9 N, n=7",3.76;3.76e0;3.76E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>12.3 ± 0.6 Hz, n=10<br>89.4 ± 0.5 Hz, n=4",8.84;8.84e0;8.84E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>38.4 ± 0.3 mA, n=12<br>0.2 ± 1.0 mA, n=13",3.24;3.24e0;3.24E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.3 ± 0.3 K, n=8<br>1.3 ± 0.2 K, n=7",4.90;4.90e0;4.90E0,short_answer
+"Given the following measurements calculate F:<br>1.0 ± 0.4 mA, n=15<br>42.4 ± 0.5 mA, n=20",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Are the following standard deviations significantly different?<br>14.0 ± 0.2 atm, n=7<br>0.1 ± 0.2 atm, n=16",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>65.4 ± 0.4 K, n=5<br>23.5 ± 0.9 K, n=17",5.1;5.1e0;5.1E0;5;5e0;5E0;5.;5.06;5.06e0;5.06E0,short_answer
+"Are the following standard deviations significantly different?<br>7.1 ± 0.2 kcal, n=11<br>0.4 ± 0.5 kcal, n=18",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.95 ± 0.15 W, n=18<br>2.9 ± 0.2 W, n=19",2.58;2.58e0;2.58E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.1 ± 0.4 ns, n=8<br>1.6 ± 0.5 ns, n=15",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.5 ± 0.2 N, n=3<br>7.4 ± 0.8 N, n=17",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Are the following standard deviations significantly different?<br>1.9 ± 0.4 Pa, n=7<br>2.5 ± 0.7 Pa, n=17",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.2 ± 0.5 J, n=6<br>0.5 ± 0.2 J, n=5",6.98;6.98e0;6.98E0,short_answer
+"Are the following standard deviations significantly different?<br>88.8 ± 0.6 nm, n=3<br>0.2 ± 0.3 nm, n=15",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>1.1 ± 0.3 mol, n=14<br>7.0 ± 0.5 mol, n=6",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>21.4 ± 0.4 Torr, n=8<br>0.1 ± 0.8 Torr, n=13",4.16;4.16e0;4.16E0,short_answer
+"Calculate the F statistic for the following measurements:<br>9.11 ± 0.12 J, n=8<br>58.8 ± 0.5 J, n=17",17;1.7e1;1.7E1;17.;20;2e1;2E1;17.4;1.74e1;1.74E1,short_answer
+"Calculate the F statistic for the following measurements:<br>3.7 ± 0.6 cal, n=7<br>6.2 ± 0.6 cal, n=7",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>81.5 ± 0.5 atm, n=16<br>1.4 ± 0.8 atm, n=20",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>35.1 ± 0.3 h, n=4<br>0.5 ± 0.8 h, n=8",7.1;7.1e0;7.1E0;7;7e0;7E0;7.;7.11;7.11e0;7.11E0,short_answer
+"Given the following measurements calculate F:<br>98.7 ± 0.6 s, n=10<br>0.6 ± 0.9 s, n=8",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>2.3 ± 0.7 kcal, n=11<br>0.3 ± 0.8 kcal, n=15",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.31;1.31e0;1.31E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>58.8 ± 0.5 K, n=18<br>0.2 ± 0.9 K, n=9",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>6.5 ± 0.3 bar, n=15<br>92.3 ± 0.4 bar, n=19",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.3 ± 0.6 Hz, n=18<br>2.6 ± 0.8 Hz, n=19",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>32.5 ± 0.5 kJ, n=19<br>3.8 ± 0.4 kJ, n=4",8.58;8.58e0;8.58E0,short_answer
+"Are the following standard deviations significantly different?<br>6.0 ± 0.7 W, n=7<br>10.4 ± 0.6 W, n=13",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>5.1 ± 0.6 mol, n=7<br>4.4 ± 0.3 mol, n=9",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>12.4 ± 0.3 kJ, n=16<br>63.0 ± 0.8 kJ, n=11",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.8 ± 0.5 kJ, n=3<br>3.4 ± 0.5 kJ, n=9",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>12.5 ± 0.6 kV, n=12<br>30.9 ± 0.3 kV, n=15",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>16.3 ± 0.4 atm, n=6<br>36.3 ± 0.2 atm, n=12",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>58.6 ± 0.2 cal, n=13<br>0.2 ± 0.2 cal, n=14",3.08;3.08e0;3.08E0,short_answer
+"Are the following standard deviations significantly different?<br>1.5 ± 0.5 kg, n=17<br>0.1 ± 0.3 kg, n=7",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>83.3 ± 0.6 g, n=11<br>2.2 ± 0.3 g, n=16",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>12.6 ± 0.4 h, n=12<br>3.8 ± 0.5 h, n=15",3.18;3.18e0;3.18E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>9.8 ± 0.4 W, n=5<br>0.2 ± 0.6 W, n=14",6.46;6.46e0;6.46E0,short_answer
+"Calculate the F statistic for the following measurements:<br>22.6 ± 0.7 g, n=14<br>3.3 ± 0.5 g, n=8",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Given the following measurements calculate F:<br>72.7 ± 0.2 g, n=15<br>58.8 ± 0.5 g, n=6",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Given the following measurements calculate F:<br>27.3 ± 0.7 V, n=19<br>27.7 ± 0.5 V, n=19",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.8 ± 0.7 kg, n=11<br>17.7 ± 0.3 kg, n=18",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>74.9 ± 0.5 mol, n=10<br>12.3 ± 0.9 mol, n=10",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>33.4 ± 0.3 L, n=4<br>56.9 ± 0.3 L, n=9",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>11.5 ± 0.5 cal, n=4<br>15.8 ± 0.3 cal, n=14",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>22.0 ± 0.3 kV, n=19<br>0.2 ± 0.4 kV, n=14",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.2 ± 0.6 kg, n=9<br>20.3 ± 0.2 kg, n=10",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>4.4 ± 0.4 s, n=8<br>60.05 ± 0.12 s, n=3",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>1.7 ± 0.5 ms, n=6<br>11.0 ± 0.3 ms, n=7",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>26.41 ± 0.13 K, n=6<br>0.3 ± 0.3 K, n=15",5.3;5.3e0;5.3E0;5;5e0;5E0;5.;5.33;5.33e0;5.33E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.5 ± 0.7 mM, n=6<br>0.2 ± 0.7 mM, n=14",5.30;5.30e0;5.30E0,short_answer
+"Given the following measurements calculate F:<br>3.3 ± 0.2 cal, n=20<br>0.2 ± 0.6 cal, n=9",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>39.9 ± 0.4 yr, n=16<br>12.85 ± 0.14 yr, n=7",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.3 ± 0.6 W, n=7<br>33.9 ± 0.4 W, n=14",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.0 ± 0.3 yr, n=16<br>0.43 ± 0.13 yr, n=9",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>10.7 ± 0.6 kJ, n=16<br>0.4 ± 0.6 kJ, n=19",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>23.1 ± 0.4 mbar, n=7<br>27.0 ± 0.4 mbar, n=3",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>5.6 ± 0.5 ms, n=5<br>0.2 ± 0.4 ms, n=4",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>4.3 ± 0.4 mol, n=19<br>0.49 ± 0.11 mol, n=17",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>83.1 ± 0.6 g, n=13<br>0.5 ± 0.9 g, n=9",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>73.9 ± 0.7 bar, n=17<br>0.5 ± 0.5 bar, n=3",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Given the following measurements calculate F:<br>1.2 ± 0.4 Pa, n=17<br>27.3 ± 0.4 Pa, n=18",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>30.7 ± 0.5 kV, n=4<br>16.9 ± 0.5 kV, n=10",8.84;8.84e0;8.84E0,short_answer
+"Given the following measurements calculate F:<br>2.1 ± 0.4 kJ, n=8<br>0.3 ± 0.4 kJ, n=16",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>15.0 ± 0.4 mbar, n=9<br>20.6 ± 0.9 mbar, n=7",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>19.0 ± 0.5 atm, n=13<br>4.3 ± 0.2 atm, n=16",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>10.5 ± 0.4 cal, n=9<br>88.7 ± 0.9 cal, n=7",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>17.8 ± 0.3 L, n=14<br>7.60 ± 0.10 L, n=8",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>1.3 ± 0.2 km, n=4<br>1.2 ± 0.2 km, n=18",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>63.0 ± 0.3 h, n=10<br>0.2 ± 0.4 h, n=4",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>15.8 ± 0.3 kg, n=17<br>7.7 ± 0.4 kg, n=11",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>35.7 ± 0.2 h, n=6<br>59.7 ± 0.8 h, n=20",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.3 ± 0.4 mbar, n=13<br>8.3 ± 0.6 mbar, n=5",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>55.4 ± 0.5 ns, n=20<br>6.5 ± 0.5 ns, n=14",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>13.2 ± 0.3 mA, n=12<br>55.4 ± 0.4 mA, n=16",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>32.2 ± 0.6 mA, n=11<br>23.4 ± 0.2 mA, n=4",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.6 ± 0.5 mbar, n=14<br>7.6 ± 0.2 mbar, n=5",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>7.7 ± 0.2 s, n=4<br>0.2 ± 0.7 s, n=16",8.63;8.63e0;8.63E0,short_answer
+"Given the following measurements calculate F:<br>24.7 ± 0.4 h, n=17<br>5.3 ± 0.2 h, n=6",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>8.4 ± 0.5 cal, n=11<br>1.9 ± 0.5 cal, n=6",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>4.1 ± 0.5 ms, n=11<br>0.4 ± 0.8 ms, n=10",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>27.9 ± 0.6 bar, n=12<br>2.2 ± 0.3 bar, n=20",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>24.0 ± 0.3 A, n=4<br>85.5 ± 0.9 A, n=3",9.98;9.98e0;9.98E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>6.5 ± 0.3 mol, n=3<br>1.2 ± 0.2 mol, n=11",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>30.41 ± 0.14 h, n=8<br>6.6 ± 0.3 h, n=19",4.02;4.02e0;4.02E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.4 ± 0.2 K, n=19<br>0.1 ± 0.7 K, n=9",2.88;2.88e0;2.88E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>8.3 ± 0.4 nm, n=17<br>0.4 ± 0.5 nm, n=10",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.10 ± 0.12 mmHg, n=16<br>2.4 ± 0.2 mmHg, n=11",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>46.39 ± 0.10 Pa, n=11<br>0.1 ± 0.7 Pa, n=11",49;4.9e1;4.9E1;49.;50;5e1;5E1;49.0;4.90e1;4.90E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>7.3 ± 0.5 W, n=8<br>3.6 ± 0.4 W, n=3",14.54;1.454e1;1.454E1,short_answer
+"Calculate the F statistic for the following measurements:<br>36.6 ± 0.6 mol, n=18<br>27.4 ± 0.2 mol, n=8",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>27.6 ± 0.4 nm, n=17<br>0.3 ± 0.8 nm, n=6",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>33.5 ± 0.4 Hz, n=9<br>0.2 ± 0.3 Hz, n=19",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>25.0 ± 0.7 mol, n=7<br>4.5 ± 0.6 mol, n=17",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.3 ± 0.5 m, n=19<br>54.6 ± 0.6 m, n=4",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>83.3 ± 0.5 L, n=6<br>32.5 ± 0.4 L, n=3",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>97.4 ± 0.3 W, n=15<br>0.3 ± 0.6 W, n=7",3.29;3.29e0;3.29E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>28.7 ± 0.2 mol, n=13<br>0.3 ± 0.6 mol, n=3",4.35;4.35e0;4.35E0,short_answer
+"Given the following measurements calculate F:<br>58.4 ± 0.3 M, n=16<br>0.8 ± 0.5 M, n=18",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>34.2 ± 0.4 mmHg, n=17<br>0.5 ± 0.9 mmHg, n=19",5.1;5.1e0;5.1E0;5;5e0;5E0;5.;5.06;5.06e0;5.06E0,short_answer
+"Are the following standard deviations significantly different?<br>27.5 ± 0.4 m, n=6<br>26.8 ± 0.6 m, n=14",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>45.1 ± 0.2 s, n=7<br>0.8 ± 0.3 s, n=18",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>11.0 ± 0.7 atm, n=20<br>29.1 ± 0.9 atm, n=10",1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.65;1.65e0;1.65E0,short_answer
+"Are the following standard deviations significantly different?<br>51.7 ± 0.2 km, n=20<br>4.1 ± 0.2 km, n=8",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>52.2 ± 0.5 mL, n=18<br>1.1 ± 0.9 mL, n=17",3.2;3.2e0;3.2E0;3;3e0;3E0;3.;3.24;3.24e0;3.24E0,short_answer
+"Given the following measurements calculate F:<br>73.4 ± 0.3 bar, n=10<br>16.1 ± 0.9 bar, n=17",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Are the following standard deviations significantly different?<br>75.2 ± 0.4 A, n=4<br>1.0 ± 0.4 A, n=20",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>80.3 ± 0.5 mbar, n=11<br>5.4 ± 0.3 mbar, n=5",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>12.7 ± 0.5 m, n=15<br>0.4 ± 0.7 m, n=3",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>33.3 ± 0.5 kV, n=14<br>3.8 ± 0.8 kV, n=3",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.1 ± 0.3 kJ, n=13<br>7.1 ± 0.3 kJ, n=3",4.35;4.35e0;4.35E0,short_answer
+"Given the following measurements calculate F:<br>3.0 ± 0.4 Torr, n=19<br>19.5 ± 0.5 Torr, n=6",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>15.0 ± 0.6 ms, n=10<br>2.6 ± 0.7 ms, n=14",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>18.2 ± 0.3 g, n=11<br>58.2 ± 1.0 g, n=9",3.59;3.59e0;3.59E0,short_answer
+"Are the following standard deviations significantly different?<br>19.9 ± 0.4 Pa, n=14<br>0.1 ± 0.6 Pa, n=20",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>9.7 ± 0.3 atm, n=12<br>6.1 ± 0.3 atm, n=6",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>1.5 ± 0.3 kcal, n=10<br>55.0 ± 0.4 kcal, n=6",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>50.3 ± 0.6 W, n=8<br>99.5 ± 0.2 W, n=10",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>18.8 ± 0.5 N, n=13<br>32.6 ± 0.8 N, n=18",2.98;2.98e0;2.98E0,short_answer
+"Calculate the F statistic for the following measurements:<br>6.3 ± 0.6 bar, n=8<br>17.4 ± 0.8 bar, n=6",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>39.1 ± 0.2 ns, n=13<br>0.2 ± 0.9 ns, n=12",3.15;3.15e0;3.15E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>88.7 ± 0.5 kV, n=18<br>27.9 ± 0.6 kV, n=16",2.64;2.64e0;2.64E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>17.2 ± 0.5 A, n=15<br>21.2 ± 1.0 A, n=5",3.58;3.58e0;3.58E0,short_answer
+"Given the following measurements calculate F:<br>1.7 ± 0.4 yr, n=16<br>36.5 ± 0.6 yr, n=3",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>20.0 ± 0.3 kJ, n=6<br>1.0 ± 0.4 kJ, n=4",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.97 ± 0.10 h, n=15<br>0.5 ± 0.3 h, n=18",2.79;2.79e0;2.79E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.9 ± 0.5 mol, n=12<br>15.6 ± 0.9 mol, n=4",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.5 ± 0.3 mol, n=8<br>4.0 ± 0.5 mol, n=5",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>14.5 ± 0.6 M, n=4<br>5.9 ± 0.5 M, n=9",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>13.7 ± 0.7 mM, n=13<br>88.4 ± 0.7 mM, n=6",3.60;3.60e0;3.60E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>6.9 ± 0.6 s, n=14<br>3.5 ± 0.9 s, n=14",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>4.70 ± 0.14 W, n=5<br>2.8 ± 0.8 W, n=4",33;3.3e1;3.3E1;33.;30;3e1;3E1;32.7;3.27e1;3.27E1,short_answer
+"Given the following measurements calculate F:<br>16.8 ± 0.7 ms, n=12<br>33.6 ± 0.8 ms, n=14",1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.31;1.31e0;1.31E0,short_answer
+"Given the following measurements calculate F:<br>5.3 ± 0.3 bar, n=4<br>0.2 ± 0.5 bar, n=11",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Are the following standard deviations significantly different?<br>11.1 ± 0.2 nm, n=18<br>17.9 ± 0.2 nm, n=8",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>50.5 ± 0.6 mM, n=18<br>15.1 ± 0.2 mM, n=18",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>1.48 ± 0.15 mmHg, n=15<br>8.8 ± 0.7 mmHg, n=11",22;2.2e1;2.2E1;22.;20;2e1;2E1;21.8;2.18e1;2.18E1,short_answer
+"Are the following standard deviations significantly different?<br>2.6 ± 0.2 W, n=17<br>6.4 ± 0.3 W, n=5",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.69 ± 0.15 ms, n=16<br>82.7 ± 0.5 ms, n=3",4.08;4.08e0;4.08E0,short_answer
+"Are the following standard deviations significantly different?<br>2.7 ± 0.6 ns, n=13<br>39.4 ± 0.4 ns, n=7",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>1.0 ± 0.7 A, n=8<br>0.6 ± 0.9 A, n=7",1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.65;1.65e0;1.65E0,short_answer
+"Are the following standard deviations significantly different?<br>1.8 ± 0.2 bar, n=8<br>12.7 ± 0.6 bar, n=5",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.7 ± 0.6 h, n=10<br>1.0 ± 0.2 h, n=13",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.3 ± 0.5 J, n=13<br>97.3 ± 0.9 J, n=11",3.2;3.2e0;3.2E0;3;3e0;3E0;3.;3.24;3.24e0;3.24E0,short_answer
+"Given the following measurements calculate F:<br>10.9 ± 0.5 L, n=14<br>1.1 ± 0.2 L, n=20",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Given the following measurements calculate F:<br>1.1 ± 0.4 V, n=12<br>0.3 ± 0.3 V, n=7",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>5.1 ± 0.3 mL, n=18<br>0.2 ± 0.3 mL, n=19",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.3 ± 0.3 V, n=13<br>0.2 ± 0.9 V, n=15",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>1.4 ± 0.2 A, n=19<br>21.5 ± 0.4 A, n=8",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>7.8 ± 0.6 W, n=20<br>5.8 ± 1.0 W, n=8",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>2.5 ± 0.5 mL, n=9<br>1.7 ± 0.4 mL, n=11",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>78.3 ± 0.2 nm, n=12<br>0.2 ± 0.8 nm, n=6",3.73;3.73e0;3.73E0,short_answer
+"Given the following measurements calculate F:<br>1.4 ± 0.2 K, n=20<br>42.2 ± 0.6 K, n=20",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>30.6 ± 0.4 N, n=11<br>0.1 ± 0.5 N, n=12",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Given the following measurements calculate F:<br>8.9 ± 0.2 A, n=6<br>17.3 ± 0.4 A, n=10",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>11.36 ± 0.14 V, n=19<br>10.1 ± 0.6 V, n=3",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>10.7 ± 0.7 kV, n=12<br>0.2 ± 0.7 kV, n=9",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>2.8 ± 0.3 A, n=10<br>9.8 ± 0.6 A, n=17",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>70.99 ± 0.15 yr, n=5<br>40.7 ± 0.7 yr, n=9",22;2.2e1;2.2E1;22.;20;2e1;2E1;21.8;2.18e1;2.18E1,short_answer
+"Calculate the F statistic for the following measurements:<br>12.3 ± 0.2 Torr, n=3<br>0.6 ± 0.7 Torr, n=5",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Calculate the F statistic for the following measurements:<br>3.2 ± 0.5 kPa, n=4<br>0.2 ± 0.4 kPa, n=18",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Given the following measurements calculate F:<br>44.9 ± 0.3 kcal, n=12<br>10.8 ± 0.5 kcal, n=12",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>65.0 ± 0.7 m, n=15<br>0.2 ± 0.7 m, n=6",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>5.2 ± 0.2 mbar, n=9<br>24.2 ± 0.6 mbar, n=4",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Are the following standard deviations significantly different?<br>16.87 ± 0.15 kcal, n=13<br>19.7 ± 0.5 kcal, n=19",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>2.9 ± 0.6 cal, n=4<br>3.0 ± 1.0 cal, n=18",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Are the following standard deviations significantly different?<br>86.8 ± 0.2 N, n=13<br>0.6 ± 1.0 N, n=14",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>52.6 ± 0.4 nm, n=4<br>8.5 ± 0.2 nm, n=5",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>15.5 ± 0.2 kPa, n=13<br>0.1 ± 1.0 kPa, n=20",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.3 ± 0.4 kg, n=5<br>0.5 ± 0.5 kg, n=16",6.40;6.40e0;6.40E0,short_answer
+"Are the following standard deviations significantly different?<br>6.4 ± 0.3 Torr, n=11<br>0.2 ± 0.2 Torr, n=11",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>58.3 ± 0.3 mA, n=11<br>0.3 ± 0.7 mA, n=11",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.8 ± 0.5 kPa, n=16<br>60.3 ± 0.6 kPa, n=18",2.72;2.72e0;2.72E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.38 ± 0.14 ms, n=5<br>1.6 ± 0.2 ms, n=7",6.85;6.85e0;6.85E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>5.6 ± 0.2 J, n=10<br>18.9 ± 0.5 J, n=7",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.1 ± 0.4 M, n=4<br>0.3 ± 0.7 M, n=3",9.98;9.98e0;9.98E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.8 ± 0.3 A, n=16<br>34.1 ± 0.8 A, n=14",2.82;2.82e0;2.82E0,short_answer
+"Calculate the F statistic for the following measurements:<br>3.8 ± 0.2 atm, n=3<br>3.0 ± 0.8 atm, n=14",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Are the following standard deviations significantly different?<br>3.5 ± 0.2 nm, n=5<br>47.81 ± 0.12 nm, n=11",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>28.8 ± 0.5 h, n=6<br>0.6 ± 0.5 h, n=8",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>23.0 ± 0.3 m, n=13<br>0.2 ± 0.6 m, n=15",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>11.0 ± 0.7 cal, n=7<br>3.7 ± 0.3 cal, n=12",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.3 ± 0.7 Torr, n=5<br>3.2 ± 0.7 Torr, n=18",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.5 ± 0.6 M, n=6<br>0.8 ± 0.6 M, n=6",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>66.4 ± 0.6 kg, n=16<br>0.8 ± 0.2 kg, n=7",4.54;4.54e0;4.54E0,short_answer
+"Given the following measurements calculate F:<br>57.1 ± 0.2 ns, n=11<br>39.3 ± 0.6 ns, n=13",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>8.5 ± 0.4 h, n=14<br>9.4 ± 0.7 h, n=20",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Calculate the F statistic for the following measurements:<br>15.6 ± 0.4 cal, n=16<br>12.5 ± 0.8 cal, n=12",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>60.7 ± 0.6 Hz, n=12<br>0.1 ± 0.9 Hz, n=20",3.07;3.07e0;3.07E0,short_answer
+"Given the following measurements calculate F:<br>2.8 ± 0.5 bar, n=20<br>6.8 ± 0.8 bar, n=12",2.6;2.6e0;2.6E0;3;3e0;3E0;3.;2.56;2.56e0;2.56E0,short_answer
+"Are the following standard deviations significantly different?<br>98.3 ± 0.3 yr, n=12<br>0.2 ± 0.9 yr, n=7",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>41.6 ± 0.5 mL, n=9<br>45.43 ± 0.11 mL, n=14",3.21;3.21e0;3.21E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>8.4 ± 0.2 h, n=5<br>56.5 ± 0.2 h, n=11",6.57;6.57e0;6.57E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>11.2 ± 0.3 s, n=16<br>8.0 ± 0.8 s, n=10",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>8.6 ± 0.2 ms, n=17<br>80.4 ± 0.4 ms, n=10",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>35.1 ± 0.5 ns, n=14<br>85.8 ± 0.4 ns, n=8",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.2 ± 0.4 K, n=9<br>6.3 ± 0.4 K, n=14",3.80;3.80e0;3.80E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>57.9 ± 0.5 g, n=7<br>0.4 ± 0.4 g, n=10",3.95;3.95e0;3.95E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>9.7 ± 0.3 kV, n=7<br>16.1 ± 0.2 kV, n=13",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>2.3 ± 0.7 K, n=18<br>0.2 ± 0.6 K, n=5",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>54.8 ± 0.6 kPa, n=14<br>0.7 ± 1.0 kPa, n=7",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>68.9 ± 0.2 V, n=3<br>63.8 ± 0.4 V, n=5",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>3.7 ± 0.5 h, n=8<br>60.3 ± 0.7 h, n=19",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.0 ± 0.4 N, n=20<br>2.1 ± 0.7 N, n=18",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.4 ± 0.7 kV, n=3<br>69.7 ± 0.8 kV, n=18",14.20;1.420e1;1.420E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>17.6 ± 0.4 km, n=20<br>17.5 ± 0.5 km, n=20",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>4.48 ± 0.10 kV, n=9<br>0.1 ± 0.9 kV, n=19",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>4.3 ± 0.6 kPa, n=11<br>0.3 ± 0.7 kPa, n=10",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>38.9 ± 0.7 kg, n=16<br>7.8 ± 0.6 kg, n=7",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>8.2 ± 0.3 m, n=12<br>84.8 ± 0.6 m, n=14",3.21;3.21e0;3.21E0,short_answer
+"Calculate the F statistic for the following measurements:<br>22.6 ± 0.2 ns, n=18<br>0.5 ± 0.7 ns, n=18",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.5 ± 0.7 h, n=4<br>0.9 ± 0.9 h, n=12",8.75;8.75e0;8.75E0,short_answer
+"Calculate the F statistic for the following measurements:<br>5.6 ± 0.2 mol, n=6<br>4.7 ± 0.4 mol, n=16",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.6 ± 0.3 M, n=9<br>52.62 ± 0.12 M, n=11",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>11.1 ± 0.6 ms, n=5<br>0.6 ± 0.2 ms, n=6",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>2.9 ± 0.7 m, n=4<br>0.9 ± 0.2 m, n=11",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Given the following measurements calculate F:<br>2.74 ± 0.15 W, n=14<br>35.5 ± 0.2 W, n=3",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>34.24 ± 0.10 Hz, n=7<br>0.2 ± 0.9 Hz, n=7",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>18.8 ± 0.2 cal, n=6<br>0.2 ± 0.4 cal, n=7",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>6.5 ± 0.5 m, n=6<br>0.4 ± 1.0 m, n=17",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>20.8 ± 0.4 kg, n=14<br>79.7 ± 0.6 kg, n=8",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.1 ± 0.4 V, n=6<br>1.3 ± 0.9 V, n=18",5.20;5.20e0;5.20E0,short_answer
+"Given the following measurements calculate F:<br>57.3 ± 0.7 mol, n=20<br>28.9 ± 0.3 mol, n=5",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Given the following measurements calculate F:<br>1.2 ± 0.2 J, n=18<br>0.2 ± 0.8 J, n=6",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Given the following measurements calculate F:<br>2.6 ± 0.2 N, n=17<br>0.1 ± 0.7 N, n=12",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.6 ± 0.5 nm, n=12<br>7.0 ± 0.8 nm, n=7",3.61;3.61e0;3.61E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>19.22 ± 0.13 ms, n=8<br>1.5 ± 0.9 ms, n=18",4.03;4.03e0;4.03E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>10.2 ± 0.7 ns, n=4<br>23.7 ± 0.7 ns, n=18",8.59;8.59e0;8.59E0,short_answer
+"Calculate the F statistic for the following measurements:<br>20.9 ± 0.6 g, n=16<br>1.4 ± 0.9 g, n=12",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Are the following standard deviations significantly different?<br>5.3 ± 0.4 J, n=12<br>11.3 ± 0.2 J, n=18",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.0 ± 0.6 N, n=15<br>12.8 ± 0.3 N, n=19",2.62;2.62e0;2.62E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>20.6 ± 0.5 L, n=7<br>4.4 ± 0.9 L, n=10",4.76;4.76e0;4.76E0,short_answer
+"Are the following standard deviations significantly different?<br>55.0 ± 0.2 kJ, n=10<br>0.4 ± 0.8 kJ, n=12",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.3 ± 0.3 mmHg, n=6<br>0.6 ± 0.6 mmHg, n=7",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>17.25 ± 0.14 kPa, n=6<br>1.8 ± 0.7 kPa, n=9",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>9.4 ± 0.2 atm, n=8<br>2.4 ± 0.7 atm, n=4",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.8 ± 0.7 yr, n=19<br>39.0 ± 0.2 yr, n=6",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.7 ± 0.5 kJ, n=7<br>0.2 ± 0.7 kJ, n=10",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.9 ± 0.2 Torr, n=15<br>0.9 ± 0.4 Torr, n=5",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>20.2 ± 0.4 kcal, n=8<br>18.1 ± 0.3 kcal, n=7",4.90;4.90e0;4.90E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>77.5 ± 0.4 g, n=17<br>10.0 ± 0.2 g, n=20",2.52;2.52e0;2.52E0,short_answer
+"Calculate the F statistic for the following measurements:<br>40.1 ± 0.5 J, n=15<br>1.5 ± 0.5 J, n=11",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.35 ± 0.12 M, n=10<br>18.9 ± 0.2 M, n=15",3.52;3.52e0;3.52E0,short_answer
+"Given the following measurements calculate F:<br>20.27 ± 0.14 K, n=7<br>0.2 ± 0.9 K, n=19",41;4.1e1;4.1E1;41.;40;4e1;4E1;41.3;4.13e1;4.13E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>59.0 ± 0.2 Pa, n=5<br>2.3 ± 0.7 Pa, n=13",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>21.0 ± 0.5 cal, n=18<br>0.4 ± 1.0 cal, n=19",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Are the following standard deviations significantly different?<br>1.2 ± 0.4 bar, n=14<br>0.1 ± 0.6 bar, n=8",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>49.39 ± 0.10 Pa, n=6<br>2.2 ± 0.4 Pa, n=12",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>85.8 ± 0.6 ms, n=11<br>30.9 ± 0.5 ms, n=5",6.57;6.57e0;6.57E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>59.6 ± 0.5 atm, n=12<br>38.6 ± 1.0 atm, n=11",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>73.2 ± 0.3 cal, n=10<br>0.1 ± 0.3 cal, n=20",3.42;3.42e0;3.42E0,short_answer
+"Are the following standard deviations significantly different?<br>4.4 ± 0.2 m, n=3<br>0.3 ± 0.7 m, n=15",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>21.43 ± 0.15 ns, n=8<br>5.7 ± 0.8 ns, n=12",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.5 ± 0.4 ns, n=10<br>8.7 ± 0.4 ns, n=11",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>1.5 ± 0.4 mA, n=18<br>7.8 ± 0.7 mA, n=18",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>1.09 ± 0.11 mol, n=6<br>69.5 ± 0.8 mol, n=3",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>7.5 ± 0.3 A, n=16<br>0.6 ± 0.3 A, n=4",3.73;3.73e0;3.73E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.0 ± 0.5 cal, n=11<br>0.3 ± 0.7 cal, n=18",3.26;3.26e0;3.26E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.31 ± 0.14 h, n=7<br>0.3 ± 0.3 h, n=5",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>81.3 ± 0.5 Torr, n=3<br>42.8 ± 1.0 Torr, n=7",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.2 ± 0.3 N, n=13<br>1.0 ± 0.8 N, n=8",7.1;7.1e0;7.1E0;7;7e0;7E0;7.;7.11;7.11e0;7.11E0,short_answer
+"Are the following standard deviations significantly different?<br>61.6 ± 0.2 kV, n=6<br>0.6 ± 0.7 kV, n=3",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>43.2 ± 0.6 Hz, n=14<br>0.15 ± 0.13 Hz, n=10",21;2.1e1;2.1E1;21.;20;2e1;2E1;21.3;2.13e1;2.13E1,short_answer
+"Calculate the F statistic for the following measurements:<br>2.2 ± 0.2 M, n=18<br>3.1 ± 0.2 M, n=11",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>6.4 ± 0.6 nm, n=17<br>37.9 ± 0.3 nm, n=13",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>48.8 ± 0.3 ms, n=14<br>0.2 ± 0.9 ms, n=4",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>24.1 ± 0.2 yr, n=6<br>0.1 ± 1.0 yr, n=14",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.0 ± 0.4 K, n=12<br>0.1 ± 0.6 K, n=9",3.44;3.44e0;3.44E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>30.0 ± 0.4 kV, n=7<br>10.6 ± 0.3 kV, n=11",3.76;3.76e0;3.76E0,short_answer
+"Given the following measurements calculate F:<br>2.8 ± 0.4 kJ, n=16<br>4.5 ± 0.2 kJ, n=8",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>73.0 ± 0.3 mmHg, n=17<br>3.54 ± 0.11 mmHg, n=11",7.4;7.4e0;7.4E0;7;7e0;7E0;7.;7.44;7.44e0;7.44E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.6 ± 0.6 yr, n=19<br>4.1 ± 0.5 yr, n=5",6.34;6.34e0;6.34E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.88 ± 0.11 kg, n=16<br>32.4 ± 0.5 kg, n=12",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>17.5 ± 0.2 kPa, n=14<br>4.0 ± 0.3 kPa, n=13",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>12.7 ± 0.5 mL, n=18<br>0.2 ± 0.2 mL, n=8",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>1.1 ± 0.4 h, n=19<br>0.2 ± 0.8 h, n=15",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Given the following measurements calculate F:<br>4.8 ± 0.4 nm, n=16<br>31.9 ± 0.6 nm, n=13",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.4 ± 0.3 kg, n=16<br>28.9 ± 0.8 kg, n=13",7.1;7.1e0;7.1E0;7;7e0;7E0;7.;7.11;7.11e0;7.11E0,short_answer
+"Are the following standard deviations significantly different?<br>9.4 ± 0.3 J, n=19<br>0.1 ± 0.8 J, n=18",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.42 ± 0.15 kJ, n=4<br>0.8 ± 0.4 kJ, n=10",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.3 ± 0.6 bar, n=9<br>0.2 ± 0.9 bar, n=7",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>88.4 ± 0.6 kcal, n=16<br>23.6 ± 0.2 kcal, n=19",2.59;2.59e0;2.59E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.2 ± 0.2 V, n=20<br>1.4 ± 0.5 V, n=16",2.55;2.55e0;2.55E0,short_answer
+"Given the following measurements calculate F:<br>42.19 ± 0.12 V, n=11<br>15.3 ± 0.2 V, n=8",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Given the following measurements calculate F:<br>39.8 ± 0.6 atm, n=5<br>57.3 ± 0.7 atm, n=4",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Calculate the F statistic for the following measurements:<br>17.34 ± 0.12 kV, n=9<br>5.3 ± 0.9 kV, n=17",56;5.6e1;5.6E1;56.;60;6e1;6E1;56.3;5.63e1;5.63E1,short_answer
+"Calculate the F statistic for the following measurements:<br>10.4 ± 0.5 yr, n=12<br>3.7 ± 0.7 yr, n=14",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Given the following measurements calculate F:<br>17.0 ± 0.2 ns, n=13<br>0.6 ± 0.7 ns, n=18",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.0 ± 0.5 mA, n=15<br>0.2 ± 0.9 mA, n=13",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>6.6 ± 0.3 Pa, n=17<br>3.3 ± 0.6 Pa, n=6",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.0 ± 0.4 ms, n=8<br>13.9 ± 0.6 ms, n=16",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>3.9 ± 0.2 K, n=15<br>10.7 ± 0.7 K, n=8",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>77.7 ± 0.6 km, n=4<br>22.8 ± 0.5 km, n=9",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.19 ± 0.14 yr, n=8<br>0.2 ± 0.2 yr, n=20",4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.5 ± 0.6 m, n=6<br>1.0 ± 1.0 m, n=8",5.60;5.60e0;5.60E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>74.5 ± 0.6 Pa, n=17<br>1.4 ± 0.4 Pa, n=19",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>50.9 ± 0.2 bar, n=14<br>12.9 ± 0.3 bar, n=7",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.8 ± 0.2 bar, n=14<br>17.4 ± 0.8 bar, n=6",3.50;3.50e0;3.50E0,short_answer
+"Calculate the F statistic for the following measurements:<br>5.1 ± 0.6 N, n=17<br>0.1 ± 1.0 N, n=15",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Given the following measurements calculate F:<br>40.9 ± 0.2 Hz, n=9<br>0.4 ± 0.4 Hz, n=17",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>11.5 ± 0.2 kJ, n=15<br>90.9 ± 0.5 kJ, n=17",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Are the following standard deviations significantly different?<br>5.4 ± 0.4 kV, n=11<br>38.3 ± 0.3 kV, n=8",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>39.7 ± 0.4 atm, n=8<br>0.13 ± 0.11 atm, n=14",13;1.3e1;1.3E1;13.;10;1e1;1E1;13.2;1.32e1;1.32E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>14.3 ± 0.3 W, n=13<br>0.4 ± 0.8 W, n=11",3.20;3.20e0;3.20E0,short_answer
+"Are the following standard deviations significantly different?<br>17.9 ± 0.2 mA, n=8<br>4.6 ± 0.9 mA, n=13",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>53.9 ± 0.5 g, n=12<br>43.0 ± 0.2 g, n=16",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>4.6 ± 0.6 mM, n=19<br>0.7 ± 0.2 mM, n=15",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Are the following standard deviations significantly different?<br>54.5 ± 0.7 V, n=19<br>5.8 ± 0.3 V, n=19",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>10.0 ± 0.6 N, n=19<br>1.2 ± 0.6 N, n=10",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>1.76 ± 0.12 bar, n=8<br>86.5 ± 0.7 bar, n=13",34;3.4e1;3.4E1;34.;30;3e1;3E1;34.0;3.40e1;3.40E1,short_answer
+"Given the following measurements calculate F:<br>1.65 ± 0.15 kcal, n=4<br>0.3 ± 0.2 kcal, n=5",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>5.9 ± 0.3 mbar, n=8<br>0.8 ± 0.7 mbar, n=9",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>54.6 ± 0.6 V, n=14<br>76.3 ± 0.8 V, n=18",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Given the following measurements calculate F:<br>26.9 ± 0.4 km, n=14<br>99.2 ± 0.3 km, n=14",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Given the following measurements calculate F:<br>14.8 ± 0.6 kJ, n=15<br>1.0 ± 0.3 kJ, n=15",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Are the following standard deviations significantly different?<br>20.8 ± 0.7 Hz, n=18<br>69.6 ± 0.5 Hz, n=18",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.2 ± 0.5 km, n=18<br>29.1 ± 0.4 km, n=17",2.65;2.65e0;2.65E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.65 ± 0.10 cal, n=17<br>8.6 ± 0.6 cal, n=7",3.16;3.16e0;3.16E0,short_answer
+"Calculate the F statistic for the following measurements:<br>7.6 ± 0.2 mM, n=14<br>3.1 ± 0.7 mM, n=8",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>96.6 ± 0.4 kg, n=16<br>22.5 ± 0.5 kg, n=16",2.76;2.76e0;2.76E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.3 ± 0.2 W, n=5<br>0.1 ± 0.6 W, n=11",6.57;6.57e0;6.57E0,short_answer
+"Calculate the F statistic for the following measurements:<br>78.8 ± 0.4 L, n=7<br>90.4 ± 0.2 L, n=9",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>34.8 ± 0.4 mmHg, n=15<br>3.3 ± 0.7 mmHg, n=7",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>35.6 ± 0.7 kg, n=7<br>16.4 ± 1.0 kg, n=16",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;2.04;2.04e0;2.04E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.7 ± 0.3 kg, n=12<br>76.2 ± 0.4 kg, n=8",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>13.0 ± 0.5 g, n=8<br>33.9 ± 0.6 g, n=19",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.7 ± 0.4 mbar, n=5<br>0.3 ± 0.5 mbar, n=17",6.38;6.38e0;6.38E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>31.55 ± 0.12 L, n=3<br>27.8 ± 1.0 L, n=8",14.54;1.454e1;1.454E1,short_answer
+"Given the following measurements calculate F:<br>75.4 ± 0.4 atm, n=15<br>16.3 ± 0.4 atm, n=17",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>60.0 ± 0.6 Pa, n=4<br>78.0 ± 0.5 Pa, n=10",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>1.5 ± 0.7 mL, n=20<br>9.0 ± 0.5 mL, n=16",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>38.2 ± 0.6 kJ, n=12<br>0.2 ± 0.3 kJ, n=18",2.77;2.77e0;2.77E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>10.6 ± 0.4 mol, n=15<br>0.1 ± 0.4 mol, n=20",2.76;2.76e0;2.76E0,short_answer
+"Calculate the F statistic for the following measurements:<br>18.5 ± 0.4 mM, n=19<br>0.9 ± 0.3 mM, n=11",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>12.56 ± 0.12 s, n=6<br>0.5 ± 0.6 s, n=9",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.3 ± 0.5 yr, n=16<br>59.8 ± 0.3 yr, n=7",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.0 ± 0.6 kJ, n=15<br>0.4 ± 0.9 kJ, n=15",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>13.4 ± 0.6 cal, n=12<br>0.3 ± 0.2 cal, n=18",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Are the following standard deviations significantly different?<br>63.5 ± 0.4 Pa, n=5<br>1.3 ± 0.3 Pa, n=4",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.1 ± 0.2 L, n=7<br>0.1 ± 0.8 L, n=16",4.54;4.54e0;4.54E0,short_answer
+"Given the following measurements calculate F:<br>7.3 ± 0.4 yr, n=5<br>18.8 ± 0.7 yr, n=5",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.27 ± 0.12 g, n=15<br>8.8 ± 0.4 g, n=4",11;1.1e1;1.1E1;11.;10;1e1;1E1;11.1;1.11e1;1.11E1,short_answer
+"Given the following measurements calculate F:<br>5.8 ± 0.5 J, n=5<br>0.1 ± 0.4 J, n=13",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.3 ± 0.5 N, n=13<br>0.5 ± 0.6 N, n=11",3.20;3.20e0;3.20E0,short_answer
+"Are the following standard deviations significantly different?<br>34.0 ± 0.3 K, n=3<br>2.3 ± 0.7 K, n=6",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>27.3 ± 0.6 mol, n=13<br>51.7 ± 0.5 mol, n=13",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>8.1 ± 0.7 yr, n=4<br>21.2 ± 0.8 yr, n=11",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>11.2 ± 0.2 kPa, n=12<br>1.4 ± 0.2 kPa, n=5",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.7 ± 0.2 M, n=5<br>0.2 ± 0.2 M, n=11",6.57;6.57e0;6.57E0,short_answer
+"Given the following measurements calculate F:<br>10.54 ± 0.15 kJ, n=18<br>0.4 ± 0.4 kJ, n=19",7.1;7.1e0;7.1E0;7;7e0;7E0;7.;7.11;7.11e0;7.11E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>18.3 ± 0.5 mbar, n=10<br>15.1 ± 0.6 mbar, n=17",3.47;3.47e0;3.47E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>60.9 ± 0.4 yr, n=16<br>24.7 ± 0.5 yr, n=19",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>18.8 ± 0.4 g, n=8<br>52.8 ± 0.9 g, n=5",4.82;4.82e0;4.82E0,short_answer
+"Are the following standard deviations significantly different?<br>2.0 ± 0.3 Torr, n=19<br>0.3 ± 1.0 Torr, n=3",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.2 ± 0.7 A, n=4<br>82.1 ± 0.8 A, n=10",8.84;8.84e0;8.84E0,short_answer
+"Calculate the F statistic for the following measurements:<br>13.0 ± 0.7 L, n=15<br>4.8 ± 0.2 L, n=9",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Given the following measurements calculate F:<br>5.8 ± 0.5 W, n=3<br>27.93 ± 0.12 W, n=20",17;1.7e1;1.7E1;17.;20;2e1;2E1;17.4;1.74e1;1.74E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>8.5 ± 0.6 V, n=16<br>0.2 ± 0.7 V, n=7",3.22;3.22e0;3.22E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.3 ± 0.6 mmHg, n=20<br>3.6 ± 0.5 mmHg, n=4",8.56;8.56e0;8.56E0,short_answer
+"Calculate the F statistic for the following measurements:<br>9.5 ± 0.3 V, n=8<br>5.8 ± 0.4 V, n=10",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Are the following standard deviations significantly different?<br>41.6 ± 0.6 yr, n=11<br>95.7 ± 0.2 yr, n=13",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>4.8 ± 0.5 L, n=9<br>8.9 ± 0.7 L, n=7",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.7 ± 0.3 M, n=8<br>2.7 ± 1.0 M, n=14",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>38.7 ± 0.3 A, n=12<br>5.9 ± 0.9 A, n=8",3.51;3.51e0;3.51E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>49.0 ± 0.3 kcal, n=15<br>41.0 ± 0.5 kcal, n=4",3.80;3.80e0;3.80E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>28.9 ± 0.3 kPa, n=13<br>0.1 ± 0.3 kPa, n=11",3.20;3.20e0;3.20E0,short_answer
+"Given the following measurements calculate F:<br>23.5 ± 0.4 s, n=19<br>1.8 ± 1.0 s, n=18",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Are the following standard deviations significantly different?<br>3.0 ± 0.6 kg, n=10<br>58.9 ± 0.9 kg, n=17",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>8.7 ± 0.3 ms, n=10<br>0.1 ± 0.4 ms, n=20",3.42;3.42e0;3.42E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.2 ± 0.2 nm, n=14<br>1.2 ± 0.8 nm, n=15",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>5.3 ± 0.6 cal, n=15<br>0.2 ± 0.2 cal, n=6",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>4.3 ± 0.3 L, n=17<br>6.5 ± 0.5 L, n=12",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.5 ± 0.3 Pa, n=15<br>0.4 ± 0.3 Pa, n=11",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>30.6 ± 0.7 W, n=8<br>0.2 ± 0.9 W, n=12",1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.65;1.65e0;1.65E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>43.7 ± 0.4 h, n=6<br>6.28 ± 0.14 h, n=11",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>4.2 ± 0.6 M, n=12<br>4.5 ± 0.4 M, n=8",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>6.8 ± 0.3 nm, n=12<br>0.7 ± 0.3 nm, n=20",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>24.5 ± 0.7 nm, n=15<br>2.3 ± 0.3 nm, n=11",3.33;3.33e0;3.33E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>11.7 ± 0.5 s, n=18<br>14.4 ± 0.7 s, n=11",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.3 ± 0.4 Pa, n=8<br>86.1 ± 0.5 Pa, n=4",5.05;5.05e0;5.05E0,short_answer
+"Are the following standard deviations significantly different?<br>87.4 ± 0.5 kV, n=9<br>1.2 ± 0.3 kV, n=20",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>20.7 ± 0.3 K, n=15<br>0.8 ± 0.5 K, n=16",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Given the following measurements calculate F:<br>52.9 ± 0.6 M, n=10<br>0.8 ± 0.3 M, n=9",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.4 ± 0.3 V, n=17<br>0.6 ± 0.4 V, n=11",2.87;2.87e0;2.87E0,short_answer
+"Given the following measurements calculate F:<br>31.1 ± 0.4 mA, n=5<br>6.9 ± 0.6 mA, n=15",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>87.5 ± 0.3 nm, n=13<br>0.3 ± 0.3 nm, n=15",3.05;3.05e0;3.05E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>30.4 ± 0.2 g, n=11<br>2.7 ± 1.0 g, n=13",3.39;3.39e0;3.39E0,short_answer
+"Are the following standard deviations significantly different?<br>1.3 ± 0.2 kV, n=5<br>22.5 ± 0.4 kV, n=16",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.8 ± 0.6 ns, n=19<br>0.4 ± 0.2 ns, n=19",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>39.4 ± 0.2 mM, n=19<br>18.1 ± 0.7 mM, n=20",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>9.5 ± 0.2 mol, n=8<br>14.0 ± 0.8 mol, n=18",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>16.9 ± 0.4 A, n=13<br>5.3 ± 0.2 A, n=7",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>24.3 ± 0.4 K, n=19<br>32.6 ± 0.7 K, n=16",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.85 ± 0.13 s, n=10<br>1.9 ± 0.6 s, n=14",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>54.0 ± 0.2 nm, n=3<br>69.3 ± 0.7 nm, n=5",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Calculate the F statistic for the following measurements:<br>5.0 ± 0.2 h, n=12<br>0.3 ± 0.3 h, n=5",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>82.5 ± 0.4 mM, n=17<br>0.7 ± 0.3 mM, n=10",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Are the following standard deviations significantly different?<br>6.4 ± 0.6 mol, n=13<br>50.19 ± 0.14 mol, n=20",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.9 ± 0.4 ms, n=12<br>1.9 ± 0.3 ms, n=16",2.89;2.89e0;2.89E0,short_answer
+"Calculate the F statistic for the following measurements:<br>12.1 ± 0.3 kcal, n=18<br>4.0 ± 1.0 kcal, n=18",11;1.1e1;1.1E1;11.;10;1e1;1E1;11.1;1.11e1;1.11E1,short_answer
+"Calculate the F statistic for the following measurements:<br>25.7 ± 0.7 mmHg, n=12<br>0.2 ± 0.6 mmHg, n=11",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.67 ± 0.13 mol, n=10<br>0.1 ± 0.9 mol, n=5",48;4.8e1;4.8E1;48.;50;5e1;5E1;47.9;4.79e1;4.79E1,short_answer
+"Calculate the F statistic for the following measurements:<br>6.2 ± 0.5 g, n=3<br>5.4 ± 0.5 g, n=12",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>7.6 ± 0.2 K, n=10<br>2.8 ± 0.5 K, n=14",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>69.5 ± 0.7 mM, n=20<br>2.7 ± 0.4 mM, n=15",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Are the following standard deviations significantly different?<br>1.1 ± 0.6 Hz, n=9<br>0.1 ± 0.9 Hz, n=20",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>28.7 ± 0.2 Hz, n=6<br>12.9 ± 0.8 Hz, n=14",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>1.2 ± 0.5 Pa, n=20<br>1.5 ± 0.7 Pa, n=17",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>13.7 ± 0.2 Torr, n=18<br>91.4 ± 0.2 Torr, n=11",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Are the following standard deviations significantly different?<br>7.6 ± 0.7 Torr, n=12<br>0.21 ± 0.12 Torr, n=13",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>75.7 ± 0.5 m, n=12<br>0.15 ± 0.11 m, n=3",21;2.1e1;2.1E1;21.;20;2e1;2E1;20.7;2.07e1;2.07E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>22.4 ± 0.4 h, n=13<br>48.0 ± 0.8 h, n=10",3.25;3.25e0;3.25E0,short_answer
+"Are the following standard deviations significantly different?<br>3.7 ± 0.3 mmHg, n=8<br>0.1 ± 0.3 mmHg, n=16",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>4.7 ± 0.5 kg, n=3<br>67.3 ± 0.6 kg, n=14",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.4 ± 0.2 km, n=15<br>21.2 ± 0.7 km, n=3",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>42.2 ± 0.2 g, n=4<br>21.1 ± 0.8 g, n=8",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Given the following measurements calculate F:<br>46.9 ± 0.4 bar, n=9<br>0.8 ± 0.9 bar, n=13",5.1;5.1e0;5.1E0;5;5e0;5E0;5.;5.06;5.06e0;5.06E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.2 ± 0.3 s, n=11<br>0.1 ± 0.2 s, n=6",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>21.6 ± 0.3 ns, n=16<br>50.9 ± 0.7 ns, n=20",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Calculate the F statistic for the following measurements:<br>41.7 ± 0.2 V, n=8<br>4.7 ± 1.0 V, n=10",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.2 ± 0.6 Hz, n=19<br>0.78 ± 0.14 Hz, n=16",2.70;2.70e0;2.70E0,short_answer
+"Calculate the F statistic for the following measurements:<br>34.16 ± 0.10 mL, n=5<br>0.9 ± 0.7 mL, n=9",49;4.9e1;4.9E1;49.;50;5e1;5E1;49.0;4.90e1;4.90E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>8.9 ± 0.2 J, n=13<br>37.2 ± 0.6 J, n=6",3.60;3.60e0;3.60E0,short_answer
+"Are the following standard deviations significantly different?<br>2.3 ± 0.4 km, n=7<br>5.0 ± 0.2 km, n=18",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>14.5 ± 0.2 W, n=17<br>1.9 ± 0.9 W, n=14",20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.3;2.03e1;2.03E1,short_answer
+"Calculate the F statistic for the following measurements:<br>3.9 ± 0.5 kPa, n=20<br>52.29 ± 0.11 kPa, n=12",21;2.1e1;2.1E1;21.;20;2e1;2E1;20.7;2.07e1;2.07E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.38 ± 0.11 kg, n=13<br>0.5 ± 1.0 kg, n=9",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>30.47 ± 0.13 m, n=18<br>0.3 ± 0.7 m, n=7",29;2.9e1;2.9E1;29.;30;3e1;3E1;29.0;2.90e1;2.90E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.0 ± 0.3 mM, n=3<br>46.9 ± 0.3 mM, n=5",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>2.4 ± 0.6 Hz, n=17<br>1.7 ± 0.9 Hz, n=11",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>33.4 ± 0.5 mbar, n=12<br>0.7 ± 0.6 mbar, n=7",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Are the following standard deviations significantly different?<br>50.9 ± 0.2 ns, n=15<br>21.7 ± 0.8 ns, n=16",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>3.4 ± 0.3 V, n=17<br>0.1 ± 0.7 V, n=16",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Are the following standard deviations significantly different?<br>1.2 ± 0.5 m, n=3<br>0.4 ± 0.2 m, n=20",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>41.6 ± 0.6 ns, n=5<br>7.1 ± 0.5 ns, n=13",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Given the following measurements calculate F:<br>3.0 ± 0.5 K, n=15<br>2.9 ± 0.9 K, n=20",3.2;3.2e0;3.2E0;3;3e0;3E0;3.;3.24;3.24e0;3.24E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.9 ± 0.6 ms, n=15<br>26.5 ± 0.2 ms, n=4",8.66;8.66e0;8.66E0,short_answer
+"Calculate the F statistic for the following measurements:<br>13.6 ± 0.2 mM, n=16<br>0.8 ± 0.3 mM, n=14",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.5 ± 0.6 ms, n=16<br>0.6 ± 0.9 ms, n=8",3.12;3.12e0;3.12E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>8.1 ± 0.7 Torr, n=11<br>4.73 ± 0.12 Torr, n=16",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>98.4 ± 0.7 ns, n=11<br>0.5 ± 0.5 ns, n=16",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>1.25 ± 0.14 A, n=10<br>5.5 ± 0.3 A, n=16",4.6;4.6e0;4.6E0;5;5e0;5E0;5.;4.59;4.59e0;4.59E0,short_answer
+"Given the following measurements calculate F:<br>2.8 ± 0.4 A, n=12<br>8.3 ± 0.4 A, n=19",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>1.4 ± 0.4 mM, n=7<br>90.22 ± 0.11 mM, n=3",13;1.3e1;1.3E1;13.;10;1e1;1E1;13.2;1.32e1;1.32E1,short_answer
+"Calculate the F statistic for the following measurements:<br>60.7 ± 0.4 kcal, n=11<br>13.7 ± 0.5 kcal, n=17",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Are the following standard deviations significantly different?<br>2.9 ± 0.4 Hz, n=20<br>5.8 ± 0.8 Hz, n=19",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>47.9 ± 0.4 ns, n=9<br>0.4 ± 0.5 ns, n=12",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>76.5 ± 0.6 Hz, n=3<br>0.1 ± 0.6 Hz, n=17",14.21;1.421e1;1.421E1,short_answer
+"Are the following standard deviations significantly different?<br>6.44 ± 0.12 ms, n=20<br>69.6 ± 0.9 ms, n=5",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>10.0 ± 0.4 kPa, n=8<br>1.0 ± 0.9 kPa, n=10",5.1;5.1e0;5.1E0;5;5e0;5E0;5.;5.06;5.06e0;5.06E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>13.9 ± 0.6 yr, n=3<br>1.1 ± 0.6 yr, n=16",14.23;1.423e1;1.423E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.0 ± 0.2 mL, n=3<br>3.4 ± 0.4 mL, n=16",14.23;1.423e1;1.423E1,short_answer
+"Calculate the F statistic for the following measurements:<br>7.0 ± 0.3 A, n=20<br>3.8 ± 0.9 A, n=19",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.8 ± 0.4 mL, n=19<br>2.4 ± 0.3 mL, n=14",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>12.9 ± 0.2 V, n=5<br>0.7 ± 0.4 V, n=5",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>13.3 ± 0.2 kg, n=4<br>0.4 ± 0.3 kg, n=7",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.0 ± 0.6 mbar, n=10<br>44.2 ± 0.9 mbar, n=12",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Given the following measurements calculate F:<br>1.4 ± 0.5 W, n=19<br>0.5 ± 0.2 W, n=8",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>45.9 ± 0.2 J, n=9<br>1.6 ± 0.2 J, n=20",3.67;3.67e0;3.67E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.6 ± 0.6 Pa, n=11<br>4.7 ± 0.3 Pa, n=3",14.37;1.437e1;1.437E1,short_answer
+"Given the following measurements calculate F:<br>2.49 ± 0.12 mL, n=15<br>15.0 ± 0.9 mL, n=9",56;5.6e1;5.6E1;56.;60;6e1;6E1;56.3;5.63e1;5.63E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>23.3 ± 0.3 J, n=20<br>1.7 ± 0.7 J, n=16",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>59.0 ± 0.4 m, n=19<br>0.6 ± 0.3 m, n=19",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>4.5 ± 0.4 mA, n=11<br>26.7 ± 0.3 mA, n=10",3.66;3.66e0;3.66E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>82.4 ± 0.3 atm, n=5<br>3.6 ± 0.7 atm, n=20",6.33;6.33e0;6.33E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>8.7 ± 0.3 Torr, n=10<br>14.6 ± 0.9 Torr, n=7",3.95;3.95e0;3.95E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.6 ± 0.5 mL, n=13<br>12.4 ± 0.3 mL, n=7",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>17.3 ± 0.4 m, n=11<br>0.3 ± 0.8 m, n=5",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.7 ± 0.6 mM, n=13<br>57.5 ± 0.5 mM, n=10",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>4.5 ± 0.7 s, n=3<br>0.4 ± 0.6 s, n=17",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>6.9 ± 0.3 mL, n=20<br>5.6 ± 0.4 mL, n=11",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>50.4 ± 0.2 s, n=9<br>6.8 ± 0.6 s, n=4",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>3.0 ± 0.3 kV, n=20<br>93.7 ± 0.7 kV, n=12",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>16.3 ± 0.2 L, n=17<br>1.8 ± 0.5 L, n=6",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>58.73 ± 0.15 km, n=6<br>3.1 ± 0.7 km, n=6",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>21.6 ± 0.2 J, n=11<br>19.3 ± 0.2 J, n=7",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>6.2 ± 0.7 J, n=16<br>0.1 ± 0.4 J, n=10",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Given the following measurements calculate F:<br>5.9 ± 0.4 kV, n=9<br>10.8 ± 0.2 kV, n=6",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>42.8 ± 0.5 km, n=15<br>90.5 ± 0.6 km, n=4",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Are the following standard deviations significantly different?<br>1.6 ± 0.2 ms, n=7<br>22.3 ± 0.7 ms, n=12",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>2.5 ± 0.5 N, n=18<br>5.7 ± 0.5 N, n=16",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>15.6 ± 0.5 kg, n=20<br>2.22 ± 0.15 kg, n=13",2.95;2.95e0;2.95E0,short_answer
+"Given the following measurements calculate F:<br>1.1 ± 0.3 kPa, n=13<br>2.5 ± 0.5 kPa, n=17",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>10.4 ± 0.7 s, n=13<br>24.5 ± 0.9 s, n=3",4.35;4.35e0;4.35E0,short_answer
+"Are the following standard deviations significantly different?<br>7.0 ± 0.6 mmHg, n=10<br>29.83 ± 0.14 mmHg, n=5",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>17.7 ± 0.3 Hz, n=12<br>12.4 ± 0.5 Hz, n=8",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>29.1 ± 0.7 mA, n=11<br>46.2 ± 0.4 mA, n=8",3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.06;3.06e0;3.06E0,short_answer
+"Are the following standard deviations significantly different?<br>12.5 ± 0.6 J, n=9<br>0.56 ± 0.14 J, n=20",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>1.9 ± 0.3 kg, n=12<br>65.7 ± 0.7 kg, n=14",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Are the following standard deviations significantly different?<br>53.2 ± 0.7 N, n=13<br>2.17 ± 0.12 N, n=19",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.6 ± 0.6 ms, n=12<br>0.6 ± 0.4 ms, n=15",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>78.9 ± 0.2 mA, n=5<br>78.3 ± 0.9 mA, n=8",20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.3;2.03e1;2.03E1,short_answer
+"Given the following measurements calculate F:<br>82.8 ± 0.7 N, n=10<br>0.1 ± 0.6 N, n=16",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Calculate the F statistic for the following measurements:<br>3.5 ± 0.5 mol, n=3<br>22.7 ± 0.7 mol, n=10",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Calculate the F statistic for the following measurements:<br>4.8 ± 0.4 Pa, n=3<br>2.6 ± 0.9 Pa, n=7",5.1;5.1e0;5.1E0;5;5e0;5E0;5.;5.06;5.06e0;5.06E0,short_answer
+"Given the following measurements calculate F:<br>1.3 ± 0.5 L, n=18<br>8.6 ± 0.4 L, n=9",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.30 ± 0.14 mL, n=16<br>0.6 ± 0.7 mL, n=5",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>7.8 ± 0.3 h, n=5<br>3.0 ± 0.4 h, n=4",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>1.6 ± 0.2 kg, n=19<br>7.6 ± 0.2 kg, n=6",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>32.3 ± 0.2 s, n=20<br>1.5 ± 0.4 s, n=11",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Given the following measurements calculate F:<br>77.1 ± 0.7 W, n=8<br>1.9 ± 0.3 W, n=18",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>36.9 ± 0.3 mL, n=14<br>0.4 ± 0.7 mL, n=6",3.50;3.50e0;3.50E0,short_answer
+"Calculate the F statistic for the following measurements:<br>7.3 ± 0.4 atm, n=11<br>1.6 ± 0.2 atm, n=6",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Given the following measurements calculate F:<br>49.6 ± 0.7 kcal, n=6<br>0.9 ± 0.3 kcal, n=17",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>24.1 ± 0.7 mL, n=15<br>17.2 ± 0.9 mL, n=18",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>35.5 ± 0.2 Hz, n=7<br>55.5 ± 0.6 Hz, n=3",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>3.3 ± 0.5 s, n=6<br>9.1 ± 0.9 s, n=14",3.2;3.2e0;3.2E0;3;3e0;3E0;3.;3.24;3.24e0;3.24E0,short_answer
+"Are the following standard deviations significantly different?<br>2.0 ± 0.3 yr, n=17<br>9.3 ± 0.6 yr, n=15",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>2.5 ± 0.2 atm, n=18<br>0.2 ± 0.7 atm, n=11",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.9 ± 0.6 J, n=9<br>0.6 ± 0.9 J, n=3",5.08;5.08e0;5.08E0,short_answer
+"Given the following measurements calculate F:<br>48.9 ± 0.7 kPa, n=13<br>1.9 ± 0.3 kPa, n=16",5.4;5.4e0;5.4E0;5;5e0;5E0;5.;5.44;5.44e0;5.44E0,short_answer
+"Are the following standard deviations significantly different?<br>52.7 ± 0.2 mA, n=15<br>19.90 ± 0.12 mA, n=7",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>71.2 ± 0.3 L, n=14<br>1.6 ± 0.8 L, n=12",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>46.44 ± 0.15 N, n=8<br>10.0 ± 0.4 N, n=12",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>3.8 ± 0.5 ms, n=7<br>7.11 ± 0.10 ms, n=9",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.5 ± 0.5 ns, n=16<br>0.3 ± 0.4 ns, n=20",2.55;2.55e0;2.55E0,short_answer
+"Are the following standard deviations significantly different?<br>49.5 ± 0.3 N, n=10<br>7.50 ± 0.12 N, n=12",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>33.7 ± 0.6 kg, n=8<br>2.8 ± 1.0 kg, n=6",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.5 ± 0.7 yr, n=15<br>18.4 ± 0.8 yr, n=20",2.76;2.76e0;2.76E0,short_answer
+"Calculate the F statistic for the following measurements:<br>21.3 ± 0.6 atm, n=11<br>0.8 ± 0.8 atm, n=4",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Are the following standard deviations significantly different?<br>6.7 ± 0.4 mL, n=6<br>0.1 ± 0.3 mL, n=20",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>37.8 ± 0.3 m, n=9<br>0.3 ± 0.3 m, n=19",3.68;3.68e0;3.68E0,short_answer
+"Are the following standard deviations significantly different?<br>9.3 ± 0.4 Hz, n=5<br>1.1 ± 0.9 Hz, n=7",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>13.5 ± 0.4 kcal, n=14<br>0.1 ± 0.2 kcal, n=3",14.28;1.428e1;1.428E1,short_answer
+"Are the following standard deviations significantly different?<br>1.7 ± 0.2 h, n=4<br>29.8 ± 0.8 h, n=17",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>73.2 ± 0.3 Torr, n=20<br>0.5 ± 0.4 Torr, n=6",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>6.5 ± 0.6 K, n=11<br>2.1 ± 0.5 K, n=14",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>38.6 ± 0.2 Torr, n=5<br>0.9 ± 1.0 Torr, n=9",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.3 ± 0.5 kV, n=19<br>4.1 ± 0.4 kV, n=13",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.7 ± 0.7 bar, n=15<br>0.7 ± 0.2 bar, n=3",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.01 ± 0.15 W, n=12<br>8.7 ± 0.4 W, n=6",3.73;3.73e0;3.73E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>61.7 ± 0.5 K, n=5<br>1.5 ± 0.6 K, n=3",7.76;7.76e0;7.76E0,short_answer
+"Given the following measurements calculate F:<br>1.2 ± 0.5 J, n=15<br>1.9 ± 0.4 J, n=15",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Are the following standard deviations significantly different?<br>4.4 ± 0.3 Pa, n=11<br>25.2 ± 0.5 Pa, n=18",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>86.9 ± 0.6 mmHg, n=12<br>1.7 ± 0.3 mmHg, n=14",3.05;3.05e0;3.05E0,short_answer
+"Calculate the F statistic for the following measurements:<br>18.8 ± 0.2 kg, n=10<br>0.5 ± 0.4 kg, n=20",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.92 ± 0.13 h, n=5<br>0.88 ± 0.11 h, n=13",3.77;3.77e0;3.77E0,short_answer
+"Given the following measurements calculate F:<br>7.3 ± 0.6 M, n=4<br>20.1 ± 0.8 M, n=17",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>38.2 ± 0.5 L, n=16<br>2.9 ± 0.4 L, n=19",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>7.8 ± 0.2 mbar, n=19<br>5.8 ± 0.7 mbar, n=16",2.59;2.59e0;2.59E0,short_answer
+"Are the following standard deviations significantly different?<br>2.7 ± 0.6 mL, n=18<br>4.3 ± 0.4 mL, n=11",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>12.1 ± 0.3 km, n=3<br>18.7 ± 0.4 km, n=13",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>1.3 ± 0.4 Torr, n=11<br>2.1 ± 0.6 Torr, n=19",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>28.20 ± 0.11 M, n=4<br>0.5 ± 0.2 M, n=14",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.3 ± 0.3 J, n=6<br>0.3 ± 0.8 J, n=10",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.0 ± 0.6 kPa, n=15<br>6.7 ± 0.5 kPa, n=10",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>17.75 ± 0.11 kg, n=6<br>44.0 ± 0.9 kg, n=4",6.23;6.23e0;6.23E0,short_answer
+"Calculate the F statistic for the following measurements:<br>34.6 ± 0.7 J, n=12<br>28.0 ± 0.5 J, n=20",2.0;2.0e0;2.0E0;2;2e0;2E0;2.;1.96;1.96e0;1.96E0,short_answer
+"Given the following measurements calculate F:<br>9.7 ± 0.4 Pa, n=15<br>19.0 ± 0.9 Pa, n=9",5.1;5.1e0;5.1E0;5;5e0;5E0;5.;5.06;5.06e0;5.06E0,short_answer
+"Are the following standard deviations significantly different?<br>8.7 ± 0.2 yr, n=11<br>3.9 ± 0.4 yr, n=5",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>71.04 ± 0.12 s, n=19<br>3.3 ± 0.6 s, n=6",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>11.6 ± 0.3 Torr, n=20<br>1.4 ± 0.4 Torr, n=10",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>3.8 ± 0.2 mL, n=18<br>11.6 ± 1.0 mL, n=3",3.95;3.95e0;3.95E0,short_answer
+"Given the following measurements calculate F:<br>26.7 ± 0.6 A, n=8<br>51.9 ± 0.7 A, n=13",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Given the following measurements calculate F:<br>75.9 ± 0.2 ms, n=17<br>16.2 ± 0.4 ms, n=15",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.0 ± 0.7 ms, n=10<br>0.5 ± 0.4 ms, n=16",2.99;2.99e0;2.99E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>44.6 ± 0.6 ns, n=17<br>31.30 ± 0.14 ns, n=13",3.00;3.00e0;3.00E0,short_answer
+"Are the following standard deviations significantly different?<br>15.0 ± 0.6 mA, n=20<br>8.73 ± 0.15 mA, n=16",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>14.9 ± 0.4 kcal, n=18<br>0.3 ± 0.5 kcal, n=19",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Calculate the F statistic for the following measurements:<br>4.0 ± 0.6 W, n=14<br>2.4 ± 0.9 W, n=10",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Calculate the F statistic for the following measurements:<br>7.6 ± 0.5 J, n=12<br>7.7 ± 0.4 J, n=18",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.2 ± 0.5 Torr, n=10<br>20.6 ± 0.5 Torr, n=15",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>6.7 ± 0.6 km, n=20<br>41.3 ± 0.3 km, n=18",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>5.1 ± 0.4 N, n=16<br>2.1 ± 0.8 N, n=12",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.2 ± 0.5 km, n=11<br>2.0 ± 0.2 km, n=7",4.71;4.71e0;4.71E0,short_answer
+"Are the following standard deviations significantly different?<br>10.2 ± 0.4 mbar, n=16<br>87.8 ± 0.2 mbar, n=16",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>1.4 ± 0.7 kPa, n=13<br>78.7 ± 0.9 kPa, n=19",1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.65;1.65e0;1.65E0,short_answer
+"Are the following standard deviations significantly different?<br>1.0 ± 0.7 mbar, n=19<br>1.4 ± 0.7 mbar, n=4",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>94.6 ± 0.5 kJ, n=9<br>0.7 ± 0.3 kJ, n=10",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>10.6 ± 0.3 A, n=20<br>55.3 ± 0.9 A, n=20",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.8 ± 0.3 L, n=11<br>62.3 ± 0.2 L, n=7",4.71;4.71e0;4.71E0,short_answer
+"Given the following measurements calculate F:<br>50.6 ± 0.5 J, n=4<br>0.6 ± 0.5 J, n=19",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.7 ± 0.6 atm, n=20<br>1.86 ± 0.11 atm, n=12",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>15.3 ± 0.4 mmHg, n=20<br>20.60 ± 0.11 mmHg, n=9",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>5.2 ± 0.5 km, n=7<br>2.9 ± 0.7 km, n=6",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>3.0 ± 0.5 J, n=7<br>16.7 ± 0.4 J, n=11",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>9.5 ± 0.6 N, n=16<br>62.5 ± 0.9 N, n=16",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>60.4 ± 0.5 ns, n=4<br>0.3 ± 0.5 ns, n=18",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>37.8 ± 0.3 A, n=6<br>8.0 ± 0.3 A, n=16",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>20.1 ± 0.2 W, n=11<br>34.3 ± 0.7 W, n=5",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Are the following standard deviations significantly different?<br>31.93 ± 0.15 kJ, n=15<br>52.6 ± 0.5 kJ, n=17",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>8.9 ± 0.4 m, n=7<br>5.2 ± 0.2 m, n=9",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>87.6 ± 0.5 kg, n=15<br>0.4 ± 0.5 kg, n=3",4.15;4.15e0;4.15E0,short_answer
+"Calculate the F statistic for the following measurements:<br>3.5 ± 0.2 Hz, n=3<br>3.96 ± 0.10 Hz, n=11",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.4 ± 0.2 ns, n=18<br>3.3 ± 0.8 ns, n=5",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.9 ± 0.6 atm, n=11<br>0.4 ± 0.9 atm, n=9",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.5 ± 0.5 atm, n=11<br>31.1 ± 0.2 atm, n=18",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>35.83 ± 0.14 yr, n=8<br>1.9 ± 0.3 yr, n=17",4.05;4.05e0;4.05E0,short_answer
+"Calculate the F statistic for the following measurements:<br>2.6 ± 0.3 mM, n=16<br>9.6 ± 0.6 mM, n=9",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>8.3 ± 0.5 g, n=14<br>59.2 ± 0.3 g, n=17",2.75;2.75e0;2.75E0,short_answer
+"Given the following measurements calculate F:<br>12.1 ± 0.6 m, n=19<br>30.7 ± 0.7 m, n=3",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Given the following measurements calculate F:<br>5.4 ± 0.3 Pa, n=14<br>1.7 ± 0.9 Pa, n=4",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>89.3 ± 0.6 mA, n=13<br>0.7 ± 0.9 mA, n=18",2.98;2.98e0;2.98E0,short_answer
+"Given the following measurements calculate F:<br>1.2 ± 0.4 V, n=13<br>24.2 ± 0.2 V, n=4",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.0 ± 0.3 L, n=14<br>0.8 ± 0.9 L, n=4",3.89;3.89e0;3.89E0,short_answer
+"Are the following standard deviations significantly different?<br>44.9 ± 0.6 km, n=6<br>0.2 ± 0.5 km, n=16",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>79.2 ± 0.7 mA, n=16<br>0.2 ± 0.9 mA, n=14",2.82;2.82e0;2.82E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>71.4 ± 0.7 mM, n=12<br>3.9 ± 0.6 mM, n=4",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>6.8 ± 0.7 g, n=10<br>0.3 ± 0.8 g, n=6",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>52.1 ± 0.4 h, n=12<br>5.9 ± 0.9 h, n=13",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>8.14 ± 0.14 atm, n=3<br>1.1 ± 0.7 atm, n=8",25;2.5e1;2.5E1;25.;20;2e1;2E1;25.0;2.50e1;2.50E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>4.90 ± 0.10 M, n=9<br>4.8 ± 0.2 M, n=7",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>38.6 ± 0.5 nm, n=4<br>0.3 ± 0.4 nm, n=5",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.1 ± 0.4 N, n=3<br>67.1 ± 0.8 N, n=10",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>1.4 ± 0.5 kPa, n=5<br>39.8 ± 0.3 kPa, n=10",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>4.9 ± 0.6 Torr, n=10<br>1.92 ± 0.11 Torr, n=20",30.;3.0e1;3.0E1;30..;30;3e1;3E1;29.8;2.98e1;2.98E1,short_answer
+"Given the following measurements calculate F:<br>4.7 ± 0.4 K, n=9<br>0.2 ± 0.5 K, n=18",1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.56;1.56e0;1.56E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>1.8 ± 0.2 h, n=18<br>87.4 ± 0.7 h, n=10",2.87;2.87e0;2.87E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>6.0 ± 0.6 mA, n=15<br>0.8 ± 0.6 mA, n=11",3.01;3.01e0;3.01E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>10.2 ± 0.5 kV, n=16<br>40.4 ± 0.5 kV, n=18",2.72;2.72e0;2.72E0,short_answer
+"Calculate the F statistic for the following measurements:<br>27.8 ± 0.5 kPa, n=5<br>51.8 ± 0.6 kPa, n=12",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.44;1.44e0;1.44E0,short_answer
+"Given the following measurements calculate F:<br>5.9 ± 0.7 V, n=6<br>0.7 ± 0.2 V, n=10",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Calculate the F statistic for the following measurements:<br>31.14 ± 0.12 kV, n=5<br>0.3 ± 0.5 kV, n=14",17;1.7e1;1.7E1;17.;20;2e1;2E1;17.4;1.74e1;1.74E1,short_answer
+"Are the following standard deviations significantly different?<br>83.69 ± 0.11 mmHg, n=3<br>1.0 ± 0.7 mmHg, n=16",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>10.03 ± 0.15 km, n=14<br>0.2 ± 1.0 km, n=17",44;4.4e1;4.4E1;44.;40;4e1;4E1;44.4;4.44e1;4.44E1,short_answer
+"Given the following measurements calculate F:<br>43.7 ± 0.6 N, n=5<br>6.2 ± 0.2 N, n=3",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>5.3 ± 0.2 atm, n=8<br>2.3 ± 0.5 atm, n=14",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Are the following standard deviations significantly different?<br>2.1 ± 0.4 A, n=11<br>0.6 ± 0.8 A, n=15",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>59.78 ± 0.15 mmHg, n=20<br>0.4 ± 0.3 mmHg, n=20",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Given the following measurements calculate F:<br>34.1 ± 0.2 kJ, n=5<br>0.1 ± 0.6 kJ, n=8",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Given the following measurements calculate F:<br>38.76 ± 0.14 A, n=13<br>50.3 ± 0.3 A, n=18",4.6;4.6e0;4.6E0;5;5e0;5E0;5.;4.59;4.59e0;4.59E0,short_answer
+"Given the following measurements calculate F:<br>12.2 ± 0.6 Pa, n=5<br>0.2 ± 0.8 Pa, n=15",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Are the following standard deviations significantly different?<br>2.2 ± 0.4 yr, n=5<br>86.3 ± 0.8 yr, n=10",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>2.2 ± 0.4 bar, n=14<br>0.2 ± 0.2 bar, n=8",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>84.8 ± 0.7 m, n=13<br>1.0 ± 0.8 m, n=17",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>38.82 ± 0.14 mM, n=11<br>0.5 ± 0.5 mM, n=15",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.9 ± 0.3 L, n=14<br>0.3 ± 0.5 L, n=9",3.21;3.21e0;3.21E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>15.3 ± 0.5 mA, n=10<br>94.2 ± 0.7 mA, n=6",4.07;4.07e0;4.07E0,short_answer
+"Are the following standard deviations significantly different?<br>27.1 ± 0.6 km, n=5<br>0.5 ± 1.0 km, n=18",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.6 ± 0.6 atm, n=18<br>0.3 ± 0.4 atm, n=9",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>7.6 ± 0.5 mol, n=15<br>18.8 ± 0.2 mol, n=7",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>2.1 ± 0.2 kV, n=6<br>0.5 ± 1.0 kV, n=18",25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+"Are the following standard deviations significantly different?<br>13.13 ± 0.10 mL, n=15<br>9.25 ± 0.11 mL, n=10",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>5.8 ± 0.5 M, n=14<br>0.40 ± 0.13 M, n=5",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>2.9 ± 0.4 mmHg, n=13<br>0.51 ± 0.14 mmHg, n=16",8.2;8.2e0;8.2E0;8;8e0;8E0;8.;8.16;8.16e0;8.16E0,short_answer
+"Are the following standard deviations significantly different?<br>2.1 ± 0.5 ms, n=19<br>15.7 ± 0.6 ms, n=9",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>85.8 ± 0.6 Hz, n=9<br>15.7 ± 1.0 Hz, n=7",4.20;4.20e0;4.20E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>14.5 ± 0.7 V, n=13<br>89.7 ± 0.7 V, n=7",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>17.2 ± 0.6 Torr, n=4<br>1.6 ± 0.6 Torr, n=10",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>54.4 ± 0.3 kJ, n=19<br>2.0 ± 0.5 kJ, n=6",3.17;3.17e0;3.17E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.6 ± 0.3 N, n=12<br>0.1 ± 0.4 N, n=15",1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.78;1.78e0;1.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>15.58 ± 0.10 m, n=7<br>1.0 ± 0.3 m, n=3",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Are the following standard deviations significantly different?<br>1.2 ± 0.6 kcal, n=16<br>25.5 ± 0.4 kcal, n=11",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.1 ± 0.5 Pa, n=10<br>2.0 ± 0.7 Pa, n=20",3.42;3.42e0;3.42E0,short_answer
+"Are the following standard deviations significantly different?<br>13.6 ± 0.4 N, n=5<br>0.3 ± 0.9 N, n=3",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>15.9 ± 0.6 mM, n=12<br>8.3 ± 1.0 mM, n=6",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>3.02 ± 0.12 atm, n=17<br>1.4 ± 0.3 atm, n=17",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Given the following measurements calculate F:<br>8.8 ± 0.2 W, n=3<br>0.9 ± 0.8 W, n=12",16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>5.5 ± 0.6 kg, n=16<br>0.1 ± 0.7 kg, n=17",2.74;2.74e0;2.74E0,short_answer
+"Are the following standard deviations significantly different?<br>20.9 ± 0.6 km, n=20<br>4.8 ± 0.6 km, n=17",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>4.8 ± 0.2 L, n=14<br>78.0 ± 0.5 L, n=19",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>7.7 ± 0.6 ns, n=15<br>0.1 ± 0.4 ns, n=5",6.43;6.43e0;6.43E0,short_answer
+"Calculate the F statistic for the following measurements:<br>37.5 ± 0.3 M, n=11<br>20.7 ± 0.5 M, n=20",2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.78;2.78e0;2.78E0,short_answer
+"Calculate the F statistic for the following measurements:<br>59.4 ± 0.5 kg, n=6<br>32.8 ± 0.8 kg, n=14",2.6;2.6e0;2.6E0;3;3e0;3E0;3.;2.56;2.56e0;2.56E0,short_answer
+"Calculate the F statistic for the following measurements:<br>1.56 ± 0.13 Hz, n=6<br>51.6 ± 0.7 Hz, n=17",29;2.9e1;2.9E1;29.;30;3e1;3E1;29.0;2.90e1;2.90E1,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>9.9 ± 0.4 K, n=17<br>0.9 ± 0.7 K, n=6",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>13.9 ± 0.2 Hz, n=3<br>23.5 ± 0.7 Hz, n=3",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>46.75 ± 0.10 L, n=7<br>0.5 ± 0.5 L, n=5",5.29;5.29e0;5.29E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.1 ± 0.5 kPa, n=8<br>39.5 ± 0.2 kPa, n=17",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>30.93 ± 0.11 mL, n=11<br>0.5 ± 0.3 mL, n=4",4.28;4.28e0;4.28E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>9.5 ± 0.3 Pa, n=14<br>30.7 ± 0.4 Pa, n=17",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.6 ± 0.5 J, n=9<br>0.2 ± 0.8 J, n=7",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>85.65 ± 0.14 mL, n=16<br>86.60 ± 0.12 mL, n=9",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>28.7 ± 0.4 m, n=9<br>9.9 ± 0.9 m, n=16",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>1.9 ± 0.4 nm, n=17<br>5.0 ± 0.4 nm, n=3",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.1 ± 0.4 ns, n=16<br>8.3 ± 0.6 ns, n=3",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.79 ± 0.11 W, n=5<br>13.0 ± 0.4 W, n=6",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>20.4 ± 0.6 yr, n=10<br>12.7 ± 0.5 yr, n=16",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>17.7 ± 0.4 mM, n=6<br>52.4 ± 0.4 mM, n=4",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>1.3 ± 0.6 bar, n=13<br>52.8 ± 0.4 bar, n=20",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Are the following standard deviations significantly different?<br>42.3 ± 0.4 mbar, n=15<br>0.2 ± 0.3 mbar, n=4",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>6.3 ± 0.4 mL, n=17<br>0.97 ± 0.13 mL, n=7",9.5;9.5e0;9.5E0;9;9e0;9E0;9.;9.47;9.47e0;9.47E0,short_answer
+"Are the following standard deviations significantly different?<br>1.2 ± 0.3 kV, n=13<br>0.3 ± 0.5 kV, n=10",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>80.0 ± 0.6 L, n=8<br>32.5 ± 0.9 L, n=7",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>50.0 ± 0.4 A, n=19<br>0.3 ± 0.9 A, n=16",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>4.7 ± 0.4 mmHg, n=17<br>0.2 ± 0.4 mmHg, n=17",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Given the following measurements calculate F:<br>1.8 ± 0.3 s, n=3<br>7.7 ± 0.2 s, n=3",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Are the following standard deviations significantly different?<br>2.0 ± 0.6 N, n=5<br>0.3 ± 0.6 N, n=20",No;no;N;n,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>58.35 ± 0.10 J, n=4<br>0.2 ± 0.9 J, n=14",8.68;8.68e0;8.68E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>25.9 ± 0.7 M, n=8<br>1.2 ± 1.0 M, n=3",Yes;yes;Y;y,short_answer
+"Calculate the F statistic for the following measurements:<br>5.3 ± 0.2 mA, n=9<br>32.7 ± 0.9 mA, n=13",20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.3;2.03e1;2.03E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>69.7 ± 0.4 J, n=6<br>18.9 ± 0.3 J, n=6",5.82;5.82e0;5.82E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>82.3 ± 0.6 cal, n=15<br>6.8 ± 0.5 cal, n=11",3.33;3.33e0;3.33E0,short_answer
+"Given the following measurements calculate F:<br>33.3 ± 0.6 K, n=20<br>0.4 ± 0.4 K, n=6",2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.6 ± 0.6 L, n=10<br>2.8 ± 0.3 L, n=8",4.30;4.30e0;4.30E0,short_answer
+"Given the following measurements calculate F:<br>27.7 ± 0.2 ms, n=7<br>1.1 ± 0.5 ms, n=13",6.3;6.3e0;6.3E0;6;6e0;6E0;6.;6.25;6.25e0;6.25E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>25.2 ± 0.3 m, n=6<br>3.4 ± 1.0 m, n=10",No;no;N;n,short_answer
+"Are the following standard deviations significantly different?<br>92.3 ± 0.3 A, n=16<br>13.1 ± 0.6 A, n=18",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.8 ± 0.5 kPa, n=18<br>15.3 ± 0.3 kPa, n=5",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>6.8 ± 0.6 mA, n=14<br>0.9 ± 0.2 mA, n=5",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>19.1 ± 0.2 kg, n=3<br>90.0 ± 0.7 kg, n=10",Yes;yes;Y;y,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>99.3 ± 0.5 kJ, n=4<br>1.4 ± 0.2 kJ, n=9",No;no;N;n,short_answer
+"Given the following measurements calculate F:<br>8.1 ± 0.3 m, n=10<br>34.0 ± 0.6 m, n=4",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>18.0 ± 0.6 kJ, n=13<br>14.2 ± 0.5 kJ, n=17",2.79;2.79e0;2.79E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>25.4 ± 0.4 Hz, n=6<br>77.3 ± 0.7 Hz, n=13",5.33;5.33e0;5.33E0,short_answer
+"Calculate the F statistic for the following measurements:<br>18.5 ± 0.7 atm, n=11<br>40.6 ± 0.2 atm, n=11",12;1.2e1;1.2E1;12.;10;1e1;1E1;12.2;1.22e1;1.22E1,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>59.1 ± 0.3 m, n=6<br>1.84 ± 0.11 m, n=9",4.32;4.32e0;4.32E0,short_answer
+"Calculate the F statistic for the following measurements:<br>5.1 ± 0.2 mol, n=20<br>7.5 ± 0.6 mol, n=15",9.0;9.0e0;9.0E0;9;9e0;9E0;9.;9.00;9.00e0;9.00E0,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>12.4 ± 0.3 yr, n=5<br>2.5 ± 0.8 yr, n=3",7.76;7.76e0;7.76E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>72.59 ± 0.15 mbar, n=3<br>1.4 ± 0.3 mbar, n=15",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>65.4 ± 0.2 kg, n=14<br>9.4 ± 0.5 kg, n=15",Yes;yes;Y;y,short_answer
+"Are the following standard deviations significantly different?<br>1.3 ± 0.6 mol, n=6<br>0.4 ± 0.9 mol, n=19",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>16.0 ± 0.2 nm, n=19<br>34.1 ± 0.2 nm, n=19",Yes;yes;Y;y,short_answer
+"Given the following measurements calculate F:<br>23.7 ± 0.6 Torr, n=10<br>11.8 ± 0.7 Torr, n=18",1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>96.7 ± 0.2 Hz, n=19<br>64.9 ± 0.9 Hz, n=10",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.1 ± 0.4 atm, n=12<br>62.2 ± 0.2 atm, n=17",4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.2 ± 0.3 Pa, n=19<br>3.9 ± 0.5 Pa, n=8",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>2.44 ± 0.14 h, n=19<br>47.6 ± 0.3 h, n=15",2.62;2.62e0;2.62E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>3.8 ± 0.5 nm, n=5<br>0.4 ± 0.3 nm, n=10",Yes;yes;Y;y,short_answer
+"Give the tabulated F value (F_table) for the following measurements:<br>14.4 ± 0.7 mL, n=16<br>8.1 ± 0.2 mL, n=7",4.54;4.54e0;4.54E0,short_answer
+"Are the following standard deviations significantly different?<br>8.3 ± 0.7 kcal, n=11<br>1.1 ± 0.6 kcal, n=20",No;no;N;n,short_answer
+"Calculate the F statistic for the following measurements:<br>1.2 ± 0.6 mmHg, n=11<br>0.2 ± 0.6 mmHg, n=13",1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+"Calculate the F statistic for the following measurements:<br>6.6 ± 0.6 N, n=14<br>15.0 ± 0.9 N, n=11",2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.25;2.25e0;2.25E0,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>1.86 ± 0.11 kJ, n=18<br>1.5 ± 0.6 kJ, n=9",No;no;N;n,short_answer
+"Do the standard deviations of these measurements agree within experimental error?<br>26.4 ± 0.4 ns, n=17<br>8.7 ± 0.6 ns, n=13",Yes;yes;Y;y,short_answer

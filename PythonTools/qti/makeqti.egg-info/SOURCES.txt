@@ -1,5 +1,0 @@
-setup.py
-makeqti.egg-info/PKG-INFO
-makeqti.egg-info/SOURCES.txt
-makeqti.egg-info/dependency_links.txt
-makeqti.egg-info/top_level.txt
