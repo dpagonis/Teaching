@@ -1,13 +1,30 @@
 import numpy as np
 import pandas as pd
 from jinja2 import Environment, FileSystemLoader
+from pathlib import Path
 
 
 
 class periodictable:
     def __init__(self):
         self.table = {}
-        self.df = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/elements.csv')
+        
+        
+        # Get the directory where the current Python file is located
+        current_dir = Path(__file__).resolve().parent
+
+        # Define the relative path to your CSV file
+        csv_rel_path = Path('tables/elements.csv')
+
+        # Join the current directory with the relative path
+        csv_path = current_dir / csv_rel_path
+
+        # Check if the file exists
+        if csv_path.exists():
+            self.df = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/elements.csv')
+        else:
+            raise FileNotFoundError(f"periodictable.py cannot find the elements CSV file at '{csv_path}'.")
+        
         for _, row in self.df.iterrows():
             element = row.to_dict()
             self.table[element['symbol']] = element
