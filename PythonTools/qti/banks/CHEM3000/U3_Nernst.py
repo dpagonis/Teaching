@@ -2,30 +2,28 @@ import hashlib
 import pandas as pd
 import random
 import os
-import re 
-from itertools import permutations
-
 
 from dp_qti.makeqti import *
-from dp_qti import reaction
-
-reactions = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/equilibriumrxns.txt')
+from dp_qti import sf
 
 
 def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        'Write the expression for the reaction quotient Q for the following reaction.<br>{rxn_html};Q_list'
+        'Calculate the potential for the following galvanic cell under non-standard conditions.<br>Eo = {Eo} V<br>n = {n_E}<br>T = {T_K} K<br>Q = {Q};E.answers(sf_tolerance=1)'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here
-    row=reactions.sample(1)
-    r = reaction(row.values[0][0])
+    F = 96486
+    R = 8.3145
 
-    rxn_html = create_mattext_element(r.tex)
+    Eo = sf.random_value((-1,3),(2,4))
+    n_E = random.randint(1,3)
+    T_K = sf.random_value((280,305),(3,4))
+    Q=sf.random_value((1e-5,1e5),(1,4),value_log=True)
 
-    Q_list=r.Q_eqn_answers
+    E = Eo-(R*T_K*Q.ln())/(n_E*F)
 
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)
@@ -48,6 +46,7 @@ def generate_question():
         'question_type': question_type
     }
 
+
 def generate_questions():
     num_questions = 1000
     basename = os.path.basename(__file__).removesuffix('.py')
@@ -64,6 +63,7 @@ def generate_questions():
 
     questions_df = pd.DataFrame(questions)
     return questions_df, basename, assessment_ident
+
 
 def main():
     questions_df, basename, assessment_ident = generate_questions()

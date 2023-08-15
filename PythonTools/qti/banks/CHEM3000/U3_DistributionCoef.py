@@ -2,31 +2,23 @@ import hashlib
 import pandas as pd
 import random
 import os
-import re 
-from itertools import permutations
-
 
 from dp_qti.makeqti import *
-from dp_qti import reaction
-
-reactions = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/equilibriumrxns.txt')
+from dp_qti import sf
 
 
 def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        'Write the expression for the reaction quotient Q for the following reaction.<br>{rxn_html};Q_list'
+        'A compound has a distribution coefficient of {D}. Calculate the concentration (in M) of the compound in phase 2 given that the concentration in phase 1 is {c_1} M.<br>{rxn_html};c_2.answers(sf_tolerance=1)'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here
-    row=reactions.sample(1)
-    r = reaction(row.values[0][0])
-
-    rxn_html = create_mattext_element(r.tex)
-
-    Q_list=r.Q_eqn_answers
-
+    D=sf.random_value((1e-4,1e4),(2,4),value_log=True)
+    c_1 = sf.random_value((5e-4,5e-3),(2,3))
+    c_2 = D*c_1 
+    rxn_html = create_mattext_element('A_{Phase1}\\leftrightarrows{}A_{Phase2}')
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)
     question_row = random.choice(question_options) if len(question_options) > 1 else question_options[0]
@@ -48,6 +40,7 @@ def generate_question():
         'question_type': question_type
     }
 
+
 def generate_questions():
     num_questions = 1000
     basename = os.path.basename(__file__).removesuffix('.py')
@@ -64,6 +57,7 @@ def generate_questions():
 
     questions_df = pd.DataFrame(questions)
     return questions_df, basename, assessment_ident
+
 
 def main():
     questions_df, basename, assessment_ident = generate_questions()

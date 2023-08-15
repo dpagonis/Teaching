@@ -2,30 +2,42 @@ import hashlib
 import pandas as pd
 import random
 import os
-import re 
-from itertools import permutations
-
 
 from dp_qti.makeqti import *
-from dp_qti import reaction
-
-reactions = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/equilibriumrxns.txt')
+from dp_qti import sf
 
 
 def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        'Write the expression for the reaction quotient Q for the following reaction.<br>{rxn_html};Q_list'
+        'Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = {Eo} V<br>n = {n_E}<br>T = {T_K} K;dG_kJmol.answers(sf_tolerance=1)',
+        'Calculate the equilibrium constant for the following galvanic cell.<br>Eo = {Eo} V<br>n = {n_E}<br>T = {T_K} K;K.answers(sf_tolerance=1)',
+        'Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = {dG_kJmol} kJ mol-1<br>n = {n_E}<br>T = {T_K} K;Eo.answers(sf_tolerance=1)',
+        'Calculate the reaction potential (in V) for the following galvanic cell.<br>K = {K}<br>n = {n_E}<br>T = {T_K} K;Eo.answers(sf_tolerance=1)'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here
-    row=reactions.sample(1)
-    r = reaction(row.values[0][0])
+    F = 96486
+    R = 8.3145
 
-    rxn_html = create_mattext_element(r.tex)
+    while True:
+        Eo = sf.random_value((-1,3),(2,4))
+        n_E = random.randint(1,3)
+        T_K = sf.random_value((280,305),(3,4))
+        
+        dG_Jmol = -1*n_E*F*Eo
+        dG_kJmol = dG_Jmol/1000
 
-    Q_list=r.Q_eqn_answers
+        K = (-1*dG_Jmol/(R*T_K)).exponent()
+
+        E_from_G = sf(str((dG_kJmol*1000)/(-1*n_E*F)))
+        E_from_K = sf(str(R*T_K*K.ln()/(n_E*F)))
+
+        if (E_from_G.scientific_notation() == Eo.scientific_notation()) and (E_from_K.scientific_notation() == Eo.scientific_notation() ):
+            break
+
+
 
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)
@@ -48,6 +60,7 @@ def generate_question():
         'question_type': question_type
     }
 
+
 def generate_questions():
     num_questions = 1000
     basename = os.path.basename(__file__).removesuffix('.py')
@@ -64,6 +77,7 @@ def generate_questions():
 
     questions_df = pd.DataFrame(questions)
     return questions_df, basename, assessment_ident
+
 
 def main():
     questions_df, basename, assessment_ident = generate_questions()

@@ -6,6 +6,31 @@ from .sigfig import sigfig as sf
 periodictable = pt() #load pt at the module level so it doesn't have to happen with every new instance of molecule
 
 class molecule:
+    """
+    Represents a chemical molecule and provides methods for molecular calculations and manipulations.
+    
+    Args:
+        molec_string (str): The chemical formula of the molecule.
+        charge (int, optional): The charge of the molecule (default is 0).
+        phase (str, optional): The phase of the molecule (e.g., 'gas', 'liquid') (default is None).
+        coefficient (int, optional): Coefficient for balancing chemical reactions (default is None).
+        concentration (float, optional): Concentration of the molecule in a reaction (default is None).
+    
+    Attributes:
+        charge (int): The total charge of the molecule.
+        formula (str): The chemical formula of the molecule.
+        element_dict (dict): A dictionary with elements as keys and their corresponding counts as values.
+        molecular_weight (sf): The molecular weight of the molecule (in g mol^-1).
+        tex (str): LaTeX formatted representation of the molecule's formula.
+        phase (str): The phase of the molecule.
+        coefficient (int): Coefficient for balancing chemical reactions.
+        concentration (float): Concentration of the molecule in a reaction.
+    
+    Methods:
+        add(addstr): Adds another molecule or chemical formula to the current molecule.
+        subtract(substr): Subtracts another molecule or chemical formula from the current molecule.
+    """
+    
     def __init__(self, molec_string, charge=0, phase=None, coefficient=None, concentration=None):
         #note that if you include charge in molec_string and in the charge argument it will be double-counted
         self.charge = charge
@@ -17,15 +42,16 @@ class molecule:
             molec_string = molec_string.replace('-', '', 1)
         self.formula = molec_string
         
-        self.element_dict = self.parse_formula(molec_string)
-        self.molecular_weight = self.calculate_molecular_weight()
-        self.tex = self.generate_formula_tex()
+        self.element_dict = self._parse_formula(molec_string)
+        self.molecular_weight = self._calculate_molecular_weight()
+        self.tex = self._generate_formula_tex()
 
         self.phase = str(phase) if phase is not None else None
         self.coefficient = coefficient
         self.concentration = concentration
         
-    def parse_formula(self, formula_str):
+    def _parse_formula(self, formula_str):
+        
         element_dict = {}
         
         if formula_str == 'e':
@@ -76,7 +102,7 @@ class molecule:
         return element_dict
 
     
-    def calculate_molecular_weight(self):
+    def _calculate_molecular_weight(self):
         
         # Create a copy of the formula to work with
         formula = self.formula
@@ -124,7 +150,7 @@ class molecule:
 
         return molecular_weight
 
-    def generate_formula_tex(self):
+    def _generate_formula_tex(self):
         # Add subscript inside parentheses
         tex_string = re.sub(r'\((.*?)\)', lambda m: '(' + re.sub(r'([A-Z][a-z]*)(\d+)', r'\1_{\2}', m.group(1)) + ')', self.formula)
         # Add subscript outside parentheses

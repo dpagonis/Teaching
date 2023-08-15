@@ -2,8 +2,8 @@ import hashlib
 import pandas as pd
 import random
 
-from makeqti import *
-from sigfig import sigfig as sf
+from dp_qti.makeqti import *
+from dp_qti import sf
 
 def generate_questions():
     num_questions = 1000

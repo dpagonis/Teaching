@@ -2,8 +2,8 @@ import hashlib
 import pandas as pd
 import random
 
-from makeqti import *
-from sigfig import sigfig as sf
+from dp_qti.makeqti import *
+from dp_qti import sf
 
 def generate_questions():
     num_questions = 1000
@@ -42,17 +42,21 @@ def generate_question():
         k= 1/tau
         tau_min = tau.convert_to('min')
 
-        tau_check = 1 / k
-
-        tau_from_k = True if tau_check.scientific_notation() == tau.scientific_notation() else False
+        tau_check = 1 / sf(str(k))
+        k_check = (1/(60*sf(str(tau_min))))
         
-        if all([tau_from_k]): #if all values are self-consistent
+        tau_from_k = True if tau_check.scientific_notation() == tau.scientific_notation() else False
+        k_from_taumin = True if k_check.scientific_notation() == k.scientific_notation() else False 
+
+        if all([tau_from_k, k_from_taumin]): #if all values are self-consistent
             if(i > 100):
                 print(i,'iterations to get self-consistent values') # catch inefficient but not terrible code
             break
 
         if i > 1e6: #catch terrible code
             raise RuntimeError("The loop has gone too far without acheiving self-consistent values!")
+        
+        i += 1
     
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)

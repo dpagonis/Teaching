@@ -2,30 +2,28 @@ import hashlib
 import pandas as pd
 import random
 import os
-import re 
-from itertools import permutations
 
 
 from dp_qti.makeqti import *
 from dp_qti import reaction
 
-reactions = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/equilibriumrxns.txt')
+reactions = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/atmoschemreactions.txt')
 
 
 def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        'Write the expression for the reaction quotient Q for the following reaction.<br>{rxn_html};Q_list'
+        'Write the rate expression for the following reaction.<br>{rxn_html};rate_expr_list'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here
     row=reactions.sample(1)
-    r = reaction(row.values[0][0])
+    r = reaction(row.values[0][0],reversible=False)
 
     rxn_html = create_mattext_element(r.tex)
 
-    Q_list=r.Q_eqn_answers
+    rate_expr_list=r.rate_eqn_answers
 
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)

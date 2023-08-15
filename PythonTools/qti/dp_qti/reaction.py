@@ -27,7 +27,7 @@ class reaction:
     """
 
 
-    def __init__(self, reactants, products=None,reversible=True):
+    def __init__(self, reactants, products=None,reversible=True,k=None):
 
         # Introducing flag to track if initial setup is in progress
         self._initializing = True
@@ -38,6 +38,7 @@ class reaction:
         self.reactants = self._parse_and_validate_input(reactants)
         self.products = self._parse_and_validate_input(products)
         self.reversible = reversible
+        self.k=k
         # End of initialization
         self._initializing = False
         self._update()  # Call update once at the end of initialization
@@ -67,6 +68,7 @@ class reaction:
         self.tex = self._generate_rxn_tex()
         self.isbalanced = self._check_balance()
         self.Q_eqn, self.Q_eqn_answers, self.Q_tex, self.Q = self._generate_rxn_quotient()
+        self.rate_eqn, self.rate_eqn_answers, self.rate_eqn_tex, self.rate = self._generate_rate_expression()
 
     def _parse_and_validate_input(self, input_val):
         if isinstance(input_val, str):
@@ -83,6 +85,7 @@ class reaction:
 
     def _parse_compound_str(self,s):
         s_in = s
+        s = s.strip()
         phase_re = re.compile(r'\(([a-z\s]+)\)$')
         coef_formula_re = re.compile(r'(\d+)?([A-Za-z\(\)\d\+\-]+)')
 
@@ -101,7 +104,6 @@ class reaction:
 
         coef = int(coef_formula_match.group(1)) if coef_formula_match.group(1) else 1
         formula = coef_formula_match.group(2)
-
         return molecule(formula, coefficient=coef, phase=phase)  # list of molecule objects
 
     def _parse_input_str(self,s):
@@ -134,7 +136,7 @@ class reaction:
         reactant_terms = [f'{m.coefficient if m.coefficient != 1 else ""}{m.tex}{"("+m.phase+")" if m.phase else ""}' for m in self.reactants]
         product_terms = [f'{m.coefficient if m.coefficient != 1 else ""}{m.tex}{"("+m.phase+")" if m.phase else ""}' for m in self.products]
         
-        arrow = '\\leftrightarrow{}' if self.reversible is True else '\\rightarrow{}'
+        arrow = '\\leftrightarrows{}' if self.reversible is True else '\\rightarrow{}'
 
         tex = f'{"+".join(reactant_terms)}'+arrow+f'{"+".join(product_terms)}'
         return tex
@@ -173,8 +175,8 @@ class reaction:
             return False
 
     def _generate_rxn_quotient(self):
-        reactants = [m for m in self.reactants if str(m) != 'e-']
-        products = [m for m in self.products if str(m) != 'e-']
+        reactants = [m for m in self.reactants if (str(m) != 'e-' and m.phase is None)]
+        products = [m for m in self.products if (str(m) != 'e-' and m.phase is None)]
         
         reactant_terms = [f'[{m}]^{m.coefficient}' if m.coefficient > 1 else f'[{m}]' for m in reactants]
         product_terms = [f'[{m}]^{m.coefficient}' if m.coefficient > 1 else f'[{m}]' for m in products]
@@ -204,6 +206,31 @@ class reaction:
 
         return Q_eqn, Q_eqn_answers, Q_tex, Q
     
+    def _generate_rate_expression(self):
+        reactants = [m for m in self.reactants if (str(m) != 'e-' and m.phase is None)]
+        
+        reactant_terms = [f'[{m}]^{m.coefficient}' if m.coefficient > 1 else f'[{m}]' for m in reactants]
+
+        rate_eqn = 'k'+f'{"".join(reactant_terms)}'
+
+        reactant_perm = list(permutations(reactant_terms))
+        
+        all_eqn = ['k'+f'{"".join(r)}' for r in reactant_perm]
+        rate_eqn_answers=';'.join(all_eqn)
+
+        reactant_terms_tex = [f'[{m.tex}]^{{{m.coefficient}}}' if m.coefficient > 1 else f'[{m.tex}]' for m in reactants]
+        rate_eqn_tex = f'k{"".join(reactant_terms_tex)}'
+
+
+        if all(m.concentration is not None for m in reactants) and self.k is not None:
+            rate=self.k
+            for r in reactants:
+                rate *= r.concentration**(r.coefficient)
+        else:
+            rate = None
+
+        return rate_eqn, rate_eqn_answers, rate_eqn_tex, rate
+
     def set_concentration(self, s, conc):
         """
         s is the plaintext representation of the species whose concentration is to be set. e.g. 'SO4--' for sulfate

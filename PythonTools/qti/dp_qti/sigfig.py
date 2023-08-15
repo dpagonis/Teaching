@@ -90,8 +90,8 @@ class sigfig:
       if sf_instance.last_decimal_place == 0:
         answers += [sf_instance.as_num() + '.']
       
-      # If the number is less than 1 and not 0, add the version without leading zero
-      if abs(sf_instance.value) < 1 and sf_instance.value != 0:
+      # If the number is less than 1 and can be written without sci notation, add the version without leading zero
+      if abs(sf_instance.value) < 1 and abs(sf_instance.value)>1e-6:
         as_num_str = sf_instance.as_num()
         if '.' in as_num_str:
           no_lead_zero_str = '.'+as_num_str.split('.')[1]
@@ -103,6 +103,7 @@ class sigfig:
 
       # Combine both lists and join them with semicolons
       all_answers = answers# + answers_with_leading_space + answers_with_trailing_space
+      
       return all_answers
 
     # Call _generate_answers for the current number of significant figures and for the numbers within the range specified by sf_tolerance

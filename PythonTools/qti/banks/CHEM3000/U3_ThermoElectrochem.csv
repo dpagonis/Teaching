@@ -1,0 +1,1001 @@
+question,correct_answers,question_type
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.1293 V<br>n = 3<br>T = 280.1 K,-37.43;-3.743e1;-3.743E1;-37.4;-3.74e1;-3.74E1;-37.427;-3.7427e1;-3.7427E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 41.5 kJ mol-1<br>n = 2<br>T = 284 K,-0.215;-2.15e-1;-2.15E-1;.215;-0.22;-2.2e-1;-2.2E-1;.22;-0.2150;-2.150e-1;-2.150E-1;.2150,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.26e11<br>n = 3<br>T = 282.8 K,0.2229;2.229e-1;2.229E-1;.2229;0.223;2.23e-1;2.23E-1;.223;0.22290;2.2290e-1;2.2290E-1;.22290,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -25.83 kJ mol-1<br>n = 1<br>T = 300.4 K,0.2677;2.677e-1;2.677E-1;.2677;0.268;2.68e-1;2.68E-1;.268;0.26770;2.6770e-1;2.6770E-1;.26770,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.1e9<br>n = 1<br>T = 287 K,0.514;5.14e-1;5.14E-1;.514;0.51;5.1e-1;5.1E-1;.51;0.5140;5.140e-1;5.140E-1;.5140,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.777 V<br>n = 2<br>T = 281.9 K,1.97e99;1.97e99;1.97E99;2.0e99;2.0e99;2.0E99;1.968e99;1.968e99;1.968E99,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.7e142<br>n = 3<br>T = 298 K,2.81;2.81e0;2.81E0;2.8;2.8e0;2.8E0;2.810;2.810e0;2.810E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 9600<br>n = 1<br>T = 294.8 K,0.233;2.33e-1;2.33E-1;.233;0.23;2.3e-1;2.3E-1;.23;0.2330;2.330e-1;2.330E-1;.2330,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -273.9 kJ mol-1<br>n = 1<br>T = 280.2 K,2.839;2.839e0;2.839E0;2.84;2.84e0;2.84E0;2.8390;2.8390e0;2.8390E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -544 kJ mol-1<br>n = 2<br>T = 296 K,2.82;2.82e0;2.82E0;2.8;2.8e0;2.8E0;2.820;2.820e0;2.820E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.59e18<br>n = 1<br>T = 280.2 K,1.012;1.012e0;1.012E0;1.01;1.01e0;1.01E0;1.0120;1.0120e0;1.0120E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.486 V<br>n = 3<br>T = 297 K,141;1.41e2;1.41E2;141.;140;1.4e2;1.4E2;140.7;1.407e2;1.407E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.8891 V<br>n = 3<br>T = 302.0 K,3.08e-45;3.08e-45;3.08E-45;.08e-45;3.1e-45;3.1e-45;3.1E-45;.1e-45;3.076e-45;3.076e-45;3.076E-45;.076e-45,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -128 kJ mol-1<br>n = 1<br>T = 291 K,1.33;1.33e0;1.33E0;1.3;1.3e0;1.3E0;1.330;1.330e0;1.330E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.175 V<br>n = 1<br>T = 303 K,16.9;1.69e1;1.69E1;17;1.7e1;1.7E1;17.;16.89;1.689e1;1.689E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.90 V<br>n = 2<br>T = 302 K,-367;-3.67e2;-3.67E2;-367.;-370;-3.7e2;-3.7E2;-366.6;-3.666e2;-3.666E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.411 V<br>n = 3<br>T = 288 K,-119;-1.19e2;-1.19E2;-119.;-120;-1.2e2;-1.2E2;-119.0;-1.190e2;-1.190E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.195 V<br>n = 2<br>T = 302 K,-37.6;-3.76e1;-3.76E1;-38;-3.8e1;-3.8E1;-38.;-37.63;-3.763e1;-3.763E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.85 V<br>n = 3<br>T = 296 K,3.1e94;3.1e94;3.1E94;3e94;3e94;3E94;3.13e94;3.13e94;3.13E94,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8590 V<br>n = 1<br>T = 291.8 K,-82.88;-8.288e1;-8.288E1;-82.9;-8.29e1;-8.29E1;-82.881;-8.2881e1;-8.2881E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.389 V<br>n = 1<br>T = 291.7 K,9.96e23;9.96e23;9.96E23;1.00e24;1.00e24;1.00E24;9.958e23;9.958e23;9.958E23,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.7724 V<br>n = 2<br>T = 300.4 K,1.21e-26;1.21e-26;1.21E-26;.21e-26;1.2e-26;1.2e-26;1.2E-26;.2e-26;1.211e-26;1.211e-26;1.211E-26;.211e-26,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.152 V<br>n = 1<br>T = 287 K,-14.7;-1.47e1;-1.47E1;-15;-1.5e1;-1.5E1;-15.;-14.67;-1.467e1;-1.467E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.26e91<br>n = 3<br>T = 294.7 K,1.786;1.786e0;1.786E0;1.79;1.79e0;1.79E0;1.7860;1.7860e0;1.7860E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.593 V<br>n = 1<br>T = 292 K,5.8e-11;5.8e-11;5.8E-11;.8e-11;6e-11;6e-11;6E-11;5.82e-11;5.82e-11;5.82E-11;.82e-11,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -190.9 kJ mol-1<br>n = 3<br>T = 290.3 K,0.6594;6.594e-1;6.594E-1;.6594;0.659;6.59e-1;6.59E-1;.659;0.65940;6.5940e-1;6.5940E-1;.65940,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.159 V<br>n = 2<br>T = 293 K,0.0000034;3.4e-6;3.4E-6;.0000034;0.000003;3e-6;3E-6;.000003;0.00000339;3.39e-6;3.39E-6;.00000339,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -397.9 kJ mol-1<br>n = 2<br>T = 294.6 K,2.062;2.062e0;2.062E0;2.06;2.06e0;2.06E0;2.0620;2.0620e0;2.0620E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.192 V<br>n = 3<br>T = 302 K,-55.6;-5.56e1;-5.56E1;-56;-5.6e1;-5.6E1;-56.;-55.58;-5.558e1;-5.558E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.79 V<br>n = 2<br>T = 290. K,-538;-5.38e2;-5.38E2;-538.;-540;-5.4e2;-5.4E2;-538.4;-5.384e2;-5.384E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1270<br>n = 3<br>T = 280.1 K,0.05750;5.750e-2;5.750E-2;.05750;0.0575;5.75e-2;5.75E-2;.0575;0.057500;5.7500e-2;5.7500E-2;.057500,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -17 kJ mol-1<br>n = 2<br>T = 289.1 K,0.086;8.6e-2;8.6E-2;.086;0.09;9e-2;9E-2;.09;0.0860;8.60e-2;8.60E-2;.0860,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.039 V<br>n = 2<br>T = 292.6 K,1.74e70;1.74e70;1.74E70;1.7e70;1.7e70;1.7E70;1.738e70;1.738e70;1.738E70,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -425 kJ mol-1<br>n = 2<br>T = 290. K,2.20;2.20e0;2.20E0;2.2;2.2e0;2.2E0;2.200;2.200e0;2.200E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -431 kJ mol-1<br>n = 3<br>T = 298 K,1.49;1.49e0;1.49E0;1.5;1.5e0;1.5E0;1.490;1.490e0;1.490E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -4.7 kJ mol-1<br>n = 1<br>T = 290. K,0.049;4.9e-2;4.9E-2;.049;0.05;5e-2;5E-2;.05;0.0490;4.90e-2;4.90E-2;.0490,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.901 V<br>n = 2<br>T = 282.1 K,4.51e103;4.51e103;4.51E103;4.5e103;4.5e103;4.5E103;4.511e103;4.511e103;4.511E103,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.213 V<br>n = 3<br>T = 297 K,1.4e-11;1.4e-11;1.4E-11;.4e-11;1e-11;1e-11;1E-11;1.43e-11;1.43e-11;1.43E-11;.43e-11,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 114 kJ mol-1<br>n = 2<br>T = 283 K,-0.590;-5.90e-1;-5.90E-1;.590;-0.59;-5.9e-1;-5.9E-1;.59;-0.5900;-5.900e-1;-5.900E-1;.5900,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.0384 V<br>n = 2<br>T = 291.8 K,-7.41;-7.41e0;-7.41E0;-7.4;-7.4e0;-7.4E0;-7.410;-7.410e0;-7.410E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.6231 V<br>n = 3<br>T = 291.8 K,5.18e-33;5.18e-33;5.18E-33;.18e-33;5.2e-33;5.2e-33;5.2E-33;.2e-33;5.183e-33;5.183e-33;5.183E-33;.183e-33,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.125 V<br>n = 2<br>T = 295 K,-24.1;-2.41e1;-2.41E1;-24;-2.4e1;-2.4E1;-24.;-24.12;-2.412e1;-2.412E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -172.9 kJ mol-1<br>n = 1<br>T = 296.8 K,1.792;1.792e0;1.792E0;1.79;1.79e0;1.79E0;1.7920;1.7920e0;1.7920E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.1e17<br>n = 3<br>T = 292 K,0.329;3.29e-1;3.29E-1;.329;0.33;3.3e-1;3.3E-1;.33;0.3290;3.290e-1;3.290E-1;.3290,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.909 V<br>n = 1<br>T = 294 K,2.6e-16;2.6e-16;2.6E-16;.6e-16;3e-16;3e-16;3E-16;2.62e-16;2.62e-16;2.62E-16;.62e-16,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.005<br>n = 3<br>T = 290.7 K,-0.044;-4.4e-2;-4.4E-2;.044;-0.04;-4e-2;-4E-2;.04;-0.0440;-4.40e-2;-4.40E-2;.0440,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.24 V<br>n = 1<br>T = 291.9 K,23;2.3e1;2.3E1;23.;20;2e1;2E1;23.2;2.32e1;2.32E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.899 V<br>n = 2<br>T = 280. K,2.3e32;2.3e32;2.3E32;2e32;2e32;2E32;2.30e32;2.30e32;2.30E32,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8905 V<br>n = 3<br>T = 293.8 K,-257.8;-2.578e2;-2.578E2;-258;-2.58e2;-2.58E2;-258.;-257.76;-2.5776e2;-2.5776E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.90 V<br>n = 1<br>T = 297 K,1.6e49;1.6e49;1.6E49;2e49;2e49;2E49;1.62e49;1.62e49;1.62E49,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.1100 V<br>n = 1<br>T = 292.5 K,10.61;1.061e1;1.061E1;10.6;1.06e1;1.06E1;10.613;1.0613e1;1.0613E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -656.5 kJ mol-1<br>n = 3<br>T = 289.5 K,2.268;2.268e0;2.268E0;2.27;2.27e0;2.27E0;2.2680;2.2680e0;2.2680E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.27e107<br>n = 3<br>T = 302.8 K,2.145;2.145e0;2.145E0;2.15;2.15e0;2.15E0;2.1450;2.1450e0;2.1450E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.506 V<br>n = 3<br>T = 293 K,-146;-1.46e2;-1.46E2;-146.;-150;-1.5e2;-1.5E2;-146.5;-1.465e2;-1.465E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -10.50 kJ mol-1<br>n = 1<br>T = 304.4 K,0.1088;1.088e-1;1.088E-1;.1088;0.109;1.09e-1;1.09E-1;.109;0.10880;1.0880e-1;1.0880E-1;.10880,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -186.8 kJ mol-1<br>n = 1<br>T = 286.7 K,1.936;1.936e0;1.936E0;1.94;1.94e0;1.94E0;1.9360;1.9360e0;1.9360E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.3751 V<br>n = 1<br>T = 296.8 K,4.27e-7;4.27e-7;4.27E-7;.27e-7;4.3e-7;4.3e-7;4.3E-7;.3e-7;4.272e-7;4.272e-7;4.272E-7;.272e-7,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.51e-11<br>n = 1<br>T = 292.0 K,-0.6270;-6.270e-1;-6.270E-1;.6270;-0.627;-6.27e-1;-6.27E-1;.627;-0.62700;-6.2700e-1;-6.2700E-1;.62700,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.59e-13<br>n = 1<br>T = 281.1 K,-0.6794;-6.794e-1;-6.794E-1;.6794;-0.679;-6.79e-1;-6.79E-1;.679;-0.67940;-6.7940e-1;-6.7940E-1;.67940,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -268.1 kJ mol-1<br>n = 1<br>T = 299.9 K,2.779;2.779e0;2.779E0;2.78;2.78e0;2.78E0;2.7790;2.7790e0;2.7790E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.758 V<br>n = 1<br>T = 281.5 K,-266.1;-2.661e2;-2.661E2;-266;-2.66e2;-2.66E2;-266.;-266.11;-2.6611e2;-2.6611E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -43.7 kJ mol-1<br>n = 1<br>T = 299 K,0.453;4.53e-1;4.53E-1;.453;0.45;4.5e-1;4.5E-1;.45;0.4530;4.530e-1;4.530E-1;.4530,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.46 V<br>n = 3<br>T = 294 K,3.2e126;3.2e126;3.2E126;3e126;3e126;3E126;3.23e126;3.23e126;3.23E126,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 71.4 kJ mol-1<br>n = 2<br>T = 304 K,-0.370;-3.70e-1;-3.70E-1;.370;-0.37;-3.7e-1;-3.7E-1;.37;-0.3700;-3.700e-1;-3.700E-1;.3700,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.6557 V<br>n = 1<br>T = 301.4 K,63.27;6.327e1;6.327E1;63.3;6.33e1;6.33E1;63.266;6.3266e1;6.3266E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -312.8 kJ mol-1<br>n = 2<br>T = 298.3 K,1.621;1.621e0;1.621E0;1.62;1.62e0;1.62E0;1.6210;1.6210e0;1.6210E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 50.11 kJ mol-1<br>n = 1<br>T = 296.2 K,-0.5193;-5.193e-1;-5.193E-1;.5193;-0.519;-5.19e-1;-5.19E-1;.519;-0.51930;-5.1930e-1;-5.1930E-1;.51930,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.27 V<br>n = 2<br>T = 287 K,5.3e79;5.3e79;5.3E79;5e79;5e79;5E79;5.29e79;5.29e79;5.29E79,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -11.72 kJ mol-1<br>n = 2<br>T = 290.9 K,0.06075;6.075e-2;6.075E-2;.06075;0.0608;6.08e-2;6.08E-2;.0608;0.060750;6.0750e-2;6.0750E-2;.060750,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 67.85 kJ mol-1<br>n = 2<br>T = 289.0 K,-0.3516;-3.516e-1;-3.516E-1;.3516;-0.352;-3.52e-1;-3.52E-1;.352;-0.35160;-3.5160e-1;-3.5160E-1;.35160,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -8.3 kJ mol-1<br>n = 2<br>T = 287 K,0.043;4.3e-2;4.3E-2;.043;0.04;4e-2;4E-2;.04;0.0430;4.30e-2;4.30E-2;.0430,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.4e23<br>n = 1<br>T = 287 K,1.34;1.34e0;1.34E0;1.3;1.3e0;1.3E0;1.340;1.340e0;1.340E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.523 V<br>n = 3<br>T = 288 K,2.9e27;2.9e27;2.9E27;3e27;3e27;3E27;2.86e27;2.86e27;2.86E27,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -428.8 kJ mol-1<br>n = 2<br>T = 283.2 K,2.222;2.222e0;2.222E0;2.22;2.22e0;2.22E0;2.2220;2.2220e0;2.2220E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.0321 V<br>n = 1<br>T = 281.5 K,3.8;3.8e0;3.8E0;4;4e0;4E0;4.;3.76;3.76e0;3.76E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.764 V<br>n = 2<br>T = 302.7 K,-340.4;-3.404e2;-3.404E2;-340.;-3.40e2;-3.40E2;-340..;-340.40;-3.4040e2;-3.4040E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.35 V<br>n = 3<br>T = 303 K,-391;-3.91e2;-3.91E2;-391.;-390;-3.9e2;-3.9E2;-390.8;-3.908e2;-3.908E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.139 V<br>n = 2<br>T = 285 K,0.000012;1.2e-5;1.2E-5;.000012;0.00001;1e-5;1E-5;.00001;0.0000121;1.21e-5;1.21E-5;.0000121,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -89.38 kJ mol-1<br>n = 1<br>T = 294.9 K,0.9264;9.264e-1;9.264E-1;.9264;0.926;9.26e-1;9.26E-1;.926;0.92640;9.2640e-1;9.2640E-1;.92640,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.52 V<br>n = 2<br>T = 292 K,2.9e52;2.9e52;2.9E52;3e52;3e52;3E52;2.94e52;2.94e52;2.94E52,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.97e82<br>n = 2<br>T = 298.7 K,2.453;2.453e0;2.453E0;2.45;2.45e0;2.45E0;2.4530;2.4530e0;2.4530E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.650 V<br>n = 1<br>T = 303 K,62.7;6.27e1;6.27E1;63;6.3e1;6.3E1;63.;62.72;6.272e1;6.272E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.11 V<br>n = 2<br>T = 305 K,4000;4e3;4E3;4300;4.3e3;4.3E3,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.57e68<br>n = 2<br>T = 293.8 K,1.994;1.994e0;1.994E0;1.99;1.99e0;1.99E0;1.9940;1.9940e0;1.9940E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.186 V<br>n = 1<br>T = 282.4 K,-114.4;-1.144e2;-1.144E2;-114;-1.14e2;-1.14E2;-114.;-114.43;-1.1443e2;-1.1443E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.317 V<br>n = 2<br>T = 282 K,-61.2;-6.12e1;-6.12E1;-61;-6.1e1;-6.1E1;-61.;-61.17;-6.117e1;-6.117E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.86 V<br>n = 2<br>T = 292 K,-552;-5.52e2;-5.52E2;-552.;-550;-5.5e2;-5.5E2;-551.9;-5.519e2;-5.519E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.18e58<br>n = 2<br>T = 289.0 K,1.665;1.665e0;1.665E0;1.67;1.67e0;1.67E0;1.6650;1.6650e0;1.6650E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -524 kJ mol-1<br>n = 3<br>T = 290. K,1.81;1.81e0;1.81E0;1.8;1.8e0;1.8E0;1.810;1.810e0;1.810E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.003<br>n = 1<br>T = 301 K,-0.15;-1.5e-1;-1.5E-1;.15;-0.1;-1e-1;-1E-1;.1;-0.150;-1.50e-1;-1.50E-1;.150,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6000<br>n = 1<br>T = 291 K,0.22;2.2e-1;2.2E-1;.22;0.2;2e-1;2E-1;.2;0.220;2.20e-1;2.20E-1;.220,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.17 V<br>n = 1<br>T = 295 K,-209;-2.09e2;-2.09E2;-209.;-210;-2.1e2;-2.1E2;-209.4;-2.094e2;-2.094E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.07 V<br>n = 1<br>T = 285 K,4.0e36;4.0e36;4.0E36;4e36;4e36;4E36;4.03e36;4.03e36;4.03E36,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.1e14<br>n = 1<br>T = 280. K,0.779;7.79e-1;7.79E-1;.779;0.78;7.8e-1;7.8E-1;.78;0.7790;7.790e-1;7.790E-1;.7790,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.240 V<br>n = 3<br>T = 295 K,-69.5;-6.95e1;-6.95E1;-69;-6.9e1;-6.9E1;-69.;-69.47;-6.947e1;-6.947E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.54 V<br>n = 1<br>T = 288 K,2.8e44;2.8e44;2.8E44;3e44;3e44;3E44;2.81e44;2.81e44;2.81E44,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 5.33 kJ mol-1<br>n = 1<br>T = 297 K,-0.0552;-5.52e-2;-5.52E-2;.0552;-0.055;-5.5e-2;-5.5E-2;.055;-0.05520;-5.520e-2;-5.520E-2;.05520,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 50.3 kJ mol-1<br>n = 1<br>T = 296 K,-0.521;-5.21e-1;-5.21E-1;.521;-0.52;-5.2e-1;-5.2E-1;.52;-0.5210;-5.210e-1;-5.210E-1;.5210,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.11 V<br>n = 1<br>T = 280. K,11;1.1e1;1.1E1;11.;10;1e1;1E1;10.6;1.06e1;1.06E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.674 V<br>n = 1<br>T = 302.3 K,8.09e27;8.09e27;8.09E27;8.1e27;8.1e27;8.1E27;8.092e27;8.092e27;8.092E27,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.1e83<br>n = 2<br>T = 284 K,2.34;2.34e0;2.34E0;2.3;2.3e0;2.3E0;2.340;2.340e0;2.340E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.5791 V<br>n = 1<br>T = 303.0 K,-55.88;-5.588e1;-5.588E1;-55.9;-5.59e1;-5.59E1;-55.875;-5.5875e1;-5.5875E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 35.9 kJ mol-1<br>n = 2<br>T = 289 K,-0.186;-1.86e-1;-1.86E-1;.186;-0.19;-1.9e-1;-1.9E-1;.19;-0.1860;-1.860e-1;-1.860E-1;.1860,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.03672 V<br>n = 2<br>T = 283.5 K,7.086;7.086e0;7.086E0;7.09;7.09e0;7.09E0;7.0859;7.0859e0;7.0859E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 9.84 kJ mol-1<br>n = 1<br>T = 294 K,-0.102;-1.02e-1;-1.02E-1;.102;-0.10;-1.0e-1;-1.0E-1;.10;-0.1020;-1.020e-1;-1.020E-1;.1020,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -171 kJ mol-1<br>n = 1<br>T = 291 K,1.77;1.77e0;1.77E0;1.8;1.8e0;1.8E0;1.770;1.770e0;1.770E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.8140 V<br>n = 2<br>T = 288.6 K,157.1;1.571e2;1.571E2;157;1.57e2;1.57E2;157.;157.08;1.5708e2;1.5708E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.62e128<br>n = 3<br>T = 282.8 K,2.402;2.402e0;2.402E0;2.40;2.40e0;2.40E0;2.4020;2.4020e0;2.4020E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.1e5<br>n = 1<br>T = 299 K,0.347;3.47e-1;3.47E-1;.347;0.35;3.5e-1;3.5E-1;.35;0.3470;3.470e-1;3.470E-1;.3470,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.49e101<br>n = 2<br>T = 285.5 K,2.872;2.872e0;2.872E0;2.87;2.87e0;2.87E0;2.8720;2.8720e0;2.8720E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -458.1 kJ mol-1<br>n = 2<br>T = 302.9 K,2.374;2.374e0;2.374E0;2.37;2.37e0;2.37E0;2.3740;2.3740e0;2.3740E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.48e140<br>n = 3<br>T = 295.4 K,2.743;2.743e0;2.743E0;2.74;2.74e0;2.74E0;2.7430;2.7430e0;2.7430E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -469.8 kJ mol-1<br>n = 3<br>T = 280.6 K,1.623;1.623e0;1.623E0;1.62;1.62e0;1.62E0;1.6230;1.6230e0;1.6230E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.701 V<br>n = 1<br>T = 281 K,3.7e12;3.7e12;3.7E12;4e12;4e12;4E12;3.74e12;3.74e12;3.74E12,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -475 kJ mol-1<br>n = 3<br>T = 295 K,1.64;1.64e0;1.64E0;1.6;1.6e0;1.6E0;1.640;1.640e0;1.640E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8890 V<br>n = 1<br>T = 302.7 K,-85.78;-8.578e1;-8.578E1;-85.8;-8.58e1;-8.58E1;-85.776;-8.5776e1;-8.5776E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.7892 V<br>n = 3<br>T = 284.2 K,228.4;2.284e2;2.284E2;228;2.28e2;2.28E2;228.;228.44;2.2844e2;2.2844E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -523.7 kJ mol-1<br>n = 2<br>T = 283.2 K,2.714;2.714e0;2.714E0;2.71;2.71e0;2.71E0;2.7140;2.7140e0;2.7140E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.88 V<br>n = 3<br>T = 288 K,-834;-8.34e2;-8.34E2;-834.;-830;-8.3e2;-8.3E2;-833.6;-8.336e2;-8.336E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.716 V<br>n = 3<br>T = 301 K,9.2e35;9.2e35;9.2E35;9e35;9e35;9E35;9.23e35;9.23e35;9.23E35,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.468 V<br>n = 1<br>T = 290.9 K,-141.6;-1.416e2;-1.416E2;-142;-1.42e2;-1.42E2;-142.;-141.64;-1.4164e2;-1.4164E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.228 V<br>n = 3<br>T = 297.3 K,2.82e62;2.82e62;2.82E62;2.8e62;2.8e62;2.8E62;2.823e62;2.823e62;2.823E62,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3e-4<br>n = 2<br>T = 290. K,-0.10;-1.0e-1;-1.0E-1;.10;-0.1;-1e-1;-1E-1;.1;-0.100;-1.00e-1;-1.00E-1;.100,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.79 V<br>n = 3<br>T = 293 K,-808;-8.08e2;-8.08E2;-808.;-810;-8.1e2;-8.1E2;-807.6;-8.076e2;-8.076E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 268.6 kJ mol-1<br>n = 3<br>T = 287.8 K,-0.9281;-9.281e-1;-9.281E-1;.9281;-0.928;-9.28e-1;-9.28E-1;.928;-0.92810;-9.2810e-1;-9.2810E-1;.92810,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.22 V<br>n = 1<br>T = 303 K,21;2.1e1;2.1E1;21.;20;2e1;2E1;21.2;2.12e1;2.12E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.2890 V<br>n = 3<br>T = 300.3 K,-83.65;-8.365e1;-8.365E1;-83.7;-8.37e1;-8.37E1;-83.653;-8.3653e1;-8.3653E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.7e-11<br>n = 1<br>T = 303 K,-0.647;-6.47e-1;-6.47E-1;.647;-0.65;-6.5e-1;-6.5E-1;.65;-0.6470;-6.470e-1;-6.470E-1;.6470,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.5e35<br>n = 2<br>T = 303 K,1.08;1.08e0;1.08E0;1.1;1.1e0;1.1E0;1.080;1.080e0;1.080E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.421 V<br>n = 1<br>T = 295 K,-40.6;-4.06e1;-4.06E1;-41;-4.1e1;-4.1E1;-41.;-40.62;-4.062e1;-4.062E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.9083 V<br>n = 3<br>T = 293.0 K,1.35e-47;1.35e-47;1.35E-47;.35e-47;1.3e-47;1.3e-47;1.3E-47;.3e-47;1.349e-47;1.349e-47;1.349E-47;.349e-47,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.465 V<br>n = 1<br>T = 292.6 K,-237.8;-2.378e2;-2.378E2;-238;-2.38e2;-2.38E2;-238.;-237.84;-2.3784e2;-2.3784E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.984 V<br>n = 3<br>T = 288 K,2.2e-52;2.2e-52;2.2E-52;.2e-52;2e-52;2e-52;2E-52;2.20e-52;2.20e-52;2.20E-52;.20e-52,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.30e62<br>n = 3<br>T = 301.1 K,1.237;1.237e0;1.237E0;1.24;1.24e0;1.24E0;1.2370;1.2370e0;1.2370E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -123 kJ mol-1<br>n = 1<br>T = 301 K,1.27;1.27e0;1.27E0;1.3;1.3e0;1.3E0;1.270;1.270e0;1.270E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 49.03 kJ mol-1<br>n = 3<br>T = 299.9 K,-0.1694;-1.694e-1;-1.694E-1;.1694;-0.169;-1.69e-1;-1.69E-1;.169;-0.16940;-1.6940e-1;-1.6940E-1;.16940,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -24.8 kJ mol-1<br>n = 1<br>T = 295 K,0.257;2.57e-1;2.57E-1;.257;0.26;2.6e-1;2.6E-1;.26;0.2570;2.570e-1;2.570E-1;.2570,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.8e51<br>n = 3<br>T = 295 K,1.00;1.00e0;1.00E0;1.0;1.0e0;1.0E0;1.000;1.000e0;1.000E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.6709 V<br>n = 3<br>T = 290.7 K,194.2;1.942e2;1.942E2;194;1.94e2;1.94E2;194.;194.20;1.9420e2;1.9420E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.65 V<br>n = 2<br>T = 303 K,1.4e88;1.4e88;1.4E88;1e88;1e88;1E88;1.43e88;1.43e88;1.43E88,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 14 kJ mol-1<br>n = 3<br>T = 300.9 K,-0.048;-4.8e-2;-4.8E-2;.048;-0.05;-5e-2;-5E-2;.05;-0.0480;-4.80e-2;-4.80E-2;.0480,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2330<br>n = 2<br>T = 301.7 K,0.1008;1.008e-1;1.008E-1;.1008;0.101;1.01e-1;1.01E-1;.101;0.10080;1.0080e-1;1.0080E-1;.10080,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.695 V<br>n = 3<br>T = 285 K,-201;-2.01e2;-2.01E2;-201.;-2.0e2;-2.0e2;-2.0E2;-201.2;-2.012e2;-2.012E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.5334 V<br>n = 1<br>T = 299.5 K,-51.47;-5.147e1;-5.147E1;-51.5;-5.15e1;-5.15E1;-51.466;-5.1466e1;-5.1466E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -477.2 kJ mol-1<br>n = 2<br>T = 281.2 K,2.473;2.473e0;2.473E0;2.47;2.47e0;2.47E0;2.4730;2.4730e0;2.4730E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 34.6 kJ mol-1<br>n = 1<br>T = 303 K,-0.359;-3.59e-1;-3.59E-1;.359;-0.36;-3.6e-1;-3.6E-1;.36;-0.3590;-3.590e-1;-3.590E-1;.3590,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.6e-19<br>n = 3<br>T = 284 K,-0.353;-3.53e-1;-3.53E-1;.353;-0.35;-3.5e-1;-3.5E-1;.35;-0.3530;-3.530e-1;-3.530E-1;.3530,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -798.0 kJ mol-1<br>n = 3<br>T = 295.1 K,2.757;2.757e0;2.757E0;2.76;2.76e0;2.76E0;2.7570;2.7570e0;2.7570E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.02 V<br>n = 1<br>T = 290. K,-98.4;-9.84e1;-9.84E1;-98;-9.8e1;-9.8E1;-98.;-98.42;-9.842e1;-9.842E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.1e83<br>n = 2<br>T = 295 K,2.45;2.45e0;2.45E0;2.5;2.5e0;2.5E0;2.450;2.450e0;2.450E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.379 V<br>n = 2<br>T = 301 K,-73.1;-7.31e1;-7.31E1;-73;-7.3e1;-7.3E1;-73.;-73.14;-7.314e1;-7.314E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 216.8 kJ mol-1<br>n = 3<br>T = 302.2 K,-0.7490;-7.490e-1;-7.490E-1;.7490;-0.749;-7.49e-1;-7.49E-1;.749;-0.74900;-7.4900e-1;-7.4900E-1;.74900,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.798 V<br>n = 2<br>T = 281.9 K,1.11e100;1.11e100;1.11E100;1.1e100;1.1e100;1.1E100;1.109e100;1.109e100;1.109E100,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.0960 V<br>n = 2<br>T = 304 K,0.00066;6.6e-4;6.6E-4;.00066;0.0007;7e-4;7E-4;.0007;0.000656;6.56e-4;6.56E-4;.000656,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.093 V<br>n = 1<br>T = 297.7 K,-9.0;-9.0e0;-9.0E0;-9;-9e0;-9E0;-9.;-8.97;-8.97e0;-8.97E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -616.8 kJ mol-1<br>n = 3<br>T = 303.2 K,2.131;2.131e0;2.131E0;2.13;2.13e0;2.13E0;2.1310;2.1310e0;2.1310E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.373 V<br>n = 3<br>T = 284 K,108;1.08e2;1.08E2;108.;110;1.1e2;1.1E2;108.0;1.080e2;1.080E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.31 V<br>n = 3<br>T = 286 K,-669;-6.69e2;-6.69E2;-669.;-670;-6.7e2;-6.7E2;-668.6;-6.686e2;-6.686E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 79.80 kJ mol-1<br>n = 1<br>T = 286.8 K,-0.8271;-8.271e-1;-8.271E-1;.8271;-0.827;-8.27e-1;-8.27E-1;.827;-0.82710;-8.2710e-1;-8.2710E-1;.82710,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 112.0 kJ mol-1<br>n = 3<br>T = 283.6 K,-0.3868;-3.868e-1;-3.868E-1;.3868;-0.387;-3.87e-1;-3.87E-1;.387;-0.38680;-3.8680e-1;-3.8680E-1;.38680,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.11e60<br>n = 3<br>T = 297.5 K,1.187;1.187e0;1.187E0;1.19;1.19e0;1.19E0;1.1870;1.1870e0;1.1870E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.06579 V<br>n = 1<br>T = 294.5 K,6.348;6.348e0;6.348E0;6.35;6.35e0;6.35E0;6.3478;6.3478e0;6.3478E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -337.5 kJ mol-1<br>n = 3<br>T = 284.1 K,1.166;1.166e0;1.166E0;1.17;1.17e0;1.17E0;1.1660;1.1660e0;1.1660E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -577 kJ mol-1<br>n = 2<br>T = 295 K,2.99;2.99e0;2.99E0;3.0;3.0e0;3.0E0;2.990;2.990e0;2.990E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -571.0 kJ mol-1<br>n = 2<br>T = 286.6 K,2.959;2.959e0;2.959E0;2.96;2.96e0;2.96E0;2.9590;2.9590e0;2.9590E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.40 V<br>n = 1<br>T = 280. K,1.6e43;1.6e43;1.6E43;2e43;2e43;2E43;1.58e43;1.58e43;1.58E43,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.53 V<br>n = 2<br>T = 284 K,-295;-2.95e2;-2.95E2;-295.;-3.0e2;-3.0e2;-3.0E2;-295.2;-2.952e2;-2.952E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.492 V<br>n = 1<br>T = 289.1 K,-144.0;-1.440e2;-1.440E2;-144;-1.44e2;-1.44E2;-144.;-143.96;-1.4396e2;-1.4396E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.82 V<br>n = 3<br>T = 298 K,-816;-8.16e2;-8.16E2;-816.;-820;-8.2e2;-8.2E2;-816.3;-8.163e2;-8.163E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.023 V<br>n = 3<br>T = 289.3 K,0.06;6e-2;6E-2;.06;0.063;6.3e-2;6.3E-2;.063,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.0e28<br>n = 1<br>T = 303 K,1.73;1.73e0;1.73E0;1.7;1.7e0;1.7E0;1.730;1.730e0;1.730E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.330 V<br>n = 1<br>T = 298 K,380000;3.8e5;3.8E5;400000;4e5;4E5;381000;3.81e5;3.81E5,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -48.7 kJ mol-1<br>n = 1<br>T = 295 K,0.505;5.05e-1;5.05E-1;.505;0.51;5.1e-1;5.1E-1;.51;0.5050;5.050e-1;5.050E-1;.5050,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.715 V<br>n = 3<br>T = 301 K,1.2e-36;1.2e-36;1.2E-36;.2e-36;1e-36;1e-36;1E-36;1.22e-36;1.22e-36;1.22E-36;.22e-36,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 246.2 kJ mol-1<br>n = 3<br>T = 287.2 K,-0.8507;-8.507e-1;-8.507E-1;.8507;-0.851;-8.51e-1;-8.51E-1;.851;-0.85070;-8.5070e-1;-8.5070E-1;.85070,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.4970 V<br>n = 3<br>T = 301.4 K,8.54e24;8.54e24;8.54E24;8.5e24;8.5e24;8.5E24;8.539e24;8.539e24;8.539E24,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -372 kJ mol-1<br>n = 2<br>T = 292 K,1.93;1.93e0;1.93E0;1.9;1.9e0;1.9E0;1.930;1.930e0;1.930E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.3e30<br>n = 2<br>T = 288 K,0.880;8.80e-1;8.80E-1;.880;0.88;8.8e-1;8.8E-1;.88;0.8800;8.800e-1;8.800E-1;.8800,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.036 V<br>n = 1<br>T = 292.1 K,0.2;2e-1;2E-1;.2;0.24;2.4e-1;2.4E-1;.24,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -732.6 kJ mol-1<br>n = 3<br>T = 303.9 K,2.531;2.531e0;2.531E0;2.53;2.53e0;2.53E0;2.5310;2.5310e0;2.5310E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -9.187 kJ mol-1<br>n = 2<br>T = 284.8 K,0.04761;4.761e-2;4.761E-2;.04761;0.0476;4.76e-2;4.76E-2;.0476;0.047610;4.7610e-2;4.7610E-2;.047610,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.0154 V<br>n = 2<br>T = 298 K,-2.97;-2.97e0;-2.97E0;-3.0;-3.0e0;-3.0E0;-2.972;-2.972e0;-2.972E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.884 V<br>n = 2<br>T = 280.0 K,-556.5;-5.565e2;-5.565E2;-557;-5.57e2;-5.57E2;-557.;-556.53;-5.5653e2;-5.5653E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -63.43 kJ mol-1<br>n = 2<br>T = 280.7 K,0.3287;3.287e-1;3.287E-1;.3287;0.329;3.29e-1;3.29E-1;.329;0.32870;3.2870e-1;3.2870E-1;.32870,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.638 V<br>n = 2<br>T = 304.4 K,2.25e87;2.25e87;2.25E87;2.2e87;2.2e87;2.2E87;2.249e87;2.249e87;2.249E87,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.0855 V<br>n = 2<br>T = 304.1 K,-16.5;-1.65e1;-1.65E1;-16;-1.6e1;-1.6E1;-16.;-16.50;-1.650e1;-1.650E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -206.3 kJ mol-1<br>n = 1<br>T = 290.8 K,2.138;2.138e0;2.138E0;2.14;2.14e0;2.14E0;2.1380;2.1380e0;2.1380E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.6e18<br>n = 1<br>T = 285 K,1.06;1.06e0;1.06E0;1.1;1.1e0;1.1E0;1.060;1.060e0;1.060E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.017 V<br>n = 3<br>T = 303 K,4.9;4.9e0;4.9E0;5;5e0;5E0;5.;4.92;4.92e0;4.92E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.24e26<br>n = 1<br>T = 284.9 K,1.475;1.475e0;1.475E0;1.48;1.48e0;1.48E0;1.4750;1.4750e0;1.4750E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.246 V<br>n = 1<br>T = 288.7 K,-120.2;-1.202e2;-1.202E2;-120.;-1.20e2;-1.20E2;-120..;-120.22;-1.2022e2;-1.2022E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.2e-4<br>n = 2<br>T = 289 K,-0.105;-1.05e-1;-1.05E-1;.105;-0.11;-1.1e-1;-1.1E-1;.11;-0.1050;-1.050e-1;-1.050E-1;.1050,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.742 V<br>n = 2<br>T = 291 K,-143;-1.43e2;-1.43E2;-143.;-140;-1.4e2;-1.4E2;-143.2;-1.432e2;-1.432E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.2e19<br>n = 2<br>T = 302 K,0.588;5.88e-1;5.88E-1;.588;0.59;5.9e-1;5.9E-1;.59;0.5880;5.880e-1;5.880E-1;.5880,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.42e43<br>n = 3<br>T = 299.3 K,0.8672;8.672e-1;8.672E-1;.8672;0.867;8.67e-1;8.67E-1;.867;0.86720;8.6720e-1;8.6720E-1;.86720,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.1e23<br>n = 1<br>T = 283 K,1.31;1.31e0;1.31E0;1.3;1.3e0;1.3E0;1.310;1.310e0;1.310E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.9110 V<br>n = 3<br>T = 281.5 K,1.18e-49;1.18e-49;1.18E-49;.18e-49;1.2e-49;1.2e-49;1.2E-49;.2e-49;1.175e-49;1.175e-49;1.175E-49;.175e-49,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -208.0 kJ mol-1<br>n = 1<br>T = 291.8 K,2.156;2.156e0;2.156E0;2.16;2.16e0;2.16E0;2.1560;2.1560e0;2.1560E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.1e26<br>n = 1<br>T = 303 K,1.60;1.60e0;1.60E0;1.6;1.6e0;1.6E0;1.600;1.600e0;1.600E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 9200<br>n = 1<br>T = 298.8 K,0.235;2.35e-1;2.35E-1;.235;0.23;2.3e-1;2.3E-1;.23;0.2350;2.350e-1;2.350E-1;.2350,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 10.<br>n = 1<br>T = 281 K,0.055;5.5e-2;5.5E-2;.055;0.06;6e-2;6E-2;.06;0.0550;5.50e-2;5.50E-2;.0550,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.46 V<br>n = 3<br>T = 303 K,-423;-4.23e2;-4.23E2;-423.;-420;-4.2e2;-4.2E2;-422.6;-4.226e2;-4.226E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -113.3 kJ mol-1<br>n = 1<br>T = 285.4 K,1.174;1.174e0;1.174E0;1.17;1.17e0;1.17E0;1.1740;1.1740e0;1.1740E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 200<br>n = 1<br>T = 303 K,0.14;1.4e-1;1.4E-1;.14;0.1;1e-1;1E-1;.1;0.140;1.40e-1;1.40E-1;.140,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.312 V<br>n = 2<br>T = 302 K,-60.2;-6.02e1;-6.02E1;-60.;-6.0e1;-6.0E1;-60..;-60.21;-6.021e1;-6.021E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.12 V<br>n = 1<br>T = 294 K,12;1.2e1;1.2E1;12.;10;1e1;1E1;11.6;1.16e1;1.16E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.6e90<br>n = 3<br>T = 298 K,1.79;1.79e0;1.79E0;1.8;1.8e0;1.8E0;1.790;1.790e0;1.790E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -582.4 kJ mol-1<br>n = 3<br>T = 289.3 K,2.012;2.012e0;2.012E0;2.01;2.01e0;2.01E0;2.0120;2.0120e0;2.0120E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.33e7<br>n = 2<br>T = 299.7 K,0.2355;2.355e-1;2.355E-1;.2355;0.235;2.35e-1;2.35E-1;.235;0.23550;2.3550e-1;2.3550E-1;.23550,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.560 V<br>n = 2<br>T = 296 K,8.5e-20;8.5e-20;8.5E-20;.5e-20;9e-20;9e-20;9E-20;8.52e-20;8.52e-20;8.52E-20;.52e-20,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.475 V<br>n = 2<br>T = 302.7 K,-284.6;-2.846e2;-2.846E2;-285;-2.85e2;-2.85E2;-285.;-284.63;-2.8463e2;-2.8463E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 72.2 kJ mol-1<br>n = 2<br>T = 299 K,-0.374;-3.74e-1;-3.74E-1;.374;-0.37;-3.7e-1;-3.7E-1;.37;-0.3740;-3.740e-1;-3.740E-1;.3740,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.62 V<br>n = 3<br>T = 280. K,-758;-7.58e2;-7.58E2;-758.;-760;-7.6e2;-7.6E2;-758.4;-7.584e2;-7.584E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.445 V<br>n = 2<br>T = 303.7 K,-278.8;-2.788e2;-2.788E2;-279;-2.79e2;-2.79E2;-279.;-278.84;-2.7884e2;-2.7884E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -218 kJ mol-1<br>n = 1<br>T = 301 K,2.26;2.26e0;2.26E0;2.3;2.3e0;2.3E0;2.260;2.260e0;2.260E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.5e38<br>n = 1<br>T = 302 K,2.31;2.31e0;2.31E0;2.3;2.3e0;2.3E0;2.310;2.310e0;2.310E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.2e135<br>n = 3<br>T = 286 K,2.56;2.56e0;2.56E0;2.6;2.6e0;2.6E0;2.560;2.560e0;2.560E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -22 kJ mol-1<br>n = 1<br>T = 292.2 K,0.23;2.3e-1;2.3E-1;.23;0.2;2e-1;2E-1;.2;0.230;2.30e-1;2.30E-1;.230,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.25 V<br>n = 1<br>T = 295 K,2.7e38;2.7e38;2.7E38;3e38;3e38;3E38;2.75e38;2.75e38;2.75E38,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.23 V<br>n = 1<br>T = 283 K,-215;-2.15e2;-2.15E2;-215.;-220;-2.2e2;-2.2E2;-215.2;-2.152e2;-2.152E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.04643 V<br>n = 2<br>T = 283.8 K,0.0224;2.24e-2;2.24E-2;.0224;0.022;2.2e-2;2.2E-2;.022;0.02244;2.244e-2;2.244E-2;.02244,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.510 V<br>n = 3<br>T = 298.4 K,-437.1;-4.371e2;-4.371E2;-437;-4.37e2;-4.37E2;-437.;-437.08;-4.3708e2;-4.3708E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.473 V<br>n = 1<br>T = 304.4 K,-142.1;-1.421e2;-1.421E2;-142;-1.42e2;-1.42E2;-142.;-142.12;-1.4212e2;-1.4212E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.504 V<br>n = 3<br>T = 285 K,5.5e26;5.5e26;5.5E26;5e26;5e26;5E26;5.46e26;5.46e26;5.46E26,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.65 V<br>n = 2<br>T = 281 K,1.5e59;1.5e59;1.5E59;2e59;2e59;2E59;1.54e59;1.54e59;1.54E59,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.932 V<br>n = 1<br>T = 296.4 K,7.14e49;7.14e49;7.14E49;7.1e49;7.1e49;7.1E49;7.142e49;7.142e49;7.142E49,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.572 V<br>n = 2<br>T = 282.8 K,-496.3;-4.963e2;-4.963E2;-496;-4.96e2;-4.96E2;-496.;-496.32;-4.9632e2;-4.9632E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.355 V<br>n = 1<br>T = 295.1 K,1.38e23;1.38e23;1.38E23;1.4e23;1.4e23;1.4E23;1.384e23;1.384e23;1.384E23,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.824 V<br>n = 1<br>T = 297.8 K,-176.0;-1.760e2;-1.760E2;-176;-1.76e2;-1.76E2;-176.;-175.99;-1.7599e2;-1.7599E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 23.9 kJ mol-1<br>n = 1<br>T = 304.9 K,-0.248;-2.48e-1;-2.48E-1;.248;-0.25;-2.5e-1;-2.5E-1;.25;-0.2480;-2.480e-1;-2.480E-1;.2480,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.17 V<br>n = 1<br>T = 283 K,-113;-1.13e2;-1.13E2;-113.;-110;-1.1e2;-1.1E2;-112.9;-1.129e2;-1.129E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.05e28<br>n = 1<br>T = 290.0 K,1.660;1.660e0;1.660E0;1.66;1.66e0;1.66E0;1.6600;1.6600e0;1.6600E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.6586 V<br>n = 3<br>T = 284.1 K,190.6;1.906e2;1.906E2;191;1.91e2;1.91E2;191.;190.64;1.9064e2;1.9064E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.2260 V<br>n = 3<br>T = 305.0 K,65.42;6.542e1;6.542E1;65.4;6.54e1;6.54E1;65.418;6.5418e1;6.5418E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.920 V<br>n = 2<br>T = 300.4 K,-563.5;-5.635e2;-5.635E2;-563;-5.63e2;-5.63E2;-563.;-563.48;-5.6348e2;-5.6348E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.18e-51<br>n = 3<br>T = 288.8 K,-0.9677;-9.677e-1;-9.677E-1;.9677;-0.968;-9.68e-1;-9.68E-1;.968;-0.96770;-9.6770e-1;-9.6770E-1;.96770,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.847 V<br>n = 3<br>T = 282 K,3.9e-46;3.9e-46;3.9E-46;.9e-46;4e-46;4e-46;4E-46;3.87e-46;3.87e-46;3.87E-46;.87e-46,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.675 V<br>n = 1<br>T = 302 K,-65.1;-6.51e1;-6.51E1;-65;-6.5e1;-6.5E1;-65.;-65.13;-6.513e1;-6.513E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.2773 V<br>n = 1<br>T = 287.0 K,7.40e4;7.40e4;7.40E4;74000;7.4e4;7.4E4;74040;7.404e4;7.404E4,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -486 kJ mol-1<br>n = 2<br>T = 294 K,2.52;2.52e0;2.52E0;2.5;2.5e0;2.5E0;2.520;2.520e0;2.520E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.02<br>n = 1<br>T = 304 K,-0.097;-9.7e-2;-9.7E-2;.097;-0.10;-1.0e-1;-1.0E-1;.10;-0.0970;-9.70e-2;-9.70E-2;.0970,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.198 V<br>n = 2<br>T = 285 K,38.2;3.82e1;3.82E1;38;3.8e1;3.8E1;38.;38.21;3.821e1;3.821E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 150<br>n = 2<br>T = 289 K,0.0624;6.24e-2;6.24E-2;.0624;0.062;6.2e-2;6.2E-2;.062;0.06240;6.240e-2;6.240E-2;.06240,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.8768 V<br>n = 3<br>T = 289.6 K,253.8;2.538e2;2.538E2;254;2.54e2;2.54E2;254.;253.80;2.5380e2;2.5380E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.49 V<br>n = 2<br>T = 289 K,-288;-2.88e2;-2.88E2;-288.;-290;-2.9e2;-2.9E2;-287.5;-2.875e2;-2.875E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.75 V<br>n = 1<br>T = 288 K,-265;-2.65e2;-2.65E2;-265.;-270;-2.7e2;-2.7E2;-265.3;-2.653e2;-2.653E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 28.4 kJ mol-1<br>n = 1<br>T = 300. K,-0.294;-2.94e-1;-2.94E-1;.294;-0.29;-2.9e-1;-2.9E-1;.29;-0.2940;-2.940e-1;-2.940E-1;.2940,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8353 V<br>n = 1<br>T = 280.9 K,-80.59;-8.059e1;-8.059E1;-80.6;-8.06e1;-8.06E1;-80.595;-8.0595e1;-8.0595E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -79.25 kJ mol-1<br>n = 1<br>T = 283.3 K,0.8214;8.214e-1;8.214E-1;.8214;0.821;8.21e-1;8.21E-1;.821;0.82140;8.2140e-1;8.2140E-1;.82140,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.119 V<br>n = 1<br>T = 303.2 K,95;9.5e1;9.5E1;95.;1.0e2;1.0e2;1.0E2;95.1;9.51e1;9.51E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.0862 V<br>n = 2<br>T = 282.5 K,16.6;1.66e1;1.66E1;17;1.7e1;1.7E1;17.;16.63;1.663e1;1.663E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.5727 V<br>n = 1<br>T = 300.1 K,2.41e-10;2.41e-10;2.41E-10;.41e-10;2.4e-10;2.4e-10;2.4E-10;.4e-10;2.411e-10;2.411e-10;2.411E-10;.411e-10,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.7e-30<br>n = 2<br>T = 281 K,-0.830;-8.30e-1;-8.30E-1;.830;-0.83;-8.3e-1;-8.3E-1;.83;-0.8300;-8.300e-1;-8.300E-1;.8300,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.1e40<br>n = 1<br>T = 301 K,2.44;2.44e0;2.44E0;2.4;2.4e0;2.4E0;2.440;2.440e0;2.440E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.79 V<br>n = 2<br>T = 296 K,-538;-5.38e2;-5.38E2;-538.;-540;-5.4e2;-5.4E2;-538.4;-5.384e2;-5.384E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -69.4 kJ mol-1<br>n = 1<br>T = 296 K,0.719;7.19e-1;7.19E-1;.719;0.72;7.2e-1;7.2E-1;.72;0.7190;7.190e-1;7.190E-1;.7190,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -158 kJ mol-1<br>n = 1<br>T = 297 K,1.64;1.64e0;1.64E0;1.6;1.6e0;1.6E0;1.640;1.640e0;1.640E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.82e123<br>n = 3<br>T = 282.0 K,2.299;2.299e0;2.299E0;2.30;2.30e0;2.30E0;2.2990;2.2990e0;2.2990E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.647 V<br>n = 2<br>T = 288 K,-125;-1.25e2;-1.25E2;-125.;-120;-1.2e2;-1.2E2;-124.9;-1.249e2;-1.249E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -575.2 kJ mol-1<br>n = 3<br>T = 293.6 K,1.987;1.987e0;1.987E0;1.99;1.99e0;1.99E0;1.9870;1.9870e0;1.9870E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.25e19<br>n = 1<br>T = 294.8 K,1.117;1.117e0;1.117E0;1.12;1.12e0;1.12E0;1.1170;1.1170e0;1.1170E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 530<br>n = 1<br>T = 292 K,0.158;1.58e-1;1.58E-1;.158;0.16;1.6e-1;1.6E-1;.16;0.1580;1.580e-1;1.580E-1;.1580,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -147.9 kJ mol-1<br>n = 1<br>T = 286.2 K,1.533;1.533e0;1.533E0;1.53;1.53e0;1.53E0;1.5330;1.5330e0;1.5330E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.043 V<br>n = 2<br>T = 300. K,-8.3;-8.3e0;-8.3E0;-8;-8e0;-8E0;-8.;-8.30;-8.30e0;-8.30E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.353 V<br>n = 1<br>T = 290. K,1.4e6;1.4e6;1.4E6;1e6;1e6;1E6;1.36e6;1.36e6;1.36E6,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 10.<br>n = 3<br>T = 288 K,0.019;1.9e-2;1.9E-2;.019;0.02;2e-2;2E-2;.02;0.0190;1.90e-2;1.90E-2;.0190,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -357.5 kJ mol-1<br>n = 3<br>T = 286.6 K,1.235;1.235e0;1.235E0;1.24;1.24e0;1.24E0;1.2350;1.2350e0;1.2350E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -717.0 kJ mol-1<br>n = 3<br>T = 302.6 K,2.477;2.477e0;2.477E0;2.48;2.48e0;2.48E0;2.4770;2.4770e0;2.4770E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1400<br>n = 1<br>T = 302 K,0.189;1.89e-1;1.89E-1;.189;0.19;1.9e-1;1.9E-1;.19;0.1890;1.890e-1;1.890E-1;.1890,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.15 V<br>n = 1<br>T = 286 K,-14;-1.4e1;-1.4E1;-14.;-10;-1e1;-1E1;-14.5;-1.45e1;-1.45E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 40.8 kJ mol-1<br>n = 1<br>T = 301 K,-0.423;-4.23e-1;-4.23E-1;.423;-0.42;-4.2e-1;-4.2E-1;.42;-0.4230;-4.230e-1;-4.230E-1;.4230,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -508.0 kJ mol-1<br>n = 3<br>T = 288.4 K,1.755;1.755e0;1.755E0;1.75;1.75e0;1.75E0;1.7550;1.7550e0;1.7550E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -371.7 kJ mol-1<br>n = 3<br>T = 293.7 K,1.284;1.284e0;1.284E0;1.28;1.28e0;1.28E0;1.2840;1.2840e0;1.2840E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.76 V<br>n = 1<br>T = 285 K,6.4e48;6.4e48;6.4E48;6e48;6e48;6E48;6.40e48;6.40e48;6.40E48,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 263 kJ mol-1<br>n = 3<br>T = 298 K,-0.910;-9.10e-1;-9.10E-1;.910;-0.91;-9.1e-1;-9.1E-1;.91;-0.9100;-9.100e-1;-9.100E-1;.9100,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -253 kJ mol-1<br>n = 1<br>T = 297 K,2.62;2.62e0;2.62E0;2.6;2.6e0;2.6E0;2.620;2.620e0;2.620E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.5e42<br>n = 1<br>T = 297 K,2.53;2.53e0;2.53E0;2.5;2.5e0;2.5E0;2.530;2.530e0;2.530E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.71 V<br>n = 1<br>T = 304 K,2.2e28;2.2e28;2.2E28;2e28;2e28;2E28;2.23e28;2.23e28;2.23E28,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.7275 V<br>n = 3<br>T = 286.2 K,210.6;2.106e2;2.106E2;211;2.11e2;2.11E2;211.;210.58;2.1058e2;2.1058E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.0e-34<br>n = 3<br>T = 297 K,-0.662;-6.62e-1;-6.62E-1;.662;-0.66;-6.6e-1;-6.6E-1;.66;-0.6620;-6.620e-1;-6.620E-1;.6620,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.68 V<br>n = 3<br>T = 304 K,3.6e83;3.6e83;3.6E83;4e83;4e83;4E83;3.58e83;3.58e83;3.58E83,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.49e62<br>n = 2<br>T = 288.3 K,1.792;1.792e0;1.792E0;1.79;1.79e0;1.79E0;1.7920;1.7920e0;1.7920E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7e-5<br>n = 3<br>T = 290.3 K,-0.080;-8.0e-2;-8.0E-2;.080;-0.08;-8e-2;-8E-2;.08;-0.0800;-8.00e-2;-8.00E-2;.0800,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.38 V<br>n = 1<br>T = 283 K,-133;-1.33e2;-1.33E2;-133.;-130;-1.3e2;-1.3E2;-133.2;-1.332e2;-1.332E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.964 V<br>n = 1<br>T = 288.8 K,1.88e34;1.88e34;1.88E34;1.9e34;1.9e34;1.9E34;1.877e34;1.877e34;1.877E34,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.6e63<br>n = 3<br>T = 285 K,1.20;1.20e0;1.20E0;1.2;1.2e0;1.2E0;1.200;1.200e0;1.200E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8687 V<br>n = 3<br>T = 296.9 K,-251.5;-2.515e2;-2.515E2;-251;-2.51e2;-2.51E2;-251.;-251.45;-2.5145e2;-2.5145E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.179 V<br>n = 3<br>T = 304 K,8.0e8;8.0e8;8.0E8;8e8;8e8;8E8;7.99e8;7.99e8;7.99E8,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -419 kJ mol-1<br>n = 2<br>T = 282 K,2.17;2.17e0;2.17E0;2.2;2.2e0;2.2E0;2.170;2.170e0;2.170E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.078 V<br>n = 1<br>T = 302 K,7.5;7.5e0;7.5E0;8;8e0;8E0;8.;7.53;7.53e0;7.53E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.60 V<br>n = 1<br>T = 293 K,-251;-2.51e2;-2.51E2;-251.;-250;-2.5e2;-2.5E2;-250.9;-2.509e2;-2.509E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.8646 V<br>n = 1<br>T = 289.1 K,1.18e15;1.18e15;1.18E15;1.2e15;1.2e15;1.2E15;1.181e15;1.181e15;1.181E15,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.18 V<br>n = 3<br>T = 295 K,-342;-3.42e2;-3.42E2;-342.;-340;-3.4e2;-3.4E2;-341.6;-3.416e2;-3.416E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6<br>n = 1<br>T = 295.0 K,0.046;4.6e-2;4.6E-2;.046;0.05;5e-2;5E-2;.05;0.0460;4.60e-2;4.60E-2;.0460,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -541 kJ mol-1<br>n = 3<br>T = 285 K,1.87;1.87e0;1.87E0;1.9;1.9e0;1.9E0;1.870;1.870e0;1.870E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -468.9 kJ mol-1<br>n = 2<br>T = 284.4 K,2.430;2.430e0;2.430E0;2.43;2.43e0;2.43E0;2.4300;2.4300e0;2.4300E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.64 V<br>n = 2<br>T = 304 K,-509;-5.09e2;-5.09E2;-509.;-510;-5.1e2;-5.1E2;-509.4;-5.094e2;-5.094E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.2e93<br>n = 2<br>T = 295 K,2.74;2.74e0;2.74E0;2.7;2.7e0;2.7E0;2.740;2.740e0;2.740E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.199 V<br>n = 3<br>T = 295.6 K,2.98e112;2.98e112;2.98E112;3.0e112;3.0e112;3.0E112;2.983e112;2.983e112;2.983E112,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.8462 V<br>n = 2<br>T = 304.0 K,163.3;1.633e2;1.633E2;163;1.63e2;1.63E2;163.;163.29;1.6329e2;1.6329E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.0e43<br>n = 1<br>T = 300. K,2.61;2.61e0;2.61E0;2.6;2.6e0;2.6E0;2.610;2.610e0;2.610E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.58e16<br>n = 2<br>T = 292.1 K,0.4756;4.756e-1;4.756E-1;.4756;0.476;4.76e-1;4.76E-1;.476;0.47560;4.7560e-1;4.7560E-1;.47560,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -556.3 kJ mol-1<br>n = 3<br>T = 286.5 K,1.922;1.922e0;1.922E0;1.92;1.92e0;1.92E0;1.9220;1.9220e0;1.9220E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -141 kJ mol-1<br>n = 1<br>T = 285 K,1.46;1.46e0;1.46E0;1.5;1.5e0;1.5E0;1.460;1.460e0;1.460E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.07057 V<br>n = 1<br>T = 287.8 K,0.0581;5.81e-2;5.81E-2;.0581;0.058;5.8e-2;5.8E-2;.058;0.05811;5.811e-2;5.811E-2;.05811,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 126 kJ mol-1<br>n = 2<br>T = 284 K,-0.653;-6.53e-1;-6.53E-1;.653;-0.65;-6.5e-1;-6.5E-1;.65;-0.6530;-6.530e-1;-6.530E-1;.6530,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.5<br>n = 3<br>T = 281.2 K,0.0102;1.02e-2;1.02E-2;.0102;0.010;1.0e-2;1.0E-2;.010;0.01020;1.020e-2;1.020E-2;.01020,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8469 V<br>n = 3<br>T = 304.5 K,-245.1;-2.451e2;-2.451E2;-245;-2.45e2;-2.45E2;-245.;-245.14;-2.4514e2;-2.4514E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -252 kJ mol-1<br>n = 3<br>T = 284 K,0.869;8.69e-1;8.69E-1;.869;0.87;8.7e-1;8.7E-1;.87;0.8690;8.690e-1;8.690E-1;.8690,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.05 V<br>n = 1<br>T = 297 K,-101;-1.01e2;-1.01E2;-101.;-1.0e2;-1.0e2;-1.0E2;-101.3;-1.013e2;-1.013E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -492 kJ mol-1<br>n = 2<br>T = 290. K,2.55;2.55e0;2.55E0;2.5;2.5e0;2.5E0;2.550;2.550e0;2.550E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.14e36<br>n = 1<br>T = 294.2 K,2.143;2.143e0;2.143E0;2.14;2.14e0;2.14E0;2.1430;2.1430e0;2.1430E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.37 V<br>n = 2<br>T = 287 K,-457;-4.57e2;-4.57E2;-457.;-460;-4.6e2;-4.6E2;-457.3;-4.573e2;-4.573E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.546 V<br>n = 1<br>T = 301.8 K,6.56e25;6.56e25;6.56E25;6.6e25;6.6e25;6.6E25;6.559e25;6.559e25;6.559E25,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -247.8 kJ mol-1<br>n = 1<br>T = 300.5 K,2.568;2.568e0;2.568E0;2.57;2.57e0;2.57E0;2.5680;2.5680e0;2.5680E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.53 V<br>n = 3<br>T = 297 K,6.2e128;6.2e128;6.2E128;6e128;6e128;6E128;6.23e128;6.23e128;6.23E128,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.25 V<br>n = 3<br>T = 296 K,7.1e63;7.1e63;7.1E63;7e63;7e63;7E63;7.06e63;7.06e63;7.06E63,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.3792 V<br>n = 3<br>T = 285.7 K,1.17e20;1.17e20;1.17E20;1.2e20;1.2e20;1.2E20;1.168e20;1.168e20;1.168E20,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 15 kJ mol-1<br>n = 2<br>T = 292.2 K,-0.080;-8.0e-2;-8.0E-2;.080;-0.08;-8e-2;-8E-2;.08;-0.0800;-8.00e-2;-8.00E-2;.0800,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.4643 V<br>n = 1<br>T = 287.4 K,7.21e-9;7.21e-9;7.21E-9;.21e-9;7.2e-9;7.2e-9;7.2E-9;.2e-9;7.213e-9;7.213e-9;7.213E-9;.213e-9,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.36 V<br>n = 1<br>T = 300. K,-228;-2.28e2;-2.28E2;-228.;-230;-2.3e2;-2.3E2;-227.7;-2.277e2;-2.277E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -180. kJ mol-1<br>n = 2<br>T = 292 K,0.932;9.32e-1;9.32E-1;.932;0.93;9.3e-1;9.3E-1;.93;0.9320;9.320e-1;9.320E-1;.9320,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -12 kJ mol-1<br>n = 2<br>T = 305 K,0.060;6.0e-2;6.0E-2;.060;0.06;6e-2;6E-2;.06;0.0600;6.00e-2;6.00E-2;.0600,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.9381 V<br>n = 2<br>T = 286.8 K,9.32e32;9.32e32;9.32E32;9.3e32;9.3e32;9.3E32;9.322e32;9.322e32;9.322E32,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.174 V<br>n = 2<br>T = 296 K,33.6;3.36e1;3.36E1;34;3.4e1;3.4E1;34.;33.58;3.358e1;3.358E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.1526 V<br>n = 1<br>T = 294.3 K,0.00244;2.44e-3;2.44E-3;.00244;0.0024;2.4e-3;2.4E-3;.0024;0.002437;2.437e-3;2.437E-3;.002437,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.33 V<br>n = 1<br>T = 294 K,6.3e22;6.3e22;6.3E22;6e22;6e22;6E22;6.30e22;6.30e22;6.30E22,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.64 V<br>n = 2<br>T = 284 K,-316;-3.16e2;-3.16E2;-316.;-320;-3.2e2;-3.2E2;-316.5;-3.165e2;-3.165E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -504 kJ mol-1<br>n = 3<br>T = 289 K,1.74;1.74e0;1.74E0;1.7;1.7e0;1.7E0;1.740;1.740e0;1.740E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.24 V<br>n = 1<br>T = 305 K,9000;9e3;9E3;9200;9.2e3;9.2E3,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.03 V<br>n = 1<br>T = 297 K,-99.4;-9.94e1;-9.94E1;-99;-9.9e1;-9.9E1;-99.;-99.38;-9.938e1;-9.938E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.834 V<br>n = 1<br>T = 302 K,8.3e13;8.3e13;8.3E13;8e13;8e13;8E13;8.28e13;8.28e13;8.28E13,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.770 V<br>n = 3<br>T = 283.8 K,-801.8;-8.018e2;-8.018E2;-802;-8.02e2;-8.02E2;-802.;-801.80;-8.0180e2;-8.0180E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.9142 V<br>n = 1<br>T = 281.5 K,2.33e16;2.33e16;2.33E16;2.3e16;2.3e16;2.3E16;2.329e16;2.329e16;2.329E16,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.3932 V<br>n = 3<br>T = 299.1 K,1.33e-20;1.33e-20;1.33E-20;.33e-20;1.3e-20;1.3e-20;1.3E-20;.3e-20;1.330e-20;1.330e-20;1.330E-20;.330e-20,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.929 V<br>n = 2<br>T = 280. K,3.6e-34;3.6e-34;3.6E-34;.6e-34;4e-34;4e-34;4E-34;3.61e-34;3.61e-34;3.61E-34;.61e-34,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.38 V<br>n = 2<br>T = 280. K,-266;-2.66e2;-2.66E2;-266.;-270;-2.7e2;-2.7E2;-266.3;-2.663e2;-2.663E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.244 V<br>n = 2<br>T = 290.2 K,-433.0;-4.330e2;-4.330E2;-433;-4.33e2;-4.33E2;-433.;-433.03;-4.3303e2;-4.3303E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.02e19<br>n = 1<br>T = 293.3 K,1.155;1.155e0;1.155E0;1.16;1.16e0;1.16E0;1.1550;1.1550e0;1.1550E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.16 V<br>n = 1<br>T = 292 K,1.0e20;1.0e20;1.0E20;1e20;1e20;1E20;1.05e20;1.05e20;1.05E20,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.542 V<br>n = 1<br>T = 282.6 K,-245.3;-2.453e2;-2.453E2;-245;-2.45e2;-2.45E2;-245.;-245.27;-2.4527e2;-2.4527E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.388 V<br>n = 2<br>T = 295.1 K,2.57e47;2.57e47;2.57E47;2.6e47;2.6e47;2.6E47;2.566e47;2.566e47;2.566E47,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.59e79<br>n = 2<br>T = 281.4 K,2.221;2.221e0;2.221E0;2.22;2.22e0;2.22E0;2.2210;2.2210e0;2.2210E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.78 V<br>n = 2<br>T = 285 K,-536;-5.36e2;-5.36E2;-536.;-540;-5.4e2;-5.4E2;-536.5;-5.365e2;-5.365E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.505 V<br>n = 1<br>T = 302.9 K,4.78e41;4.78e41;4.78E41;4.8e41;4.8e41;4.8E41;4.779e41;4.779e41;4.779E41,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 60.87 kJ mol-1<br>n = 3<br>T = 301.1 K,-0.2103;-2.103e-1;-2.103E-1;.2103;-0.210;-2.10e-1;-2.10E-1;.210;-0.21030;-2.1030e-1;-2.1030E-1;.21030,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -36.17 kJ mol-1<br>n = 1<br>T = 286.7 K,0.3749;3.749e-1;3.749E-1;.3749;0.375;3.75e-1;3.75E-1;.375;0.37490;3.7490e-1;3.7490E-1;.37490,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.80 V<br>n = 3<br>T = 298 K,-521;-5.21e2;-5.21E2;-521.;-520;-5.2e2;-5.2E2;-521.0;-5.210e2;-5.210E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.0961 V<br>n = 1<br>T = 280. K,9.27;9.27e0;9.27E0;9.3;9.3e0;9.3E0;9.272;9.272e0;9.272E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.64e16<br>n = 1<br>T = 297.6 K,0.9697;9.697e-1;9.697E-1;.9697;0.970;9.70e-1;9.70E-1;.970;0.96970;9.6970e-1;9.6970E-1;.96970,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.16e-14<br>n = 1<br>T = 297.7 K,-0.8232;-8.232e-1;-8.232E-1;.8232;-0.823;-8.23e-1;-8.23E-1;.823;-0.82320;-8.2320e-1;-8.2320E-1;.82320,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.454 V<br>n = 3<br>T = 301.9 K,-710.3;-7.103e2;-7.103E2;-710.;-7.10e2;-7.10E2;-710..;-710.33;-7.1033e2;-7.1033E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.1886 V<br>n = 3<br>T = 286.3 K,-54.59;-5.459e1;-5.459E1;-54.6;-5.46e1;-5.46E1;-54.592;-5.4592e1;-5.4592E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.61 V<br>n = 2<br>T = 297 K,3.8e88;3.8e88;3.8E88;4e88;4e88;4E88;3.79e88;3.79e88;3.79E88,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.18 V<br>n = 1<br>T = 295 K,-17;-1.7e1;-1.7E1;-17.;-20;-2e1;-2E1;-17.4;-1.74e1;-1.74E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.621 V<br>n = 1<br>T = 282 K,59.9;5.99e1;5.99E1;60.;6.0e1;6.0E1;60..;59.92;5.992e1;5.992E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.361 V<br>n = 2<br>T = 292.1 K,-455.6;-4.556e2;-4.556E2;-456;-4.56e2;-4.56E2;-456.;-455.61;-4.5561e2;-4.5561E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -281.7 kJ mol-1<br>n = 2<br>T = 301.9 K,1.460;1.460e0;1.460E0;1.46;1.46e0;1.46E0;1.4600;1.4600e0;1.4600E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.911 V<br>n = 2<br>T = 297 K,8.3e30;8.3e30;8.3E30;8e30;8e30;8E30;8.27e30;8.27e30;8.27E30,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 263.9 kJ mol-1<br>n = 3<br>T = 282.7 K,-0.9116;-9.116e-1;-9.116E-1;.9116;-0.912;-9.12e-1;-9.12E-1;.912;-0.91160;-9.1160e-1;-9.1160E-1;.91160,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -853.6 kJ mol-1<br>n = 3<br>T = 300.7 K,2.949;2.949e0;2.949E0;2.95;2.95e0;2.95E0;2.9490;2.9490e0;2.9490E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.06 V<br>n = 2<br>T = 304 K,2.0e68;2.0e68;2.0E68;2e68;2e68;2E68;2.01e68;2.01e68;2.01E68,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.6302 V<br>n = 3<br>T = 288.8 K,9.83e32;9.83e32;9.83E32;9.8e32;9.8e32;9.8E32;9.828e32;9.828e32;9.828E32,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.9e-14<br>n = 1<br>T = 283 K,-0.770;-7.70e-1;-7.70E-1;.770;-0.77;-7.7e-1;-7.7E-1;.77;-0.7700;-7.700e-1;-7.700E-1;.7700,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 11 kJ mol-1<br>n = 2<br>T = 293 K,-0.056;-5.6e-2;-5.6E-2;.056;-0.06;-6e-2;-6E-2;.06;-0.0560;-5.60e-2;-5.60E-2;.0560,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.144 V<br>n = 3<br>T = 284 K,4.6e7;4.6e7;4.6E7;5e7;5e7;5E7;4.64e7;4.64e7;4.64E7,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.53 V<br>n = 1<br>T = 302 K,-244;-2.44e2;-2.44E2;-244.;-240;-2.4e2;-2.4E2;-244.1;-2.441e2;-2.441E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.405 V<br>n = 2<br>T = 288.4 K,-271.1;-2.711e2;-2.711E2;-271;-2.71e2;-2.71E2;-271.;-271.13;-2.7113e2;-2.7113E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.28e-17<br>n = 1<br>T = 283.1 K,-0.9101;-9.101e-1;-9.101E-1;.9101;-0.910;-9.10e-1;-9.10E-1;.910;-0.91010;-9.1010e-1;-9.1010E-1;.91010,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.6e113<br>n = 3<br>T = 280. K,2.11;2.11e0;2.11E0;2.1;2.1e0;2.1E0;2.110;2.110e0;2.110E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 4.21 kJ mol-1<br>n = 1<br>T = 286.2 K,-0.0436;-4.36e-2;-4.36E-2;.0436;-0.044;-4.4e-2;-4.4E-2;.044;-0.04360;-4.360e-2;-4.360E-2;.04360,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.9<br>n = 1<br>T = 289.7 K,0.0397;3.97e-2;3.97E-2;.0397;0.040;4.0e-2;4.0E-2;.040;0.03970;3.970e-2;3.970E-2;.03970,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 165 kJ mol-1<br>n = 3<br>T = 289 K,-0.571;-5.71e-1;-5.71E-1;.571;-0.57;-5.7e-1;-5.7E-1;.57;-0.5710;-5.710e-1;-5.710E-1;.5710,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 13.8 kJ mol-1<br>n = 3<br>T = 293 K,-0.0477;-4.77e-2;-4.77E-2;.0477;-0.048;-4.8e-2;-4.8E-2;.048;-0.04770;-4.770e-2;-4.770E-2;.04770,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.212 V<br>n = 2<br>T = 295.0 K,3.80e75;3.80e75;3.80E75;3.8e75;3.8e75;3.8E75;3.800e75;3.800e75;3.800E75,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -188 kJ mol-1<br>n = 1<br>T = 303 K,1.95;1.95e0;1.95E0;2.0;2.0e0;2.0E0;1.950;1.950e0;1.950E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.7e47<br>n = 3<br>T = 283 K,0.884;8.84e-1;8.84E-1;.884;0.88;8.8e-1;8.8E-1;.88;0.8840;8.840e-1;8.840E-1;.8840,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.056 V<br>n = 2<br>T = 302 K,11;1.1e1;1.1E1;11.;10;1e1;1E1;10.8;1.08e1;1.08E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.61e48<br>n = 2<br>T = 302.7 K,1.454;1.454e0;1.454E0;1.45;1.45e0;1.45E0;1.4540;1.4540e0;1.4540E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 19 kJ mol-1<br>n = 1<br>T = 290. K,-0.20;-2.0e-1;-2.0E-1;.20;-0.2;-2e-1;-2E-1;.2;-0.200;-2.00e-1;-2.00E-1;.200,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -662.9 kJ mol-1<br>n = 3<br>T = 297.6 K,2.290;2.290e0;2.290E0;2.29;2.29e0;2.29E0;2.2900;2.2900e0;2.2900E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8200<br>n = 3<br>T = 304.7 K,0.0789;7.89e-2;7.89E-2;.0789;0.079;7.9e-2;7.9E-2;.079;0.07890;7.890e-2;7.890E-2;.07890,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.13 V<br>n = 1<br>T = 304 K,-206;-2.06e2;-2.06E2;-206.;-210;-2.1e2;-2.1E2;-205.5;-2.055e2;-2.055E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.60e8<br>n = 1<br>T = 288.9 K,0.4905;4.905e-1;4.905E-1;.4905;0.491;4.91e-1;4.91E-1;.491;0.49050;4.9050e-1;4.9050E-1;.49050,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.3224 V<br>n = 1<br>T = 294.1 K,-31.11;-3.111e1;-3.111E1;-31.1;-3.11e1;-3.11E1;-31.107;-3.1107e1;-3.1107E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.17e39<br>n = 3<br>T = 302.6 K,0.7819;7.819e-1;7.819E-1;.7819;0.782;7.82e-1;7.82E-1;.782;0.78190;7.8190e-1;7.8190E-1;.78190,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.71e15<br>n = 1<br>T = 283.8 K,0.8826;8.826e-1;8.826E-1;.8826;0.883;8.83e-1;8.83E-1;.883;0.88260;8.8260e-1;8.8260E-1;.88260,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.4475 V<br>n = 1<br>T = 285.9 K,-43.18;-4.318e1;-4.318E1;-43.2;-4.32e1;-4.32E1;-43.177;-4.3177e1;-4.3177E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.24e-5<br>n = 1<br>T = 288.4 K,-0.2502;-2.502e-1;-2.502E-1;.2502;-0.250;-2.50e-1;-2.50E-1;.250;-0.25020;-2.5020e-1;-2.5020E-1;.25020,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.69 V<br>n = 3<br>T = 297 K,-489;-4.89e2;-4.89E2;-489.;-490;-4.9e2;-4.9E2;-489.2;-4.892e2;-4.892E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.15e61<br>n = 2<br>T = 291.5 K,1.782;1.782e0;1.782E0;1.78;1.78e0;1.78E0;1.7820;1.7820e0;1.7820E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 77.31 kJ mol-1<br>n = 1<br>T = 293.3 K,-0.8013;-8.013e-1;-8.013E-1;.8013;-0.801;-8.01e-1;-8.01E-1;.801;-0.80130;-8.0130e-1;-8.0130E-1;.80130,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.00 V<br>n = 2<br>T = 303 K,3.4e66;3.4e66;3.4E66;3e66;3e66;3E66;3.40e66;3.40e66;3.40E66,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -210.9 kJ mol-1<br>n = 1<br>T = 298.2 K,2.186;2.186e0;2.186E0;2.19;2.19e0;2.19E0;2.1860;2.1860e0;2.1860E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 48.6 kJ mol-1<br>n = 1<br>T = 300. K,-0.504;-5.04e-1;-5.04E-1;.504;-0.50;-5.0e-1;-5.0E-1;.50;-0.5040;-5.040e-1;-5.040E-1;.5040,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.8479 V<br>n = 2<br>T = 283.1 K,6.47e-31;6.47e-31;6.47E-31;.47e-31;6.5e-31;6.5e-31;6.5E-31;.5e-31;6.473e-31;6.473e-31;6.473E-31;.473e-31,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -153.8 kJ mol-1<br>n = 3<br>T = 301.5 K,0.5315;5.315e-1;5.315E-1;.5315;0.532;5.32e-1;5.32E-1;.532;0.53150;5.3150e-1;5.3150E-1;.53150,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -66.42 kJ mol-1<br>n = 2<br>T = 297.0 K,0.3442;3.442e-1;3.442E-1;.3442;0.344;3.44e-1;3.44E-1;.344;0.34420;3.4420e-1;3.4420E-1;.34420,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.2e46<br>n = 1<br>T = 280. K,2.56;2.56e0;2.56E0;2.6;2.6e0;2.6E0;2.560;2.560e0;2.560E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.844 V<br>n = 3<br>T = 300.0 K,-533.8;-5.338e2;-5.338E2;-534;-5.34e2;-5.34E2;-534.;-533.76;-5.3376e2;-5.3376E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.5680 V<br>n = 3<br>T = 287.8 K,164.4;1.644e2;1.644E2;164;1.64e2;1.64E2;164.;164.41;1.6441e2;1.6441E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.322 V<br>n = 3<br>T = 296.9 K,1.76e118;1.76e118;1.76E118;1.8e118;1.8e118;1.8E118;1.761e118;1.761e118;1.761E118,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.2627 V<br>n = 1<br>T = 300.2 K,0.0000389;3.89e-5;3.89E-5;.0000389;0.000039;3.9e-5;3.9E-5;.000039;0.00003888;3.888e-5;3.888E-5;.00003888,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.41 V<br>n = 1<br>T = 300. K,-233;-2.33e2;-2.33E2;-233.;-230;-2.3e2;-2.3E2;-232.5;-2.325e2;-2.325E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.9e114<br>n = 3<br>T = 285 K,2.16;2.16e0;2.16E0;2.2;2.2e0;2.2E0;2.160;2.160e0;2.160E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.0997 V<br>n = 2<br>T = 304.3 K,0.00050;5.0e-4;5.0E-4;.00050;0.0005;5e-4;5E-4;.0005;0.000498;4.98e-4;4.98E-4;.000498,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.449 V<br>n = 2<br>T = 300. K,1.2e15;1.2e15;1.2E15;1e15;1e15;1E15;1.22e15;1.22e15;1.22E15,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.4e-14<br>n = 2<br>T = 283 K,-0.378;-3.78e-1;-3.78E-1;.378;-0.38;-3.8e-1;-3.8E-1;.38;-0.3780;-3.780e-1;-3.780E-1;.3780,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 44.6 kJ mol-1<br>n = 2<br>T = 281 K,-0.231;-2.31e-1;-2.31E-1;.231;-0.23;-2.3e-1;-2.3E-1;.23;-0.2310;-2.310e-1;-2.310E-1;.2310,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.7e11<br>n = 2<br>T = 291 K,0.330;3.30e-1;3.30E-1;.330;0.33;3.3e-1;3.3E-1;.33;0.3300;3.300e-1;3.300E-1;.3300,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.3e-4<br>n = 2<br>T = 286.4 K,-0.0957;-9.57e-2;-9.57E-2;.0957;-0.096;-9.6e-2;-9.6E-2;.096;-0.09570;-9.570e-2;-9.570E-2;.09570,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.2e30<br>n = 2<br>T = 282 K,0.842;8.42e-1;8.42E-1;.842;0.84;8.4e-1;8.4E-1;.84;0.8420;8.420e-1;8.420E-1;.8420,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.105 V<br>n = 1<br>T = 295.6 K,7.74e35;7.74e35;7.74E35;7.7e35;7.7e35;7.7E35;7.743e35;7.743e35;7.743E35,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4200<br>n = 1<br>T = 288.1 K,0.207;2.07e-1;2.07E-1;.207;0.21;2.1e-1;2.1E-1;.21;0.2070;2.070e-1;2.070E-1;.2070,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.791 V<br>n = 2<br>T = 298.7 K,-345.6;-3.456e2;-3.456E2;-346;-3.46e2;-3.46E2;-346.;-345.61;-3.4561e2;-3.4561E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.495 V<br>n = 1<br>T = 298 K,47.8;4.78e1;4.78E1;48;4.8e1;4.8E1;48.;47.76;4.776e1;4.776E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.538 V<br>n = 1<br>T = 299 K,51.9;5.19e1;5.19E1;52;5.2e1;5.2E1;52.;51.91;5.191e1;5.191E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.824 V<br>n = 2<br>T = 284 K,-159;-1.59e2;-1.59E2;-159.;-160;-1.6e2;-1.6E2;-159.0;-1.590e2;-1.590E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.188 V<br>n = 1<br>T = 284.3 K,1.15e21;1.15e21;1.15E21;1.1e21;1.1e21;1.1E21;1.147e21;1.147e21;1.147E21,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.437 V<br>n = 3<br>T = 299 K,126;1.26e2;1.26E2;126.;130;1.3e2;1.3E2;126.5;1.265e2;1.265E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 78.96 kJ mol-1<br>n = 1<br>T = 296.5 K,-0.8184;-8.184e-1;-8.184E-1;.8184;-0.818;-8.18e-1;-8.18E-1;.818;-0.81840;-8.1840e-1;-8.1840E-1;.81840,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.19e-28<br>n = 3<br>T = 300.3 K,-0.5546;-5.546e-1;-5.546E-1;.5546;-0.555;-5.55e-1;-5.55E-1;.555;-0.55460;-5.5460e-1;-5.5460E-1;.55460,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.25 V<br>n = 3<br>T = 287 K,-651;-6.51e2;-6.51E2;-651.;-650;-6.5e2;-6.5E2;-651.3;-6.513e2;-6.513E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.43e7<br>n = 2<br>T = 286.2 K,0.2097;2.097e-1;2.097E-1;.2097;0.210;2.10e-1;2.10E-1;.210;0.20970;2.0970e-1;2.0970E-1;.20970,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.5082 V<br>n = 1<br>T = 302.5 K,2.93e8;2.93e8;2.93E8;2.9e8;2.9e8;2.9E8;2.930e8;2.930e8;2.930E8,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -234 kJ mol-1<br>n = 3<br>T = 282 K,0.810;8.10e-1;8.10E-1;.810;0.81;8.1e-1;8.1E-1;.81;0.8100;8.100e-1;8.100E-1;.8100,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -62.2 kJ mol-1<br>n = 3<br>T = 293 K,0.215;2.15e-1;2.15E-1;.215;0.22;2.2e-1;2.2E-1;.22;0.2150;2.150e-1;2.150E-1;.2150,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.62 V<br>n = 1<br>T = 304 K,2.7e43;2.7e43;2.7E43;3e43;3e43;3E43;2.72e43;2.72e43;2.72E43,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -454.1 kJ mol-1<br>n = 2<br>T = 288.5 K,2.353;2.353e0;2.353E0;2.35;2.35e0;2.35E0;2.3530;2.3530e0;2.3530E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.29e-38<br>n = 3<br>T = 285.6 K,-0.7157;-7.157e-1;-7.157E-1;.7157;-0.716;-7.16e-1;-7.16E-1;.716;-0.71570;-7.1570e-1;-7.1570E-1;.71570,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.771 V<br>n = 1<br>T = 292 K,-74.4;-7.44e1;-7.44E1;-74;-7.4e1;-7.4E1;-74.;-74.39;-7.439e1;-7.439E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -127 kJ mol-1<br>n = 3<br>T = 302 K,0.438;4.38e-1;4.38E-1;.438;0.44;4.4e-1;4.4E-1;.44;0.4380;4.380e-1;4.380E-1;.4380,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.1519 V<br>n = 2<br>T = 290.0 K,1.90e5;1.90e5;1.90E5;190000;1.9e5;1.9E5;190400;1.904e5;1.904E5,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.19 V<br>n = 2<br>T = 292 K,4.0e75;4.0e75;4.0E75;4e75;4e75;4E75;3.95e75;3.95e75;3.95E75,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.788 V<br>n = 3<br>T = 303 K,2.1e39;2.1e39;2.1E39;2e39;2e39;2E39;2.09e39;2.09e39;2.09E39,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 15.5<br>n = 3<br>T = 301.2 K,0.02374;2.374e-2;2.374E-2;.02374;0.0237;2.37e-2;2.37E-2;.0237;0.023740;2.3740e-2;2.3740E-2;.023740,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.248 V<br>n = 2<br>T = 294 K,47.9;4.79e1;4.79E1;48;4.8e1;4.8E1;48.;47.86;4.786e1;4.786E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.808 V<br>n = 2<br>T = 296.7 K,2.48e95;2.48e95;2.48E95;2.5e95;2.5e95;2.5E95;2.479e95;2.479e95;2.479E95,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -513.5 kJ mol-1<br>n = 2<br>T = 297.0 K,2.661;2.661e0;2.661E0;2.66;2.66e0;2.66E0;2.6610;2.6610e0;2.6610E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.21 V<br>n = 1<br>T = 289 K,0.0002;2e-4;2E-4;.0002;0.00022;2.2e-4;2.2E-4;.00022,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -706 kJ mol-1<br>n = 3<br>T = 302 K,2.44;2.44e0;2.44E0;2.4;2.4e0;2.4E0;2.440;2.440e0;2.440E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.1085 V<br>n = 3<br>T = 283.4 K,0.00000163;1.63e-6;1.63E-6;.00000163;0.0000016;1.6e-6;1.6E-6;.0000016;0.000001628;1.628e-6;1.628E-6;.000001628,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -533.5 kJ mol-1<br>n = 3<br>T = 303.7 K,1.843;1.843e0;1.843E0;1.84;1.84e0;1.84E0;1.8430;1.8430e0;1.8430E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.423 V<br>n = 3<br>T = 285.4 K,2.43e75;2.43e75;2.43E75;2.4e75;2.4e75;2.4E75;2.426e75;2.426e75;2.426E75,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.707 V<br>n = 2<br>T = 288 K,136;1.36e2;1.36E2;136.;140;1.4e2;1.4E2;136.4;1.364e2;1.364E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.1e23<br>n = 2<br>T = 298 K,0.701;7.01e-1;7.01E-1;.701;0.70;7.0e-1;7.0E-1;.70;0.7010;7.010e-1;7.010E-1;.7010,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 21 kJ mol-1<br>n = 2<br>T = 293.7 K,-0.11;-1.1e-1;-1.1E-1;.11;-0.1;-1e-1;-1E-1;.1;-0.110;-1.10e-1;-1.10E-1;.110,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.8e8<br>n = 3<br>T = 297 K,0.166;1.66e-1;1.66E-1;.166;0.17;1.7e-1;1.7E-1;.17;0.1660;1.660e-1;1.660E-1;.1660,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.497 V<br>n = 3<br>T = 299.6 K,-433.3;-4.333e2;-4.333E2;-433;-4.33e2;-4.33E2;-433.;-433.32;-4.3332e2;-4.3332E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.2375 V<br>n = 3<br>T = 300.3 K,1.10e-12;1.10e-12;1.10E-12;.10e-12;1.1e-12;1.1e-12;1.1E-12;.1e-12;1.103e-12;1.103e-12;1.103E-12;.103e-12,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.47 V<br>n = 1<br>T = 299 K,-142;-1.42e2;-1.42E2;-142.;-140;-1.4e2;-1.4E2;-141.8;-1.418e2;-1.418E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -25.6 kJ mol-1<br>n = 1<br>T = 297 K,0.265;2.65e-1;2.65E-1;.265;0.27;2.7e-1;2.7E-1;.27;0.2650;2.650e-1;2.650E-1;.2650,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.167 V<br>n = 3<br>T = 294.7 K,-627.3;-6.273e2;-6.273E2;-627;-6.27e2;-6.27E2;-627.;-627.26;-6.2726e2;-6.2726E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -734.6 kJ mol-1<br>n = 3<br>T = 288.0 K,2.538;2.538e0;2.538E0;2.54;2.54e0;2.54E0;2.5380;2.5380e0;2.5380E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.30e11<br>n = 2<br>T = 281.4 K,0.3172;3.172e-1;3.172E-1;.3172;0.317;3.17e-1;3.17E-1;.317;0.31720;3.1720e-1;3.1720E-1;.31720,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -103 kJ mol-1<br>n = 1<br>T = 301 K,1.07;1.07e0;1.07E0;1.1;1.1e0;1.1E0;1.070;1.070e0;1.070E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2000<br>n = 3<br>T = 294.1 K,0.066;6.6e-2;6.6E-2;.066;0.07;7e-2;7E-2;.07;0.0660;6.60e-2;6.60E-2;.0660,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.13e-11<br>n = 1<br>T = 282.8 K,-0.6142;-6.142e-1;-6.142E-1;.6142;-0.614;-6.14e-1;-6.14E-1;.614;-0.61420;-6.1420e-1;-6.1420E-1;.61420,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.81 V<br>n = 2<br>T = 299 K,-349;-3.49e2;-3.49E2;-349.;-350;-3.5e2;-3.5E2;-349.3;-3.493e2;-3.493E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.12 V<br>n = 3<br>T = 301 K,3.1e106;3.1e106;3.1E106;3e106;3e106;3E106;3.08e106;3.08e106;3.08E106,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.75e12<br>n = 1<br>T = 303.9 K,0.7501;7.501e-1;7.501E-1;.7501;0.750;7.50e-1;7.50E-1;.750;0.75010;7.5010e-1;7.5010E-1;.75010,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -6.9 kJ mol-1<br>n = 2<br>T = 296.3 K,0.036;3.6e-2;3.6E-2;.036;0.04;4e-2;4E-2;.04;0.0360;3.60e-2;3.60E-2;.0360,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.289 V<br>n = 1<br>T = 297 K,8.0e4;8.0e4;8.0E4;80000;8e4;8E4;80200;8.02e4;8.02E4,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.751 V<br>n = 1<br>T = 286 K,1.7e13;1.7e13;1.7E13;2e13;2e13;2E13;1.71e13;1.71e13;1.71E13,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.09 V<br>n = 1<br>T = 292 K,1.2e36;1.2e36;1.2E36;1e36;1e36;1E36;1.18e36;1.18e36;1.18E36,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 12 kJ mol-1<br>n = 3<br>T = 297.0 K,-0.041;-4.1e-2;-4.1E-2;.041;-0.04;-4e-2;-4E-2;.04;-0.0410;-4.10e-2;-4.10E-2;.0410,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.2e24<br>n = 1<br>T = 296 K,1.46;1.46e0;1.46E0;1.5;1.5e0;1.5E0;1.460;1.460e0;1.460E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.8979 V<br>n = 1<br>T = 294.0 K,2.47e15;2.47e15;2.47E15;2.5e15;2.5e15;2.5E15;2.466e15;2.466e15;2.466E15,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -518.7 kJ mol-1<br>n = 3<br>T = 297.8 K,1.792;1.792e0;1.792E0;1.79;1.79e0;1.79E0;1.7920;1.7920e0;1.7920E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.1e142<br>n = 3<br>T = 290. K,2.74;2.74e0;2.74E0;2.7;2.7e0;2.7E0;2.740;2.740e0;2.740E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.0e80<br>n = 3<br>T = 291 K,1.54;1.54e0;1.54E0;1.5;1.5e0;1.5E0;1.540;1.540e0;1.540E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.43e25<br>n = 2<br>T = 302.2 K,0.7611;7.611e-1;7.611E-1;.7611;0.761;7.61e-1;7.61E-1;.761;0.76110;7.6110e-1;7.6110E-1;.76110,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.93 V<br>n = 3<br>T = 294 K,1.8e99;1.8e99;1.8E99;2e99;2e99;2E99;1.79e99;1.79e99;1.79E99,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.90e15<br>n = 3<br>T = 288.6 K,0.2995;2.995e-1;2.995E-1;.2995;0.300;3.00e-1;3.00E-1;.300;0.29950;2.9950e-1;2.9950E-1;.29950,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.9e-5<br>n = 2<br>T = 286 K,-0.115;-1.15e-1;-1.15E-1;.115;-0.12;-1.2e-1;-1.2E-1;.12;-0.1150;-1.150e-1;-1.150E-1;.1150,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.94 V<br>n = 1<br>T = 293 K,2.3e33;2.3e33;2.3E33;2e33;2e33;2E33;2.34e33;2.34e33;2.34E33,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.78 V<br>n = 3<br>T = 283 K,-805;-8.05e2;-8.05E2;-805.;-8.0e2;-8.0e2;-8.0E2;-804.7;-8.047e2;-8.047E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.6e25<br>n = 3<br>T = 289 K,0.482;4.82e-1;4.82E-1;.482;0.48;4.8e-1;4.8E-1;.48;0.4820;4.820e-1;4.820E-1;.4820,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.5e137<br>n = 3<br>T = 302 K,2.74;2.74e0;2.74E0;2.7;2.7e0;2.7E0;2.740;2.740e0;2.740E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.884 V<br>n = 1<br>T = 295 K,85.3;8.53e1;8.53E1;85;8.5e1;8.5E1;85.;85.29;8.529e1;8.529E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.867 V<br>n = 2<br>T = 285.1 K,2.30e101;2.30e101;2.30E101;2.3e101;2.3e101;2.3E101;2.299e101;2.299e101;2.299E101,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.2e46<br>n = 1<br>T = 303 K,2.77;2.77e0;2.77E0;2.8;2.8e0;2.8E0;2.770;2.770e0;2.770E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -637.1 kJ mol-1<br>n = 3<br>T = 280.4 K,2.201;2.201e0;2.201E0;2.20;2.20e0;2.20E0;2.2010;2.2010e0;2.2010E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.02 V<br>n = 3<br>T = 288 K,-295;-2.95e2;-2.95E2;-295.;-3.0e2;-3.0e2;-3.0E2;-295.2;-2.952e2;-2.952E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.15 V<br>n = 1<br>T = 285 K,400;4e2;4E2;450;4.5e2;4.5E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.14 V<br>n = 2<br>T = 296 K,-220.;-2.20e2;-2.20E2;-220..;-220;-2.2e2;-2.2E2;-220.0;-2.200e2;-2.200E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.5e29<br>n = 1<br>T = 283 K,1.67;1.67e0;1.67E0;1.7;1.7e0;1.7E0;1.670;1.670e0;1.670E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.34 V<br>n = 2<br>T = 298 K,-259;-2.59e2;-2.59E2;-259.;-260;-2.6e2;-2.6E2;-258.6;-2.586e2;-2.586E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.6e17<br>n = 1<br>T = 301 K,1.04;1.04e0;1.04E0;1.0;1.0e0;1.0E0;1.040;1.040e0;1.040E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.89e95<br>n = 2<br>T = 297.7 K,2.814;2.814e0;2.814E0;2.81;2.81e0;2.81E0;2.8140;2.8140e0;2.8140E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.7e33<br>n = 1<br>T = 292 K,1.96;1.96e0;1.96E0;2.0;2.0e0;2.0E0;1.960;1.960e0;1.960E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.1e-11<br>n = 3<br>T = 294 K,-0.213;-2.13e-1;-2.13E-1;.213;-0.21;-2.1e-1;-2.1E-1;.21;-0.2130;-2.130e-1;-2.130E-1;.2130,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.62 V<br>n = 3<br>T = 300. K,-758;-7.58e2;-7.58E2;-758.;-760;-7.6e2;-7.6E2;-758.4;-7.584e2;-7.584E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.420 V<br>n = 1<br>T = 285.2 K,-233.5;-2.335e2;-2.335E2;-233;-2.33e2;-2.33E2;-233.;-233.50;-2.3350e2;-2.3350E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.870 V<br>n = 1<br>T = 297.4 K,-180.4;-1.804e2;-1.804E2;-180.;-1.80e2;-1.80E2;-180..;-180.43;-1.8043e2;-1.8043E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.255 V<br>n = 2<br>T = 291 K,6.8e8;6.8e8;6.8E8;7e8;7e8;7E8;6.80e8;6.80e8;6.80E8,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.468 V<br>n = 2<br>T = 299.4 K,2.64e49;2.64e49;2.64E49;2.6e49;2.6e49;2.6E49;2.640e49;2.640e49;2.640E49,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.63 V<br>n = 2<br>T = 284 K,7.1e57;7.1e57;7.1E57;7e57;7e57;7E57;7.10e57;7.10e57;7.10E57,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3000<br>n = 1<br>T = 287.0 K,0.20;2.0e-1;2.0E-1;.20;0.2;2e-1;2E-1;.2;0.200;2.00e-1;2.00E-1;.200,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.08946 V<br>n = 3<br>T = 289.3 K,-25.89;-2.589e1;-2.589E1;-25.9;-2.59e1;-2.59E1;-25.895;-2.5895e1;-2.5895E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.878 V<br>n = 3<br>T = 283 K,1.2e-47;1.2e-47;1.2E-47;.2e-47;1e-47;1e-47;1E-47;1.24e-47;1.24e-47;1.24E-47;.24e-47,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.954 V<br>n = 1<br>T = 295.5 K,2.12e33;2.12e33;2.12E33;2.1e33;2.1e33;2.1E33;2.117e33;2.117e33;2.117E33,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.99e16<br>n = 2<br>T = 285.1 K,0.4723;4.723e-1;4.723E-1;.4723;0.472;4.72e-1;4.72E-1;.472;0.47230;4.7230e-1;4.7230E-1;.47230,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.13 V<br>n = 1<br>T = 286.5 K,200;2e2;2E2;190;1.9e2;1.9E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.38 V<br>n = 1<br>T = 300. K,9.6e39;9.6e39;9.6E39;1.0e40;1.0e40;1.0E40;9.60e39;9.60e39;9.60E39,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -187.4 kJ mol-1<br>n = 1<br>T = 292.0 K,1.942;1.942e0;1.942E0;1.94;1.94e0;1.94E0;1.9420;1.9420e0;1.9420E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -110. kJ mol-1<br>n = 1<br>T = 284 K,1.14;1.14e0;1.14E0;1.1;1.1e0;1.1E0;1.140;1.140e0;1.140E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.5e45<br>n = 1<br>T = 282 K,2.54;2.54e0;2.54E0;2.5;2.5e0;2.5E0;2.540;2.540e0;2.540E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.81e40<br>n = 1<br>T = 284.0 K,2.301;2.301e0;2.301E0;2.30;2.30e0;2.30E0;2.3010;2.3010e0;2.3010E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.251 V<br>n = 3<br>T = 287.9 K,4.98e65;4.98e65;4.98E65;5.0e65;5.0e65;5.0E65;4.984e65;4.984e65;4.984E65,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -205 kJ mol-1<br>n = 2<br>T = 298 K,1.06;1.06e0;1.06E0;1.1;1.1e0;1.1E0;1.060;1.060e0;1.060E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -50.7 kJ mol-1<br>n = 1<br>T = 302 K,0.525;5.25e-1;5.25E-1;.525;0.53;5.3e-1;5.3E-1;.53;0.5250;5.250e-1;5.250E-1;.5250,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.47 V<br>n = 3<br>T = 288 K,-715;-7.15e2;-7.15E2;-715.;-710;-7.1e2;-7.1E2;-715.0;-7.150e2;-7.150E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.231 V<br>n = 2<br>T = 295.6 K,9.45e41;9.45e41;9.45E41;9.5e41;9.5e41;9.5E41;9.452e41;9.452e41;9.452E41,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.154 V<br>n = 1<br>T = 289.8 K,-207.8;-2.078e2;-2.078E2;-208;-2.08e2;-2.08E2;-208.;-207.83;-2.0783e2;-2.0783E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.718 V<br>n = 1<br>T = 286.6 K,1.62e30;1.62e30;1.62E30;1.6e30;1.6e30;1.6E30;1.624e30;1.624e30;1.624E30,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.170 V<br>n = 3<br>T = 284.1 K,-628.1;-6.281e2;-6.281E2;-628;-6.28e2;-6.28E2;-628.;-628.12;-6.2812e2;-6.2812E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.341 V<br>n = 3<br>T = 303.7 K,3.50e116;3.50e116;3.50E116;3.5e116;3.5e116;3.5E116;3.500e116;3.500e116;3.500E116,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.10 V<br>n = 2<br>T = 296 K,-212;-2.12e2;-2.12E2;-212.;-210;-2.1e2;-2.1E2;-212.3;-2.123e2;-2.123E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -348.5 kJ mol-1<br>n = 3<br>T = 295.0 K,1.204;1.204e0;1.204E0;1.20;1.20e0;1.20E0;1.2040;1.2040e0;1.2040E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.8835 V<br>n = 3<br>T = 297.7 K,255.7;2.557e2;2.557E2;256;2.56e2;2.56E2;256.;255.74;2.5574e2;2.5574E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.69e47<br>n = 1<br>T = 295.6 K,2.770;2.770e0;2.770E0;2.77;2.77e0;2.77E0;2.7700;2.7700e0;2.7700E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.880 V<br>n = 3<br>T = 280.7 K,1.83e101;1.83e101;1.83E101;1.8e101;1.8e101;1.8E101;1.831e101;1.831e101;1.831E101,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -365 kJ mol-1<br>n = 3<br>T = 293 K,1.26;1.26e0;1.26E0;1.3;1.3e0;1.3E0;1.260;1.260e0;1.260E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.859 V<br>n = 1<br>T = 284 K,5.7e-16;5.7e-16;5.7E-16;.7e-16;6e-16;6e-16;6E-16;5.71e-16;5.71e-16;5.71E-16;.71e-16,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.9e-36<br>n = 3<br>T = 284 K,-0.671;-6.71e-1;-6.71E-1;.671;-0.67;-6.7e-1;-6.7E-1;.67;-0.6710;-6.710e-1;-6.710E-1;.6710,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.42 V<br>n = 1<br>T = 292 K,-137;-1.37e2;-1.37E2;-137.;-140;-1.4e2;-1.4E2;-137.0;-1.370e2;-1.370E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.541 V<br>n = 1<br>T = 292.8 K,-245.2;-2.452e2;-2.452E2;-245;-2.45e2;-2.45E2;-245.;-245.17;-2.4517e2;-2.4517E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.6237 V<br>n = 3<br>T = 302.2 K,1.60e31;1.60e31;1.60E31;1.6e31;1.6e31;1.6E31;1.601e31;1.601e31;1.601E31,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.460 V<br>n = 2<br>T = 286.8 K,-281.7;-2.817e2;-2.817E2;-282;-2.82e2;-2.82E2;-282.;-281.74;-2.8174e2;-2.8174E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.13 V<br>n = 3<br>T = 298 K,2.1e57;2.1e57;2.1E57;2e57;2e57;2E57;2.15e57;2.15e57;2.15E57,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.399 V<br>n = 2<br>T = 303.9 K,3.70e79;3.70e79;3.70E79;3.7e79;3.7e79;3.7E79;3.704e79;3.704e79;3.704E79,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.6361 V<br>n = 2<br>T = 282.6 K,-122.7;-1.227e2;-1.227E2;-123;-1.23e2;-1.23E2;-123.;-122.75;-1.2275e2;-1.2275E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.291 V<br>n = 3<br>T = 282.6 K,-373.7;-3.737e2;-3.737E2;-374;-3.74e2;-3.74E2;-374.;-373.69;-3.7369e2;-3.7369E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.665 V<br>n = 3<br>T = 287.6 K,3.39e87;3.39e87;3.39E87;3.4e87;3.4e87;3.4E87;3.392e87;3.392e87;3.392E87,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.03e154<br>n = 3<br>T = 280.5 K,2.866;2.866e0;2.866E0;2.87;2.87e0;2.87E0;2.8660;2.8660e0;2.8660E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -108 kJ mol-1<br>n = 3<br>T = 303 K,0.374;3.74e-1;3.74E-1;.374;0.37;3.7e-1;3.7E-1;.37;0.3740;3.740e-1;3.740E-1;.3740,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.908 V<br>n = 3<br>T = 299.2 K,-552.3;-5.523e2;-5.523E2;-552;-5.52e2;-5.52E2;-552.;-552.29;-5.5229e2;-5.5229E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.685 V<br>n = 2<br>T = 293 K,-132;-1.32e2;-1.32E2;-132.;-130;-1.3e2;-1.3E2;-132.2;-1.322e2;-1.322E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.24e-29<br>n = 2<br>T = 293.4 K,-0.8232;-8.232e-1;-8.232E-1;.8232;-0.823;-8.23e-1;-8.23E-1;.823;-0.82320;-8.2320e-1;-8.2320E-1;.82320,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7e-4<br>n = 1<br>T = 302 K,-0.19;-1.9e-1;-1.9E-1;.19;-0.2;-2e-1;-2E-1;.2;-0.190;-1.90e-1;-1.90E-1;.190,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 20.6 kJ mol-1<br>n = 1<br>T = 289.4 K,-0.214;-2.14e-1;-2.14E-1;.214;-0.21;-2.1e-1;-2.1E-1;.21;-0.2140;-2.140e-1;-2.140E-1;.2140,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.4053 V<br>n = 3<br>T = 290.0 K,117.3;1.173e2;1.173E2;117;1.17e2;1.17E2;117.;117.32;1.1732e2;1.1732E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.78e5<br>n = 3<br>T = 287.1 K,0.1059;1.059e-1;1.059E-1;.1059;0.106;1.06e-1;1.06E-1;.106;0.10590;1.0590e-1;1.0590E-1;.10590,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.1e16<br>n = 1<br>T = 297 K,0.962;9.62e-1;9.62E-1;.962;0.96;9.6e-1;9.6E-1;.96;0.9620;9.620e-1;9.620E-1;.9620,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.213 V<br>n = 3<br>T = 301.6 K,-640.6;-6.406e2;-6.406E2;-641;-6.41e2;-6.41E2;-641.;-640.57;-6.4057e2;-6.4057E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.966 V<br>n = 1<br>T = 300.4 K,5.76e49;5.76e49;5.76E49;5.8e49;5.8e49;5.8E49;5.759e49;5.759e49;5.759E49,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.3e49<br>n = 2<br>T = 300. K,1.48;1.48e0;1.48E0;1.5;1.5e0;1.5E0;1.480;1.480e0;1.480E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.33e44<br>n = 3<br>T = 294.6 K,0.8645;8.645e-1;8.645E-1;.8645;0.865;8.65e-1;8.65E-1;.865;0.86450;8.6450e-1;8.6450E-1;.86450,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.213 V<br>n = 3<br>T = 295.4 K,1.22e62;1.22e62;1.22E62;1.2e62;1.2e62;1.2E62;1.215e62;1.215e62;1.215E62,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.12 V<br>n = 2<br>T = 298 K,10000;1e4;1E4;11000;1.1e4;1.1E4,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.498 V<br>n = 1<br>T = 284.7 K,-241.0;-2.410e2;-2.410E2;-241;-2.41e2;-2.41E2;-241.;-241.02;-2.4102e2;-2.4102E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -217.7 kJ mol-1<br>n = 2<br>T = 299.9 K,1.128;1.128e0;1.128E0;1.13;1.13e0;1.13E0;1.1280;1.1280e0;1.1280E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.19 V<br>n = 1<br>T = 288 K,-115;-1.15e2;-1.15E2;-115.;-110;-1.1e2;-1.1E2;-114.8;-1.148e2;-1.148E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.40e96<br>n = 2<br>T = 290.7 K,2.784;2.784e0;2.784E0;2.78;2.78e0;2.78E0;2.7840;2.7840e0;2.7840E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.33 V<br>n = 2<br>T = 298 K,9.7e44;9.7e44;9.7E44;1.0e45;1.0e45;1.0E45;9.68e44;9.68e44;9.68E44,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.294 V<br>n = 3<br>T = 293 K,1.5e15;1.5e15;1.5E15;1e15;1e15;1E15;1.48e15;1.48e15;1.48E15,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.722 V<br>n = 3<br>T = 285 K,5.0e-39;5.0e-39;5.0E-39;.0e-39;5e-39;5e-39;5E-39;4.98e-39;4.98e-39;4.98E-39;.98e-39,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.680 V<br>n = 3<br>T = 304.4 K,-775.7;-7.757e2;-7.757E2;-776;-7.76e2;-7.76E2;-776.;-775.75;-7.7575e2;-7.7575E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -69.4 kJ mol-1<br>n = 1<br>T = 302 K,0.719;7.19e-1;7.19E-1;.719;0.72;7.2e-1;7.2E-1;.72;0.7190;7.190e-1;7.190E-1;.7190,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.02e60<br>n = 3<br>T = 280.8 K,1.120;1.120e0;1.120E0;1.12;1.12e0;1.12E0;1.1200;1.1200e0;1.1200E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 100<br>n = 1<br>T = 296.4 K,0.12;1.2e-1;1.2E-1;.12;0.1;1e-1;1E-1;.1;0.120;1.20e-1;1.20E-1;.120,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -30.7 kJ mol-1<br>n = 2<br>T = 297 K,0.159;1.59e-1;1.59E-1;.159;0.16;1.6e-1;1.6E-1;.16;0.1590;1.590e-1;1.590E-1;.1590,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -227.8 kJ mol-1<br>n = 1<br>T = 281.0 K,2.361;2.361e0;2.361E0;2.36;2.36e0;2.36E0;2.3610;2.3610e0;2.3610E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.65e46<br>n = 1<br>T = 298.0 K,2.745;2.745e0;2.745E0;2.75;2.75e0;2.75E0;2.7450;2.7450e0;2.7450E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.49e19<br>n = 3<br>T = 291.2 K,0.3785;3.785e-1;3.785E-1;.3785;0.379;3.79e-1;3.79E-1;.379;0.37850;3.7850e-1;3.7850E-1;.37850,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.405 V<br>n = 2<br>T = 302 K,3.3e13;3.3e13;3.3E13;3e13;3e13;3E13;3.29e13;3.29e13;3.29E13,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.8e46<br>n = 1<br>T = 302 K,2.81;2.81e0;2.81E0;2.8;2.8e0;2.8E0;2.810;2.810e0;2.810E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -490. kJ mol-1<br>n = 2<br>T = 280. K,2.54;2.54e0;2.54E0;2.5;2.5e0;2.5E0;2.540;2.540e0;2.540E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.428 V<br>n = 3<br>T = 285.6 K,3.95e75;3.95e75;3.95E75;4.0e75;4.0e75;4.0E75;3.952e75;3.952e75;3.952E75,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -50.8 kJ mol-1<br>n = 1<br>T = 282 K,0.526;5.26e-1;5.26E-1;.526;0.53;5.3e-1;5.3E-1;.53;0.5260;5.260e-1;5.260E-1;.5260,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -212 kJ mol-1<br>n = 2<br>T = 282 K,1.10;1.10e0;1.10E0;1.1;1.1e0;1.1E0;1.100;1.100e0;1.100E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.640 V<br>n = 3<br>T = 288 K,-185;-1.85e2;-1.85E2;-185.;-190;-1.9e2;-1.9E2;-185.3;-1.853e2;-1.853E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.18e-15<br>n = 2<br>T = 282.9 K,-0.4069;-4.069e-1;-4.069E-1;.4069;-0.407;-4.07e-1;-4.07E-1;.407;-0.40690;-4.0690e-1;-4.0690E-1;.40690,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.78e6<br>n = 3<br>T = 301.1 K,0.1310;1.310e-1;1.310E-1;.1310;0.131;1.31e-1;1.31E-1;.131;0.13100;1.3100e-1;1.3100E-1;.13100,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.691 V<br>n = 1<br>T = 290. K,9.8e-13;9.8e-13;9.8E-13;.8e-13;1.0e-12;1.0e-12;1.0E-12;.0e-12;9.80e-13;9.80e-13;9.80E-13;.80e-13,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 157 kJ mol-1<br>n = 2<br>T = 295 K,-0.811;-8.11e-1;-8.11E-1;.811;-0.81;-8.1e-1;-8.1E-1;.81;-0.8110;-8.110e-1;-8.110E-1;.8110,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1830<br>n = 2<br>T = 284.3 K,0.09205;9.205e-2;9.205E-2;.09205;0.0921;9.21e-2;9.21E-2;.0921;0.092050;9.2050e-2;9.2050E-2;.092050,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.5e-28<br>n = 3<br>T = 284 K,-0.512;-5.12e-1;-5.12E-1;.512;-0.51;-5.1e-1;-5.1E-1;.51;-0.5120;-5.120e-1;-5.120E-1;.5120,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.627 V<br>n = 2<br>T = 299.1 K,6.75e54;6.75e54;6.75E54;6.8e54;6.8e54;6.8E54;6.752e54;6.752e54;6.752E54,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -564 kJ mol-1<br>n = 3<br>T = 305 K,1.95;1.95e0;1.95E0;2.0;2.0e0;2.0E0;1.950;1.950e0;1.950E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.02954 V<br>n = 3<br>T = 305.0 K,-8.551;-8.551e0;-8.551E0;-8.55;-8.55e0;-8.55E0;-8.5506;-8.5506e0;-8.5506E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.0586 V<br>n = 3<br>T = 285 K,1300;1.3e3;1.3E3;1000;1e3;1E3;1280;1.28e3;1.28E3,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -222 kJ mol-1<br>n = 2<br>T = 281 K,1.15;1.15e0;1.15E0;1.1;1.1e0;1.1E0;1.150;1.150e0;1.150E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.191 V<br>n = 3<br>T = 289 K,55.3;5.53e1;5.53E1;55;5.5e1;5.5E1;55.;55.29;5.529e1;5.529E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -562 kJ mol-1<br>n = 3<br>T = 281 K,1.94;1.94e0;1.94E0;1.9;1.9e0;1.9E0;1.940;1.940e0;1.940E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -86.74 kJ mol-1<br>n = 2<br>T = 282.0 K,0.4495;4.495e-1;4.495E-1;.4495;0.450;4.50e-1;4.50E-1;.450;0.44950;4.4950e-1;4.4950E-1;.44950,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.490 V<br>n = 1<br>T = 288 K,3.8e8;3.8e8;3.8E8;4e8;4e8;4E8;3.76e8;3.76e8;3.76E8,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.501 V<br>n = 3<br>T = 288.2 K,5.55e78;5.55e78;5.55E78;5.6e78;5.6e78;5.6E78;5.553e78;5.553e78;5.553E78,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -146 kJ mol-1<br>n = 1<br>T = 298 K,1.51;1.51e0;1.51E0;1.5;1.5e0;1.5E0;1.510;1.510e0;1.510E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.61 V<br>n = 1<br>T = 303 K,2.6e43;2.6e43;2.6E43;3e43;3e43;3E43;2.58e43;2.58e43;2.58E43,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 9.25e24<br>n = 1<br>T = 292.5 K,1.449;1.449e0;1.449E0;1.45;1.45e0;1.45E0;1.4490;1.4490e0;1.4490E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.653 V<br>n = 1<br>T = 300. K,9.3e10;9.3e10;9.3E10;9e10;9e10;9E10;9.33e10;9.33e10;9.33E10,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 3.00 V<br>n = 2<br>T = 287 K,-579;-5.79e2;-5.79E2;-579.;-580;-5.8e2;-5.8E2;-578.9;-5.789e2;-5.789E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.24e106<br>n = 3<br>T = 283.4 K,2.003;2.003e0;2.003E0;2.00;2.00e0;2.00E0;2.0030;2.0030e0;2.0030E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.77e25<br>n = 3<br>T = 281.8 K,0.4706;4.706e-1;4.706E-1;.4706;0.471;4.71e-1;4.71E-1;.471;0.47060;4.7060e-1;4.7060E-1;.47060,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.2e-13<br>n = 1<br>T = 294 K,-0.753;-7.53e-1;-7.53E-1;.753;-0.75;-7.5e-1;-7.5E-1;.75;-0.7530;-7.530e-1;-7.530E-1;.7530,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.599 V<br>n = 3<br>T = 301.0 K,-462.8;-4.628e2;-4.628E2;-463;-4.63e2;-4.63E2;-463.;-462.84;-4.6284e2;-4.6284E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.707 V<br>n = 2<br>T = 302 K,4.0e23;4.0e23;4.0E23;4e23;4e23;4E23;3.95e23;3.95e23;3.95E23,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.313 V<br>n = 3<br>T = 285 K,4.0e16;4.0e16;4.0E16;4e16;4e16;4E16;4.03e16;4.03e16;4.03E16,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.4473 V<br>n = 3<br>T = 292.8 K,-129.5;-1.295e2;-1.295E2;-129;-1.29e2;-1.29E2;-129.;-129.47;-1.2947e2;-1.2947E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.01 V<br>n = 1<br>T = 297 K,1.4e17;1.4e17;1.4E17;1e17;1e17;1E17;1.38e17;1.38e17;1.38E17,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -100. kJ mol-1<br>n = 2<br>T = 304 K,0.519;5.19e-1;5.19E-1;.519;0.52;5.2e-1;5.2E-1;.52;0.5190;5.190e-1;5.190E-1;.5190,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -591.9 kJ mol-1<br>n = 3<br>T = 295.7 K,2.045;2.045e0;2.045E0;2.05;2.05e0;2.05E0;2.0450;2.0450e0;2.0450E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.533 V<br>n = 3<br>T = 283.1 K,-443.7;-4.437e2;-4.437E2;-444;-4.44e2;-4.44E2;-444.;-443.74;-4.4374e2;-4.4374E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.4977 V<br>n = 2<br>T = 291.3 K,-96.04;-9.604e1;-9.604E1;-96.0;-9.60e1;-9.60E1;-96.042;-9.6042e1;-9.6042E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.0852 V<br>n = 3<br>T = 302.6 K,-24.7;-2.47e1;-2.47E1;-25;-2.5e1;-2.5E1;-25.;-24.66;-2.466e1;-2.466E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.44e63<br>n = 2<br>T = 282.8 K,1.772;1.772e0;1.772E0;1.77;1.77e0;1.77E0;1.7720;1.7720e0;1.7720E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.5e98<br>n = 2<br>T = 294 K,2.87;2.87e0;2.87E0;2.9;2.9e0;2.9E0;2.870;2.870e0;2.870E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.75e94<br>n = 2<br>T = 286.6 K,2.692;2.692e0;2.692E0;2.69;2.69e0;2.69E0;2.6920;2.6920e0;2.6920E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.580 V<br>n = 2<br>T = 284.1 K,3.43e91;3.43e91;3.43E91;3.4e91;3.4e91;3.4E91;3.434e91;3.434e91;3.434E91,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.500 V<br>n = 3<br>T = 292.9 K,-723.6;-7.236e2;-7.236E2;-724;-7.24e2;-7.24E2;-724.;-723.65;-7.2365e2;-7.2365E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.41e117<br>n = 3<br>T = 292.8 K,2.280;2.280e0;2.280E0;2.28;2.28e0;2.28E0;2.2800;2.2800e0;2.2800E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.153 V<br>n = 3<br>T = 299 K,-44.3;-4.43e1;-4.43E1;-44;-4.4e1;-4.4E1;-44.;-44.29;-4.429e1;-4.429E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.555 V<br>n = 1<br>T = 291.0 K,1.78e44;1.78e44;1.78E44;1.8e44;1.8e44;1.8E44;1.777e44;1.777e44;1.777E44,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.0610 V<br>n = 3<br>T = 289.4 K,0.00065;6.5e-4;6.5E-4;.00065;0.0007;7e-4;7E-4;.0007;0.000650;6.50e-4;6.50E-4;.000650,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.87 V<br>n = 3<br>T = 305 K,5.0e92;5.0e92;5.0E92;5e92;5e92;5E92;5.00e92;5.00e92;5.00E92,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -196 kJ mol-1<br>n = 1<br>T = 297 K,2.03;2.03e0;2.03E0;2.0;2.0e0;2.0E0;2.030;2.030e0;2.030E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.952 V<br>n = 3<br>T = 304 K,2.2e47;2.2e47;2.2E47;2e47;2e47;2E47;2.23e47;2.23e47;2.23E47,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 145.5 kJ mol-1<br>n = 3<br>T = 280.9 K,-0.5027;-5.027e-1;-5.027E-1;.5027;-0.503;-5.03e-1;-5.03E-1;.503;-0.50270;-5.0270e-1;-5.0270E-1;.50270,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.886 V<br>n = 3<br>T = 282.2 K,-835.4;-8.354e2;-8.354E2;-835;-8.35e2;-8.35E2;-835.;-835.38;-8.3538e2;-8.3538E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.99e21<br>n = 2<br>T = 287.9 K,0.6134;6.134e-1;6.134E-1;.6134;0.613;6.13e-1;6.13E-1;.613;0.61340;6.1340e-1;6.1340E-1;.61340,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.22 V<br>n = 1<br>T = 304 K,-21;-2.1e1;-2.1E1;-21.;-20;-2e1;-2E1;-21.2;-2.12e1;-2.12E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.060 V<br>n = 3<br>T = 298.9 K,-306.8;-3.068e2;-3.068E2;-307;-3.07e2;-3.07E2;-307.;-306.83;-3.0683e2;-3.0683E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 133 kJ mol-1<br>n = 2<br>T = 290. K,-0.690;-6.90e-1;-6.90E-1;.690;-0.69;-6.9e-1;-6.9E-1;.69;-0.6900;-6.900e-1;-6.900E-1;.6900,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -9.8 kJ mol-1<br>n = 3<br>T = 294.8 K,0.034;3.4e-2;3.4E-2;.034;0.03;3e-2;3E-2;.03;0.0340;3.40e-2;3.40E-2;.0340,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.67 V<br>n = 1<br>T = 294 K,-161;-1.61e2;-1.61E2;-161.;-160;-1.6e2;-1.6E2;-161.1;-1.611e2;-1.611E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.014 V<br>n = 3<br>T = 293.9 K,4.06e103;4.06e103;4.06E103;4.1e103;4.1e103;4.1E103;4.056e103;4.056e103;4.056E103,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.02<br>n = 2<br>T = 286 K,-0.051;-5.1e-2;-5.1E-2;.051;-0.05;-5e-2;-5E-2;.05;-0.0510;-5.10e-2;-5.10E-2;.0510,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.2486 V<br>n = 3<br>T = 297.5 K,2.32e-13;2.32e-13;2.32E-13;.32e-13;2.3e-13;2.3e-13;2.3E-13;.3e-13;2.322e-13;2.322e-13;2.322E-13;.322e-13,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.5e27<br>n = 1<br>T = 295 K,1.59;1.59e0;1.59E0;1.6;1.6e0;1.6E0;1.590;1.590e0;1.590E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.618 V<br>n = 3<br>T = 280.2 K,2.02e87;2.02e87;2.02E87;2.0e87;2.0e87;2.0E87;2.023e87;2.023e87;2.023E87,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.2e27<br>n = 3<br>T = 287 K,0.522;5.22e-1;5.22E-1;.522;0.52;5.2e-1;5.2E-1;.52;0.5220;5.220e-1;5.220E-1;.5220,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.7e44<br>n = 1<br>T = 286 K,2.51;2.51e0;2.51E0;2.5;2.5e0;2.5E0;2.510;2.510e0;2.510E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.07 V<br>n = 3<br>T = 294 K,-599;-5.99e2;-5.99E2;-599.;-6.0e2;-6.0e2;-6.0E2;-599.2;-5.992e2;-5.992E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.2e17<br>n = 3<br>T = 298 K,0.342;3.42e-1;3.42E-1;.342;0.34;3.4e-1;3.4E-1;.34;0.3420;3.420e-1;3.420E-1;.3420,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.46 V<br>n = 3<br>T = 296 K,-712;-7.12e2;-7.12E2;-712.;-710;-7.1e2;-7.1E2;-712.1;-7.121e2;-7.121E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.06 V<br>n = 3<br>T = 305 K,-596;-5.96e2;-5.96E2;-596.;-6.0e2;-6.0e2;-6.0E2;-596.3;-5.963e2;-5.963E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.4e21<br>n = 3<br>T = 295 K,0.417;4.17e-1;4.17E-1;.417;0.42;4.2e-1;4.2E-1;.42;0.4170;4.170e-1;4.170E-1;.4170,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.151 V<br>n = 2<br>T = 281.2 K,1.81e41;1.81e41;1.81E41;1.8e41;1.8e41;1.8E41;1.809e41;1.809e41;1.809E41,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.376 V<br>n = 2<br>T = 293 K,72.6;7.26e1;7.26E1;73;7.3e1;7.3E1;73.;72.56;7.256e1;7.256E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.00 V<br>n = 1<br>T = 305 K,-96.5;-9.65e1;-9.65E1;-96;-9.6e1;-9.6E1;-96.;-96.49;-9.649e1;-9.649E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.951 V<br>n = 1<br>T = 282.3 K,4.82e52;4.82e52;4.82E52;4.8e52;4.8e52;4.8E52;4.820e52;4.820e52;4.820E52,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.05 V<br>n = 3<br>T = 299 K,1.2e53;1.2e53;1.2E53;1e53;1e53;1E53;1.24e53;1.24e53;1.24E53,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -76.5 kJ mol-1<br>n = 1<br>T = 281 K,0.793;7.93e-1;7.93E-1;.793;0.79;7.9e-1;7.9E-1;.79;0.7930;7.930e-1;7.930E-1;.7930,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.95 V<br>n = 1<br>T = 302 K,-285;-2.85e2;-2.85E2;-285.;-280;-2.8e2;-2.8E2;-284.6;-2.846e2;-2.846E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.3680 V<br>n = 2<br>T = 292.7 K,71.01;7.101e1;7.101E1;71.0;7.10e1;7.10E1;71.014;7.1014e1;7.1014E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.611 V<br>n = 1<br>T = 291.5 K,1.39e45;1.39e45;1.39E45;1.4e45;1.4e45;1.4E45;1.387e45;1.387e45;1.387E45,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.53e-45<br>n = 3<br>T = 283.6 K,-0.8288;-8.288e-1;-8.288E-1;.8288;-0.829;-8.29e-1;-8.29E-1;.829;-0.82880;-8.2880e-1;-8.2880E-1;.82880,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.399 V<br>n = 1<br>T = 301 K,-38.5;-3.85e1;-3.85E1;-38;-3.8e1;-3.8E1;-38.;-38.50;-3.850e1;-3.850E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4800<br>n = 1<br>T = 287.2 K,0.210;2.10e-1;2.10E-1;.210;0.21;2.1e-1;2.1E-1;.21;0.2100;2.100e-1;2.100E-1;.2100,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.73 V<br>n = 3<br>T = 285 K,-790.;-7.90e2;-7.90E2;-790..;-790;-7.9e2;-7.9E2;-790.2;-7.902e2;-7.902E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.525 V<br>n = 1<br>T = 283 K,2.2e9;2.2e9;2.2E9;2e9;2e9;2E9;2.24e9;2.24e9;2.24E9,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.0e57<br>n = 2<br>T = 287 K,1.64;1.64e0;1.64E0;1.6;1.6e0;1.6E0;1.640;1.640e0;1.640E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.10 V<br>n = 1<br>T = 284.2 K,-9.6;-9.6e0;-9.6E0;-10.;-1.0e1;-1.0E1;-10..;-9.65;-9.65e0;-9.65E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.15e40<br>n = 1<br>T = 287.4 K,2.300;2.300e0;2.300E0;2.30;2.30e0;2.30E0;2.3000;2.3000e0;2.3000E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.73 V<br>n = 3<br>T = 289 K,-790.;-7.90e2;-7.90E2;-790..;-790;-7.9e2;-7.9E2;-790.2;-7.902e2;-7.902E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.4e66<br>n = 2<br>T = 287 K,1.90;1.90e0;1.90E0;1.9;1.9e0;1.9E0;1.900;1.900e0;1.900E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.044 V<br>n = 2<br>T = 293.9 K,-394.4;-3.944e2;-3.944E2;-394;-3.94e2;-3.94E2;-394.;-394.43;-3.9443e2;-3.9443E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.12 V<br>n = 2<br>T = 304.5 K,0.0001;1e-4;1E-4;.0001;0.00011;1.1e-4;1.1E-4;.00011,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.287 V<br>n = 1<br>T = 283 K,130000;1.3e5;1.3E5;100000;1e5;1E5;129000;1.29e5;1.29E5,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -151.4 kJ mol-1<br>n = 1<br>T = 285.4 K,1.569;1.569e0;1.569E0;1.57;1.57e0;1.57E0;1.5690;1.5690e0;1.5690E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.489 V<br>n = 2<br>T = 284 K,2.3e17;2.3e17;2.3E17;2e17;2e17;2E17;2.27e17;2.27e17;2.27E17,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8774 V<br>n = 1<br>T = 287.9 K,-84.66;-8.466e1;-8.466E1;-84.7;-8.47e1;-8.47E1;-84.657;-8.4657e1;-8.4657E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.0e-8<br>n = 1<br>T = 289 K,-0.414;-4.14e-1;-4.14E-1;.414;-0.41;-4.1e-1;-4.1E-1;.41;-0.4140;-4.140e-1;-4.140E-1;.4140,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.8437 V<br>n = 1<br>T = 284.6 K,-81.41;-8.141e1;-8.141E1;-81.4;-8.14e1;-8.14E1;-81.405;-8.1405e1;-8.1405E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.651 V<br>n = 2<br>T = 284.6 K,7.75e93;7.75e93;7.75E93;7.8e93;7.8e93;7.8E93;7.755e93;7.755e93;7.755E93,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -13 kJ mol-1<br>n = 3<br>T = 288.1 K,0.045;4.5e-2;4.5E-2;.045;0.05;5e-2;5E-2;.05;0.0450;4.50e-2;4.50E-2;.0450,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.63 V<br>n = 3<br>T = 297 K,-472;-4.72e2;-4.72E2;-472.;-470;-4.7e2;-4.7E2;-471.8;-4.718e2;-4.718E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.327 V<br>n = 1<br>T = 289 K,0.0000020;2.0e-6;2.0E-6;.0000020;0.000002;2e-6;2E-6;.000002;0.00000198;1.98e-6;1.98E-6;.00000198,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.653 V<br>n = 2<br>T = 284.0 K,4.65e58;4.65e58;4.65E58;4.6e58;4.6e58;4.6E58;4.650e58;4.650e58;4.650E58,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -500.4 kJ mol-1<br>n = 2<br>T = 282.8 K,2.593;2.593e0;2.593E0;2.59;2.59e0;2.59E0;2.5930;2.5930e0;2.5930E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -140. kJ mol-1<br>n = 1<br>T = 305 K,1.45;1.45e0;1.45E0;1.4;1.4e0;1.4E0;1.450;1.450e0;1.450E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.946 V<br>n = 3<br>T = 298.3 K,-852.7;-8.527e2;-8.527E2;-853;-8.53e2;-8.53E2;-853.;-852.74;-8.5274e2;-8.5274E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 86.39 kJ mol-1<br>n = 2<br>T = 291.2 K,-0.4477;-4.477e-1;-4.477E-1;.4477;-0.448;-4.48e-1;-4.48E-1;.448;-0.44770;-4.4770e-1;-4.4770E-1;.44770,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.551 V<br>n = 3<br>T = 290. K,159;1.59e2;1.59E2;159.;160;1.6e2;1.6E2;159.5;1.595e2;1.595E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.498 V<br>n = 3<br>T = 282.5 K,1.49e80;1.49e80;1.49E80;1.5e80;1.5e80;1.5E80;1.489e80;1.489e80;1.489E80,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.775 V<br>n = 1<br>T = 300. K,-74.8;-7.48e1;-7.48E1;-75;-7.5e1;-7.5E1;-75.;-74.78;-7.478e1;-7.478E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.227 V<br>n = 1<br>T = 289.0 K,0.00011;1.1e-4;1.1E-4;.00011;0.0001;1e-4;1E-4;.0001;0.000110;1.10e-4;1.10E-4;.000110,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.055 V<br>n = 2<br>T = 283.5 K,-203.6;-2.036e2;-2.036E2;-204;-2.04e2;-2.04E2;-204.;-203.59;-2.0359e2;-2.0359E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.583 V<br>n = 2<br>T = 296.0 K,-498.4;-4.984e2;-4.984E2;-498;-4.98e2;-4.98E2;-498.;-498.45;-4.9845e2;-4.9845E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.274 V<br>n = 3<br>T = 286.8 K,7.58e119;7.58e119;7.58E119;7.6e119;7.6e119;7.6E119;7.578e119;7.578e119;7.578E119,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.6e95<br>n = 2<br>T = 289 K,2.73;2.73e0;2.73E0;2.7;2.7e0;2.7E0;2.730;2.730e0;2.730E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.95 V<br>n = 3<br>T = 284 K,-564;-5.64e2;-5.64E2;-564.;-560;-5.6e2;-5.6E2;-564.4;-5.644e2;-5.644E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.1e28<br>n = 2<br>T = 293 K,0.815;8.15e-1;8.15E-1;.815;0.82;8.2e-1;8.2E-1;.82;0.8150;8.150e-1;8.150E-1;.8150,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.2e68<br>n = 3<br>T = 294 K,1.34;1.34e0;1.34E0;1.3;1.3e0;1.3E0;1.340;1.340e0;1.340E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.797 V<br>n = 3<br>T = 290. K,-231;-2.31e2;-2.31E2;-231.;-230;-2.3e2;-2.3E2;-230.7;-2.307e2;-2.307E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.12 V<br>n = 1<br>T = 301 K,3.1e35;3.1e35;3.1E35;3e35;3e35;3E35;3.13e35;3.13e35;3.13E35,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 15.56 kJ mol-1<br>n = 1<br>T = 289.8 K,-0.1613;-1.613e-1;-1.613E-1;.1613;-0.161;-1.61e-1;-1.61E-1;.161;-0.16130;-1.6130e-1;-1.6130E-1;.16130,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.230 V<br>n = 2<br>T = 292.9 K,-237.4;-2.374e2;-2.374E2;-237;-2.37e2;-2.37E2;-237.;-237.36;-2.3736e2;-2.3736E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.5929 V<br>n = 2<br>T = 301.0 K,114.4;1.144e2;1.144E2;114;1.14e2;1.14E2;114.;114.41;1.1441e2;1.1441E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -33.3 kJ mol-1<br>n = 1<br>T = 292 K,0.345;3.45e-1;3.45E-1;.345;0.35;3.5e-1;3.5E-1;.35;0.3450;3.450e-1;3.450E-1;.3450,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.7418 V<br>n = 3<br>T = 300.0 K,214.7;2.147e2;2.147E2;215;2.15e2;2.15E2;215.;214.72;2.1472e2;2.1472E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.3e71<br>n = 2<br>T = 298 K,2.11;2.11e0;2.11E0;2.1;2.1e0;2.1E0;2.110;2.110e0;2.110E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.2e135<br>n = 3<br>T = 289 K,2.59;2.59e0;2.59E0;2.6;2.6e0;2.6E0;2.590;2.590e0;2.590E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.00 V<br>n = 2<br>T = 305 K,-193;-1.93e2;-1.93E2;-193.;-190;-1.9e2;-1.9E2;-193.0;-1.930e2;-1.930E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -131.8 kJ mol-1<br>n = 1<br>T = 290.3 K,1.366;1.366e0;1.366E0;1.37;1.37e0;1.37E0;1.3660;1.3660e0;1.3660E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.11 V<br>n = 1<br>T = 301 K,-107;-1.07e2;-1.07E2;-107.;-110;-1.1e2;-1.1E2;-107.1;-1.071e2;-1.071E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.341 V<br>n = 3<br>T = 303.3 K,4.99e116;4.99e116;4.99E116;5.0e116;5.0e116;5.0E116;4.987e116;4.987e116;4.987E116,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.9980 V<br>n = 3<br>T = 303.7 K,2.07e-50;2.07e-50;2.07E-50;.07e-50;2.1e-50;2.1e-50;2.1E-50;.1e-50;2.069e-50;2.069e-50;2.069E-50;.069e-50,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.727 V<br>n = 1<br>T = 298.6 K,-263.1;-2.631e2;-2.631E2;-263;-2.63e2;-2.63E2;-263.;-263.12;-2.6312e2;-2.6312E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -235 kJ mol-1<br>n = 2<br>T = 299 K,1.22;1.22e0;1.22E0;1.2;1.2e0;1.2E0;1.220;1.220e0;1.220E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.8e45<br>n = 2<br>T = 295 K,1.33;1.33e0;1.33E0;1.3;1.3e0;1.3E0;1.330;1.330e0;1.330E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 178.0 kJ mol-1<br>n = 2<br>T = 299.0 K,-0.9222;-9.222e-1;-9.222E-1;.9222;-0.922;-9.22e-1;-9.22E-1;.922;-0.92220;-9.2220e-1;-9.2220E-1;.92220,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.05 V<br>n = 2<br>T = 295 K,-203;-2.03e2;-2.03E2;-203.;-2.0e2;-2.0e2;-2.0E2;-202.6;-2.026e2;-2.026E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 207 kJ mol-1<br>n = 3<br>T = 293 K,-0.714;-7.14e-1;-7.14E-1;.714;-0.71;-7.1e-1;-7.1E-1;.71;-0.7140;-7.140e-1;-7.140E-1;.7140,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.3e21<br>n = 3<br>T = 292 K,0.421;4.21e-1;4.21E-1;.421;0.42;4.2e-1;4.2E-1;.42;0.4210;4.210e-1;4.210E-1;.4210,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.043 V<br>n = 1<br>T = 304.2 K,4.1;4.1e0;4.1E0;4;4e0;4E0;4.;4.15;4.15e0;4.15E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -21 kJ mol-1<br>n = 1<br>T = 289 K,0.22;2.2e-1;2.2E-1;.22;0.2;2e-1;2E-1;.2;0.220;2.20e-1;2.20E-1;.220,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.46e-14<br>n = 1<br>T = 288.8 K,-0.7928;-7.928e-1;-7.928E-1;.7928;-0.793;-7.93e-1;-7.93E-1;.793;-0.79280;-7.9280e-1;-7.9280E-1;.79280,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.176 V<br>n = 1<br>T = 297 K,0.0010;1.0e-3;1.0E-3;.0010;0.001;1e-3;1E-3;.001;0.00103;1.03e-3;1.03E-3;.00103,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.70e46<br>n = 1<br>T = 298.6 K,2.751;2.751e0;2.751E0;2.75;2.75e0;2.75E0;2.7510;2.7510e0;2.7510E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.5e52<br>n = 1<br>T = 283 K,2.93;2.93e0;2.93E0;2.9;2.9e0;2.9E0;2.930;2.930e0;2.930E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -97.51 kJ mol-1<br>n = 2<br>T = 288.2 K,0.5053;5.053e-1;5.053E-1;.5053;0.505;5.05e-1;5.05E-1;.505;0.50530;5.0530e-1;5.0530E-1;.50530,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.66 V<br>n = 2<br>T = 298 K,1.4e56;1.4e56;1.4E56;1e56;1e56;1E56;1.41e56;1.41e56;1.41E56,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.34 V<br>n = 2<br>T = 290. K,3.8e46;3.8e46;3.8E46;4e46;4e46;4E46;3.76e46;3.76e46;3.76E46,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.407 V<br>n = 2<br>T = 294 K,-78.5;-7.85e1;-7.85E1;-79;-7.9e1;-7.9E1;-79.;-78.54;-7.854e1;-7.854E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.0698 V<br>n = 3<br>T = 290.7 K,0.00023;2.3e-4;2.3E-4;.00023;0.0002;2e-4;2E-4;.0002;0.000234;2.34e-4;2.34E-4;.000234,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.4e22<br>n = 1<br>T = 296 K,1.33;1.33e0;1.33E0;1.3;1.3e0;1.3E0;1.330;1.330e0;1.330E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 3.749 kJ mol-1<br>n = 2<br>T = 288.7 K,-0.01943;-1.943e-2;-1.943E-2;.01943;-0.0194;-1.94e-2;-1.94E-2;.0194;-0.019430;-1.9430e-2;-1.9430E-2;.019430,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.08 V<br>n = 3<br>T = 300. K,-313;-3.13e2;-3.13E2;-313.;-310;-3.1e2;-3.1E2;-312.6;-3.126e2;-3.126E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 92.0 kJ mol-1<br>n = 3<br>T = 294 K,-0.318;-3.18e-1;-3.18E-1;.318;-0.32;-3.2e-1;-3.2E-1;.32;-0.3180;-3.180e-1;-3.180E-1;.3180,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.184 V<br>n = 2<br>T = 287.6 K,-421.5;-4.215e2;-4.215E2;-421;-4.21e2;-4.21E2;-421.;-421.45;-4.2145e2;-4.2145E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.99 V<br>n = 3<br>T = 285 K,3.7e105;3.7e105;3.7E105;4e105;4e105;4E105;3.72e105;3.72e105;3.72E105,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -695 kJ mol-1<br>n = 3<br>T = 298 K,2.40;2.40e0;2.40E0;2.4;2.4e0;2.4E0;2.400;2.400e0;2.400E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -524.7 kJ mol-1<br>n = 2<br>T = 288.9 K,2.719;2.719e0;2.719E0;2.72;2.72e0;2.72E0;2.7190;2.7190e0;2.7190E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -523.9 kJ mol-1<br>n = 2<br>T = 289.1 K,2.715;2.715e0;2.715E0;2.72;2.72e0;2.72E0;2.7150;2.7150e0;2.7150E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.4e28<br>n = 1<br>T = 295 K,1.67;1.67e0;1.67E0;1.7;1.7e0;1.7E0;1.670;1.670e0;1.670E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.0558 V<br>n = 3<br>T = 304.7 K,-16.2;-1.62e1;-1.62E1;-16;-1.6e1;-1.6E1;-16.;-16.15;-1.615e1;-1.615E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.543 V<br>n = 3<br>T = 286 K,157;1.57e2;1.57E2;157.;160;1.6e2;1.6E2;157.2;1.572e2;1.572E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.90 V<br>n = 1<br>T = 282 K,-183;-1.83e2;-1.83E2;-183.;-180;-1.8e2;-1.8E2;-183.3;-1.833e2;-1.833E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.51 V<br>n = 1<br>T = 291 K,-242;-2.42e2;-2.42E2;-242.;-240;-2.4e2;-2.4E2;-242.2;-2.422e2;-2.422E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -162 kJ mol-1<br>n = 1<br>T = 290. K,1.68;1.68e0;1.68E0;1.7;1.7e0;1.7E0;1.680;1.680e0;1.680E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -50.4 kJ mol-1<br>n = 1<br>T = 282 K,0.522;5.22e-1;5.22E-1;.522;0.52;5.2e-1;5.2E-1;.52;0.5220;5.220e-1;5.220E-1;.5220,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.908 V<br>n = 2<br>T = 299.8 K,1.41e64;1.41e64;1.41E64;1.4e64;1.4e64;1.4E64;1.409e64;1.409e64;1.409E64,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.45e31<br>n = 1<br>T = 292.1 K,1.806;1.806e0;1.806E0;1.81;1.81e0;1.81E0;1.8060;1.8060e0;1.8060E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -811.6 kJ mol-1<br>n = 3<br>T = 285.3 K,2.804;2.804e0;2.804E0;2.80;2.80e0;2.80E0;2.8040;2.8040e0;2.8040E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -21.13 kJ mol-1<br>n = 1<br>T = 287.4 K,0.2190;2.190e-1;2.190E-1;.2190;0.219;2.19e-1;2.19E-1;.219;0.21900;2.1900e-1;2.1900E-1;.21900,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.685 V<br>n = 2<br>T = 304 K,132;1.32e2;1.32E2;132.;130;1.3e2;1.3E2;132.2;1.322e2;1.322E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.38 V<br>n = 1<br>T = 284 K,3.1e24;3.1e24;3.1E24;3e24;3e24;3E24;3.08e24;3.08e24;3.08E24,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.564 V<br>n = 3<br>T = 284.5 K,-452.7;-4.527e2;-4.527E2;-453;-4.53e2;-4.53E2;-453.;-452.71;-4.5271e2;-4.5271E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -276 kJ mol-1<br>n = 1<br>T = 285 K,2.86;2.86e0;2.86E0;2.9;2.9e0;2.9E0;2.860;2.860e0;2.860E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.1279 V<br>n = 1<br>T = 300.0 K,-12.34;-1.234e1;-1.234E1;-12.3;-1.23e1;-1.23E1;-12.341;-1.2341e1;-1.2341E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 9.45e28<br>n = 1<br>T = 285.6 K,1.642;1.642e0;1.642E0;1.64;1.64e0;1.64E0;1.6420;1.6420e0;1.6420E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -63.8 kJ mol-1<br>n = 1<br>T = 291 K,0.661;6.61e-1;6.61E-1;.661;0.66;6.6e-1;6.6E-1;.66;0.6610;6.610e-1;6.610E-1;.6610,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 166.8 kJ mol-1<br>n = 3<br>T = 294.2 K,-0.5761;-5.761e-1;-5.761E-1;.5761;-0.576;-5.76e-1;-5.76E-1;.576;-0.57610;-5.7610e-1;-5.7610E-1;.57610,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 41.5<br>n = 1<br>T = 285.9 K,0.09177;9.177e-2;9.177E-2;.09177;0.0918;9.18e-2;9.18E-2;.0918;0.091770;9.1770e-2;9.1770E-2;.091770,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.45e10<br>n = 1<br>T = 301.4 K,0.6213;6.213e-1;6.213E-1;.6213;0.621;6.21e-1;6.21E-1;.621;0.62130;6.2130e-1;6.2130E-1;.62130,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -122.0 kJ mol-1<br>n = 1<br>T = 289.2 K,1.264;1.264e0;1.264E0;1.26;1.26e0;1.26E0;1.2640;1.2640e0;1.2640E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -16.0 kJ mol-1<br>n = 2<br>T = 288.4 K,0.0829;8.29e-2;8.29E-2;.0829;0.083;8.3e-2;8.3E-2;.083;0.08290;8.290e-2;8.290E-2;.08290,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.53e95<br>n = 3<br>T = 280.4 K,1.772;1.772e0;1.772E0;1.77;1.77e0;1.77E0;1.7720;1.7720e0;1.7720E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -706 kJ mol-1<br>n = 3<br>T = 288 K,2.44;2.44e0;2.44E0;2.4;2.4e0;2.4E0;2.440;2.440e0;2.440E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.004 V<br>n = 3<br>T = 301.1 K,-580.1;-5.801e2;-5.801E2;-580.;-5.80e2;-5.80E2;-580..;-580.07;-5.8007e2;-5.8007E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.9e124<br>n = 3<br>T = 299 K,2.47;2.47e0;2.47E0;2.5;2.5e0;2.5E0;2.470;2.470e0;2.470E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.068 V<br>n = 3<br>T = 291.1 K,20.;2.0e1;2.0E1;20..;20;2e1;2E1;19.7;1.97e1;1.97E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.12 V<br>n = 1<br>T = 304 K,-108;-1.08e2;-1.08E2;-108.;-110;-1.1e2;-1.1E2;-108.1;-1.081e2;-1.081E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.57e-16<br>n = 1<br>T = 302.4 K,-0.9354;-9.354e-1;-9.354E-1;.9354;-0.935;-9.35e-1;-9.35E-1;.935;-0.93540;-9.3540e-1;-9.3540E-1;.93540,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.9e63<br>n = 2<br>T = 297 K,1.87;1.87e0;1.87E0;1.9;1.9e0;1.9E0;1.870;1.870e0;1.870E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.87 V<br>n = 2<br>T = 288 K,-361;-3.61e2;-3.61E2;-361.;-360;-3.6e2;-3.6E2;-360.9;-3.609e2;-3.609E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 16.0<br>n = 2<br>T = 301.8 K,0.03602;3.602e-2;3.602E-2;.03602;0.0360;3.60e-2;3.60E-2;.0360;0.036020;3.6020e-2;3.6020E-2;.036020,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.553 V<br>n = 1<br>T = 291.6 K,6.93e26;6.93e26;6.93E26;6.9e26;6.9e26;6.9E26;6.932e26;6.932e26;6.932E26,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 85.3 kJ mol-1<br>n = 1<br>T = 291 K,-0.884;-8.84e-1;-8.84E-1;.884;-0.88;-8.8e-1;-8.8E-1;.88;-0.8840;-8.840e-1;-8.840E-1;.8840,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -156 kJ mol-1<br>n = 1<br>T = 293 K,1.62;1.62e0;1.62E0;1.6;1.6e0;1.6E0;1.620;1.620e0;1.620E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.098 V<br>n = 2<br>T = 291.4 K,9.55e37;9.55e37;9.55E37;9.6e37;9.6e37;9.6E37;9.551e37;9.551e37;9.551E37,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.2031 V<br>n = 3<br>T = 289.0 K,4.22e10;4.22e10;4.22E10;4.2e10;4.2e10;4.2E10;4.221e10;4.221e10;4.221E10,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.808 V<br>n = 1<br>T = 296 K,5.7e13;5.7e13;5.7E13;6e13;6e13;6E13;5.72e13;5.72e13;5.72E13,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.7420 V<br>n = 3<br>T = 304.5 K,6.96e36;6.96e36;6.96E36;7.0e36;7.0e36;7.0E36;6.960e36;6.960e36;6.960E36,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.15 V<br>n = 1<br>T = 299.3 K,-14;-1.4e1;-1.4E1;-14.;-10;-1e1;-1E1;-14.5;-1.45e1;-1.45E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.5430 V<br>n = 1<br>T = 281.8 K,5.14e9;5.14e9;5.14E9;5.1e9;5.1e9;5.1E9;5.142e9;5.142e9;5.142E9,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -463 kJ mol-1<br>n = 2<br>T = 291 K,2.40;2.40e0;2.40E0;2.4;2.4e0;2.4E0;2.400;2.400e0;2.400E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.4801 V<br>n = 3<br>T = 281.5 K,1.64e-26;1.64e-26;1.64E-26;.64e-26;1.6e-26;1.6e-26;1.6E-26;.6e-26;1.636e-26;1.636e-26;1.636E-26;.636e-26,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -233 kJ mol-1<br>n = 1<br>T = 300. K,2.42;2.42e0;2.42E0;2.4;2.4e0;2.4E0;2.420;2.420e0;2.420E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.2e-29<br>n = 3<br>T = 288 K,-0.546;-5.46e-1;-5.46E-1;.546;-0.55;-5.5e-1;-5.5E-1;.55;-0.5460;-5.460e-1;-5.460E-1;.5460,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.00e42<br>n = 1<br>T = 286.4 K,2.431;2.431e0;2.431E0;2.43;2.43e0;2.43E0;2.4310;2.4310e0;2.4310E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.42e91<br>n = 2<br>T = 280.6 K,2.544;2.544e0;2.544E0;2.54;2.54e0;2.54E0;2.5440;2.5440e0;2.5440E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.8828 V<br>n = 2<br>T = 296.5 K,1.03e30;1.03e30;1.03E30;1.0e30;1.0e30;1.0E30;1.026e30;1.026e30;1.026E30,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.505 V<br>n = 2<br>T = 284 K,8.4e17;8.4e17;8.4E17;8e17;8e17;8E17;8.38e17;8.38e17;8.38E17,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -4.7 kJ mol-1<br>n = 1<br>T = 295.6 K,0.049;4.9e-2;4.9E-2;.049;0.05;5e-2;5E-2;.05;0.0490;4.90e-2;4.90E-2;.0490,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.155 V<br>n = 3<br>T = 302 K,-44.9;-4.49e1;-4.49E1;-45;-4.5e1;-4.5E1;-45.;-44.87;-4.487e1;-4.487E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -273.8 kJ mol-1<br>n = 1<br>T = 292.3 K,2.838;2.838e0;2.838E0;2.84;2.84e0;2.84E0;2.8380;2.8380e0;2.8380E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -415 kJ mol-1<br>n = 2<br>T = 291 K,2.15;2.15e0;2.15E0;2.1;2.1e0;2.1E0;2.150;2.150e0;2.150E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.30 V<br>n = 1<br>T = 290. K,-125;-1.25e2;-1.25E2;-125.;-130;-1.3e2;-1.3E2;-125.4;-1.254e2;-1.254E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.13e45<br>n = 3<br>T = 304.7 K,0.9212;9.212e-1;9.212E-1;.9212;0.921;9.21e-1;9.21E-1;.921;0.92120;9.2120e-1;9.2120E-1;.92120,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 3.00 V<br>n = 3<br>T = 302 K,-868;-8.68e2;-8.68E2;-868.;-870;-8.7e2;-8.7E2;-868.4;-8.684e2;-8.684E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.06<br>n = 1<br>T = 285.0 K,-0.068;-6.8e-2;-6.8E-2;.068;-0.07;-7e-2;-7E-2;.07;-0.0680;-6.80e-2;-6.80E-2;.0680,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.1924 V<br>n = 2<br>T = 282.2 K,37.13;3.713e1;3.713E1;37.1;3.71e1;3.71E1;37.128;3.7128e1;3.7128E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -431 kJ mol-1<br>n = 3<br>T = 296 K,1.49;1.49e0;1.49E0;1.5;1.5e0;1.5E0;1.490;1.490e0;1.490E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.04704 V<br>n = 1<br>T = 286.6 K,6.72;6.72e0;6.72E0;6.7;6.7e0;6.7E0;6.717;6.717e0;6.717E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 22 kJ mol-1<br>n = 1<br>T = 293.7 K,-0.23;-2.3e-1;-2.3E-1;.23;-0.2;-2e-1;-2E-1;.2;-0.230;-2.30e-1;-2.30E-1;.230,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -735.2 kJ mol-1<br>n = 3<br>T = 285.1 K,2.540;2.540e0;2.540E0;2.54;2.54e0;2.54E0;2.5400;2.5400e0;2.5400E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -483.4 kJ mol-1<br>n = 2<br>T = 299.7 K,2.505;2.505e0;2.505E0;2.50;2.50e0;2.50E0;2.5050;2.5050e0;2.5050E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.455 V<br>n = 3<br>T = 294 K,132;1.32e2;1.32E2;132.;130;1.3e2;1.3E2;131.7;1.317e2;1.317E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.82e101<br>n = 3<br>T = 300.6 K,2.017;2.017e0;2.017E0;2.02;2.02e0;2.02E0;2.0170;2.0170e0;2.0170E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.17 V<br>n = 1<br>T = 297 K,6.6e36;6.6e36;6.6E36;7e36;7e36;7E36;6.65e36;6.65e36;6.65E36,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.89e88<br>n = 3<br>T = 304.3 K,1.783;1.783e0;1.783E0;1.78;1.78e0;1.78E0;1.7830;1.7830e0;1.7830E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.5e-12<br>n = 1<br>T = 300. K,-0.682;-6.82e-1;-6.82E-1;.682;-0.68;-6.8e-1;-6.8E-1;.68;-0.6820;-6.820e-1;-6.820E-1;.6820,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.6277 V<br>n = 2<br>T = 290.2 K,121.1;1.211e2;1.211E2;121;1.21e2;1.21E2;121.;121.13;1.2113e2;1.2113E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.87 V<br>n = 2<br>T = 292 K,1.2e99;1.2e99;1.2E99;1e99;1e99;1E99;1.17e99;1.17e99;1.17E99,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.38e-28<br>n = 3<br>T = 287.8 K,-0.5303;-5.303e-1;-5.303E-1;.5303;-0.530;-5.30e-1;-5.30E-1;.530;-0.53030;-5.3030e-1;-5.3030E-1;.53030,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.047 V<br>n = 3<br>T = 303 K,14;1.4e1;1.4E1;14.;10;1e1;1E1;13.6;1.36e1;1.36E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 15<br>n = 1<br>T = 294.3 K,0.0686;6.86e-2;6.86E-2;.0686;0.069;6.9e-2;6.9E-2;.069;0.06860;6.860e-2;6.860E-2;.06860,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.37 V<br>n = 2<br>T = 286 K,-457;-4.57e2;-4.57E2;-457.;-460;-4.6e2;-4.6E2;-457.3;-4.573e2;-4.573E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.58e11<br>n = 1<br>T = 294.9 K,0.6677;6.677e-1;6.677E-1;.6677;0.668;6.68e-1;6.68E-1;.668;0.66770;6.6770e-1;6.6770E-1;.66770,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.986 V<br>n = 3<br>T = 298.0 K,3.15e151;3.15e151;3.15E151;3.1e151;3.1e151;3.1E151;3.149e151;3.149e151;3.149E151,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.02<br>n = 1<br>T = 291.0 K,-0.093;-9.3e-2;-9.3E-2;.093;-0.09;-9e-2;-9E-2;.09;-0.0930;-9.30e-2;-9.30E-2;.0930,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.935 V<br>n = 1<br>T = 300. K,5.1e15;5.1e15;5.1E15;5e15;5e15;5E15;5.10e15;5.10e15;5.10E15,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.404 V<br>n = 1<br>T = 285 K,1.4e7;1.4e7;1.4E7;1e7;1e7;1E7;1.39e7;1.39e7;1.39E7,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.8e19<br>n = 1<br>T = 299 K,1.18;1.18e0;1.18E0;1.2;1.2e0;1.2E0;1.180;1.180e0;1.180E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.01e-6<br>n = 1<br>T = 285.7 K,-0.2889;-2.889e-1;-2.889E-1;.2889;-0.289;-2.89e-1;-2.89E-1;.289;-0.28890;-2.8890e-1;-2.8890E-1;.28890,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.7652 V<br>n = 1<br>T = 300.3 K,6.95e12;6.95e12;6.95E12;6.9e12;6.9e12;6.9E12;6.950e12;6.950e12;6.950E12,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.91e14<br>n = 2<br>T = 297.8 K,0.4219;4.219e-1;4.219E-1;.4219;0.422;4.22e-1;4.22E-1;.422;0.42190;4.2190e-1;4.2190E-1;.42190,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.6e44<br>n = 1<br>T = 303 K,2.67;2.67e0;2.67E0;2.7;2.7e0;2.7E0;2.670;2.670e0;2.670E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -415 kJ mol-1<br>n = 2<br>T = 298 K,2.15;2.15e0;2.15E0;2.1;2.1e0;2.1E0;2.150;2.150e0;2.150E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -34.7 kJ mol-1<br>n = 3<br>T = 284 K,0.120;1.20e-1;1.20E-1;.120;0.12;1.2e-1;1.2E-1;.12;0.1200;1.200e-1;1.200E-1;.1200,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1e-4<br>n = 1<br>T = 286 K,-0.22;-2.2e-1;-2.2E-1;.22;-0.2;-2e-1;-2E-1;.2;-0.220;-2.20e-1;-2.20E-1;.220,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.1e12<br>n = 2<br>T = 302 K,0.383;3.83e-1;3.83E-1;.383;0.38;3.8e-1;3.8E-1;.38;0.3830;3.830e-1;3.830E-1;.3830,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.359 V<br>n = 1<br>T = 286.3 K,8.37e23;8.37e23;8.37E23;8.4e23;8.4e23;8.4E23;8.370e23;8.370e23;8.370E23,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.93e14<br>n = 1<br>T = 304.9 K,0.8642;8.642e-1;8.642E-1;.8642;0.864;8.64e-1;8.64E-1;.864;0.86420;8.6420e-1;8.6420E-1;.86420,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.71 V<br>n = 1<br>T = 296 K,1.4e46;1.4e46;1.4E46;1e46;1e46;1E46;1.38e46;1.38e46;1.38E46,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -160.9 kJ mol-1<br>n = 3<br>T = 290.4 K,0.5558;5.558e-1;5.558E-1;.5558;0.556;5.56e-1;5.56E-1;.556;0.55580;5.5580e-1;5.5580E-1;.55580,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.010<br>n = 2<br>T = 286 K,-0.0565;-5.65e-2;-5.65E-2;.0565;-0.057;-5.7e-2;-5.7E-2;.057;-0.05650;-5.650e-2;-5.650E-2;.05650,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.60<br>n = 1<br>T = 288.6 K,0.03189;3.189e-2;3.189E-2;.03189;0.0319;3.19e-2;3.19E-2;.0319;0.031890;3.1890e-2;3.1890E-2;.031890,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.2503 V<br>n = 1<br>T = 300.2 K,24.15;2.415e1;2.415E1;24.2;2.42e1;2.42E1;24.150;2.4150e1;2.4150E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 45.4 kJ mol-1<br>n = 3<br>T = 291 K,-0.157;-1.57e-1;-1.57E-1;.157;-0.16;-1.6e-1;-1.6E-1;.16;-0.1570;-1.570e-1;-1.570E-1;.1570,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.473 V<br>n = 1<br>T = 294.8 K,-238.6;-2.386e2;-2.386E2;-239;-2.39e2;-2.39E2;-239.;-238.61;-2.3861e2;-2.3861E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.193 V<br>n = 1<br>T = 284.2 K,7.75e38;7.75e38;7.75E38;7.7e38;7.7e38;7.7E38;7.745e38;7.745e38;7.745E38,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 15.2 kJ mol-1<br>n = 1<br>T = 282.8 K,-0.158;-1.58e-1;-1.58E-1;.158;-0.16;-1.6e-1;-1.6E-1;.16;-0.1580;-1.580e-1;-1.580E-1;.1580,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.07403 V<br>n = 2<br>T = 297.5 K,0.00310;3.10e-3;3.10E-3;.00310;0.0031;3.1e-3;3.1E-3;.0031;0.003103;3.103e-3;3.103E-3;.003103,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.3e20<br>n = 3<br>T = 296 K,0.404;4.04e-1;4.04E-1;.404;0.40;4.0e-1;4.0E-1;.40;0.4040;4.040e-1;4.040E-1;.4040,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.454 V<br>n = 2<br>T = 296.2 K,3.01e49;3.01e49;3.01E49;3.0e49;3.0e49;3.0E49;3.014e49;3.014e49;3.014E49,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.17e60<br>n = 3<br>T = 297.8 K,1.194;1.194e0;1.194E0;1.19;1.19e0;1.19E0;1.1940;1.1940e0;1.1940E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.921 V<br>n = 1<br>T = 286 K,5.9e-17;5.9e-17;5.9E-17;.9e-17;6e-17;6e-17;6E-17;5.89e-17;5.89e-17;5.89E-17;.89e-17,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -34.4 kJ mol-1<br>n = 3<br>T = 300. K,0.119;1.19e-1;1.19E-1;.119;0.12;1.2e-1;1.2E-1;.12;0.1190;1.190e-1;1.190E-1;.1190,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.5059 V<br>n = 3<br>T = 292.6 K,1.38e26;1.38e26;1.38E26;1.4e26;1.4e26;1.4E26;1.384e26;1.384e26;1.384E26,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.5211 V<br>n = 2<br>T = 304.1 K,1.87e17;1.87e17;1.87E17;1.9e17;1.9e17;1.9E17;1.871e17;1.871e17;1.871E17,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.11 V<br>n = 3<br>T = 284 K,-321;-3.21e2;-3.21E2;-321.;-320;-3.2e2;-3.2E2;-321.3;-3.213e2;-3.213E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.270 V<br>n = 3<br>T = 286.4 K,6.85e119;6.85e119;6.85E119;6.9e119;6.9e119;6.9E119;6.852e119;6.852e119;6.852E119,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.82 V<br>n = 1<br>T = 299 K,4.8e30;4.8e30;4.8E30;5e30;5e30;5E30;4.75e30;4.75e30;4.75E30,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -115.5 kJ mol-1<br>n = 2<br>T = 292.3 K,0.5987;5.987e-1;5.987E-1;.5987;0.599;5.99e-1;5.99E-1;.599;0.59870;5.9870e-1;5.9870E-1;.59870,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.384 V<br>n = 1<br>T = 300.0 K,-133.5;-1.335e2;-1.335E2;-134;-1.34e2;-1.34E2;-134.;-133.54;-1.3354e2;-1.3354E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 244.4 kJ mol-1<br>n = 3<br>T = 283.8 K,-0.8444;-8.444e-1;-8.444E-1;.8444;-0.844;-8.44e-1;-8.44E-1;.844;-0.84440;-8.4440e-1;-8.4440E-1;.84440,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.87 V<br>n = 3<br>T = 302 K,-541;-5.41e2;-5.41E2;-541.;-540;-5.4e2;-5.4E2;-541.3;-5.413e2;-5.413E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -21 kJ mol-1<br>n = 1<br>T = 296 K,0.22;2.2e-1;2.2E-1;.22;0.2;2e-1;2E-1;.2;0.220;2.20e-1;2.20E-1;.220,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.609 V<br>n = 2<br>T = 297 K,118;1.18e2;1.18E2;118.;120;1.2e2;1.2E2;117.5;1.175e2;1.175E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.17 V<br>n = 1<br>T = 294 K,-16;-1.6e1;-1.6E1;-16.;-20;-2e1;-2E1;-16.4;-1.64e1;-1.64E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.29 V<br>n = 3<br>T = 296 K,-663;-6.63e2;-6.63E2;-663.;-660;-6.6e2;-6.6E2;-662.9;-6.629e2;-6.629E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.60e-26<br>n = 3<br>T = 288.2 K,-0.4850;-4.850e-1;-4.850E-1;.4850;-0.485;-4.85e-1;-4.85E-1;.485;-0.48500;-4.8500e-1;-4.8500E-1;.48500,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.1e-13<br>n = 1<br>T = 284 K,-0.715;-7.15e-1;-7.15E-1;.715;-0.72;-7.2e-1;-7.2E-1;.72;-0.7150;-7.150e-1;-7.150E-1;.7150,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.83e34<br>n = 1<br>T = 303.9 K,2.066;2.066e0;2.066E0;2.07;2.07e0;2.07E0;2.0660;2.0660e0;2.0660E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.71e68<br>n = 3<br>T = 297.6 K,1.347;1.347e0;1.347E0;1.35;1.35e0;1.35E0;1.3470;1.3470e0;1.3470E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.091 V<br>n = 1<br>T = 304.8 K,3.75e34;3.75e34;3.75E34;3.8e34;3.8e34;3.8E34;3.751e34;3.751e34;3.751E34,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.56e38<br>n = 1<br>T = 290.5 K,2.241;2.241e0;2.241E0;2.24;2.24e0;2.24E0;2.2410;2.2410e0;2.2410E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 184 kJ mol-1<br>n = 2<br>T = 284 K,-0.951;-9.51e-1;-9.51E-1;.951;-0.95;-9.5e-1;-9.5E-1;.95;-0.9510;-9.510e-1;-9.510E-1;.9510,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.08e99<br>n = 2<br>T = 293.5 K,2.892;2.892e0;2.892E0;2.89;2.89e0;2.89E0;2.8920;2.8920e0;2.8920E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.3e96<br>n = 2<br>T = 296 K,2.83;2.83e0;2.83E0;2.8;2.8e0;2.8E0;2.830;2.830e0;2.830E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.254 V<br>n = 3<br>T = 293 K,1.3e13;1.3e13;1.3E13;1e13;1e13;1E13;1.28e13;1.28e13;1.28E13,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.179 V<br>n = 1<br>T = 289.2 K,-17.3;-1.73e1;-1.73E1;-17;-1.7e1;-1.7E1;-17.;-17.27;-1.727e1;-1.727E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.484 V<br>n = 3<br>T = 289 K,4.8e-26;4.8e-26;4.8E-26;.8e-26;5e-26;5e-26;5E-26;4.78e-26;4.78e-26;4.78E-26;.78e-26,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.3487 V<br>n = 1<br>T = 284.0 K,6.49e-7;6.49e-7;6.49E-7;.49e-7;6.5e-7;6.5e-7;6.5E-7;.5e-7;6.487e-7;6.487e-7;6.487E-7;.487e-7,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -295 kJ mol-1<br>n = 2<br>T = 305 K,1.53;1.53e0;1.53E0;1.5;1.5e0;1.5E0;1.530;1.530e0;1.530E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.699 V<br>n = 1<br>T = 283.7 K,1.52e30;1.52e30;1.52E30;1.5e30;1.5e30;1.5E30;1.520e30;1.520e30;1.520E30,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.248 V<br>n = 1<br>T = 303.9 K,13000;1.3e4;1.3E4;10000;1e4;1E4;1.30e4;1.30e4;1.30E4,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -285.5 kJ mol-1<br>n = 1<br>T = 301.9 K,2.959;2.959e0;2.959E0;2.96;2.96e0;2.96E0;2.9590;2.9590e0;2.9590E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 7.82e-5<br>n = 2<br>T = 285.7 K,-0.1164;-1.164e-1;-1.164E-1;.1164;-0.116;-1.16e-1;-1.16E-1;.116;-0.11640;-1.1640e-1;-1.1640E-1;.11640,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.953 V<br>n = 1<br>T = 289 K,-92.0;-9.20e1;-9.20E1;-92;-9.2e1;-9.2E1;-92.;-91.95;-9.195e1;-9.195E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.808 V<br>n = 1<br>T = 292.8 K,1.32e31;1.32e31;1.32E31;1.3e31;1.3e31;1.3E31;1.318e31;1.318e31;1.318E31,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.2e-12<br>n = 1<br>T = 295 K,-0.698;-6.98e-1;-6.98E-1;.698;-0.70;-7.0e-1;-7.0E-1;.70;-0.6980;-6.980e-1;-6.980E-1;.6980,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.358 V<br>n = 3<br>T = 284 K,-104;-1.04e2;-1.04E2;-104.;-1.0e2;-1.0e2;-1.0E2;-103.6;-1.036e2;-1.036E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.13 V<br>n = 2<br>T = 292 K,-411;-4.11e2;-4.11E2;-411.;-410;-4.1e2;-4.1E2;-411.0;-4.110e2;-4.110E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.67 V<br>n = 3<br>T = 297 K,8.3e135;8.3e135;8.3E135;8e135;8e135;8E135;8.35e135;8.35e135;8.35E135,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.157 V<br>n = 3<br>T = 296.4 K,-624.4;-6.244e2;-6.244E2;-624;-6.24e2;-6.24E2;-624.;-624.36;-6.2436e2;-6.2436E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -10.4 kJ mol-1<br>n = 3<br>T = 293.8 K,0.0359;3.59e-2;3.59E-2;.0359;0.036;3.6e-2;3.6E-2;.036;0.03590;3.590e-2;3.590E-2;.03590,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 180<br>n = 1<br>T = 296.4 K,0.133;1.33e-1;1.33E-1;.133;0.13;1.3e-1;1.3E-1;.13;0.1330;1.330e-1;1.330E-1;.1330,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.3169 V<br>n = 2<br>T = 282.5 K,2.03e11;2.03e11;2.03E11;2.0e11;2.0e11;2.0E11;2.028e11;2.028e11;2.028E11,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.185 V<br>n = 2<br>T = 303.3 K,-421.6;-4.216e2;-4.216E2;-422;-4.22e2;-4.22E2;-422.;-421.64;-4.2164e2;-4.2164E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.24 V<br>n = 3<br>T = 293 K,9.7e63;9.7e63;9.7E63;1.0e64;1.0e64;1.0E64;9.69e63;9.69e63;9.69E63,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -24 kJ mol-1<br>n = 1<br>T = 300.9 K,0.25;2.5e-1;2.5E-1;.25;0.3;3e-1;3E-1;.3;0.250;2.50e-1;2.50E-1;.250,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.0e29<br>n = 1<br>T = 282 K,1.64;1.64e0;1.64E0;1.6;1.6e0;1.6E0;1.640;1.640e0;1.640E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -562 kJ mol-1<br>n = 3<br>T = 290. K,1.94;1.94e0;1.94E0;1.9;1.9e0;1.9E0;1.940;1.940e0;1.940E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.31 V<br>n = 2<br>T = 304 K,3.9e76;3.9e76;3.9E76;4e76;4e76;4E76;3.90e76;3.90e76;3.90E76,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.54e12<br>n = 3<br>T = 285.1 K,0.2298;2.298e-1;2.298E-1;.2298;0.230;2.30e-1;2.30E-1;.230;0.22980;2.2980e-1;2.2980E-1;.22980,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 8.3 kJ mol-1<br>n = 1<br>T = 294.6 K,-0.086;-8.6e-2;-8.6E-2;.086;-0.09;-9e-2;-9E-2;.09;-0.0860;-8.60e-2;-8.60E-2;.0860,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.236 V<br>n = 2<br>T = 286.4 K,-431.5;-4.315e2;-4.315E2;-431;-4.31e2;-4.31E2;-431.;-431.49;-4.3149e2;-4.3149E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.792 V<br>n = 3<br>T = 297 K,-229;-2.29e2;-2.29E2;-229.;-230;-2.3e2;-2.3E2;-229.3;-2.293e2;-2.293E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -30.18 kJ mol-1<br>n = 2<br>T = 290.1 K,0.1564;1.564e-1;1.564E-1;.1564;0.156;1.56e-1;1.56E-1;.156;0.15640;1.5640e-1;1.5640E-1;.15640,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.6e-16<br>n = 1<br>T = 302 K,-0.946;-9.46e-1;-9.46E-1;.946;-0.95;-9.5e-1;-9.5E-1;.95;-0.9460;-9.460e-1;-9.460E-1;.9460,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 9.7e8<br>n = 1<br>T = 300. K,0.535;5.35e-1;5.35E-1;.535;0.54;5.4e-1;5.4E-1;.54;0.5350;5.350e-1;5.350E-1;.5350,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.302 V<br>n = 2<br>T = 284 K,5.2e10;5.2e10;5.2E10;5e10;5e10;5E10;5.23e10;5.23e10;5.23E10,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.0052<br>n = 3<br>T = 284.8 K,-0.0431;-4.31e-2;-4.31E-2;.0431;-0.043;-4.3e-2;-4.3E-2;.043;-0.04310;-4.310e-2;-4.310E-2;.04310,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 89.58 kJ mol-1<br>n = 2<br>T = 288.4 K,-0.4642;-4.642e-1;-4.642E-1;.4642;-0.464;-4.64e-1;-4.64E-1;.464;-0.46420;-4.6420e-1;-4.6420E-1;.46420,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -88.09 kJ mol-1<br>n = 2<br>T = 286.7 K,0.4565;4.565e-1;4.565E-1;.4565;0.457;4.57e-1;4.57E-1;.457;0.45650;4.5650e-1;4.5650E-1;.45650,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.05180 V<br>n = 1<br>T = 284.0 K,8.30;8.30e0;8.30E0;8.3;8.3e0;8.3E0;8.303;8.303e0;8.303E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.2505 V<br>n = 1<br>T = 288.0 K,0.0000413;4.13e-5;4.13E-5;.0000413;0.000041;4.1e-5;4.1E-5;.000041;0.00004135;4.135e-5;4.135E-5;.00004135,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -286 kJ mol-1<br>n = 1<br>T = 294 K,2.96;2.96e0;2.96E0;3.0;3.0e0;3.0E0;2.960;2.960e0;2.960E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.4e-30<br>n = 3<br>T = 294 K,-0.573;-5.73e-1;-5.73E-1;.573;-0.57;-5.7e-1;-5.7E-1;.57;-0.5730;-5.730e-1;-5.730E-1;.5730,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.33 V<br>n = 2<br>T = 298 K,6.5e78;6.5e78;6.5E78;6e78;6e78;6E78;6.46e78;6.46e78;6.46E78,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.767 V<br>n = 3<br>T = 301.8 K,-511.5;-5.115e2;-5.115E2;-511;-5.11e2;-5.11E2;-511.;-511.47;-5.1147e2;-5.1147E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -47.10 kJ mol-1<br>n = 2<br>T = 304.7 K,0.2441;2.441e-1;2.441E-1;.2441;0.244;2.44e-1;2.44E-1;.244;0.24410;2.4410e-1;2.4410E-1;.24410,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.0501 V<br>n = 3<br>T = 290.8 K,4.0e2;4.0e2;4.0E2;400;4e2;4E2;403;4.03e2;4.03E2;403.,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.770 V<br>n = 1<br>T = 290.6 K,-170.8;-1.708e2;-1.708E2;-171;-1.71e2;-1.71E2;-171.;-170.78;-1.7078e2;-1.7078E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.76e54<br>n = 3<br>T = 290.7 K,1.043;1.043e0;1.043E0;1.04;1.04e0;1.04E0;1.0430;1.0430e0;1.0430E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.1360 V<br>n = 2<br>T = 285.0 K,0.0000155;1.55e-5;1.55E-5;.0000155;0.000015;1.5e-5;1.5E-5;.000015;0.00001549;1.549e-5;1.549E-5;.00001549,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.6621 V<br>n = 1<br>T = 296.5 K,1.80e11;1.80e11;1.80E11;1.8e11;1.8e11;1.8E11;1.795e11;1.795e11;1.795E11,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -755 kJ mol-1<br>n = 3<br>T = 301 K,2.61;2.61e0;2.61E0;2.6;2.6e0;2.6E0;2.610;2.610e0;2.610E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -150.3 kJ mol-1<br>n = 2<br>T = 294.8 K,0.7790;7.790e-1;7.790E-1;.7790;0.779;7.79e-1;7.79E-1;.779;0.77900;7.7900e-1;7.7900E-1;.77900,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.00 V<br>n = 1<br>T = 283 K,-96.5;-9.65e1;-9.65E1;-96;-9.6e1;-9.6E1;-96.;-96.49;-9.649e1;-9.649E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.0332 V<br>n = 2<br>T = 281.3 K,0.065;6.5e-2;6.5E-2;.065;0.06;6e-2;6E-2;.06;0.0646;6.46e-2;6.46E-2;.0646,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.3e61<br>n = 3<br>T = 292 K,1.18;1.18e0;1.18E0;1.2;1.2e0;1.2E0;1.180;1.180e0;1.180E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.91 V<br>n = 1<br>T = 290. K,3.7e50;3.7e50;3.7E50;4e50;4e50;4E50;3.73e50;3.73e50;3.73E50,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.091 V<br>n = 1<br>T = 286.4 K,0.03;3e-2;3E-2;.03;0.025;2.5e-2;2.5E-2;.025,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.36e78<br>n = 2<br>T = 290.7 K,2.268;2.268e0;2.268E0;2.27;2.27e0;2.27E0;2.2680;2.2680e0;2.2680E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -85.12 kJ mol-1<br>n = 2<br>T = 287.3 K,0.4411;4.411e-1;4.411E-1;.4411;0.441;4.41e-1;4.41E-1;.441;0.44110;4.4110e-1;4.4110E-1;.44110,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.0685 V<br>n = 3<br>T = 300.0 K,2800;2.8e3;2.8E3;3000;3e3;3E3;2830;2.83e3;2.83E3,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 136 kJ mol-1<br>n = 3<br>T = 292 K,-0.471;-4.71e-1;-4.71E-1;.471;-0.47;-4.7e-1;-4.7E-1;.47;-0.4710;-4.710e-1;-4.710E-1;.4710,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.547 V<br>n = 3<br>T = 299.6 K,-737.2;-7.372e2;-7.372E2;-737;-7.37e2;-7.37E2;-737.;-737.25;-7.3725e2;-7.3725E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.0e31<br>n = 1<br>T = 291 K,1.79;1.79e0;1.79E0;1.8;1.8e0;1.8E0;1.790;1.790e0;1.790E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.8887 V<br>n = 3<br>T = 287.0 K,257.2;2.572e2;2.572E2;257;2.57e2;2.57E2;257.;257.24;2.5724e2;2.5724E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.00309<br>n = 2<br>T = 297.8 K,-0.07416;-7.416e-2;-7.416E-2;.07416;-0.0742;-7.42e-2;-7.42E-2;.0742;-0.074160;-7.4160e-2;-7.4160E-2;.074160,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.16 V<br>n = 2<br>T = 294 K,5.9e39;5.9e39;5.9E39;6e39;6e39;6E39;5.89e39;5.89e39;5.89E39,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -640. kJ mol-1<br>n = 3<br>T = 284 K,2.21;2.21e0;2.21E0;2.2;2.2e0;2.2E0;2.210;2.210e0;2.210E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.8e50<br>n = 1<br>T = 282 K,2.83;2.83e0;2.83E0;2.8;2.8e0;2.8E0;2.830;2.830e0;2.830E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.3118 V<br>n = 1<br>T = 293.6 K,225000;2.25e5;2.25E5;230000;2.3e5;2.3E5;2.250e5;2.250e5;2.250E5,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.397 V<br>n = 3<br>T = 288 K,115;1.15e2;1.15E2;115.;110;1.1e2;1.1E2;114.9;1.149e2;1.149E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -55.3 kJ mol-1<br>n = 3<br>T = 281 K,0.191;1.91e-1;1.91E-1;.191;0.19;1.9e-1;1.9E-1;.19;0.1910;1.910e-1;1.910E-1;.1910,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.84 V<br>n = 2<br>T = 281 K,1.0e66;1.0e66;1.0E66;1e66;1e66;1E66;1.00e66;1.00e66;1.00E66,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 114.4 kJ mol-1<br>n = 3<br>T = 291.5 K,-0.3951;-3.951e-1;-3.951E-1;.3951;-0.395;-3.95e-1;-3.95E-1;.395;-0.39510;-3.9510e-1;-3.9510E-1;.39510,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 59.3 kJ mol-1<br>n = 1<br>T = 299 K,-0.615;-6.15e-1;-6.15E-1;.615;-0.62;-6.2e-1;-6.2E-1;.62;-0.6150;-6.150e-1;-6.150E-1;.6150,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.9074 V<br>n = 3<br>T = 303.6 K,1.54e45;1.54e45;1.54E45;1.5e45;1.5e45;1.5E45;1.545e45;1.545e45;1.545E45,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.4729 V<br>n = 2<br>T = 284.0 K,-91.26;-9.126e1;-9.126E1;-91.3;-9.13e1;-9.13E1;-91.256;-9.1256e1;-9.1256E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.0559 V<br>n = 2<br>T = 283.4 K,-10.8;-1.08e1;-1.08E1;-11;-1.1e1;-1.1E1;-11.;-10.79;-1.079e1;-1.079E1,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.8984 V<br>n = 2<br>T = 282.2 K,8.15e-33;8.15e-33;8.15E-33;.15e-33;8.1e-33;8.1e-33;8.1E-33;.1e-33;8.148e-33;8.148e-33;8.148E-33;.148e-33,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 6.9e80<br>n = 2<br>T = 303 K,2.43;2.43e0;2.43E0;2.4;2.4e0;2.4E0;2.430;2.430e0;2.430E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 69.3 kJ mol-1<br>n = 1<br>T = 291 K,-0.718;-7.18e-1;-7.18E-1;.718;-0.72;-7.2e-1;-7.2E-1;.72;-0.7180;-7.180e-1;-7.180E-1;.7180,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.90e28<br>n = 1<br>T = 282.2 K,1.621;1.621e0;1.621E0;1.62;1.62e0;1.62E0;1.6210;1.6210e0;1.6210E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.1502 V<br>n = 3<br>T = 292.6 K,43.48;4.348e1;4.348E1;43.5;4.35e1;4.35E1;43.477;4.3477e1;4.3477E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -722.5 kJ mol-1<br>n = 3<br>T = 292.0 K,2.496;2.496e0;2.496E0;2.50;2.50e0;2.50E0;2.4960;2.4960e0;2.4960E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.3756 V<br>n = 2<br>T = 296.2 K,72.48;7.248e1;7.248E1;72.5;7.25e1;7.25E1;72.480;7.2480e1;7.2480E1,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.282 V<br>n = 2<br>T = 281.6 K,-247.4;-2.474e2;-2.474E2;-247;-2.47e2;-2.47E2;-247.;-247.39;-2.4739e2;-2.4739E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 8.73e66<br>n = 2<br>T = 301.9 K,2.005;2.005e0;2.005E0;2.00;2.00e0;2.00E0;2.0050;2.0050e0;2.0050E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.9238 V<br>n = 2<br>T = 294.1 K,2.18e-32;2.18e-32;2.18E-32;.18e-32;2.2e-32;2.2e-32;2.2E-32;.2e-32;2.182e-32;2.182e-32;2.182E-32;.182e-32,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.6426 V<br>n = 1<br>T = 282.2 K,-62.00;-6.200e1;-6.200E1;-62.0;-6.20e1;-6.20E1;-62.002;-6.2002e1;-6.2002E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.51e120<br>n = 3<br>T = 291.6 K,2.327;2.327e0;2.327E0;2.33;2.33e0;2.33E0;2.3270;2.3270e0;2.3270E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -254.0 kJ mol-1<br>n = 1<br>T = 289.1 K,2.633;2.633e0;2.633E0;2.63;2.63e0;2.63E0;2.6330;2.6330e0;2.6330E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -122 kJ mol-1<br>n = 3<br>T = 302 K,0.423;4.23e-1;4.23E-1;.423;0.42;4.2e-1;4.2E-1;.42;0.4230;4.230e-1;4.230E-1;.4230,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 95.9 kJ mol-1<br>n = 1<br>T = 301 K,-0.994;-9.94e-1;-9.94E-1;.994;-0.99;-9.9e-1;-9.9E-1;.99;-0.9940;-9.940e-1;-9.940E-1;.9940,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.527 V<br>n = 2<br>T = 281.1 K,5.68e54;5.68e54;5.68E54;5.7e54;5.7e54;5.7E54;5.683e54;5.683e54;5.683E54,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.5e-30<br>n = 3<br>T = 292 K,-0.569;-5.69e-1;-5.69E-1;.569;-0.57;-5.7e-1;-5.7E-1;.57;-0.5690;-5.690e-1;-5.690E-1;.5690,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.301 V<br>n = 2<br>T = 304 K,-58.1;-5.81e1;-5.81E1;-58;-5.8e1;-5.8E1;-58.;-58.08;-5.808e1;-5.808E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 100<br>n = 1<br>T = 289 K,0.12;1.2e-1;1.2E-1;.12;0.1;1e-1;1E-1;.1;0.120;1.20e-1;1.20E-1;.120,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -328 kJ mol-1<br>n = 2<br>T = 301 K,1.70;1.70e0;1.70E0;1.7;1.7e0;1.7E0;1.700;1.700e0;1.700E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.09 V<br>n = 3<br>T = 288 K,-605;-6.05e2;-6.05E2;-605.;-6.0e2;-6.0e2;-6.0E2;-605.0;-6.050e2;-6.050E2,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 0.097 V<br>n = 2<br>T = 286 K,-19;-1.9e1;-1.9E1;-19.;-20;-2e1;-2E1;-18.7;-1.87e1;-1.87E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -160.4 kJ mol-1<br>n = 3<br>T = 295.7 K,0.5542;5.542e-1;5.542E-1;.5542;0.554;5.54e-1;5.54E-1;.554;0.55420;5.5420e-1;5.5420E-1;.55420,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 1.27 V<br>n = 1<br>T = 283 K,-123;-1.23e2;-1.23E2;-123.;-120;-1.2e2;-1.2E2;-122.5;-1.225e2;-1.225E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 50<br>n = 1<br>T = 287.4 K,0.098;9.8e-2;9.8E-2;.098;0.10;1.0e-1;1.0E-1;.10;0.0980;9.80e-2;9.80E-2;.0980,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.8003 V<br>n = 1<br>T = 289.9 K,8.18e13;8.18e13;8.18E13;8.2e13;8.2e13;8.2E13;8.182e13;8.182e13;8.182E13,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -227 kJ mol-1<br>n = 3<br>T = 291 K,0.785;7.85e-1;7.85E-1;.785;0.79;7.9e-1;7.9E-1;.79;0.7850;7.850e-1;7.850E-1;.7850,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -33.81 kJ mol-1<br>n = 1<br>T = 289.7 K,0.3504;3.504e-1;3.504E-1;.3504;0.350;3.50e-1;3.50E-1;.350;0.35040;3.5040e-1;3.5040E-1;.35040,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 4.4e44<br>n = 1<br>T = 289 K,2.56;2.56e0;2.56E0;2.6;2.6e0;2.6E0;2.560;2.560e0;2.560E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 121.1 kJ mol-1<br>n = 2<br>T = 302.1 K,-0.6274;-6.274e-1;-6.274E-1;.6274;-0.627;-6.27e-1;-6.27E-1;.627;-0.62740;-6.2740e-1;-6.2740E-1;.62740,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 2.90 kJ mol-1<br>n = 1<br>T = 296.4 K,-0.0301;-3.01e-2;-3.01E-2;.0301;-0.030;-3.0e-2;-3.0E-2;.030;-0.03010;-3.010e-2;-3.010E-2;.03010,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.99 V<br>n = 3<br>T = 302 K,4.9e149;4.9e149;4.9E149;5e149;5e149;5E149;4.92e149;4.92e149;4.92E149,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 62.4 kJ mol-1<br>n = 1<br>T = 295 K,-0.647;-6.47e-1;-6.47E-1;.647;-0.65;-6.5e-1;-6.5E-1;.65;-0.6470;-6.470e-1;-6.470E-1;.6470,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 5.5e41<br>n = 3<br>T = 301 K,0.831;8.31e-1;8.31E-1;.831;0.83;8.3e-1;8.3E-1;.83;0.8310;8.310e-1;8.310E-1;.8310,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 3.00 V<br>n = 2<br>T = 286 K,-579;-5.79e2;-5.79E2;-579.;-580;-5.8e2;-5.8E2;-578.9;-5.789e2;-5.789E2,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -106 kJ mol-1<br>n = 2<br>T = 303 K,0.551;5.51e-1;5.51E-1;.551;0.55;5.5e-1;5.5E-1;.55;0.5510;5.510e-1;5.510E-1;.5510,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -147.5 kJ mol-1<br>n = 1<br>T = 285.1 K,1.529;1.529e0;1.529E0;1.53;1.53e0;1.53E0;1.5290;1.5290e0;1.5290E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -288 kJ mol-1<br>n = 1<br>T = 295 K,2.99;2.99e0;2.99E0;3.0;3.0e0;3.0E0;2.990;2.990e0;2.990E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 54.01 kJ mol-1<br>n = 2<br>T = 304.4 K,-0.2799;-2.799e-1;-2.799E-1;.2799;-0.280;-2.80e-1;-2.80E-1;.280;-0.27990;-2.7990e-1;-2.7990E-1;.27990,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -303.9 kJ mol-1<br>n = 2<br>T = 293.6 K,1.575;1.575e0;1.575E0;1.58;1.58e0;1.58E0;1.5750;1.5750e0;1.5750E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 20. kJ mol-1<br>n = 1<br>T = 292 K,-0.21;-2.1e-1;-2.1E-1;.21;-0.2;-2e-1;-2E-1;.2;-0.210;-2.10e-1;-2.10E-1;.210,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.04e19<br>n = 1<br>T = 292.6 K,1.104;1.104e0;1.104E0;1.10;1.10e0;1.10E0;1.1040;1.1040e0;1.1040E0,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.11 V<br>n = 1<br>T = 283.1 K,0.01;1e-2;1E-2;.01;0.011;1.1e-2;1.1E-2;.011,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.3<br>n = 3<br>T = 296.9 K,0.0101;1.01e-2;1.01E-2;.0101;0.010;1.0e-2;1.0E-2;.010;0.01010;1.010e-2;1.010E-2;.01010,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -407 kJ mol-1<br>n = 2<br>T = 303 K,2.11;2.11e0;2.11E0;2.1;2.1e0;2.1E0;2.110;2.110e0;2.110E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -562 kJ mol-1<br>n = 2<br>T = 300. K,2.91;2.91e0;2.91E0;2.9;2.9e0;2.9E0;2.910;2.910e0;2.910E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 1.0e14<br>n = 1<br>T = 287 K,0.798;7.98e-1;7.98E-1;.798;0.80;8.0e-1;8.0E-1;.80;0.7980;7.980e-1;7.980E-1;.7980,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.7780 V<br>n = 1<br>T = 287.5 K,4.35e13;4.35e13;4.35E13;4.3e13;4.3e13;4.3E13;4.346e13;4.346e13;4.346E13,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.298 V<br>n = 3<br>T = 297 K,86.3;8.63e1;8.63E1;86;8.6e1;8.6E1;86.;86.26;8.626e1;8.626E1,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 3.0e17<br>n = 1<br>T = 300. K,1.04;1.04e0;1.04E0;1.0;1.0e0;1.0E0;1.040;1.040e0;1.040E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.64e5<br>n = 2<br>T = 302.1 K,0.1625;1.625e-1;1.625E-1;.1625;0.163;1.63e-1;1.63E-1;.163;0.16250;1.6250e-1;1.6250E-1;.16250,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 1.40 V<br>n = 2<br>T = 299 K,1.6e47;1.6e47;1.6E47;2e47;2e47;2E47;1.57e47;1.57e47;1.57E47,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.0410 V<br>n = 3<br>T = 283 K,160;1.6e2;1.6E2;200;2e2;2E2;155;1.55e2;1.55E2;155.,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.115 V<br>n = 1<br>T = 301 K,0.012;1.2e-2;1.2E-2;.012;0.01;1e-2;1E-2;.01;0.0119;1.19e-2;1.19E-2;.0119,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.032 V<br>n = 3<br>T = 286 K,9.3;9.3e0;9.3E0;9;9e0;9E0;9.;9.26;9.26e0;9.26E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.17e61<br>n = 3<br>T = 299.0 K,1.213;1.213e0;1.213E0;1.21;1.21e0;1.21E0;1.2130;1.2130e0;1.2130E0,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = -0.605 V<br>n = 3<br>T = 299 K,175;1.75e2;1.75E2;175.;180;1.8e2;1.8E2;175.1;1.751e2;1.751E2,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.71 V<br>n = 2<br>T = 294 K,8.1e92;8.1e92;8.1E92;8e92;8e92;8E92;8.14e92;8.14e92;8.14E92,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 2.726 V<br>n = 3<br>T = 283.0 K,4.34e145;4.34e145;4.34E145;4.3e145;4.3e145;4.3E145;4.340e145;4.340e145;4.340E145,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.067 V<br>n = 3<br>T = 288 K,3000;3e3;3E3;3300;3.3e3;3.3E3,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -741 kJ mol-1<br>n = 3<br>T = 288 K,2.56;2.56e0;2.56E0;2.6;2.6e0;2.6E0;2.560;2.560e0;2.560E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 0.0045<br>n = 2<br>T = 286 K,-0.0667;-6.67e-2;-6.67E-2;.0667;-0.067;-6.7e-2;-6.7E-2;.067;-0.06670;-6.670e-2;-6.670E-2;.06670,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = 0.053 V<br>n = 2<br>T = 293.4 K,70;7e1;7E1;66;6.6e1;6.6E1;66.,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -177.3 kJ mol-1<br>n = 1<br>T = 304.5 K,1.838;1.838e0;1.838E0;1.84;1.84e0;1.84E0;1.8380;1.8380e0;1.8380E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -20.3 kJ mol-1<br>n = 1<br>T = 284 K,0.210;2.10e-1;2.10E-1;.210;0.21;2.1e-1;2.1E-1;.21;0.2100;2.100e-1;2.100E-1;.2100,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = -521.9 kJ mol-1<br>n = 3<br>T = 294.2 K,1.803;1.803e0;1.803E0;1.80;1.80e0;1.80E0;1.8030;1.8030e0;1.8030E0,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>dG = 6.5 kJ mol-1<br>n = 1<br>T = 291 K,-0.067;-6.7e-2;-6.7E-2;.067;-0.07;-7e-2;-7E-2;.07;-0.0670;-6.70e-2;-6.70E-2;.0670,short_answer
+Calculate the equilibrium constant for the following galvanic cell.<br>Eo = -0.9457 V<br>n = 1<br>T = 304.4 K,2.20e-16;2.20e-16;2.20E-16;.20e-16;2.2e-16;2.2e-16;2.2E-16;.2e-16;2.201e-16;2.201e-16;2.201E-16;.201e-16,short_answer
+Calculate the reaction potential (in V) for the following galvanic cell.<br>K = 2.2e32<br>n = 2<br>T = 287 K,0.921;9.21e-1;9.21E-1;.921;0.92;9.2e-1;9.2E-1;.92;0.9210;9.210e-1;9.210E-1;.9210,short_answer
+Calculate the free energy (in kJ mol-1) for the following galvanic cell.<br>Eo = 2.270 V<br>n = 2<br>T = 283.7 K,-438.0;-4.380e2;-4.380E2;-438;-4.38e2;-4.38E2;-438.;-438.05;-4.3805e2;-4.3805E2,short_answer
