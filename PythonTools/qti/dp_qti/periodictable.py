@@ -21,7 +21,7 @@ class periodictable:
 
         # Check if the file exists
         if csv_path.exists():
-            self.df = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/elements.csv')
+            self.df = pd.read_csv(csv_path)
         else:
             raise FileNotFoundError(f"periodictable.py cannot find the elements CSV file at '{csv_path}'.")
         
