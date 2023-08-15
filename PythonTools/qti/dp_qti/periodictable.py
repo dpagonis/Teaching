@@ -128,16 +128,16 @@ def format_mass(value):
         return "{:.06f}".format(value).rstrip('0').rstrip(".")
 
         
-def main():
-    pt = periodictable()
-    additional_properties = []
-    custom_table_html = pt.create_table(additional_properties)
-    print(custom_table_html)
+# def main():
+#     pt = periodictable()
+#     additional_properties = []
+#     custom_table_html = pt.create_table(additional_properties)
+#     print(custom_table_html)
 
-# Save the custom table HTML to a file
-    with open('custom_periodic_table.html', 'w') as output_file:
-        output_file.write(custom_table_html)
+# # Save the custom table HTML to a file
+#     with open('custom_periodic_table.html', 'w') as output_file:
+#         output_file.write(custom_table_html)
 
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()
