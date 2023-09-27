@@ -5,6 +5,8 @@ import random
 from dp_qti.makeqti import *
 from dp_qti import sf
 
+molecs = pd.read_csv('U1_ppmGasConc_molecules.txt')
+
 def generate_questions():
     num_questions = 1000
     basename = 'U1_ppmGasConc' #this string is used to name the bank and the hash ID
@@ -28,16 +30,19 @@ def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        'The concentration of molecules in an air sample is {conc} molecules cm-3 at {temp} K and {pres} mbar. Calculate the mixing ratio in ppm.;ppm.answers(sf_tolerance=1)',
+        'The concentration of {gas} in an air sample is {conc} molecules cm-3 at {temp} K and {pres} mbar. Calculate the mixing ratio in ppm.;ppm.answers(sf_tolerance=1)',
         'A molecule has a concentration of {ppm} ppb at {pres} mbar and {temp} K. Calculate the concentration of gas in this sample in molecules cm-3.;conc_ppb.answers(sf_tolerance=1)',
         'A molecule has a concentration of {ppm} ppm at {pres} mbar and {temp} K. Calculate the concentration of gas in this sample in molecules cm-3.;conc.answers(sf_tolerance=1)',
-        'The concentration of molecules in an air sample is {conc_ppb} molecules cm-3 at {temp} K and {pres} mbar. Calculate the mixing ratio in ppb.;ppm.answers(sf_tolerance=1)'
+        'The concentration of {gas} in an air sample is {conc_ppb} molecules cm-3 at {temp} K and {pres} mbar. Calculate the mixing ratio in ppb.;ppm.answers(sf_tolerance=1)'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here
     R = 8.3145
     NA = 6.0221408e+23
     i = 0
+
+    gasrow = molecs.sample(1)
+    gas = gasrow['name'].values[0]
     
     while True:
         temp = sf.random_value((250,310),(3,4),units_str='K')

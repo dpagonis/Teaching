@@ -45,6 +45,7 @@ class molecule:
         self.element_dict = self._parse_formula(molec_string)
         self.molecular_weight = self._calculate_molecular_weight()
         self.tex = self._generate_formula_tex()
+        self.simple_html = self._generate_simple_html()
 
         self.phase = str(phase) if phase is not None else None
         self.coefficient = coefficient
@@ -166,6 +167,22 @@ class molecule:
              tex_string += '^{'+f'{abs(self.charge)}'+'-}'
         
         return tex_string
+    
+    def _generate_simple_html(self):
+
+        formula_string = self.formula 
+        if self.charge >= 1:
+             formula_string += abs(self.charge)*'+'
+        elif self.charge <= -1:
+             formula_string += abs(self.charge)*'-'
+
+        # Replace all numbers with <sub> tags
+        simple_html_string = re.sub(r'(\d+)', r'<sub>\1</sub>', formula_string)
+        
+        # Replace consecutive + and - with <sup> tags
+        simple_html_string = re.sub(r'([+-]+)', r'<sup>\1</sup>', simple_html_string)
+
+        return simple_html_string
     
     def add(self, addstr):
         # Initialize a temporary molecule with addstr

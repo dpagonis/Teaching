@@ -69,6 +69,7 @@ class reaction:
         self.isbalanced = self._check_balance()
         self.Q_eqn, self.Q_eqn_answers, self.Q_tex, self.Q = self._generate_rxn_quotient()
         self.rate_eqn, self.rate_eqn_answers, self.rate_eqn_tex, self.rate = self._generate_rate_expression()
+        self.simple_html = self._generate_simple_html()
 
     def _parse_and_validate_input(self, input_val):
         if isinstance(input_val, str):
@@ -130,7 +131,17 @@ class reaction:
 
         return plaintext,plaintext_answers
     
-    
+    def _generate_simple_html(self):
+        def _get_rxn_term(m):
+            coef_str = f'{m.coefficient}' if m.coefficient > 1 else ''
+            phase_str = f'({m.phase})' if m.phase is not None else ''
+            return coef_str + m.simple_html + phase_str
+        
+        reactant_terms = [_get_rxn_term(m) for m in self.reactants]
+        product_terms = [_get_rxn_term(m) for m in self.products]
+        
+        simple_html = f'{" + ".join(reactant_terms)}'+' &rarr; '+f'{" + ".join(product_terms)}'
+        return simple_html
    
     def _generate_rxn_tex(self):
         reactant_terms = [f'{m.coefficient if m.coefficient != 1 else ""}{m.tex}{"("+m.phase+")" if m.phase else ""}' for m in self.reactants]

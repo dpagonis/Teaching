@@ -1,0 +1,11 @@
+﻿Reaction,precipitate,excess_reactant,limiting_reactant,stoichiometry
+Pb(NO3)2(aq) + 2NaCl(aq) = PbCl2(s) + 2NaNO3(aq),PbCl2,lead (II) nitrate,NaCl,0.5
+Pb(NO3)2(aq) + 2NaBr(aq) = PbBr2(s) + 2NaNO3(aq),PbBr2,lead (II) nitrate,NaBr,0.5
+Fe(NO3)2(aq) + 2NaOH(aq) = Fe(OH)2(s) + 2NaNO3(aq),Fe(OH)2,iron (II) nitrate,NaOH,0.5
+Fe(NO3)3(aq) + 3NaOH(aq) = Fe(OH)3(s) + 3NaNO3(aq),Fe(OH)3,iron (III) nitrate,NaOH,0.33333333
+Cu(NO3)2(aq) + 2NaOH(aq) = Cu(OH)2(s) + 2NaNO3(aq),Cu(OH)2,copper (II) nitrate,NaOH,0.5
+La(NO3)3(aq) + 3NaF(aq) = LaF3(s) + 3NaNO3(aq),LaF3,lanthanum (III) nitrate,NaF,0.33333333
+Ce(NO3)3(aq) + 3NaOH(aq) = Ce(OH)3(s) + 3NaNO3(aq),Ce(OH)3,cerium (III) nitrate,NaOH,0.33333333
+Th(NO3)4(aq) + 4NaIO3(aq) = Th(IO3)4(s) + 4NaNO3(aq),Th(IO3)4,thorium (IV) nitrate,NaIO3,0.25
+Co(NO3)2(aq) + 2NaOH(aq) = Co(OH)2(s) + 2NaNO3(aq),Co(OH)2,cobalt (II) nitrate,NaOH,0.5
+Cr(NO3)3(aq) + 3NaIO3(aq) = Cr(IO3)3(s) + 3NaNO3(aq),Cr(IO3)3,chromium (III) nitrate,NaIO3,0.33333333

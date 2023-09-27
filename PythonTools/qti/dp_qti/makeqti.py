@@ -15,11 +15,19 @@ def save_to_zip(xml_tree, output_path):
         xml_str = etree.tostring(xml_tree, encoding="ISO-8859-1", pretty_print=True)
         zf.writestr("qti_questions.xml", xml_str)
 
-def save_xml_to_zip(qti_xml, assessment_id, manifest_xml, output_zip):
+def save_xml_to_zip(qti_xml, assessment_id, manifest_xml, output_zip, image_files=[]):
     with zipfile.ZipFile(output_zip, "w") as zf:
+        # Write the manifest XML file to the zip
         zf.writestr("imsmanifest.xml", manifest_xml)
+
+        # Write the QTI XML to the zip
         qti_xml_str = etree.tostring(qti_xml, encoding="ISO-8859-1", pretty_print=True)
-        zf.writestr(f"{assessment_id}.xml", qti_xml_str)
+        zf.writestr(f"{assessment_id}/{assessment_id}.xml", qti_xml_str)
+
+        # Write image files to the "Uploaded Media" folder in the zip if there are any
+        for image_file in image_files:
+            zf.write(image_file, f"Uploaded Media/{image_file}")
+            
     return 0
 
 def create_qti_xml(questions_df,basename, assessment_ident):
@@ -62,6 +70,10 @@ def create_qti_xml(questions_df,basename, assessment_ident):
     
     return questestinterop
 
+def create_img_mattext(image_file):
+    image_tag = f'<img src="$IMS-CC-FILEBASE$/Uploaded%20Media/{image_file}" alt="{image_file}">'
+    mattext = f'<mattext texttype="text/html">{image_tag}</mattext>'
+    return mattext
 
 def create_mattext_element(latex_code):
     base_url = "https://weber.instructure.com/equation_images/"
@@ -71,7 +83,7 @@ def create_mattext_element(latex_code):
     return mattext
 
 
-def create_manifest_xml(assessment_ident, assessment_title):    #manifests aren't needed for generating banks in Classic Canvas Quizzes. They're needed for New Canvas Quizzes (2023) 
+def create_manifest_xml(assessment_ident, assessment_title, image_files=[]):    #manifests aren't needed for generating banks in Classic Canvas Quizzes. They're needed for New Canvas Quizzes (2023) 
     # Register the namespaces
     etree.register_namespace("ims", "http://www.imsglobal.org/xsd/imscp_v1p1")
     etree.register_namespace("xsi", "http://www.w3.org/2001/XMLSchema-instance")
@@ -95,10 +107,26 @@ def create_manifest_xml(assessment_ident, assessment_title):    #manifests aren'
     resource = etree.SubElement(resources, "resource")
     resource.set("identifier", assessment_ident)
     resource.set("type", 'imsqti_test_xmlv2p1')
-    resource.set("href", "assessment.xml")
+    resource.set("href", assessment_ident+".xml")
+
+    # Adding image files and their dependencies
+    for image_file in image_files:
+        image_id = "img" + image_file.replace(" ", "").replace(".", "")
+
+        image_resource = etree.SubElement(resources, "resource")
+        image_resource.set("identifier", image_id)
+        image_resource.set("type", "webcontent")
+        image_resource.set("href", "Uploaded Media/" + image_file)
+
+        file_elem = etree.SubElement(image_resource, "file")
+        file_elem.set("href", "Uploaded Media/" + image_file)
+
+        # Add dependency to assessment item
+        dependency_elem = etree.SubElement(resource, "dependency")
+        dependency_elem.set("identifierref", image_id)
 
     # Convert the XML structure to a string
-    manifest_xml = etree.tostring(imsmanifest, encoding="UTF-8", method="xml").decode("UTF-8")
+    manifest_xml = etree.tostring(imsmanifest, encoding="UTF-8", method="xml", pretty_print=True).decode("UTF-8")
 
     return manifest_xml
 
@@ -173,7 +201,7 @@ def handle_multiple_choice_question(row, item, index):
     presentation = etree.SubElement(item, "presentation")
     material = etree.SubElement(presentation, "material")
     mattext = etree.SubElement(material, "mattext", attrib={"texttype": "text/html"})
-    mattext.text = html.escape(row['question'])
+    mattext.text = row['question']
 
     # Create the response_lid and render_choice for the multiple choice question
     response_lid = etree.SubElement(presentation, "response_lid", attrib={"ident": "response1", "rcardinality": "Single"})

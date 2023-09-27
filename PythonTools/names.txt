@@ -1,5 +1,1 @@
-quinone
-hydroquinone
-benzene
-decane
-hydrogen sulfide
+lactic acid

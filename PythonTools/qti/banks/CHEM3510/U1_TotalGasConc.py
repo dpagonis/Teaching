@@ -2,8 +2,8 @@ import hashlib
 import pandas as pd
 import random
 
-from makeqti import *
-from sigfig import sigfig as sf
+from dp_qti.makeqti import *
+from dp_qti import sf
 
 def generate_questions():
     num_questions = 1000
@@ -31,7 +31,7 @@ def generate_question():
         'Calculate the concentration of molecules in air at {temp} K and {pres} mbar.;conc.answers(sf_tolerance=1)',
         'The concentration of molecules in an air sample is {conc} molecules cm-3 at {temp} K. Calculate the pressure of this sample in mbar.;pres.answers(sf_tolerance=1)',
         'The pressure and temperature of a sample are {pres} mbar and {temp_C} C. Calculate the concentration of gas in this sample in molecules cm-3.;conc.answers(sf_tolerance=1)',
-        'The concentration of molecules in an air sample is {conc} molecules cm-3 at {pres} mbar. Calculate the pressure of this sample in mbar.;temp.answers(sf_tolerance=1)'
+        'The concentration of molecules in an air sample is {conc} molecules cm-3 at {pres} mbar. Calculate the temperature of this sample in K.;temp.answers(sf_tolerance=1)'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here

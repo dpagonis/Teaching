@@ -73,7 +73,7 @@ class sigfig:
       formatted = "{:.{}f}".format(self._round_to_decimal_place(), -1 * self.last_decimal_place)
     return formatted
 
-  def answers(self, sf_tolerance=0):
+  def answers(self, sf_tolerance=0, roundoff_tolerance = False):
     def _generate_answers(sf_value):
       sf_instance = sigfig(self.value_str, sig_figs=sf_value)
       answers = [
@@ -118,6 +118,13 @@ class sigfig:
       if adjusted_sf >= 1:
           final_answers.extend(_generate_answers(adjusted_sf))
 
+    if roundoff_tolerance is True:
+      if(self.value > float(self.scientific_notation())):  #number was rounded down, so increment last digit up
+        roundoff_sf_instance = sigfig(self.scientific_notation()) + 10**self.last_decimal_place
+      else: #number was rounded up, so increment last digit down    
+        roundoff_sf_instance = sigfig(self.scientific_notation()) - 10**self.last_decimal_place
+      final_answers.extend(roundoff_sf_instance.answers(sf_tolerance=sf_tolerance,roundoff_tolerance=False).split(';'))
+    
     # Combine the generated answers and return the final answer string
     answer_string = ';'.join(final_answers)
     return answer_string

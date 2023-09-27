@@ -2,3 +2,4 @@ numpy
 pandas
 jinja2
 scipy
+lxml
