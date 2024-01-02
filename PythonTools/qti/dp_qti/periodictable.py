@@ -63,7 +63,7 @@ class periodictable:
             atomicno = np.random.randint(1,119)
         return self.element(atomicno)
     
-    def create_table(self, additional_properties=None):
+    def create_table(self, include_atomic_mass = True, additional_properties='',sOut = 'custom_pt'):
         if additional_properties is None:
             additional_properties = []
 
@@ -91,10 +91,9 @@ class periodictable:
                     'symbol': '',
                     'atomic_number': '',
                     'name': '',
-                    'mass': None,
+                    'mass':'',
                     'extra_properties': {},
                     'border_class': ''
-
                 }
                 if atomic_number is not None:
                     for symbol, element in self.table.items():
@@ -104,7 +103,7 @@ class periodictable:
                                 'symbol': element['symbol'],
                                 'atomic_number': element['atomic_number'],
                                 'name': element['name'],
-                                'mass': element['atomic_weight'],
+                                'mass': format_mass(element) if include_atomic_mass is True else None,
                                 'extra_properties': {prop: element[prop] for prop in additional_properties},
                                 'border_class': 'dashed-right-border' if int(element['atomic_number']) in (56, 88) else ('dashed-left-border' if int(element['atomic_number']) in (71, 103) else ''),
                             }
@@ -113,19 +112,23 @@ class periodictable:
 
          # Load the template and render the table
         env = Environment(loader=FileSystemLoader(""), trim_blocks=True, lstrip_blocks=True)
-        env.filters["format_mass"] = format_mass
         template = env.get_template("periodic_table_template.html")
         rendered_table = template.render(table=table_data)
 
+        with open(f'{sOut}.html', 'w') as output_file:
+            output_file.write(rendered_table)
+
         return rendered_table  # Add this line
 
-def format_mass(value):
+def format_mass(element):
+    value = element['atomic_weight']
     if isinstance(value, int):
         return "({:.0f})".format(value)
     elif value % 1 == 0:
         return "({:.0f})".format(value)
     else:
         return "{:.06f}".format(value).rstrip('0').rstrip(".")
+    return ""
 
         
 # def main():
@@ -135,8 +138,7 @@ def format_mass(value):
 #     print(custom_table_html)
 
 # # Save the custom table HTML to a file
-#     with open('custom_periodic_table.html', 'w') as output_file:
-#         output_file.write(custom_table_html)
+
 
 
 # if __name__ == '__main__':

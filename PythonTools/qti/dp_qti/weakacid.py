@@ -4,20 +4,91 @@ from .molecule import molecule
 from .sigfig import sigfig as sf
 
 class weakacid(molecule):
-    def __init__(self,neutral_formula,pKa,n_H_neutral=None,F=None):
+    """
+    Represents a weak acid and its various properties.
+
+    Attributes:
+        neutral_formula (str): Chemical formula of the weak acid in its neutral form.
+        pKa (list): List containing the acid dissociation constant(s).
+        n_H (int): Number of acidic protons in the molecule.
+        n_H_neutral (int, optional): Number of acidic protons in the neutral molecule. Defaults to `n_H`.
+        forms (list): List of `molecule` class instances representing the weak acid's varying degrees of protonation.
+        F (float, optional): Formal concentration in mol/L. Default is None.
+        alpha (list): List of degree of dissociation values corresponding to each form of the molecule.
+        _pH (float, private): The pH of the solution.
+        pH (property & setter): Represents the pH of the solution. 
+            Setting a new value for pH recalculates the alpha values accordingly. 
+            When setting pH, the value is stored with significant figures. 
+            Use as:
+            acid.pH to retrieve the value
+            acid.pH = new_value  # where `acid` is an instance of `weakacid` and `new_value` is the desired pH.
+
+    Methods:
+        getforms(): Generates a list of molecule forms based on protonation states.
+        calcpH(): Calculates the pH where the charge balance equals zero.
+        calcalpha(pH): Calculates the degree of dissociation for each form at a given pH.
+        charge_balance(pH): Returns the net charge of the solution at a given pH.
+
+    Usage:
+        acid = weakacid()
+        If no arguments are provided during instantiation, the program will prompt for necessary inputs.
+
+    Note:
+        This class inherits from the `molecule` class.
+    """
+
+
+    def __init__(self, neutral_formula=None, pKa=None, n_H_neutral=None, F=None):
+        # Check if neutral_formula is not provided and prompt user
+        
+        ask_for_inputs=False
+        if (not neutral_formula) and (not pKa):
+            ask_for_inputs=True
+        
+        if not neutral_formula:
+            neutral_formula = input("Enter the neutral formula: ")
+
         # Call the parent class (molecule)'s __init__ method first
         super().__init__(neutral_formula)
-        
         self.neutral_formula = neutral_formula
-        
-        self.pKa = pKa if type(pKa) is list else [pKa]
 
+        # Check if pKa is not provided and prompt user
+        if not pKa:
+            # Note: here we're assuming user will enter a comma-separated list of pKa values
+            pKa_values = input("Enter pKa values (comma-separated if multiple): ").split(',')
+            pKa = [float(value.strip()) for value in pKa_values]
+        else:
+            pKa = pKa if type(pKa) is list else [pKa]
+
+        self.pKa = pKa
         self.n_H = len(self.pKa)
-        self.n_H_neutral = self.n_H if n_H_neutral is None else n_H_neutral #default is to assume we're starting with a fully protonated weak acid
-        self.forms = self.getforms() #list of molecule class instances with varying degrees of protonation
-        self.F = F
-        self._pH = self.calcpH() if F is not None else None
-        self.alpha = self.calcalpha(self._pH) if F is not None else None 
+
+        # Check if n_H_neutral is not provided and prompt user
+        if n_H_neutral is None and ask_for_inputs:
+            n_H_neutral_input = input("Enter number of acidic protons in neutral molecule: ")
+            self.n_H_neutral = self.n_H if not n_H_neutral_input else int(n_H_neutral_input)
+        else:
+            self.n_H_neutral = n_H_neutral
+
+        self.forms = self.getforms()  # list of molecule class instances with varying degrees of protonation
+
+        # Check if F is not provided and prompt user
+        if F is None and ask_for_inputs:
+            F_input = input("Enter formal concentration F in mol/L (optional, press enter to skip): ")
+            self.F = None if not F_input else float(F_input)
+        else:
+            self.F = F
+
+        self._pH = self.calcpH() if self.F is not None else None
+        self.alpha = self.calcalpha(self._pH) if self.F is not None else None
+
+        if ask_for_inputs:
+            print('-------------Key Attributes--------------')
+            print('forms (list): List of `molecule` class instances representing the weak acid\'s varying degrees of protonation.')
+            print('alpha (list): List of degree of dissociation values corresponding to each form of the molecule.')
+            print('pH: The pH of the solution.')
+            print('-----------------------------------------')
+
         
     @property
     def pH(self):
@@ -133,12 +204,3 @@ class weakacid(molecule):
             charge = charge.value
         
         return charge
-
-def main():
-    a = weakacid('C9H11NO2',[2.18,9.09],n_H_neutral=1,F=0.2)
-    print(a.neutral_formula)
-    print(a.pH)
-
-
-if __name__ == '__main__':
-    main()
