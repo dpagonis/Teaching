@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+        .header {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-77%);
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            z-index: 1;
+        }
+        .header img {
+            width: auto;
+            height: 70px;
+        }
+        .title {
+            font-size: 40px;
+            margin-top: 10px;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 5px auto;
+        }
+        td {
+            border: 2px solid black;
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            width: 60px;
+            max-width: 60px;
+            height: 60px;
+            vertical-align: top;
+            position: relative;
+        }
+        td.empty {
+            border: none;
+            background-color: white;
+        }
+        .symbol {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .atomic-number {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+        }
+        .f-block {
+            margin-top: 20px;
+        }
+        .dashed-right-border {
+            border-right: 2px dashed black;
+        }
+        .dashed-left-border {
+            border-left: 2px dashed black;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="title">Periodic Table of the Elements</div>
+        <img src="png/chembio_horiz.png" alt="Logo">
+    </div>
+    <table>
+        <tr>
+            <td class=" ">
+                <div class="symbol">H</div>
+                <div>Hydrogen</div>
+                <div class="atomic-number">1</div>
+                <div>1.008</div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class=" ">
+                <div class="symbol">He</div>
+                <div>Helium</div>
+                <div class="atomic-number">2</div>
+                <div>4.002602</div>
+            </td>
+        </tr>
+        <tr>
+            <td class=" ">
+                <div class="symbol">Li</div>
+                <div>Lithium</div>
+                <div class="atomic-number">3</div>
+                <div>6.94</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Be</div>
+                <div>Beryllium</div>
+                <div class="atomic-number">4</div>
+                <div>9.012183</div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class=" ">
+                <div class="symbol">B</div>
+                <div>Boron</div>
+                <div class="atomic-number">5</div>
+                <div>10.81</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">C</div>
+                <div>Carbon</div>
+                <div class="atomic-number">6</div>
+                <div>12.011</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">N</div>
+                <div>Nitrogen</div>
+                <div class="atomic-number">7</div>
+                <div>14.007</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">O</div>
+                <div>Oxygen</div>
+                <div class="atomic-number">8</div>
+                <div>15.999</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">F</div>
+                <div>Fluorine</div>
+                <div class="atomic-number">9</div>
+                <div>18.998403</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ne</div>
+                <div>Neon</div>
+                <div class="atomic-number">10</div>
+                <div>20.1797</div>
+            </td>
+        </tr>
+        <tr>
+            <td class=" ">
+                <div class="symbol">Na</div>
+                <div>Sodium</div>
+                <div class="atomic-number">11</div>
+                <div>22.989769</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Mg</div>
+                <div>Magnesium</div>
+                <div class="atomic-number">12</div>
+                <div>24.305</div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Al</div>
+                <div>Aluminum</div>
+                <div class="atomic-number">13</div>
+                <div>26.981538</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Si</div>
+                <div>Silicon</div>
+                <div class="atomic-number">14</div>
+                <div>28.085</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">P</div>
+                <div>Phosphorus</div>
+                <div class="atomic-number">15</div>
+                <div>30.973762</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">S</div>
+                <div>Sulfur</div>
+                <div class="atomic-number">16</div>
+                <div>32.06</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Cl</div>
+                <div>Chlorine</div>
+                <div class="atomic-number">17</div>
+                <div>35.45</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ar</div>
+                <div>Argon</div>
+                <div class="atomic-number">18</div>
+                <div>39.948</div>
+            </td>
+        </tr>
+        <tr>
+            <td class=" ">
+                <div class="symbol">K</div>
+                <div>Potassium</div>
+                <div class="atomic-number">19</div>
+                <div>39.0983</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ca</div>
+                <div>Calcium</div>
+                <div class="atomic-number">20</div>
+                <div>40.078</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Sc</div>
+                <div>Scandium</div>
+                <div class="atomic-number">21</div>
+                <div>44.955908</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ti</div>
+                <div>Titanium</div>
+                <div class="atomic-number">22</div>
+                <div>47.867</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">V</div>
+                <div>Vanadium</div>
+                <div class="atomic-number">23</div>
+                <div>50.9415</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Cr</div>
+                <div>Chromium</div>
+                <div class="atomic-number">24</div>
+                <div>51.9961</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Mn</div>
+                <div>Manganese</div>
+                <div class="atomic-number">25</div>
+                <div>54.938044</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Fe</div>
+                <div>Iron</div>
+                <div class="atomic-number">26</div>
+                <div>55.845</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Co</div>
+                <div>Cobalt</div>
+                <div class="atomic-number">27</div>
+                <div>58.933194</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ni</div>
+                <div>Nickel</div>
+                <div class="atomic-number">28</div>
+                <div>58.6934</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Cu</div>
+                <div>Copper</div>
+                <div class="atomic-number">29</div>
+                <div>63.546</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Zn</div>
+                <div>Zinc</div>
+                <div class="atomic-number">30</div>
+                <div>65.38</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ga</div>
+                <div>Gallium</div>
+                <div class="atomic-number">31</div>
+                <div>69.723</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ge</div>
+                <div>Germanium</div>
+                <div class="atomic-number">32</div>
+                <div>72.63</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">As</div>
+                <div>Arsenic</div>
+                <div class="atomic-number">33</div>
+                <div>74.921595</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Se</div>
+                <div>Selenium</div>
+                <div class="atomic-number">34</div>
+                <div>78.971</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Br</div>
+                <div>Bromine</div>
+                <div class="atomic-number">35</div>
+                <div>79.904</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Kr</div>
+                <div>Krypton</div>
+                <div class="atomic-number">36</div>
+                <div>83.798</div>
+            </td>
+        </tr>
+        <tr>
+            <td class=" ">
+                <div class="symbol">Rb</div>
+                <div>Rubidium</div>
+                <div class="atomic-number">37</div>
+                <div>85.4678</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Sr</div>
+                <div>Strontium</div>
+                <div class="atomic-number">38</div>
+                <div>87.62</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Y</div>
+                <div>Yttrium</div>
+                <div class="atomic-number">39</div>
+                <div>88.90584</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Zr</div>
+                <div>Zirconium</div>
+                <div class="atomic-number">40</div>
+                <div>91.224</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Nb</div>
+                <div>Niobium</div>
+                <div class="atomic-number">41</div>
+                <div>92.90637</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Mo</div>
+                <div>Molybdenum</div>
+                <div class="atomic-number">42</div>
+                <div>95.95</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Tc</div>
+                <div>Technetium</div>
+                <div class="atomic-number">43</div>
+                <div>97.90721</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ru</div>
+                <div>Ruthenium</div>
+                <div class="atomic-number">44</div>
+                <div>101.07</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Rh</div>
+                <div>Rhodium</div>
+                <div class="atomic-number">45</div>
+                <div>102.9055</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Pd</div>
+                <div>Palladium</div>
+                <div class="atomic-number">46</div>
+                <div>106.42</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ag</div>
+                <div>Silver</div>
+                <div class="atomic-number">47</div>
+                <div>107.8682</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Cd</div>
+                <div>Cadmium</div>
+                <div class="atomic-number">48</div>
+                <div>112.414</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">In</div>
+                <div>Indium</div>
+                <div class="atomic-number">49</div>
+                <div>114.818</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Sn</div>
+                <div>Tin</div>
+                <div class="atomic-number">50</div>
+                <div>118.71</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Sb</div>
+                <div>Antimony</div>
+                <div class="atomic-number">51</div>
+                <div>121.76</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Te</div>
+                <div>Tellurium</div>
+                <div class="atomic-number">52</div>
+                <div>127.6</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">I</div>
+                <div>Iodine</div>
+                <div class="atomic-number">53</div>
+                <div>126.90447</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Xe</div>
+                <div>Xenon</div>
+                <div class="atomic-number">54</div>
+                <div>131.293</div>
+            </td>
+        </tr>
+        <tr>
+            <td class=" ">
+                <div class="symbol">Cs</div>
+                <div>Cesium</div>
+                <div class="atomic-number">55</div>
+                <div>132.905452</div>
+            </td>
+            <td class=" dashed-right-border">
+                <div class="symbol">Ba</div>
+                <div>Barium</div>
+                <div class="atomic-number">56</div>
+                <div>137.327</div>
+            </td>
+            <td class=" dashed-left-border">
+                <div class="symbol">Lu</div>
+                <div>Lutetium</div>
+                <div class="atomic-number">71</div>
+                <div>174.9668</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Hf</div>
+                <div>Hafnium</div>
+                <div class="atomic-number">72</div>
+                <div>178.49</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ta</div>
+                <div>Tantalum</div>
+                <div class="atomic-number">73</div>
+                <div>180.94788</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">W</div>
+                <div>Tungsten</div>
+                <div class="atomic-number">74</div>
+                <div>183.84</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Re</div>
+                <div>Rhenium</div>
+                <div class="atomic-number">75</div>
+                <div>186.207</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Os</div>
+                <div>Osmium</div>
+                <div class="atomic-number">76</div>
+                <div>190.23</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ir</div>
+                <div>Iridium</div>
+                <div class="atomic-number">77</div>
+                <div>192.217</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Pt</div>
+                <div>Platinum</div>
+                <div class="atomic-number">78</div>
+                <div>195.084</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Au</div>
+                <div>Gold</div>
+                <div class="atomic-number">79</div>
+                <div>196.966569</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Hg</div>
+                <div>Mercury</div>
+                <div class="atomic-number">80</div>
+                <div>200.592</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Tl</div>
+                <div>Thallium</div>
+                <div class="atomic-number">81</div>
+                <div>204.38</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Pb</div>
+                <div>Lead</div>
+                <div class="atomic-number">82</div>
+                <div>207.2</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Bi</div>
+                <div>Bismuth</div>
+                <div class="atomic-number">83</div>
+                <div>208.9804</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Po</div>
+                <div>Polonium</div>
+                <div class="atomic-number">84</div>
+                <div>(209)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">At</div>
+                <div>Astatine</div>
+                <div class="atomic-number">85</div>
+                <div>(210)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Rn</div>
+                <div>Radon</div>
+                <div class="atomic-number">86</div>
+                <div>(222)</div>
+            </td>
+        </tr>
+        <tr>
+            <td class=" ">
+                <div class="symbol">Fr</div>
+                <div>Francium</div>
+                <div class="atomic-number">87</div>
+                <div>(223)</div>
+            </td>
+            <td class=" dashed-right-border">
+                <div class="symbol">Ra</div>
+                <div>Radium</div>
+                <div class="atomic-number">88</div>
+                <div>(226)</div>
+            </td>
+            <td class=" dashed-left-border">
+                <div class="symbol">Lr</div>
+                <div>Lawrencium</div>
+                <div class="atomic-number">103</div>
+                <div>(262)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Rf</div>
+                <div>Rutherfordium</div>
+                <div class="atomic-number">104</div>
+                <div>(267)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Db</div>
+                <div>Dubnium</div>
+                <div class="atomic-number">105</div>
+                <div>(268)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Sg</div>
+                <div>Seaborgium</div>
+                <div class="atomic-number">106</div>
+                <div>(271)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Bh</div>
+                <div>Bohrium</div>
+                <div class="atomic-number">107</div>
+                <div>(274)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Hs</div>
+                <div>Hassium</div>
+                <div class="atomic-number">108</div>
+                <div>(269)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Mt</div>
+                <div>Meitnerium</div>
+                <div class="atomic-number">109</div>
+                <div>(276)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ds</div>
+                <div>Darmstadtium</div>
+                <div class="atomic-number">110</div>
+                <div>(281)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Rg</div>
+                <div>Roentgenium</div>
+                <div class="atomic-number">111</div>
+                <div>(281)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Cn</div>
+                <div>Copernicium</div>
+                <div class="atomic-number">112</div>
+                <div>(285)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Nh</div>
+                <div>Nihonium</div>
+                <div class="atomic-number">113</div>
+                <div>(286)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Fl</div>
+                <div>Flerovium</div>
+                <div class="atomic-number">114</div>
+                <div>(289)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Mc</div>
+                <div>Moscovium</div>
+                <div class="atomic-number">115</div>
+                <div>(288)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Lv</div>
+                <div>Livermorium</div>
+                <div class="atomic-number">116</div>
+                <div>(293)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ts</div>
+                <div>Tennessine</div>
+                <div class="atomic-number">117</div>
+                <div>(294)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Og</div>
+                <div>Oganesson</div>
+                <div class="atomic-number">118</div>
+                <div>(294)</div>
+            </td>
+        </tr>
+        <tr>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+        </tr>
+        <tr>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class=" ">
+                <div class="symbol">La</div>
+                <div>Lanthanum</div>
+                <div class="atomic-number">57</div>
+                <div>138.90547</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ce</div>
+                <div>Cerium</div>
+                <div class="atomic-number">58</div>
+                <div>140.116</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Pr</div>
+                <div>Praseodymium</div>
+                <div class="atomic-number">59</div>
+                <div>140.90766</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Nd</div>
+                <div>Neodymium</div>
+                <div class="atomic-number">60</div>
+                <div>144.242</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Pm</div>
+                <div>Promethium</div>
+                <div class="atomic-number">61</div>
+                <div>144.91276</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Sm</div>
+                <div>Samarium</div>
+                <div class="atomic-number">62</div>
+                <div>150.36</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Eu</div>
+                <div>Europium</div>
+                <div class="atomic-number">63</div>
+                <div>151.964</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Gd</div>
+                <div>Gadolinium</div>
+                <div class="atomic-number">64</div>
+                <div>157.25</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Tb</div>
+                <div>Terbium</div>
+                <div class="atomic-number">65</div>
+                <div>158.92535</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Dy</div>
+                <div>Dysprosium</div>
+                <div class="atomic-number">66</div>
+                <div>162.5</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ho</div>
+                <div>Holmium</div>
+                <div class="atomic-number">67</div>
+                <div>164.93033</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Er</div>
+                <div>Erbium</div>
+                <div class="atomic-number">68</div>
+                <div>167.259</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Tm</div>
+                <div>Thulium</div>
+                <div class="atomic-number">69</div>
+                <div>168.93422</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Yb</div>
+                <div>Ytterbium</div>
+                <div class="atomic-number">70</div>
+                <div>173.045</div>
+            </td>
+        </tr>
+        <tr>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class="empty ">
+                <div class="symbol"></div>
+                <div></div>
+                <div class="atomic-number"></div>
+                <div></div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Ac</div>
+                <div>Actinium</div>
+                <div class="atomic-number">89</div>
+                <div>(227)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Th</div>
+                <div>Thorium</div>
+                <div class="atomic-number">90</div>
+                <div>232.0377</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Pa</div>
+                <div>Protactinium</div>
+                <div class="atomic-number">91</div>
+                <div>231.03588</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">U</div>
+                <div>Uranium</div>
+                <div class="atomic-number">92</div>
+                <div>238.02891</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Np</div>
+                <div>Neptunium</div>
+                <div class="atomic-number">93</div>
+                <div>(237)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Pu</div>
+                <div>Plutonium</div>
+                <div class="atomic-number">94</div>
+                <div>(244)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Am</div>
+                <div>Americium</div>
+                <div class="atomic-number">95</div>
+                <div>(243)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Cm</div>
+                <div>Curium</div>
+                <div class="atomic-number">96</div>
+                <div>(247)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Bk</div>
+                <div>Berkelium</div>
+                <div class="atomic-number">97</div>
+                <div>(247)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Cf</div>
+                <div>Californium</div>
+                <div class="atomic-number">98</div>
+                <div>(251)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Es</div>
+                <div>Einsteinium</div>
+                <div class="atomic-number">99</div>
+                <div>(252)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Fm</div>
+                <div>Fermium</div>
+                <div class="atomic-number">100</div>
+                <div>(257)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">Md</div>
+                <div>Mendelevium</div>
+                <div class="atomic-number">101</div>
+                <div>(258)</div>
+            </td>
+            <td class=" ">
+                <div class="symbol">No</div>
+                <div>Nobelium</div>
+                <div class="atomic-number">102</div>
+                <div>(259)</div>
+            </td>
+        </tr>
+    </table>
+
+    <script>
+        function checkOverflowAndAdjustFontSize() {
+            var elementNames = document.querySelectorAll('td > div:nth-child(2)');
+            elementNames.forEach(function (elementName) {
+                if (elementName.scrollWidth > elementName.clientWidth) {
+                    elementName.style.fontSize = '10px';
+                }
+            });
+        }
+    
+        // Run the function after the DOM has loaded
+        document.addEventListener('DOMContentLoaded', checkOverflowAndAdjustFontSize);
+    </script>
+    
+</body>
+</html>

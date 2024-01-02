@@ -20,7 +20,7 @@ def generate_question():
         'Given a flow rate of {Q} {unit_vol}/s and a lake volume of {V} {unit_vol}, determine the first order rate constant for transport (in 1/s).;k.answers(roundoff_tolerance=True, sf_tolerance=1)',
         'For a lake with a flow rate of {Q} {unit_vol}/s and a volume of {V} {unit_vol}, what is the residence time (in s)?;t_res.answers(roundoff_tolerance=True, sf_tolerance=1)',
         'If the flow rate of a lake is {Q} {unit_vol}/s and the volume is {V} {unit_vol}, what is the residence time in seconds?;t_res.answers(roundoff_tolerance=True, sf_tolerance=1)',
-        'If the flow rate of a lake is {Q} {unit_vol}/s and the volume is {V} {unit_vol}, calculate the first order rate constant for transport in 1/s.;t_res.answers(roundoff_tolerance=True, sf_tolerance=1)'
+        'If the flow rate of a lake is {Q} {unit_vol}/s and the volume is {V} {unit_vol}, calculate the first order rate constant for transport in 1/s.;k.answers(roundoff_tolerance=True, sf_tolerance=1)'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here

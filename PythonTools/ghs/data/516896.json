@@ -1,0 +1,3023 @@
+{
+    "Record": {
+        "RecordType": "CID",
+        "RecordNumber": 516896,
+        "RecordTitle": "Potassium periodate",
+        "Section": [
+            {
+                "TOCHeading": "Structures",
+                "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+                "Section": [
+                    {
+                        "TOCHeading": "2D Structure",
+                        "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (H\u00e4hnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+                        "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "Boolean": [
+                                        true
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "3D Status",
+                        "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+                        "URL": "https://doi.org/10.1186/1758-2946-5-1",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Conformer generation is disallowed since MMFF94s unsupported element, MMFF94s unsupported atom valence, mixture or salt"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Crystal Structures",
+                        "Description": "This section provides links to crystallographic information from various sources.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "Subsections",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "MoveToTop": true,
+                            "ShowAtMost": 1
+                        },
+                        "Section": [
+                            {
+                                "TOCHeading": "COD Number",
+                                "Description": "An identifier assigned to the crystal structure in the Crystallography Open Database (COD).",
+                                "URL": "https://www.crystallography.net/cod",
+                                "DisplayControls": {
+                                    "ListType": "Columns"
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "COD Number",
+                                        "URL": "https://www.crystallography.net/cod/1537447.html",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "1537447"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Associated Article",
+                                "Description": "Publication associated with the crystal structure of the compound. Typically it is the paper in which the crystal structure was originally reported.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Associated Article",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Hylleraas, E.. Die Atomanordnung in den tetragonalen Kristallen von K2 J2 O8, Kaliummetaperjodat.. Zeitschrift fuer Physik 1926;39:308-321."
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Crystal Structure Data",
+                                "Description": "Information about this crystal structure record.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Crystal Structure Depiction",
+                                        "URL": "https://www.crystallography.net/cod/1537447.html",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/30588543_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Hermann-Mauguin space group symbol",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "I 41/a :1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Hall space group symbol",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "I 4bw -1bw"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Space group number",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "88"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "a",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "5.76"
+                                                }
+                                            ],
+                                            "Unit": "\u212b"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "b",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "5.76"
+                                                }
+                                            ],
+                                            "Unit": "\u212b"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "c",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "12.65"
+                                                }
+                                            ],
+                                            "Unit": "\u212b"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "\u03b1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "90"
+                                                }
+                                            ],
+                                            "Unit": "\u00b0"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "\u03b2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "90"
+                                                }
+                                            ],
+                                            "Unit": "\u00b0"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "\u03b3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "90"
+                                                }
+                                            ],
+                                            "Unit": "\u00b0"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Z",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Z'",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "0.25"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Component",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "1 x [K+] (Potassium ion)",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 10,
+                                                            "Length": 13,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/813"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "Component",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "1 x [O-][I](=O)(=O)=O (Periodate)",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 23,
+                                                            "Length": 9,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/167232"
+                                                        },
+                                                        {
+                                                            "Start": 23,
+                                                            "Length": 9,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Periodate",
+                                                            "Type": "PubChem Internal Link",
+                                                            "Extra": "CID-167232"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical Safety",
+                "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+                "DisplayControls": {
+                    "HideThisSection": true,
+                    "MoveToTop": true
+                },
+                "Information": [
+                    {
+                        "ReferenceNumber": 21,
+                        "Name": "Chemical Safety",
+                        "Value": {
+                            "StringWithMarkup": [
+                                {
+                                    "String": "          ",
+                                    "Markup": [
+                                        {
+                                            "Start": 0,
+                                            "Length": 1,
+                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS03.svg",
+                                            "Type": "Icon",
+                                            "Extra": "Oxidizer"
+                                        },
+                                        {
+                                            "Start": 1,
+                                            "Length": 1,
+                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                                            "Type": "Icon",
+                                            "Extra": "Irritant"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Names and Identifiers",
+                "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+                "Section": [
+                    {
+                        "TOCHeading": "Computed Descriptors",
+                        "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+                        "Section": [
+                            {
+                                "TOCHeading": "IUPAC Name",
+                                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by Lexichem TK 2.7.0 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "potassium;periodate"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChI",
+                                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by InChI 1.0.6 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "InChI=1S/HIO4.K/c2-1(3,4)5;/h(H,2,3,4,5);/q;+1/p-1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChIKey",
+                                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by InChI 1.0.6 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "FJVZDOGVDJCCCR-UHFFFAOYSA-M"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Canonical SMILES",
+                                "Description": "The Simplified Molecular-Input Line-Entry System (SMILES) is a widely-used line notation for chemical structures.  PubChem computes two kinds of SMILES strings for compounds: canonical SMILES (computed from chemical structures devoid of isotopic and stereochemical information), and isomeric SMILES (computed from chemical structures containing isotopic and stereochemical information).  This section shows the canonical SMILES of the compound.",
+                                "URL": "https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by OEChem 2.3.0 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "[O-]I(=O)(=O)=O.[K+]"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Molecular Formula",
+                        "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+                        "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 19,
+                                "Name": "Molecular Formula",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "KIO4"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 21,
+                                "Reference": [
+                                    "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                                ],
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "IKO4"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Other Identifiers",
+                        "Description": "Other identifiers assigned to this chemical.",
+                        "Section": [
+                            {
+                                "TOCHeading": "CAS",
+                                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7790-21-8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7790-21-8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 5,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7790-21-8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 7,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7790-21-8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 8,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7790-21-8"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Deprecated CAS",
+                                "Description": "The Chemical Abstract Service (CAS) registry numbers that are no longer used.  These numbers are old, deprecated, and/or deleted, but users may still encounter them in some (old) references.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "11128-53-3, 26139-25-3"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "European Community (EC) Number",
+                                "Description": "The European Community (EC) number is a seven-digit identifier assigned by the European Chemicals Agency (ECHA) to substances for regulatory purposes within the European Union. EC numbers are sometimes referred to as EINECS, ELINCS, or NLP numbers, because the EC Inventory comprises three individual inventories (EINECS, ELINCS, and the NLP list).",
+                                "URL": "https://echa.europa.eu/information-on-chemicals/ec-inventory",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 7,
+                                        "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.029.269",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "232-196-0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "UNII",
+                                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 8,
+                                        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/Q3LOC6P66L",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Q3LOC6P66L"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "DSSTox Substance ID",
+                                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 5,
+                                        "URL": "https://comptox.epa.gov/dashboard/DTXSID90894076",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "DTXSID90894076"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Nikkaji Number",
+                                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                                "URL": "https://jglobal.jst.go.jp/en/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 10,
+                                        "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J43.936C",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "J43.936C"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Wikipedia",
+                                "Description": "Wikidata entity identifier for this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 19,
+                                        "URL": "https://en.wikipedia.org/wiki/Potassium_periodate",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Potassium periodate"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Wikidata",
+                                "Description": "Wikidata entity identifier for the given compound.",
+                                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 18,
+                                        "URL": "https://www.wikidata.org/wiki/Q417125",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Q417125"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Synonyms",
+                        "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                        "Section": [
+                            {
+                                "TOCHeading": "MeSH Entry Terms",
+                                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                                "DisplayControls": {
+                                    "ListType": "Columns"
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 22,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "potassium periodate"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Depositor-Supplied Synonyms",
+                                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                                "DisplayControls": {
+                                    "ListType": "Columns",
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Potassium periodate"
+                                                },
+                                                {
+                                                    "String": "7790-21-8"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM METAPERIODATE"
+                                                },
+                                                {
+                                                    "String": "potassium;periodate"
+                                                },
+                                                {
+                                                    "String": "Periodic acid (HIO4), potassium salt"
+                                                },
+                                                {
+                                                    "String": "Q3LOC6P66L"
+                                                },
+                                                {
+                                                    "String": "MFCD00011407"
+                                                },
+                                                {
+                                                    "String": "Periodic acid (HIO4), potassium salt (1:1)"
+                                                },
+                                                {
+                                                    "String": "EINECS 232-196-0"
+                                                },
+                                                {
+                                                    "String": "UNII-Q3LOC6P66L"
+                                                },
+                                                {
+                                                    "String": "Periodic acid potassium salt"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM IODATE (KIO4)"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM PERIODATE [MI]"
+                                                },
+                                                {
+                                                    "String": "DTXSID90894076"
+                                                },
+                                                {
+                                                    "String": "FJVZDOGVDJCCCR-UHFFFAOYSA-M"
+                                                },
+                                                {
+                                                    "String": "K (I O4)"
+                                                },
+                                                {
+                                                    "String": "AKOS015901592"
+                                                },
+                                                {
+                                                    "String": "FT-0690013"
+                                                },
+                                                {
+                                                    "String": "Q417125"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Removed Synonyms",
+                                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                                "DisplayControls": {
+                                    "HideThisSection": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Kaliummetaperjodat"
+                                                },
+                                                {
+                                                    "String": "Potassiumperiodate"
+                                                },
+                                                {
+                                                    "String": "potassium ion IO4"
+                                                },
+                                                {
+                                                    "String": "ssmicroaEa(1/4)O"
+                                                },
+                                                {
+                                                    "String": "ACMC-20ajue"
+                                                },
+                                                {
+                                                    "String": "AC1LANJM"
+                                                },
+                                                {
+                                                    "String": "Kaliumtetroxojodat(VII)"
+                                                },
+                                                {
+                                                    "String": "Potassium meta-periodate"
+                                                },
+                                                {
+                                                    "String": "ssmicroaEa (1/4)ONI"
+                                                },
+                                                {
+                                                    "String": "AC1Q1TXO"
+                                                },
+                                                {
+                                                    "String": "IKO4"
+                                                },
+                                                {
+                                                    "String": "HIO4.K"
+                                                },
+                                                {
+                                                    "String": "Potassium periodate =99%"
+                                                },
+                                                {
+                                                    "String": "H-I-O4.K"
+                                                },
+                                                {
+                                                    "String": "Potassium Periodate, Commercial"
+                                                },
+                                                {
+                                                    "String": "Potassium Periodate, 99.99%"
+                                                },
+                                                {
+                                                    "String": "CTK3J2248"
+                                                },
+                                                {
+                                                    "String": "Potassium periodate, 99% 100g"
+                                                },
+                                                {
+                                                    "String": "KS-000011BG"
+                                                },
+                                                {
+                                                    "String": "CID146099"
+                                                },
+                                                {
+                                                    "String": "CID516896"
+                                                },
+                                                {
+                                                    "String": "RP27854"
+                                                },
+                                                {
+                                                    "String": "RTR-024970"
+                                                },
+                                                {
+                                                    "String": "TRA0084567"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM M-PERIODATE XT 125GM"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM M-PERIODATE XT 500GM"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM PERIODATE 99% 100G"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM PERIODATE 99% 2.5KG"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM PERIODATE 99% 500G"
+                                                },
+                                                {
+                                                    "String": "Potassium periodate 99.8-100.3% ACS"
+                                                },
+                                                {
+                                                    "String": "AB1006867"
+                                                },
+                                                {
+                                                    "String": "TR-024970"
+                                                },
+                                                {
+                                                    "String": "Y1931"
+                                                },
+                                                {
+                                                    "String": "Periodic acid (HIO4) potassium salt (1:1)"
+                                                },
+                                                {
+                                                    "String": "Potassium Metaperiodate 99% extra pure 100gm"
+                                                },
+                                                {
+                                                    "String": "Periodic acid potassium salt; Potassium periodate"
+                                                },
+                                                {
+                                                    "String": "C037192"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM (META)PERIODATE 99.8% ACS 100G"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM (META)PERIODATE 99.8% ACS 500G"
+                                                },
+                                                {
+                                                    "String": "I14-13927"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM PERIODATE ACS 99.8-100.3% 100G"
+                                                },
+                                                {
+                                                    "String": "POTASSIUM PERIODATE ACS 99.8-100.3% 25G"
+                                                },
+                                                {
+                                                    "String": "Potassium periodate, 99.5%, analytical reagent - 100G 100g"
+                                                },
+                                                {
+                                                    "String": "Potassium periodate =99.8% (dried basis, RT), Puriss. p.a. ACS, Flukatrade mark"
+                                                },
+                                                {
+                                                    "String": "Potassium periodate 99.8-100.3% (by iodometry), BAKER ANALYZED(R) ACS, J.T. Baker(R)"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Create Date",
+                        "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "DateISO8601": [
+                                        "2005-03-27"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Modify Date",
+                        "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "DateISO8601": [
+                                        "2023-11-07"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical and Physical Properties",
+                "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+                "Section": [
+                    {
+                        "TOCHeading": "Computed Properties",
+                        "Description": "Properties of this compound computed from its molecular formula and structure.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "Subsections",
+                                "NumberOfColumns": 3,
+                                "ColumnHeadings": [
+                                    "Property Name",
+                                    "Property Value",
+                                    "Reference"
+                                ],
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value",
+                                    "Reference"
+                                ]
+                            }
+                        },
+                        "Section": [
+                            {
+                                "TOCHeading": "Molecular Weight",
+                                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                                "DisplayControls": {
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "230.000"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Donor Count",
+                                "Description": "The number of hydrogen bond donors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                                "Description": "The number of hydrogen bond acceptors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                4
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Rotatable Bond Count",
+                                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Exact Mass",
+                                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "229.84784"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Monoisotopic Mass",
+                                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "229.84784"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Topological Polar Surface Area",
+                                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                74.3
+                                            ],
+                                            "Unit": "\u212b\u00b2"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Heavy Atom Count",
+                                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                6
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Formal Charge",
+                                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Complexity",
+                                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                118
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Isotope Atom Count",
+                                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Atom Stereocenter Count",
+                                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Atom Stereocenter Count",
+                                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Bond Stereocenter Count",
+                                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Bond Stereocenter Count",
+                                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Covalently-Bonded Unit Count",
+                                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                2
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Compound Is Canonicalized",
+                                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Reference": [
+                                            "Computed by PubChem (release 2021.05.07)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Yes"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Experimental Properties",
+                        "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+                        "Section": [
+                            {
+                                "TOCHeading": "Physical Description",
+                                "Description": "The appearance or features of this compound, including color, odor, state, taste and more in general.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Dry Powder"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 9,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Colorless or white solid; [Hawley] Colorless odorless powder; [MSDSonline]"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Chemical Classes",
+                                "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties (e.g., volatile organic compounds [VOCs]), radiological properties (e.g., radioactive materials), or other factors.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 9,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Other Classes -> Halogens, Inorganic Compounds"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Spectral Information",
+                "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+                "Section": [
+                    {
+                        "TOCHeading": "IR Spectra",
+                        "Description": "Infrared spectroscopy (IR spectroscopy) is the spectroscopy that deals with the infrared region of the electromagnetic spectrum extending from 780 nm to about 20000 nm.  The IR spectra tells you what types of vibrational mode (motion) responses occur in a molecule interacting with infrared light.  It is used to help determine the functional groups in a molecule.",
+                        "URL": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Vibrational_Spectroscopy/Infrared_Spectroscopy",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 2
+                        },
+                        "Section": [
+                            {
+                                "TOCHeading": "FTIR Spectra",
+                                "Description": "Fourier transform infrared spectroscopy (FTIR) results for this chemical.",
+                                "URL": "https://chem.libretexts.org/Courses/Howard_University/Howard%3A_Physical_Chemistry_Laboratory/14._Fourier_Transform_Infrared_Spectroscopy_(FTIR)",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 2
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 12,
+                                        "Name": "Technique",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SPLIT MULL"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 12,
+                                        "Name": "Source of Sample",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "G. FREDERICK SMITH CHEMICAL COMPANY, COLUMBUS, OHIO"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 12,
+                                        "Name": "Copyright",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Copyright \u00a9 1980, 1981-2023 John Wiley & Sons, Inc. All Rights Reserved."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 12,
+                                        "Name": "Thumbnail",
+                                        "URL": "https://spectrabase.com/spectrum/HI9ZrCW7Khn",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/5093945_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "Technique",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "KBr WAFER"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "Source of Sample",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Mallinckrodt Inc., St. Louis, Missouri"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "Copyright",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Copyright \u00a9 1980, 1981-2023 John Wiley & Sons, Inc. All Rights Reserved."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "Thumbnail",
+                                        "URL": "https://spectrabase.com/spectrum/E2f6QJLR74r",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/8153335_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "ATR-IR Spectra",
+                                "Description": "Attenuated total reflection infrared (ATR-IR) spectral data.  ATR is a sampling technique that enables samples to be examined directly in the solid or liquid state without further preparation.  ATR-IR can be applied to the same chemical or biological systems as the transmission IR.  An advantage of ATR-IR over the transmission IR is the limited path length into the sample, because ATR-IR avoids the problem of strong attenuation of the IR signal in highly absorbing media such as aqueous solutions.",
+                                "URL": "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumental_Analysis/Spectrometer/ATR-FTIR",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 2
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Instrument Name",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Bio-Rad FTS"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Technique",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "ATR-Neat (DuraSamplIR II)"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Source of Spectrum",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Forensic Spectral Research"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Source of Sample",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "G.F. Smith Chemical Company, Columbus, Ohio"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Copyright",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Copyright \u00a9 2010-2023 John Wiley & Sons, Inc. All Rights Reserved."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Thumbnail",
+                                        "URL": "https://spectrabase.com/spectrum/FsHCSahk2ux",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/5093944_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Raman Spectra",
+                        "Description": "Raman spectroscopy is a spectroscopic technique typically used to study vibrational modes of a molecular system, although it can also be used to observe rotational and other low-frequency modes of the system.  Raman spectroscopy is based on inelastic scattering of photons, known as Raman scattering.",
+                        "URL": "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Map%3A_Principles_of_Instrumental_Analysis_(Skoog_et_al.)/18%3A_Raman_Spectroscopy",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 2
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 13,
+                                "Name": "Instrument Name",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Bio-Rad FTS 175C with Raman accessory"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 13,
+                                "Name": "Technique",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "FT-Raman"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 13,
+                                "Name": "Source of Sample",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Fluka Chemie AG, Buchs, Switzerland"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 13,
+                                "Name": "Catalog Number",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "60450"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 13,
+                                "Name": "Copyright",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Copyright \u00a9 1980, 1981-2023 John Wiley & Sons, Inc. All Rights Reserved."
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 13,
+                                "Name": "Thumbnail",
+                                "URL": "https://spectrabase.com/spectrum/9oq7QOS8GZd",
+                                "Value": {
+                                    "ExternalDataURL": [
+                                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/8153331_1"
+                                    ],
+                                    "MimeType": "image/png"
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 14,
+                                "Name": "Instrument Name",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Bio-Rad FTS 175C with Raman accessory"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 14,
+                                "Name": "Technique",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "FT-Raman"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 14,
+                                "Name": "Source of Sample",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Fluka Chemie AG, Buchs, Switzerland"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 14,
+                                "Name": "Catalog Number",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "60450"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 14,
+                                "Name": "Copyright",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Copyright \u00a9 1980, 1981-2023 John Wiley & Sons, Inc. All Rights Reserved."
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 14,
+                                "Name": "Thumbnail",
+                                "URL": "https://spectrabase.com/spectrum/2MhLHSeJ0It",
+                                "Value": {
+                                    "ExternalDataURL": [
+                                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/8153332_1"
+                                    ],
+                                    "MimeType": "image/png"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Related Records",
+                "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+                "Section": [
+                    {
+                        "TOCHeading": "Component Compounds",
+                        "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "CID 5462222 (Potassium)",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 23,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=5462222",
+                                                    "Type": "Icon"
+                                                },
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 23,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5462222"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "String": "CID 65185 (Periodic acid)",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 25,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=65185",
+                                                    "Type": "Icon"
+                                                },
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 25,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/65185"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Related Compounds",
+                        "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+                        "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 1
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/516896/cids/JSON?cids_type=component&list_return=redirect",
+                                "Value": {
+                                    "Number": [
+                                        2
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Substances",
+                        "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+                        "Section": [
+                            {
+                                "TOCHeading": "Related Substances",
+                                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 1
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Name": "Same Count",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/516896/sids/JSON?sids_type=standardized&list_return=redirect",
+                                        "Value": {
+                                            "Number": [
+                                                89
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Substances by Category",
+                                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 21,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Chemical Vendors"
+                                                },
+                                                {
+                                                    "String": "Curation Efforts"
+                                                },
+                                                {
+                                                    "String": "Governmental Organizations"
+                                                },
+                                                {
+                                                    "String": "Journal Publishers"
+                                                },
+                                                {
+                                                    "String": "Legacy Depositors"
+                                                },
+                                                {
+                                                    "String": "Research and Development"
+                                                },
+                                                {
+                                                    "String": "Subscription Services"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Entrez Crosslinks",
+                        "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 1
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "PubMed Count",
+                                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=516896",
+                                "Value": {
+                                    "Number": [
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Taxonomy Count",
+                                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_taxonomy&db=pccompound&cmd=Link&from_uid=516896",
+                                "Value": {
+                                    "Number": [
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Gene Count",
+                                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_gene&db=pccompound&cmd=Link&from_uid=516896",
+                                "Value": {
+                                    "Number": [
+                                        5
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical Vendors",
+                "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+                "Information": [
+                    {
+                        "ReferenceNumber": 21,
+                        "Value": {
+                            "Boolean": [
+                                true
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Use and Manufacturing",
+                "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+                "Section": [
+                    {
+                        "TOCHeading": "Uses",
+                        "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 9,
+                                "Name": "Sources/Uses",
+                                "Reference": [
+                                    "Merck Index - O'Neil MJ, Heckelman PE, Dobbelaar PH, Roman KJ (eds). The Merck Index, An Encyclopedia of Chemicals, Drugs, and Biologicals, 15th Ed. Cambridge, UK: The Royal Society of Chemistry, 2013."
+                                ],
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Used as oxidizing agent (in acid solution) for manganese and organic compounds; [Merck Index]",
+                                            "Markup": [
+                                                {
+                                                    "Start": 47,
+                                                    "Length": 9,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Manganese",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Manganese"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "Section": [
+                            {
+                                "TOCHeading": "Industry Uses",
+                                "Description": "Categories of functional use of this chemical in industry.",
+                                "DisplayControls": {
+                                    "ListType": "Columns"
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Reference": [
+                                            "https://www.epa.gov/chemical-data-reporting"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Oxidizing agent"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "U.S. Production",
+                        "Description": "The amount of this chemical produced/manufactured in the U.S.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 4,
+                                "Name": "Aggregated Product Volume",
+                                "Reference": [
+                                    "https://www.epa.gov/chemical-data-reporting"
+                                ],
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "2019: 39,153 lb"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "General Manufacturing Information",
+                        "Description": "General manufacturing information for this chemical, provided by the Hazardous Substances Data Bank (HSDB) and EPA TSCA Chemical Substance Inventory.",
+                        "DisplayControls": {
+                            "ListType": "Columns"
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 4,
+                                "Name": "Industry Processing Sectors",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Pharmaceutical and Medicine Manufacturing"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 4,
+                                "Name": "EPA TSCA Commercial Activity Status",
+                                "Reference": [
+                                    "https://www.epa.gov/tsca-inventory"
+                                ],
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Periodic acid (HIO4), potassium salt (1:1): ACTIVE",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 13,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Periodic%20acid",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-65185"
+                                                },
+                                                {
+                                                    "Start": 22,
+                                                    "Length": 9,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Potassium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Potassium"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Safety and Hazards",
+                "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+                "Section": [
+                    {
+                        "TOCHeading": "Hazards Identification",
+                        "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+                        "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+                        "Section": [
+                            {
+                                "TOCHeading": "GHS Classification",
+                                "Description": "GHS (Globally Harmonized System of Classification and Labelling of Chemicals) is a United Nations system to identify hazardous chemicals and to inform users about these hazards. GHS has been adopted by many countries around the world and is now also used as the basis for international and national transport regulations for dangerous goods. The GHS hazard statements, class categories, pictograms, signal words, and the precautionary statements can be found on the PubChem GHS page.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 1
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 6,
+                                        "Name": "Pictogram(s)",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "          ",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 1,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS03.svg",
+                                                            "Type": "Icon",
+                                                            "Extra": "Oxidizer"
+                                                        },
+                                                        {
+                                                            "Start": 1,
+                                                            "Length": 1,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                                                            "Type": "Icon",
+                                                            "Extra": "Irritant"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 6,
+                                        "Name": "Signal",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Danger",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 6,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSDanger"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 6,
+                                        "Name": "GHS Hazard Statements",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "H272 (100%): May intensify fire; oxidizer [Danger Oxidizing liquids; Oxidizing solids]",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 43,
+                                                            "Length": 6,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSDanger"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "String": "H315 (96.36%): Causes skin irritation [Warning Skin corrosion/irritation]",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 39,
+                                                            "Length": 7,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSWarning"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "String": "H319 (96.36%): Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 46,
+                                                            "Length": 7,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSWarning"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "String": "H335 (96.36%): May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 49,
+                                                            "Length": 7,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSWarning"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 6,
+                                        "Name": "Precautionary Statement Codes",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "P210, P220, P261, P264, P264+P265, P271, P280, P302+P352, P304+P340, P305+P351+P338, P319, P321, P332+P317, P337+P317, P362+P364, P370+P378, P403+P233, P405, and P501"
+                                                },
+                                                {
+                                                    "String": "(The corresponding statement to each P-code can be found at the GHS Classification page.)",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 64,
+                                                            "Length": 18,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#_prec"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 6,
+                                        "Name": "ECHA C&L Notifications Summary",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Aggregated GHS information provided by 55 companies from 8 notifications to the ECHA C&L Inventory. Each notification may be associated with multiple companies.",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 164,
+                                                            "Type": "Italics"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "String": "Information may vary between notifications depending on impurities, additives, and other factors. The percentage value in parenthesis indicates the notified classification ratio from companies that provide hazard codes. Only hazard codes with percentage values above 10% are shown.",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 281,
+                                                            "Type": "Italics"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hazard Classes and Categories",
+                                "Description": "The Hazard Classes and Categories are aligned with GHS (Globally Harmonized System of Classification and Labelling of Chemicals) hazard statement codes.  The percentage data in the parenthesis from ECHA indicates that the hazard classes and categories information are consolidated from multiple companies.  Also, see the detailed explanation from the above GHS classification section.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                                "DisplayControls": {
+                                    "ShowAtMost": 2
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 6,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Ox. Sol. 2 (100%)"
+                                                },
+                                                {
+                                                    "String": "Skin Irrit. 2 (96.36%)"
+                                                },
+                                                {
+                                                    "String": "Eye Irrit. 2 (96.36%)"
+                                                },
+                                                {
+                                                    "String": "STOT SE 3 (96.36%)"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hazards Summary",
+                                "Description": "This section provides an overview of the key hazards information of this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 9,
+                                        "Reference": [
+                                            "Merck Index - O'Neil MJ, Heckelman PE, Dobbelaar PH, Roman KJ (eds). The Merck Index, An Encyclopedia of Chemicals, Drugs, and Biologicals, 15th Ed. Cambridge, UK: The Royal Society of Chemistry, 2013.",
+                                            "Hawley - Lewis RJ. _Hawley's Condensed Chemical Dictionary, _15th Ed. New York: John Wiley & Sons, 2007."
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "A strong skin, eye, and mucous membrane irritant; [Merck Index] May cause fire on contact with organic substances; A strong oxidizing agent and irritant; [Hawley] A skin and eye irritant; [eChemPortal: ERMA] An oxidizing agent; May cause fire on contact with combustible material; An irritant; [MSDSonline] See Metaperiodic acid.",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 311,
+                                                            "Length": 17,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Metaperiodic%20acid",
+                                                            "Type": "PubChem Internal Link",
+                                                            "Extra": "CID-65185"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Literature",
+                "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+                "Section": [
+                    {
+                        "TOCHeading": "Consolidated References",
+                        "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "ExternalTableName": "literature"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "NLM Curated PubMed Citations",
+                        "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+                        "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=516896",
+                                "Value": {
+                                    "Boolean": [
+                                        true
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Springer Nature References",
+                        "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 16,
+                                "Value": {
+                                    "ExternalTableName": "springernature"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Thieme References",
+                        "Description": "Literature references related to scientific contents from Thieme Chemistry journals and books. The Thieme Chemistry content within this section is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 17,
+                                "Name": "Thieme References",
+                                "Value": {
+                                    "ExternalTableName": "ThiemeChemistry"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Wiley References",
+                        "Description": "Literature references related to scientific contents from Wiley journals and books.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 20,
+                                "Value": {
+                                    "ExternalTableName": "wiley"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Depositor Provided PubMed Citations",
+                        "Description": "A list of PubMed records about this compound, provided by the depositors of all PubChem substance records that are standardized into this compound.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Depositor Provided PubMed Citations",
+                                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=516896",
+                                "Value": {
+                                    "ExternalTableName": "collection=pubmed&pmidsrcs=xref",
+                                    "ExternalTableNumRows": 1
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical Co-Occurrences in Literature",
+                        "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalNeighbor"
+                                        },
+                                        {
+                                            "String": "Chemical"
+                                        },
+                                        {
+                                            "String": "ChemicalName_1"
+                                        },
+                                        {
+                                            "String": "ChemicalName_2"
+                                        },
+                                        {
+                                            "String": "SUMMARY_URL.cid"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+                        "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalGeneSymbolNeighbor"
+                                        },
+                                        {
+                                            "String": "Gene/Protein/Enzyme"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "GeneSymbolName"
+                                        },
+                                        {
+                                            "String": "SUMMARY_URL.genesymbol"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "GeneSymbol"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+                        "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalDiseaseNeighbor"
+                                        },
+                                        {
+                                            "String": "Disease"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "DiseaseName"
+                                        },
+                                        {
+                                            "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "MeSH"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Patents",
+                "Description": "Patent applications/documents that mention this compound.",
+                "DisplayControls": {
+                    "ListType": "Columns"
+                },
+                "Section": [
+                    {
+                        "TOCHeading": "Depositor-Supplied Patent Identifiers",
+                        "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "ExternalTableName": "patent"
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 21,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Link to all deposited patent identifiers",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 40,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/516896/xrefs/PatentID/TXT"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "WIPO PATENTSCOPE",
+                        "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+                        "URL": "https://www.wipo.int/patentscope/en/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 32,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Patents are available for this chemical structure:"
+                                        },
+                                        {
+                                            "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=FJVZDOGVDJCCCR-UHFFFAOYSA-M",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 86,
+                                                    "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=FJVZDOGVDJCCCR-UHFFFAOYSA-M"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical Co-Occurrences in Patents",
+                        "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "PatentChemicalChemical"
+                                        },
+                                        {
+                                            "String": "Chemical"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "NeighborName"
+                                        },
+                                        {
+                                            "String": "SUMMARY_URL.cid"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+                        "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "PatentChemicalDisease"
+                                        },
+                                        {
+                                            "String": "Disease"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "NeighborName"
+                                        },
+                                        {
+                                            "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "MeSH"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+                        "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "PatentChemicalGene"
+                                        },
+                                        {
+                                            "String": "Gene"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "NeighborName"
+                                        },
+                                        {
+                                            "String": "SUMMARY_URL.genesymbol"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "GeneSymbol"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Interactions and Pathways",
+                "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+                "Section": [
+                    {
+                        "TOCHeading": "Chemical-Target Interactions",
+                        "Description": "Interactions between targets and this compound",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "ExternalTableName": "consolidatedcompoundtarget"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Classification",
+                "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+                "Section": [
+                    {
+                        "TOCHeading": "MeSH Tree",
+                        "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+                        "URL": "https://www.nlm.nih.gov/mesh",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 23,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                                "Value": {
+                                    "Number": [
+                                        1
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "ChemIDplus",
+                        "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+                        "URL": "https://chem.nlm.nih.gov/chemidplus/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 26,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                                "Value": {
+                                    "Number": [
+                                        84
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "UN GHS Classification",
+                        "Description": "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures.",
+                        "URL": "https://unece.org/about-ghs",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 25,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=83",
+                                "Value": {
+                                    "Number": [
+                                        83
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "NORMAN Suspect List Exchange Classification",
+                        "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+                        "URL": "https://www.norman-network.com/nds/SLE/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 27,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                                "Value": {
+                                    "Number": [
+                                        101
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "EPA DSSTox Classification",
+                        "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+                        "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 28,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                                "Value": {
+                                    "Number": [
+                                        105
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "EPA Substance Registry Services Tree",
+                        "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources. It is a resource for basic information about chemicals, biological organisms, and other substances of interest to EPA and its state and tribal partners. SRS makes it possible to identify which EPA data systems, environmental statutes, or other sources have information about a substance and which synonym is used by that system or statute.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 31,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=123",
+                                "Value": {
+                                    "Number": [
+                                        123
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Reference": [
+            {
+                "ReferenceNumber": 1,
+                "SourceName": "ChemIDplus",
+                "SourceID": "0007790218",
+                "Name": "Potassium periodate",
+                "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0007790218",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+                "IsToxnet": true,
+                "ANID": 823994
+            },
+            {
+                "ReferenceNumber": 4,
+                "SourceName": "EPA Chemicals under the TSCA",
+                "SourceID": "7790-21-8",
+                "Name": "Periodic acid (HIO4), potassium salt (1:1)",
+                "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulations under TSCA, including non-confidential content from the TSCA Chemical Substance Inventory and Chemical Data Reporting.",
+                "URL": "https://www.epa.gov/chemicals-under-tsca",
+                "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+                "ANID": 7751431
+            },
+            {
+                "ReferenceNumber": 5,
+                "SourceName": "EPA DSSTox",
+                "SourceID": "DTXSID90894076",
+                "Name": "Potassium periodate",
+                "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+                "URL": "https://comptox.epa.gov/dashboard/DTXSID90894076",
+                "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+                "ANID": 17768701
+            },
+            {
+                "ReferenceNumber": 7,
+                "SourceName": "European Chemicals Agency (ECHA)",
+                "SourceID": "232-196-0",
+                "Name": "Potassium periodate",
+                "Description": "The European Chemicals Agency (ECHA) is an agency of the European Union which is the driving force among regulatory authorities in implementing the EU's groundbreaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.",
+                "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.029.269",
+                "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+                "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+                "ANID": 2021286
+            },
+            {
+                "ReferenceNumber": 8,
+                "SourceName": "FDA Global Substance Registration System (GSRS)",
+                "SourceID": "Q3LOC6P66L",
+                "Name": "POTASSIUM PERIODATE",
+                "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+                "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/Q3LOC6P66L",
+                "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+                "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+                "ANID": 5825114
+            },
+            {
+                "ReferenceNumber": 2,
+                "SourceName": "Comparative Toxicogenomics Database (CTD)",
+                "SourceID": "C037192::Compound",
+                "Name": "potassium periodate",
+                "Description": "CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.",
+                "URL": "https://ctdbase.org/detail.go?type=chem&acc=C037192",
+                "LicenseNote": "It is to be used only for research and educational purposes. Any reproduction or use for commercial purpose is prohibited without the prior express written permission of NC State University.",
+                "LicenseURL": "http://ctdbase.org/about/legal.jsp",
+                "ANID": 9016031
+            },
+            {
+                "ReferenceNumber": 3,
+                "SourceName": "Crystallography Open Database (COD)",
+                "SourceID": "1537447",
+                "Description": "The Crystallography Open Database is an open-access collection of crystal structures of organic, inorganic, metal-organic compounds, and minerals, excluding biopolymers.",
+                "URL": "https://www.crystallography.net/cod/1537447.html",
+                "LicenseNote": "All data in the COD and the database itself are dedicated to the public domain and licensed under the CC0 License. Users of the data should acknowledge the original authors of the structural data.",
+                "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "ANID": 30588543
+            },
+            {
+                "ReferenceNumber": 9,
+                "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+                "SourceID": "hz8674",
+                "Name": "Potassium periodate",
+                "Description": "Haz-Map\u00ae is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+                "URL": "https://haz-map.com/Agents/8674",
+                "LicenseNote": "Copyright (c) 2022 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+                "LicenseURL": "https://haz-map.com/About",
+                "ANID": 17281243
+            },
+            {
+                "ReferenceNumber": 6,
+                "SourceName": "European Chemicals Agency (ECHA)",
+                "SourceID": "64217",
+                "Name": "Potassium periodate",
+                "Description": "The information provided here is aggregated from the \"Notified classification and labelling\" from ECHA's C&L Inventory. Read more: https://echa.europa.eu/information-on-chemicals/cl-inventory-database",
+                "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database/-/discli/details/64217",
+                "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+                "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+                "ANID": 1870025
+            },
+            {
+                "ReferenceNumber": 10,
+                "SourceName": "Japan Chemical Substance Dictionary (Nikkaji)",
+                "SourceID": "J43.936C",
+                "Description": "The Japan Chemical Substance Dictionary (Nikkaji) has a search system that helps obtain knowledge from dissimilar fields and discover concepts that cross boundaries of specializations.",
+                "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J43.936C",
+                "ANID": 21897928
+            },
+            {
+                "ReferenceNumber": 11,
+                "SourceName": "SpectraBase",
+                "SourceID": "FsHCSahk2ux",
+                "Name": "potassium metaperiodate",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/FsHCSahk2ux",
+                "ANID": 5093944
+            },
+            {
+                "ReferenceNumber": 12,
+                "SourceName": "SpectraBase",
+                "SourceID": "HI9ZrCW7Khn",
+                "Name": "POTASSIUM METAPERIODATE",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/HI9ZrCW7Khn",
+                "ANID": 5093945
+            },
+            {
+                "ReferenceNumber": 15,
+                "SourceName": "SpectraBase",
+                "SourceID": "E2f6QJLR74r",
+                "Name": "POTASSIUM PERIODATE",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/E2f6QJLR74r",
+                "ANID": 8153335
+            },
+            {
+                "ReferenceNumber": 13,
+                "SourceName": "SpectraBase",
+                "SourceID": "9oq7QOS8GZd",
+                "Name": "POTASSIUM (meta)PERIODATE",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/9oq7QOS8GZd",
+                "ANID": 8153331
+            },
+            {
+                "ReferenceNumber": 14,
+                "SourceName": "SpectraBase",
+                "SourceID": "2MhLHSeJ0It",
+                "Name": "POTASSIUM (meta)PERIODATE",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/2MhLHSeJ0It",
+                "ANID": 8153332
+            },
+            {
+                "ReferenceNumber": 16,
+                "SourceName": "Springer Nature",
+                "SourceID": "6055892-908918453",
+                "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=15745&sourceid=6055892-908918453",
+                "ANID": 3850499
+            },
+            {
+                "ReferenceNumber": 17,
+                "SourceName": "Thieme Chemistry",
+                "SourceID": "6055892-908918453",
+                "Description": "Thieme Chemistry is part of the privately owned Thieme Group and publishes highly evaluated information about synthetic and general chemistry for professional chemists and advanced students since 1909. \n \nOur portfolio includes the journals SYNFACTS, SYNLETT, SYNTHESIS and SynOpen, the synthetic methodology reference work Science of Synthesis, the German chemical encyclopedia ROEMPP, and monographs in electronic and printed format. The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=22163&sourceid=6055892-908918453",
+                "LicenseNote": "The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license, unless otherwise stated.",
+                "LicenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "ANID": 5756119
+            },
+            {
+                "ReferenceNumber": 18,
+                "SourceName": "Wikidata",
+                "SourceID": "Q417125",
+                "Name": "Potassium_periodate",
+                "Description": "Link to the compound information in Wikidata.",
+                "URL": "https://www.wikidata.org/wiki/Q417125",
+                "LicenseNote": "CCZero",
+                "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "ANID": 16293797
+            },
+            {
+                "ReferenceNumber": 19,
+                "SourceName": "Wikipedia",
+                "SourceID": "fm_1751",
+                "Name": "potassium periodate",
+                "Description": "Chemical information link to Wikipedia.",
+                "URL": "https://en.wikipedia.org/wiki/Potassium_periodate",
+                "ANID": 24319808
+            },
+            {
+                "ReferenceNumber": 20,
+                "SourceName": "Wiley",
+                "SourceID": "102523",
+                "Description": "Literature references related to scientific contents from Wiley. Read more: https://onlinelibrary.wiley.com/",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=wiley&sourceid=102523",
+                "ANID": 8287572
+            },
+            {
+                "ReferenceNumber": 21,
+                "SourceName": "PubChem",
+                "SourceID": "PubChem",
+                "Description": "Data deposited in or computed by PubChem",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov"
+            },
+            {
+                "ReferenceNumber": 22,
+                "SourceName": "Medical Subject Headings (MeSH)",
+                "SourceID": "67037192",
+                "Name": "potassium periodate",
+                "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+                "URL": "https://www.ncbi.nlm.nih.gov/mesh/67037192",
+                "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+            },
+            {
+                "ReferenceNumber": 23,
+                "SourceName": "Medical Subject Headings (MeSH)",
+                "SourceID": "DescTree",
+                "Name": "MeSH Tree",
+                "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+                "URL": "http://www.nlm.nih.gov/mesh/meshhome.html",
+                "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+            },
+            {
+                "ReferenceNumber": 25,
+                "SourceName": "UN Globally Harmonized System of Classification and Labelling of Chemicals (GHS)",
+                "SourceID": "UN_GHS_tree",
+                "Name": "GHS Classification Tree",
+                "Description": "The United Nations' Globally Harmonized System of Classification and Labeling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures. It sets up criteria for the classification of chemicals for physical-chemical, health, and environmental hazards of chemical substances and mixtures and sets up standardized hazard information to facilitate global trade of chemicals.  Please note that obsolete codes are added in this classification for completeness purposes, as they are still in use. Any obsolete codes are annotated as such.",
+                "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html"
+            },
+            {
+                "ReferenceNumber": 26,
+                "SourceName": "ChemIDplus",
+                "SourceID": "ChemIDplus_tree",
+                "Name": "ChemIDplus Chemical Information Classification",
+                "Description": "ChemIDplus is a TOXNET (TOXicology Data NETwork) databases that contain chemicals and drugs related information. It is a product of the National Library of Medicine (NLM).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/ChemIDplus",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+                "IsToxnet": true
+            },
+            {
+                "ReferenceNumber": 27,
+                "SourceName": "NORMAN Suspect List Exchange",
+                "SourceID": "norman_sle_tree",
+                "Name": "NORMAN Suspect List Exchange Classification",
+                "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.<br>Update: 2023-10-24 18:00:01",
+                "URL": "https://www.norman-network.com/nds/SLE/",
+                "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+                "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            {
+                "ReferenceNumber": 28,
+                "SourceName": "EPA DSSTox",
+                "SourceID": "dsstoxlist_tree",
+                "Name": "CompTox Chemicals Dashboard Chemical Lists",
+                "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.<br>Update: 2023-10-10 10:35:15",
+                "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+                "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+            },
+            {
+                "ReferenceNumber": 31,
+                "SourceName": "EPA Substance Registry Services",
+                "SourceID": "epasrs_tree",
+                "Name": "EPA SRS List Classification",
+                "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources. It is a resource for basic information about chemicals, biological organisms, and other substances of interest to EPA and its state and tribal partners. SRS makes it possible to identify which EPA data systems, environmental statutes, or other sources have information about a substance and which synonym is used by that system or statute.",
+                "URL": "https://sor.epa.gov/sor_internet/registry/substreg/LandingPage.do",
+                "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+            },
+            {
+                "ReferenceNumber": 32,
+                "SourceName": "PATENTSCOPE (WIPO)",
+                "Name": "SID 403381746",
+                "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/403381746"
+            }
+        ]
+    }
+}

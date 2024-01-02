@@ -22,3 +22,6 @@ PythonTools/qti/dp_qti.egg-info/top_level.txt
 PythonTools/qti/dp_qti.egg-info/SOURCES.txt
 PythonTools/qti/dp_qti.egg-info/requires.txt
 PythonTools/qti/dp_qti/__pycache__/sigfig.cpython-39.pyc
+PythonTools/canvas_integrations/config.txt
+PythonTools/canvas_integrations/COURSE_ID.txt
+PythonTools/canvas_integrations/course_507517_students.csv

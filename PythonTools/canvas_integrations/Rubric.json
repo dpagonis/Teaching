@@ -1,0 +1,144 @@
+{
+    "id": 643644,
+    "context_id": 570486,
+    "context_type": "Course",
+    "data": [
+        {
+            "id": "_5222",
+            "description": "Determine the 95% confidence intervals for the benzene and toluene concentrations (g/L) in the gasoline sample",
+            "long_description": null,
+            "points": 1.0,
+            "mastery_points": null,
+            "ignore_for_scoring": null,
+            "title": "Determine the 95% confidence intervals for the benzene and toluene concentrations (g/L) in the gasoline sample",
+            "criterion_use_range": null,
+            "ratings": [
+                {
+                    "description": "Full Marks",
+                    "long_description": null,
+                    "id": "blank",
+                    "criterion_id": "_5222",
+                    "points": 1.0
+                },
+                {
+                    "description": "No Marks",
+                    "long_description": null,
+                    "id": "blank_2",
+                    "criterion_id": "_5222",
+                    "points": 0.0
+                }
+            ]
+        },
+        {
+            "id": "_772",
+            "description": "Determine and report the retention times of two additional components of the gasoline sample",
+            "long_description": null,
+            "points": 1.0,
+            "mastery_points": null,
+            "ignore_for_scoring": null,
+            "title": "Determine and report the retention times of two additional components of the gasoline sample",
+            "criterion_use_range": null,
+            "ratings": [
+                {
+                    "description": "Full Marks",
+                    "long_description": null,
+                    "id": "_2090",
+                    "criterion_id": "_772",
+                    "points": 1.0
+                },
+                {
+                    "description": "No Marks",
+                    "long_description": null,
+                    "id": "_9713",
+                    "criterion_id": "_772",
+                    "points": 0.0
+                }
+            ]
+        },
+        {
+            "id": "_2377",
+            "description": "Summarize results in an informal report",
+            "long_description": null,
+            "points": 1.0,
+            "mastery_points": null,
+            "ignore_for_scoring": null,
+            "title": "Summarize results in an informal report",
+            "criterion_use_range": null,
+            "ratings": [
+                {
+                    "description": "Full Marks",
+                    "long_description": null,
+                    "id": "_3670",
+                    "criterion_id": "_2377",
+                    "points": 1.0
+                },
+                {
+                    "description": "No Marks",
+                    "long_description": null,
+                    "id": "_2529",
+                    "criterion_id": "_2377",
+                    "points": 0.0
+                }
+            ]
+        },
+        {
+            "id": "_714",
+            "description": "Maintain a high-quality lab notebook",
+            "long_description": null,
+            "points": 1.0,
+            "mastery_points": null,
+            "ignore_for_scoring": null,
+            "title": "Maintain a high-quality lab notebook",
+            "criterion_use_range": null,
+            "ratings": [
+                {
+                    "description": "Full Marks",
+                    "long_description": null,
+                    "id": "_3738",
+                    "criterion_id": "_714",
+                    "points": 1.0
+                },
+                {
+                    "description": "No Marks",
+                    "long_description": null,
+                    "id": "_7656",
+                    "criterion_id": "_714",
+                    "points": 0.0
+                }
+            ]
+        }
+    ],
+    "points_possible": 4.0,
+    "title": "GCMS Quant (1)",
+    "reusable": false,
+    "public": false,
+    "read_only": false,
+    "free_form_criterion_comments": false,
+    "hide_score_total": false,
+    "associations": [
+        {
+            "id": 1270493,
+            "rubric_id": 643644,
+            "association_id": 570486,
+            "association_type": "Course",
+            "use_for_grading": false,
+            "summary_data": null,
+            "purpose": "unknown",
+            "hide_score_total": null,
+            "hide_points": false,
+            "hide_outcome_results": false
+        },
+        {
+            "id": 1270517,
+            "rubric_id": 643644,
+            "association_id": 5908032,
+            "association_type": "Assignment",
+            "use_for_grading": true,
+            "summary_data": null,
+            "purpose": "grading",
+            "hide_score_total": false,
+            "hide_points": false,
+            "hide_outcome_results": false
+        }
+    ]
+}

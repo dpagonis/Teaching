@@ -1,6 +1,7 @@
 import requests
 import json
 import time
+import pandas as pd
 
 # Constants
 BASE_URL = "https://weber.instructure.com/api/v1"
@@ -13,8 +14,8 @@ HEADERS = {
     "Authorization": f"Bearer {API_TOKEN}"
 }
 
-course_id = 570517 #input("Enter the course ID: ")
-quiz_id = 1434880 #input("Enter the quiz ID: ")
+course_id = 570486 #input("Enter the course ID: ")
+quiz_id = 1453468 #input("Enter the quiz ID: ")
 
 
 # Disable the default headers set by `requests` by creating a Session

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Attendance Tracker</title>
+    <meta http-equiv="refresh" content="1"> <!-- Auto-refresh every 5 seconds -->
+</head>
+<body>
+    <h1>Attendance Count: {{ count }}</h1>
+    <h2>Recent Check-ins:</h2>
+    <ul>
+        {% for student in recent_students %}
+            <li>{{ student }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

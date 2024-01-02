@@ -1,0 +1,39 @@
+Methane
+Ethane
+Propane
+Butane
+Pentane
+Hexane
+Ethene
+Propene
+Butene
+Benzene
+Toluene
+Phenol
+Aniline
+Ethanol
+Propanol
+Butanol
+Acetone
+Acetic Acid
+Formic Acid
+Urea
+Glucose
+Fructose
+Sucrose
+Starch
+Cellulose
+Glycine
+Alanine
+Valine
+Aspartic Acid
+Lysine
+Acrylonitrile
+Insulin
+Caffeine
+Nicotine
+Cocaine
+Cannabidiol
+Ibuprofen
+Aspirin
+Acetaminophen
