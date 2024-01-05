@@ -6,23 +6,40 @@ import os
 
 from dp_qti.makeqti import *
 from dp_qti import sf
+from dp_qti.units import units
 
-from random import randint
 
 def generate_question():
-    question_type = 'short_answer'
+    question_type = 'numerical_tolerance'
 
     question_options = [
-        '{tex};answer'
+        'Convert {area} {u1}<sup>2</sup> to {u2}<sup>2</sup>. There are {conv_factor} {u1} in one {u2}.;answer',
+        'Rewrite {area} {u1}<sup>2</sup> in units of {u2}<sup>2</sup>, given that there are {conv_factor} {u1} per {u2}.;answer',
+        'A square has an area of {area} {u1}<sup>2</sup>. There are {conv_factor} {u1} in one {u2}. What is the area of the square in {u2}<sup>2</sup>?;answer',
+        'Convert the following to {u2}<sup>2</sup>: {area} {u1}<sup>2</sup><br>There are {conv_factor} {u1} in one {u2}.;answer'
     ]
 
-    x = randint(-3,4)
-    answer = sf(str(10**x),1).as_num()
-    if float(answer) < 1:
-        answer += ';' + answer[1:]
-    tex = create_mattext_element('10^{'+str(x)+'}=')
+    pairs = [
+        ('cm','in'),
+        ('m','mi'),
+        ('mm','ft')
+    ]
 
+    u1,u2 = random.choice(pairs)
 
+    conv_factor = units(u2).to_si_factor / units(u1).to_si_factor
+
+    area_1 = sf.random_value((1e5,1e8),(2,3),True,u1+'2')
+    
+    if 'e' in str(area_1):
+        base, exponent = str(area_1).split('e')
+        exponent = exponent.replace('+', '')  # Remove the plus sign if it exists
+        area = f'{base}x10<sup>{exponent}</sup>'
+    else:
+        area = str(area_1)
+    area_2=area_1.convert_to(u2+'2')
+    answer = f'{area_2};{2*10**area_2.last_decimal_place}'
+    
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)
     question_row = random.choice(question_options) if len(question_options) > 1 else question_options[0]

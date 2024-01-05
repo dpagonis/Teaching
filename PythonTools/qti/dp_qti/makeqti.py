@@ -370,7 +370,7 @@ def handle_numerical_tolerance_question(row, item, index):
     presentation = etree.SubElement(item, "presentation")
     material = etree.SubElement(presentation, "material")
     mattext = etree.SubElement(material, "mattext", attrib={"texttype": "text/html"})
-    mattext.text = html.escape(row['question'])
+    mattext.text = row['question']
 
     response_str = etree.SubElement(presentation, "response_str", attrib={"ident": "response1", "rcardinality": "Single"})
     render_fib = etree.SubElement(response_str, "render_fib", attrib={"fibtype": "Decimal"})
@@ -383,15 +383,17 @@ def handle_numerical_tolerance_question(row, item, index):
     
     respcondition = etree.SubElement(resprocessing, "respcondition", attrib={"continue": "No"})
     conditionvar = etree.SubElement(respcondition, "conditionvar")
-    answers = row['correct_answers'].split(';')
-    or_elem = etree.SubElement(conditionvar, "or")
-    for ans in answers:
-        value, tolerance = ans.split(':')
-        and_elem = etree.SubElement(or_elem, "and")
-        vargte = etree.SubElement(and_elem, "vargte", attrib={"respident": "response1"})
-        vargte.text = str(float(value) - float(tolerance))
-        varlte = etree.SubElement(and_elem, "varlte", attrib={"respident": "response1"})
-        varlte.text = str(float(value) + float(tolerance))
+    answer = row['correct_answers']
+    value, tolerance = answer.split(';')
+    lower_bound = str(float(value) - float(tolerance))
+    upper_bound = str(float(value) + float(tolerance))
+    respcondition = etree.SubElement(resprocessing, "respcondition", attrib={"continue": "No"})
+    conditionvar = etree.SubElement(respcondition, "conditionvar")
+    vargte = etree.SubElement(conditionvar, "vargte", attrib={"respident": "response1"})
+    vargte.text = lower_bound
+    varlte = etree.SubElement(conditionvar, "varlte", attrib={"respident": "response1"})
+    varlte.text = upper_bound
+    # Set the score for this condition
     setvar = etree.SubElement(respcondition, "setvar", attrib={"action": "Set", "varname": "SCORE"})
     setvar.text = "100"
 

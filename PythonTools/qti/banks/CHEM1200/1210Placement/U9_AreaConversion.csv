@@ -1,0 +1,1001 @@
+question,correct_answers,question_type
+Convert 1.72x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.67e4;200,numerical_tolerance
+"Rewrite 7.93x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.23e5;2000,numerical_tolerance
+"Rewrite 1.1x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.42;0.02,numerical_tolerance
+"Rewrite 7.0x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.1e7;2000000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.3x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,14;2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.7x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,30.;2,numerical_tolerance
+Convert 7.7x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.2e6;200000,numerical_tolerance
+A square has an area of 1.29x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,139;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.5x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.6;0.2,numerical_tolerance
+A square has an area of 5.1x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,2.0;0.2,numerical_tolerance
+Convert 1.26x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,4.86;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.16x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,233;2,numerical_tolerance
+"Rewrite 2.93x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",315;2,numerical_tolerance
+Convert 2.99x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.63e6;20000,numerical_tolerance
+Convert 3.5x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,14;2,numerical_tolerance
+Convert 3.7x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.4;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.03x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.71;0.02,numerical_tolerance
+"Rewrite 2.24x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.47e4;200,numerical_tolerance
+"Rewrite 3.5x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",3.8;0.2,numerical_tolerance
+A square has an area of 1.6x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.7;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.6x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,7.1e5;20000,numerical_tolerance
+Convert 4.07x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,43.8;0.2,numerical_tolerance
+"Rewrite 5.30x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.22e4;200,numerical_tolerance
+"Rewrite 2.59x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",27.9;0.2,numerical_tolerance
+A square has an area of 6.87x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,739;2,numerical_tolerance
+"Rewrite 8.1x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.3e7;2000000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 4.4x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,470;20,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.5x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.6;0.2,numerical_tolerance
+"Rewrite 4.8x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",7.4e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.7x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,180;20,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.96x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,2.11;0.02,numerical_tolerance
+A square has an area of 2.39x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.923;0.002,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 8.8x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,34;2,numerical_tolerance
+"Rewrite 1.4x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.2e5;20000,numerical_tolerance
+A square has an area of 3.3x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,360;20,numerical_tolerance
+Convert 1.79x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.0691;0.0002,numerical_tolerance
+Convert 4.1x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.6;0.2,numerical_tolerance
+"Rewrite 4.22x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",4.54;0.02,numerical_tolerance
+A square has an area of 7.7x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,3.0;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.60x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,7.13e4;200,numerical_tolerance
+Convert 8.3x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.3e5;20000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 9.2x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,36;2,numerical_tolerance
+Convert 1.1x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.7e5;20000,numerical_tolerance
+Convert 8.40x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,90.4;0.2,numerical_tolerance
+A square has an area of 2.50x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.69;0.02,numerical_tolerance
+Convert 4.46x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,6.91e4;200,numerical_tolerance
+A square has an area of 5.15x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.98e4;200,numerical_tolerance
+"Rewrite 4.9x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",7.6e4;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.41x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,5.44;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.55x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,5.98;0.02,numerical_tolerance
+A square has an area of 2.05x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.792;0.002,numerical_tolerance
+"Rewrite 6.98x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",27.0;0.2,numerical_tolerance
+A square has an area of 6.4x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,9.9e4;2000,numerical_tolerance
+A square has an area of 8.77x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,94.4;0.2,numerical_tolerance
+Convert 8.02x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,3.10;0.02,numerical_tolerance
+"Rewrite 2.5x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.9e4;2000,numerical_tolerance
+"Rewrite 3.6x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",39;2,numerical_tolerance
+A square has an area of 3.11x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,12.0;0.2,numerical_tolerance
+A square has an area of 1.38x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.0533;0.0002,numerical_tolerance
+A square has an area of 2.73x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.94;0.02,numerical_tolerance
+A square has an area of 5.8x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,22;2,numerical_tolerance
+"Rewrite 7.52x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",8.09;0.02,numerical_tolerance
+A square has an area of 6.60x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.255;0.002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.3x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,140;20,numerical_tolerance
+A square has an area of 2.7x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.10;0.02,numerical_tolerance
+A square has an area of 7.94x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.23e7;200000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 5.75x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.22;0.02,numerical_tolerance
+Convert 6.3x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,2.4;0.2,numerical_tolerance
+"Rewrite 2.85x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",4.42e4;200,numerical_tolerance
+"Rewrite 1.1x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.42;0.02,numerical_tolerance
+A square has an area of 4.56x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,49.1;0.2,numerical_tolerance
+"Rewrite 6.50x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",70.0;0.2,numerical_tolerance
+Convert 7.3x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.28;0.02,numerical_tolerance
+"Rewrite 7.43x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.15e6;20000,numerical_tolerance
+A square has an area of 2.6x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.8;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.54x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,38.1;0.2,numerical_tolerance
+A square has an area of 3.8x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,5.9e5;20000,numerical_tolerance
+A square has an area of 1.33x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,5.14;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.62x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,605;2,numerical_tolerance
+A square has an area of 5.2x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,56;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.7x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,180;20,numerical_tolerance
+"Rewrite 1.88x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.91e4;200,numerical_tolerance
+Convert 1.41x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.544;0.002,numerical_tolerance
+"Rewrite 1.35x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",145;2,numerical_tolerance
+Convert 7.41x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.15e6;20000,numerical_tolerance
+A square has an area of 1.9x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.73;0.02,numerical_tolerance
+Convert 2.5x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.9e5;20000,numerical_tolerance
+A square has an area of 2.18x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.0842;0.0002,numerical_tolerance
+"Rewrite 1.18x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",12.7;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 8.4x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.3e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.7x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,29;2,numerical_tolerance
+Convert 5.35x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,57.6;0.2,numerical_tolerance
+A square has an area of 1.13x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.0436;0.0002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.1x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.2;0.2,numerical_tolerance
+A square has an area of 1.3x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,140;20,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.12x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.21;0.02,numerical_tolerance
+"Rewrite 1.61x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.50e6;20000,numerical_tolerance
+A square has an area of 6.0x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,9.3e5;20000,numerical_tolerance
+Convert 7.04x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,7.58;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 3.40x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,1.31;0.02,numerical_tolerance
+"Rewrite 5.7x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",22;2,numerical_tolerance
+Convert 7.6x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,2.9;0.2,numerical_tolerance
+"Rewrite 2.2x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.4e6;200000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.51x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,6.99e6;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.7x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,5.7e6;200000,numerical_tolerance
+A square has an area of 1.2x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.3;0.2,numerical_tolerance
+A square has an area of 3.5x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,38;2,numerical_tolerance
+A square has an area of 1.7x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,180;20,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.3x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,250;20,numerical_tolerance
+Convert 4.8x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.4e4;2000,numerical_tolerance
+Convert 8.5x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,91;2,numerical_tolerance
+A square has an area of 1.11x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.72e5;2000,numerical_tolerance
+A square has an area of 4.63x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,498;2,numerical_tolerance
+"Rewrite 8.9x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",960;20,numerical_tolerance
+Convert 1.9x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,7.3;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.3x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,14;2,numerical_tolerance
+Convert 1.18x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,12.7;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 4.03x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,15.6;0.2,numerical_tolerance
+A square has an area of 1.65x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.56e4;200,numerical_tolerance
+"Rewrite 1.5x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",1.6;0.2,numerical_tolerance
+A square has an area of 6.0x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,2.3;0.2,numerical_tolerance
+Convert 1.02x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.58e4;200,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 9.84x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,10.6;0.2,numerical_tolerance
+A square has an area of 2.2x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.4e5;20000,numerical_tolerance
+A square has an area of 1.67x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,6.45;0.02,numerical_tolerance
+A square has an area of 3.9x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,42;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.5x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.3e4;2000,numerical_tolerance
+Convert 6.12x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,2.36;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 6.01x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,9.32e5;2000,numerical_tolerance
+"Rewrite 6.92x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",745;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 8.18x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.27e7;200000,numerical_tolerance
+Convert 1.5x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,16;2,numerical_tolerance
+Convert 7.4x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.29;0.02,numerical_tolerance
+Convert 2.9x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.5e6;200000,numerical_tolerance
+A square has an area of 2.3x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.089;0.002,numerical_tolerance
+"Rewrite 5.58x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",60.1;0.2,numerical_tolerance
+Convert 6.06x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,65.2;0.2,numerical_tolerance
+A square has an area of 4.03x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.156;0.002,numerical_tolerance
+A square has an area of 3.93x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,15.2;0.2,numerical_tolerance
+Convert 5.84x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,9.05e4;200,numerical_tolerance
+Convert 1.3x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.50;0.02,numerical_tolerance
+Convert 3.72x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.77e5;2000,numerical_tolerance
+A square has an area of 1.72x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.85;0.02,numerical_tolerance
+A square has an area of 1.67x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.59e6;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.2x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,34;2,numerical_tolerance
+"Rewrite 9.04x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",3.49;0.02,numerical_tolerance
+Convert 1.1x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,4.2;0.2,numerical_tolerance
+Convert 1.27x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.490;0.002,numerical_tolerance
+"Rewrite 2.1x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.3e6;200000,numerical_tolerance
+A square has an area of 6.68x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.04e6;20000,numerical_tolerance
+A square has an area of 2.8x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,11;2,numerical_tolerance
+Convert 5.55x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,8.60e5;2000,numerical_tolerance
+"Rewrite 2.1x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.081;0.002,numerical_tolerance
+A square has an area of 3.84x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,5.95e6;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.2x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,240;20,numerical_tolerance
+"Rewrite 4.3x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.7e5;20000,numerical_tolerance
+"Rewrite 8.16x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.315;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.1x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.3e6;200000,numerical_tolerance
+"Rewrite 3.1x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",3.3;0.2,numerical_tolerance
+A square has an area of 4.2x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,6.5e4;2000,numerical_tolerance
+"Rewrite 1.9x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.9e5;20000,numerical_tolerance
+"Rewrite 4.52x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",7.01e6;20000,numerical_tolerance
+Convert 4.38x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.69;0.02,numerical_tolerance
+Convert 1.7x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,18;2,numerical_tolerance
+"Rewrite 2.1x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.3e5;20000,numerical_tolerance
+Convert 4.70x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.29e4;200,numerical_tolerance
+Convert 7.8x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,30.;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.68x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.60e5;2000,numerical_tolerance
+Convert 1.18x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,4.56;0.02,numerical_tolerance
+"Rewrite 6.4x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",690;20,numerical_tolerance
+Convert 2.02x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,217;2,numerical_tolerance
+"Rewrite 3.9x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.0e4;2000,numerical_tolerance
+"Rewrite 1.15x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",124;2,numerical_tolerance
+"Rewrite 3.4x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",1.3;0.2,numerical_tolerance
+Convert 9.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.4e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.49x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,69.9;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 9.0x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,3.5;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 6.2x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.4;0.2,numerical_tolerance
+A square has an area of 1.25x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.94e5;2000,numerical_tolerance
+A square has an area of 6.7x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,7.2;0.2,numerical_tolerance
+A square has an area of 3.02x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,32.5;0.2,numerical_tolerance
+"Rewrite 2.42x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",9.34;0.02,numerical_tolerance
+Convert 2.2x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.4e6;200000,numerical_tolerance
+A square has an area of 5.3x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,8.2e4;2000,numerical_tolerance
+A square has an area of 3.1x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.8e4;2000,numerical_tolerance
+Convert 7.99x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,30.8;0.2,numerical_tolerance
+A square has an area of 7.95x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.23e7;200000,numerical_tolerance
+Convert 3.6x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,390;20,numerical_tolerance
+A square has an area of 2.44x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.78e4;200,numerical_tolerance
+Convert 2.7x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.2e4;2000,numerical_tolerance
+A square has an area of 8.1x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,8.7;0.2,numerical_tolerance
+Convert 2.7x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.2e4;2000,numerical_tolerance
+"Rewrite 1.17x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",126;2,numerical_tolerance
+"Rewrite 8.90x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.38e5;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.02x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.780;0.002,numerical_tolerance
+Convert 1.2x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,130;20,numerical_tolerance
+Convert 1.44x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,155;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.78x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,192;2,numerical_tolerance
+Convert 2.38x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.69e4;200,numerical_tolerance
+"Rewrite 6.85x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.06e5;2000,numerical_tolerance
+A square has an area of 2.07x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,223;2,numerical_tolerance
+A square has an area of 8.81x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,34.0;0.2,numerical_tolerance
+A square has an area of 6.1x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,9.5e5;20000,numerical_tolerance
+A square has an area of 6.5x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,25;2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.87x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,30.4;0.2,numerical_tolerance
+A square has an area of 2.8x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.3e6;200000,numerical_tolerance
+Convert 1.5x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.3e5;20000,numerical_tolerance
+Convert 4.46x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.72;0.02,numerical_tolerance
+"Rewrite 1.2x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",1.3;0.2,numerical_tolerance
+A square has an area of 1.92x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,20.7;0.2,numerical_tolerance
+A square has an area of 4.28x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,46.1;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.5x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,5.8;0.2,numerical_tolerance
+Convert 1.2x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.9e6;200000,numerical_tolerance
+A square has an area of 2.87x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.45e5;2000,numerical_tolerance
+A square has an area of 2.08x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.803;0.002,numerical_tolerance
+"Rewrite 9.7x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",37;2,numerical_tolerance
+A square has an area of 1.03x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,111;2,numerical_tolerance
+A square has an area of 1.55x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.598;0.002,numerical_tolerance
+"Rewrite 3.46x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",3.72;0.02,numerical_tolerance
+Convert 1.78x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,6.87;0.02,numerical_tolerance
+"Rewrite 1.57x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.43e6;20000,numerical_tolerance
+A square has an area of 4.93x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.64e5;2000,numerical_tolerance
+A square has an area of 1.31x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.506;0.002,numerical_tolerance
+Convert 1.33x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.06e5;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 8.5x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.3e7;2000000,numerical_tolerance
+A square has an area of 8.94x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.39e7;200000,numerical_tolerance
+A square has an area of 1.0x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,11;2,numerical_tolerance
+Convert 3.07x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,330.;2,numerical_tolerance
+A square has an area of 5.8x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,6.2;0.2,numerical_tolerance
+Convert 8.9x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.4e7;2000000,numerical_tolerance
+A square has an area of 2.52x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.91e6;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.1x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.2;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.0x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,27;2,numerical_tolerance
+Convert 1.1x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.7e4;2000,numerical_tolerance
+"Rewrite 1.01x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",10.9;0.2,numerical_tolerance
+Convert 1.91x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.0737;0.0002,numerical_tolerance
+A square has an area of 2.83x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,30.5;0.2,numerical_tolerance
+Convert 5.9x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,640;20,numerical_tolerance
+"Rewrite 8.28x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",8.91;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.8x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,410;20,numerical_tolerance
+"Rewrite 2.1x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.3e4;2000,numerical_tolerance
+A square has an area of 2.43x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,262;2,numerical_tolerance
+Convert 4.71x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.30e6;20000,numerical_tolerance
+Convert 7.3x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.1e7;2000000,numerical_tolerance
+A square has an area of 1.29x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,139;2,numerical_tolerance
+"Rewrite 2.9x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",1.1;0.2,numerical_tolerance
+Convert 1.54x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.66;0.02,numerical_tolerance
+Convert 1.6x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,170;20,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.4x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,26;2,numerical_tolerance
+A square has an area of 5.2x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,8.1e4;2000,numerical_tolerance
+A square has an area of 3.5x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.14;0.02,numerical_tolerance
+Convert 9.04x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,97.3;0.2,numerical_tolerance
+Convert 1.4x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,15;2,numerical_tolerance
+"Rewrite 6.0x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",650;20,numerical_tolerance
+A square has an area of 7.5x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.29;0.02,numerical_tolerance
+Convert 6.2x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,9.6e4;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 5.5x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.1;0.2,numerical_tolerance
+Convert 5.91x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,2.28;0.02,numerical_tolerance
+A square has an area of 5.28x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,20.4;0.2,numerical_tolerance
+"Rewrite 7.21x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",7.76;0.02,numerical_tolerance
+Convert 6.9x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,2.7;0.2,numerical_tolerance
+Convert 2.3x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.6e5;20000,numerical_tolerance
+Convert 2.32x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.896;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 9.5x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.5e5;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.1x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,4.8e6;200000,numerical_tolerance
+"Rewrite 2.4x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",2.6;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.59x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,386;2,numerical_tolerance
+Convert 2.8x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.3e4;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 9.78x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.52e7;200000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.2x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.9e5;20000,numerical_tolerance
+"Rewrite 1.1x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",12;2,numerical_tolerance
+"Rewrite 1.0x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.6e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.10x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.18;0.02,numerical_tolerance
+A square has an area of 2.8x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.3e6;200000,numerical_tolerance
+Convert 2.5x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.9e4;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.79x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.77e5;2000,numerical_tolerance
+"Rewrite 9.8x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.5e6;200000,numerical_tolerance
+"Rewrite 3.6x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.6e5;20000,numerical_tolerance
+A square has an area of 9.2x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,3.6;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.7x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.6e4;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.49x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,5.75;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 8.0x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.31;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 5.27x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,20.3;0.2,numerical_tolerance
+A square has an area of 1.1x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.42;0.02,numerical_tolerance
+Convert 8.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.3e6;200000,numerical_tolerance
+"Rewrite 1.10x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.0425;0.0002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.4x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,3.7;0.2,numerical_tolerance
+A square has an area of 9.05x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.349;0.002,numerical_tolerance
+Convert 5.5x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,8.5e4;2000,numerical_tolerance
+"Rewrite 6.71x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",72.2;0.2,numerical_tolerance
+"Rewrite 1.9x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",7.3;0.2,numerical_tolerance
+"Rewrite 1.59x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.46e5;2000,numerical_tolerance
+Convert 8.7x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,94;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.8x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,19;2,numerical_tolerance
+A square has an area of 1.6x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,17;2,numerical_tolerance
+Convert 1.67x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.645;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.54x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.94e5;2000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.0x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,320;20,numerical_tolerance
+Convert 7.9x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.2e7;2000000,numerical_tolerance
+"Rewrite 4.7x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.18;0.02,numerical_tolerance
+"Rewrite 4.72x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",7.32e6;20000,numerical_tolerance
+A square has an area of 6.94x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,26.8;0.2,numerical_tolerance
+"Rewrite 1.2x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.9e6;200000,numerical_tolerance
+Convert 1.6x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,170;20,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 6.2x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.4;0.2,numerical_tolerance
+"Rewrite 3.61x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.139;0.002,numerical_tolerance
+Convert 2.0x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,220;20,numerical_tolerance
+"Rewrite 4.66x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",502;2,numerical_tolerance
+A square has an area of 9.42x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,10.1;0.2,numerical_tolerance
+Convert 7.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.1e6;200000,numerical_tolerance
+Convert 1.2x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.9e6;200000,numerical_tolerance
+Convert 7.7x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.2e7;2000000,numerical_tolerance
+"Rewrite 3.2x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",12;2,numerical_tolerance
+Convert 1.51x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,16.3;0.2,numerical_tolerance
+Convert 5.22x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,20.2;0.2,numerical_tolerance
+Convert 7.4x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.1e5;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.8x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,5.9e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.18x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,665;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.5x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,7.0e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.1x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.2;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.30x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,5.12e4;200,numerical_tolerance
+A square has an area of 3.5x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.14;0.02,numerical_tolerance
+Convert 7.64x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,29.5;0.2,numerical_tolerance
+Convert 1.7x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,18;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.12x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.74e4;200,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 9.3x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,3.6;0.2,numerical_tolerance
+Convert 3.31x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,12.8;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.36x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,146;2,numerical_tolerance
+A square has an area of 1.3x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,140;20,numerical_tolerance
+"Rewrite 1.55x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.40e5;2000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.54x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,2.73;0.02,numerical_tolerance
+A square has an area of 1.09x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,117;2,numerical_tolerance
+Convert 9.1x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.4e5;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.6x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.5e6;200000,numerical_tolerance
+"Rewrite 3.12x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",33.6;0.2,numerical_tolerance
+"Rewrite 5.7x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.8e5;20000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 9.1x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,3.5;0.2,numerical_tolerance
+"Rewrite 6.04x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.233;0.002,numerical_tolerance
+"Rewrite 2.99x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",4.63e5;2000,numerical_tolerance
+A square has an area of 1.7x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.066;0.002,numerical_tolerance
+A square has an area of 7.7x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,8.3;0.2,numerical_tolerance
+Convert 1.36x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,5.25;0.02,numerical_tolerance
+"Rewrite 8.36x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.323;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.0x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.6e4;2000,numerical_tolerance
+A square has an area of 3.7x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,5.7e4;2000,numerical_tolerance
+Convert 1.34x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.08e4;200,numerical_tolerance
+"Rewrite 9.98x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",3.85;0.02,numerical_tolerance
+"Rewrite 4.03x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",43.4;0.2,numerical_tolerance
+A square has an area of 1.04x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.61e6;20000,numerical_tolerance
+Convert 2.49x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.86e4;200,numerical_tolerance
+"Rewrite 7.8x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.2e6;200000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 5.39x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.208;0.002,numerical_tolerance
+A square has an area of 6.0x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,9.3e5;20000,numerical_tolerance
+Convert 5.83x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,9.04e5;2000,numerical_tolerance
+A square has an area of 7.74x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,833;2,numerical_tolerance
+Convert 1.08x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,11.6;0.2,numerical_tolerance
+Convert 5.37x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,20.7;0.2,numerical_tolerance
+Convert 3.13x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,337;2,numerical_tolerance
+"Rewrite 3.49x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",13.5;0.2,numerical_tolerance
+A square has an area of 2.1x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,23;2,numerical_tolerance
+Convert 8.79x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.339;0.002,numerical_tolerance
+Convert 2.3x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.89;0.02,numerical_tolerance
+"Rewrite 3.3x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.1e5;20000,numerical_tolerance
+"Rewrite 3.2x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",12;2,numerical_tolerance
+"Rewrite 3.76x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",40.5;0.2,numerical_tolerance
+Convert 1.1x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,120;20,numerical_tolerance
+Convert 1.04x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.61e4;200,numerical_tolerance
+A square has an area of 1.9x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.73;0.02,numerical_tolerance
+"Rewrite 1.23x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.475;0.002,numerical_tolerance
+Convert 1.22x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.89e6;20000,numerical_tolerance
+Convert 1.27x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.0490;0.0002,numerical_tolerance
+"Rewrite 8.9x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",960;20,numerical_tolerance
+Convert 1.84x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.85e6;20000,numerical_tolerance
+"Rewrite 1.10x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.71e5;2000,numerical_tolerance
+A square has an area of 3.55x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,1.37;0.02,numerical_tolerance
+Convert 2.2x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,240;20,numerical_tolerance
+A square has an area of 2.06x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,222;2,numerical_tolerance
+Convert 9.8x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,38;2,numerical_tolerance
+"Rewrite 4.11x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",44.2;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.14x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,6.61;0.02,numerical_tolerance
+"Rewrite 1.3x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.050;0.002,numerical_tolerance
+A square has an area of 8.43x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.31e7;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 8.06x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,8.68;0.02,numerical_tolerance
+"Rewrite 2.0x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",7.7;0.2,numerical_tolerance
+"Rewrite 7.1x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",760;20,numerical_tolerance
+Convert 1.9x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.9e6;200000,numerical_tolerance
+Convert 1.5x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,160;20,numerical_tolerance
+Convert 5.75x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,8.91e5;2000,numerical_tolerance
+A square has an area of 6.35x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,684;2,numerical_tolerance
+Convert 2.8x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.1;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.13x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,2.29;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.27x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,6.62e4;200,numerical_tolerance
+A square has an area of 5.88x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,63.3;0.2,numerical_tolerance
+Convert 3.66x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.67e5;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.60x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.48e5;2000,numerical_tolerance
+"Rewrite 4.4x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",1.7;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.3x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.6e6;200000,numerical_tolerance
+"Rewrite 7.13x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.275;0.002,numerical_tolerance
+A square has an area of 3.2x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,34;2,numerical_tolerance
+"Rewrite 4.0x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.2e6;200000,numerical_tolerance
+"Rewrite 6.10x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",9.46e6;20000,numerical_tolerance
+"Rewrite 2.0x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",2.2;0.2,numerical_tolerance
+A square has an area of 3.1x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.8e4;2000,numerical_tolerance
+A square has an area of 1.47x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,15.8;0.2,numerical_tolerance
+Convert 4.32x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,46.5;0.2,numerical_tolerance
+Convert 2.2x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.085;0.002,numerical_tolerance
+Convert 2.36x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.0911;0.0002,numerical_tolerance
+Convert 7.9x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.2e6;200000,numerical_tolerance
+A square has an area of 1.4x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.2e4;2000,numerical_tolerance
+Convert 7.3x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.1e6;200000,numerical_tolerance
+Convert 3.81x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.91e6;20000,numerical_tolerance
+Convert 1.1x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,120;20,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.81x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.81e5;2000,numerical_tolerance
+"Rewrite 5.32x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.25e5;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.48x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.0571;0.0002,numerical_tolerance
+"Rewrite 2.14x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.826;0.002,numerical_tolerance
+Convert 1.14x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.77e4;200,numerical_tolerance
+"Rewrite 9.3x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.4e5;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.0x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.1e6;200000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.2x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.85;0.02,numerical_tolerance
+A square has an area of 1.41x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.19e4;200,numerical_tolerance
+"Rewrite 1.48x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",1.59;0.02,numerical_tolerance
+"Rewrite 4.93x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",7.64e5;2000,numerical_tolerance
+Convert 1.05x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,4.05;0.02,numerical_tolerance
+Convert 2.17x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.36e6;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.0x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,32;2,numerical_tolerance
+A square has an area of 4.79x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,51.6;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 9.70x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.50e6;20000,numerical_tolerance
+Convert 7.7x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.2e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.3x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,36;2,numerical_tolerance
+Convert 5.2x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,8.1e6;200000,numerical_tolerance
+"Rewrite 5.1x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",550;20,numerical_tolerance
+A square has an area of 3.45x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,3.71;0.02,numerical_tolerance
+Convert 3.73x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.78e4;200,numerical_tolerance
+Convert 1.94x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.01e6;20000,numerical_tolerance
+Convert 1.1x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.2;0.2,numerical_tolerance
+"Rewrite 1.22x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",13.1;0.2,numerical_tolerance
+Convert 4.26x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,6.60e5;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 3.13x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,12.1;0.2,numerical_tolerance
+"Rewrite 2.5x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.097;0.002,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.19x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.0459;0.0002,numerical_tolerance
+Convert 3.12x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.20;0.02,numerical_tolerance
+A square has an area of 1.2x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.46;0.02,numerical_tolerance
+A square has an area of 3.2x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,340;20,numerical_tolerance
+Convert 5.10x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.91e4;200,numerical_tolerance
+A square has an area of 9.0x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,35;2,numerical_tolerance
+A square has an area of 2.1x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.3e4;2000,numerical_tolerance
+A square has an area of 6.45x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,2.49;0.02,numerical_tolerance
+A square has an area of 2.8x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.11;0.02,numerical_tolerance
+A square has an area of 2.4x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.6;0.2,numerical_tolerance
+Convert 5.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,8.1e5;20000,numerical_tolerance
+Convert 2.81x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.108;0.002,numerical_tolerance
+"Rewrite 8.66x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.334;0.002,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 6.9x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.7;0.2,numerical_tolerance
+"Rewrite 1.14x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.77e4;200,numerical_tolerance
+"Rewrite 5.96x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",9.24e5;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.0x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.1e4;2000,numerical_tolerance
+"Rewrite 1.3x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.50;0.02,numerical_tolerance
+"Rewrite 1.94x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",209;2,numerical_tolerance
+Convert 6.19x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,23.9;0.2,numerical_tolerance
+"Rewrite 1.5x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",160;20,numerical_tolerance
+"Rewrite 1.0x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",3.9;0.2,numerical_tolerance
+"Rewrite 2.4x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.093;0.002,numerical_tolerance
+Convert 1.60x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.48e5;2000,numerical_tolerance
+"Rewrite 8.7x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",34;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.84x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,4.40e6;20000,numerical_tolerance
+"Rewrite 5.9x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",9.1e5;20000,numerical_tolerance
+Convert 6.62x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.256;0.002,numerical_tolerance
+Convert 4.5x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.0e4;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.1x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,27;2,numerical_tolerance
+"Rewrite 2.0x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",220;20,numerical_tolerance
+Convert 1.5x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.3e5;20000,numerical_tolerance
+"Rewrite 2.6x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",28;2,numerical_tolerance
+"Rewrite 1.59x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",171;2,numerical_tolerance
+Convert 2.18x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.38e5;2000,numerical_tolerance
+Convert 1.5x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.3e5;20000,numerical_tolerance
+A square has an area of 5.7x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,6.1;0.2,numerical_tolerance
+"Rewrite 1.2x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",4.6;0.2,numerical_tolerance
+Convert 1.13x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.22;0.02,numerical_tolerance
+Convert 3.1x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.8e5;20000,numerical_tolerance
+Convert 8.3x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.32;0.02,numerical_tolerance
+Convert 1.85x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,199;2,numerical_tolerance
+Convert 6.91x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.07e6;20000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.04x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.402;0.002,numerical_tolerance
+A square has an area of 1.27x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.97e5;2000,numerical_tolerance
+Convert 2.8x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.3e4;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.5x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.97;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.3x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.6e4;2000,numerical_tolerance
+A square has an area of 7.01x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.09e7;200000,numerical_tolerance
+A square has an area of 1.1x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,12;2,numerical_tolerance
+"Rewrite 6.16x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",6.63;0.02,numerical_tolerance
+Convert 1.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.9e5;20000,numerical_tolerance
+A square has an area of 1.89x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.03;0.02,numerical_tolerance
+Convert 3.6x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.6e5;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.85x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,4.42e5;2000,numerical_tolerance
+Convert 9.40x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.46e5;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.3x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.6e5;20000,numerical_tolerance
+A square has an area of 3.25x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,350.;2,numerical_tolerance
+"Rewrite 9.80x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",3.78;0.02,numerical_tolerance
+"Rewrite 3.6x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.14;0.02,numerical_tolerance
+"Rewrite 5.0x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",7.8e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.2x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,240;20,numerical_tolerance
+Convert 4.5x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.0e4;2000,numerical_tolerance
+A square has an area of 1.2x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.046;0.002,numerical_tolerance
+"Rewrite 5.33x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",57.4;0.2,numerical_tolerance
+Convert 8.2x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.32;0.02,numerical_tolerance
+A square has an area of 1.6x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.7;0.2,numerical_tolerance
+Convert 5.20x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,56.0;0.2,numerical_tolerance
+Convert 1.98x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.0764;0.0002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.5x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.3e6;200000,numerical_tolerance
+A square has an area of 1.5x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.6;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.57x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.992;0.002,numerical_tolerance
+Convert 3.39x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,365;2,numerical_tolerance
+A square has an area of 1.2x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.046;0.002,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 4.3x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.17;0.02,numerical_tolerance
+"Rewrite 3.9x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",4.2;0.2,numerical_tolerance
+"Rewrite 2.8x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.11;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 8.44x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.31e6;20000,numerical_tolerance
+"Rewrite 3.98x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",1.54;0.02,numerical_tolerance
+A square has an area of 5.17x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,2.00;0.02,numerical_tolerance
+A square has an area of 7.04x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,758;2,numerical_tolerance
+Convert 3.61x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,389;2,numerical_tolerance
+Convert 8.94x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,3.45;0.02,numerical_tolerance
+Convert 2.58x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.00e6;20000,numerical_tolerance
+Convert 7.1x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.1e6;200000,numerical_tolerance
+Convert 1.39x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.50;0.02,numerical_tolerance
+A square has an area of 3.5x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,380;20,numerical_tolerance
+"Rewrite 2.24x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.47e5;2000,numerical_tolerance
+"Rewrite 9.91x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",1070;20,numerical_tolerance
+Convert 3.03x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.70e5;2000,numerical_tolerance
+A square has an area of 8.9x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,9.6;0.2,numerical_tolerance
+Convert 3.3x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.1e6;200000,numerical_tolerance
+"Rewrite 2.6x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",10.;2,numerical_tolerance
+"Rewrite 1.17x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.0452;0.0002,numerical_tolerance
+A square has an area of 2.22x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.0857;0.0002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.59x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,171;2,numerical_tolerance
+"Rewrite 5.64x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.74e4;200,numerical_tolerance
+"Rewrite 4.28x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.63e5;2000,numerical_tolerance
+A square has an area of 4.2x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,1.6;0.2,numerical_tolerance
+A square has an area of 3.9x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,6.0e4;2000,numerical_tolerance
+A square has an area of 1.98x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.07e4;200,numerical_tolerance
+Convert 3.67x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.69e6;20000,numerical_tolerance
+A square has an area of 8.4x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,3.2;0.2,numerical_tolerance
+Convert 3.2x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,34;2,numerical_tolerance
+Convert 1.46x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.564;0.002,numerical_tolerance
+Convert 2.1x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.3e6;200000,numerical_tolerance
+A square has an area of 2.05x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.18e4;200,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.8x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.69;0.02,numerical_tolerance
+A square has an area of 5.15x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.199;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.13x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,4.85e6;20000,numerical_tolerance
+Convert 3.84x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.48;0.02,numerical_tolerance
+"Rewrite 3.9x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.0e4;2000,numerical_tolerance
+"Rewrite 3.4x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",13;2,numerical_tolerance
+Convert 3.3x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,36;2,numerical_tolerance
+Convert 1.1x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.7e4;2000,numerical_tolerance
+Convert 1.2x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,13;2,numerical_tolerance
+A square has an area of 1.1x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,4.2;0.2,numerical_tolerance
+Convert 2.9x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,3.1;0.2,numerical_tolerance
+A square has an area of 4.85x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,5.22;0.02,numerical_tolerance
+"Rewrite 2.9x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",310;20,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.11x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.0815;0.0002,numerical_tolerance
+A square has an area of 1.9x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.9e6;200000,numerical_tolerance
+Convert 6.8x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,26;2,numerical_tolerance
+A square has an area of 6.7x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.26;0.02,numerical_tolerance
+Convert 1.6x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.7;0.2,numerical_tolerance
+"Rewrite 2.7x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",290;20,numerical_tolerance
+A square has an area of 5.5x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,590;20,numerical_tolerance
+Convert 9.1x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,35;2,numerical_tolerance
+A square has an area of 1.65x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.0637;0.0002,numerical_tolerance
+Convert 4.1x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.6;0.2,numerical_tolerance
+"Rewrite 1.8x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.69;0.02,numerical_tolerance
+"Rewrite 1.07x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.66e4;200,numerical_tolerance
+"Rewrite 1.5x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",160;20,numerical_tolerance
+Convert 1.3x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.050;0.002,numerical_tolerance
+Convert 7.27x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,783;2,numerical_tolerance
+A square has an area of 1.17x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.26;0.02,numerical_tolerance
+Convert 1.23x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.475;0.002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.32x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,14.2;0.2,numerical_tolerance
+Convert 2.4x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.7e4;2000,numerical_tolerance
+A square has an area of 1.81x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.81e4;200,numerical_tolerance
+A square has an area of 7.99x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.24e6;20000,numerical_tolerance
+A square has an area of 1.8x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.8e4;2000,numerical_tolerance
+Convert 4.61x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.15e5;2000,numerical_tolerance
+"Rewrite 2.73x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",29.4;0.2,numerical_tolerance
+"Rewrite 3.99x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.18e5;2000,numerical_tolerance
+Convert 1.18x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.83e6;20000,numerical_tolerance
+"Rewrite 3.4x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",37;2,numerical_tolerance
+Convert 2.1x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.3e4;2000,numerical_tolerance
+A square has an area of 6.09x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,2.35;0.02,numerical_tolerance
+A square has an area of 2.7x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.2e5;20000,numerical_tolerance
+"Rewrite 2.01x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.776;0.002,numerical_tolerance
+Convert 2.4x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.93;0.02,numerical_tolerance
+"Rewrite 5.65x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",2.18;0.02,numerical_tolerance
+Convert 1.98x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,21.3;0.2,numerical_tolerance
+Convert 1.1x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.042;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 8.60x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.33e6;20000,numerical_tolerance
+Convert 2.2x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,2.4;0.2,numerical_tolerance
+A square has an area of 7.0x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,7.5;0.2,numerical_tolerance
+A square has an area of 2.31x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,24.9;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.50x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,2.69;0.02,numerical_tolerance
+A square has an area of 1.43x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.54;0.02,numerical_tolerance
+Convert 1.53x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,16.5;0.2,numerical_tolerance
+"Rewrite 3.3x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.13;0.02,numerical_tolerance
+Convert 6.6x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,71;2,numerical_tolerance
+"Rewrite 1.2x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.46;0.02,numerical_tolerance
+"Rewrite 1.05x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.63e4;200,numerical_tolerance
+"Rewrite 1.3x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",14;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.35x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,6.74e5;2000,numerical_tolerance
+Convert 9.7x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,37;2,numerical_tolerance
+Convert 1.9x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.9e6;200000,numerical_tolerance
+"Rewrite 3.88x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",418;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 9.7x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,10.;2,numerical_tolerance
+Convert 1.6x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.5e5;20000,numerical_tolerance
+Convert 2.1x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,8.1;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.9x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,74;2,numerical_tolerance
+A square has an area of 7.4x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,8.0e2;20,numerical_tolerance
+Convert 4.6x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,50.;2,numerical_tolerance
+A square has an area of 2.23x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.861;0.002,numerical_tolerance
+A square has an area of 4.90x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.189;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 7.2x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.1e5;20000,numerical_tolerance
+A square has an area of 8.28x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.28e5;2000,numerical_tolerance
+A square has an area of 1.3x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,140;20,numerical_tolerance
+"Rewrite 3.68x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.70e5;2000,numerical_tolerance
+Convert 1.9x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.073;0.002,numerical_tolerance
+Convert 1.26x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,136;2,numerical_tolerance
+Convert 2.50x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.88e4;200,numerical_tolerance
+Convert 1.9x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,2.0e2;20,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.8x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,19;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.12x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,12.1;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.9x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,4.2;0.2,numerical_tolerance
+A square has an area of 1.9x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.9e4;2000,numerical_tolerance
+A square has an area of 1.12x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,12.1;0.2,numerical_tolerance
+Convert 1.3x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.0e5;20000,numerical_tolerance
+"Rewrite 1.3x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",1.4;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.5x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.97;0.02,numerical_tolerance
+A square has an area of 1.6x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.5e5;20000,numerical_tolerance
+Convert 4.40x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,6.82e4;200,numerical_tolerance
+Convert 2.4x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.7e6;200000,numerical_tolerance
+"Rewrite 5.98x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",6.44;0.02,numerical_tolerance
+"Rewrite 4.2x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",450;20,numerical_tolerance
+"Rewrite 7.1x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.1e6;200000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.1x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.7e5;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.14x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,230.;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.8x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.9;0.2,numerical_tolerance
+Convert 4.84x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.87;0.02,numerical_tolerance
+A square has an area of 2.94x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,11.4;0.2,numerical_tolerance
+Convert 4.76x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,5.12;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.70x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,72.1;0.2,numerical_tolerance
+Convert 3.3x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.1e4;2000,numerical_tolerance
+A square has an area of 7.97x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.308;0.002,numerical_tolerance
+A square has an area of 5.4x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,2.1;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 5.4x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,8.4e4;2000,numerical_tolerance
+A square has an area of 1.57x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,16.9;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.04x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.16e4;200,numerical_tolerance
+"Rewrite 3.43x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.32e5;2000,numerical_tolerance
+Convert 3.4x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.3;0.2,numerical_tolerance
+"Rewrite 3.28x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",35.3;0.2,numerical_tolerance
+Convert 9.94x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.54e5;2000,numerical_tolerance
+Convert 1.09x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.421;0.002,numerical_tolerance
+Convert 1.57x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.606;0.002,numerical_tolerance
+A square has an area of 5.5x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,8.5e5;20000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 3.05x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,1.18;0.02,numerical_tolerance
+"Rewrite 2.90x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.112;0.002,numerical_tolerance
+A square has an area of 4.09x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,1.58;0.02,numerical_tolerance
+Convert 9.6x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.37;0.02,numerical_tolerance
+Convert 9.52x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.48e5;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.0x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,4.7e4;2000,numerical_tolerance
+A square has an area of 2.06x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.22;0.02,numerical_tolerance
+Convert 2.3x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,2.5;0.2,numerical_tolerance
+A square has an area of 4.4x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,6.8e6;200000,numerical_tolerance
+"Rewrite 5.11x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",5.50;0.02,numerical_tolerance
+A square has an area of 2.34x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.52;0.02,numerical_tolerance
+Convert 9.5x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,37;2,numerical_tolerance
+A square has an area of 2.4x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,26;2,numerical_tolerance
+Convert 1.5x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.58;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.76x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,7.38e4;200,numerical_tolerance
+Convert 5.7x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,2.2;0.2,numerical_tolerance
+"Rewrite 1.0x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",11;2,numerical_tolerance
+"Rewrite 1.0x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.039;0.002,numerical_tolerance
+Convert 4.12x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,443;2,numerical_tolerance
+"Rewrite 7.5x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.29;0.02,numerical_tolerance
+Convert 1.0x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.1;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.57x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,169;2,numerical_tolerance
+"Rewrite 1.73x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",18.6;0.2,numerical_tolerance
+Convert 3.55x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.50e5;2000,numerical_tolerance
+"Rewrite 4.1x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",440;20,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.9x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,640;20,numerical_tolerance
+"Rewrite 7.4x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.1e6;200000,numerical_tolerance
+"Rewrite 1.43x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",15.4;0.2,numerical_tolerance
+A square has an area of 6.1x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,660;20,numerical_tolerance
+A square has an area of 2.5x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,2.7;0.2,numerical_tolerance
+A square has an area of 3.17x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,3.41;0.02,numerical_tolerance
+"Rewrite 4.87x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",52.4;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.3x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,140;20,numerical_tolerance
+"Rewrite 3.81x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.91e5;2000,numerical_tolerance
+Convert 4.6x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,18;2,numerical_tolerance
+Convert 7.53x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,81.1;0.2,numerical_tolerance
+A square has an area of 5.20x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,20.1;0.2,numerical_tolerance
+A square has an area of 1.03x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.60e4;200,numerical_tolerance
+A square has an area of 4.8x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,5.2;0.2,numerical_tolerance
+A square has an area of 1.9x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.9e5;20000,numerical_tolerance
+A square has an area of 1.4x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.2e5;20000,numerical_tolerance
+A square has an area of 1.6x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.5e6;200000,numerical_tolerance
+A square has an area of 2.1x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.3e4;2000,numerical_tolerance
+"Rewrite 2.26x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",2.43;0.02,numerical_tolerance
+A square has an area of 7.1x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,27;2,numerical_tolerance
+Convert 3.2x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.0e4;2000,numerical_tolerance
+Convert 8.57x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.33e7;200000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 7.17x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.11e5;2000,numerical_tolerance
+A square has an area of 2.63x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.08e5;2000,numerical_tolerance
+Convert 9.92x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,107;2,numerical_tolerance
+"Rewrite 1.9x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.073;0.002,numerical_tolerance
+"Rewrite 1.7x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.066;0.002,numerical_tolerance
+"Rewrite 2.3x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.89;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.9x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,6.4;0.2,numerical_tolerance
+"Rewrite 4.2x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.5e6;200000,numerical_tolerance
+"Rewrite 3.7x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",40.;2,numerical_tolerance
+A square has an area of 1.11x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.72e5;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.3x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.089;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.4x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.7e6;200000,numerical_tolerance
+A square has an area of 4.6x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,50.;2,numerical_tolerance
+Convert 1.4x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.54;0.02,numerical_tolerance
+"Rewrite 9.53x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",10.3;0.2,numerical_tolerance
+A square has an area of 1.4x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,5.4;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.50x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.0965;0.0002,numerical_tolerance
+Convert 2.3x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,2.5;0.2,numerical_tolerance
+"Rewrite 1.66x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",6.41;0.02,numerical_tolerance
+"Rewrite 2.1x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.3e5;20000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.06x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,4.09;0.02,numerical_tolerance
+Convert 4.9x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.6e5;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.57x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,2.77;0.02,numerical_tolerance
+A square has an area of 9.7x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.0e2;20,numerical_tolerance
+Convert 1.4x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.5;0.2,numerical_tolerance
+A square has an area of 2.4x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.7e4;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.3x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,5.1e6;200000,numerical_tolerance
+"Rewrite 3.27x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",3.52;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.64x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,3.92;0.02,numerical_tolerance
+"Rewrite 1.7x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",180;20,numerical_tolerance
+A square has an area of 1.07x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,115;2,numerical_tolerance
+A square has an area of 2.9x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,11;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 7.21x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,7.76;0.02,numerical_tolerance
+Convert 9.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.4e6;200000,numerical_tolerance
+"Rewrite 6.3x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.24;0.02,numerical_tolerance
+Convert 2.78x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.07;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 8.61x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.33e6;20000,numerical_tolerance
+"Rewrite 2.21x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",8.53;0.02,numerical_tolerance
+"Rewrite 8.02x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",86.3;0.2,numerical_tolerance
+"Rewrite 2.7x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",4.2e4;2000,numerical_tolerance
+Convert 1.69x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,6.53;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 5.9x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,23;2,numerical_tolerance
+"Rewrite 5.4x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.4e6;200000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 3.5x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,1.4;0.2,numerical_tolerance
+Convert 5.51x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,8.54e4;200,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.57x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.98e6;20000,numerical_tolerance
+Convert 1.4x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,150;20,numerical_tolerance
+"Rewrite 2.2x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.4e5;20000,numerical_tolerance
+A square has an area of 3.7x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,5.7e6;200000,numerical_tolerance
+A square has an area of 8.7x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,9.4;0.2,numerical_tolerance
+A square has an area of 2.03x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.784;0.002,numerical_tolerance
+"Rewrite 2.79x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.108;0.002,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.28x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.81;0.02,numerical_tolerance
+A square has an area of 3.05x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,328;2,numerical_tolerance
+A square has an area of 5.3x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,8.2e6;200000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 9.97x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.55e6;20000,numerical_tolerance
+Convert 8.93x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,961;2,numerical_tolerance
+A square has an area of 1.7x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,180;20,numerical_tolerance
+A square has an area of 9.3x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.0e2;20,numerical_tolerance
+"Rewrite 1.5x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.3e4;2000,numerical_tolerance
+Convert 1.12x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.432;0.002,numerical_tolerance
+A square has an area of 2.82x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,30.4;0.2,numerical_tolerance
+"Rewrite 2.0x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.1e4;2000,numerical_tolerance
+A square has an area of 9.0x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.35;0.02,numerical_tolerance
+"Rewrite 7.0x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",75;2,numerical_tolerance
+A square has an area of 4.8x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.4e5;20000,numerical_tolerance
+"Rewrite 1.07x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.413;0.002,numerical_tolerance
+Convert 9.80x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,10.5;0.2,numerical_tolerance
+"Rewrite 3.8x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",15;2,numerical_tolerance
+Convert 3.11x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,33.5;0.2,numerical_tolerance
+A square has an area of 1.1x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,1.2;0.2,numerical_tolerance
+A square has an area of 3.8x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,1.5;0.2,numerical_tolerance
+"Rewrite 1.07x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.66e5;2000,numerical_tolerance
+"Rewrite 1.34x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",5.17;0.02,numerical_tolerance
+A square has an area of 1.9x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.9e4;2000,numerical_tolerance
+A square has an area of 1.86x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,200.;2,numerical_tolerance
+Convert 1.2x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,13;2,numerical_tolerance
+"Rewrite 5.8x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",22;2,numerical_tolerance
+A square has an area of 8.0x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.2e7;2000000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.8x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,6.9;0.2,numerical_tolerance
+A square has an area of 2.32x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,250.;2,numerical_tolerance
+Convert 3.0x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,320;20,numerical_tolerance
+"Rewrite 2.3x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",8.9;0.2,numerical_tolerance
+Convert 3.2x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,5.0e4;2000,numerical_tolerance
+"Rewrite 1.01x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.57e4;200,numerical_tolerance
+A square has an area of 4.45x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,479;2,numerical_tolerance
+Convert 2.7x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,29;2,numerical_tolerance
+"Rewrite 5.42x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.40e5;2000,numerical_tolerance
+A square has an area of 4.73x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.33e4;200,numerical_tolerance
+Convert 1.20x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.463;0.002,numerical_tolerance
+A square has an area of 9.67x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,10.4;0.2,numerical_tolerance
+Convert 3.57x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,3.84;0.02,numerical_tolerance
+Convert 2.24x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.47e6;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.7x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,2.9;0.2,numerical_tolerance
+Convert 8.17x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.27e5;2000,numerical_tolerance
+Convert 6.01x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.232;0.002,numerical_tolerance
+Convert 6.2x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.24;0.02,numerical_tolerance
+Convert 6.77x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,2.61;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.83x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,7.07;0.02,numerical_tolerance
+Convert 5.1x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,7.9e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.2x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.3;0.2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 7.65x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,823;2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.59x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.93;0.02,numerical_tolerance
+A square has an area of 3.7x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,5.7e5;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.2x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,24;2,numerical_tolerance
+A square has an area of 8.54x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,919;2,numerical_tolerance
+"Rewrite 3.39x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",36.5;0.2,numerical_tolerance
+"Rewrite 1.09x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.0421;0.0002,numerical_tolerance
+"Rewrite 4.3x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",6.7e4;2000,numerical_tolerance
+Convert 6.6x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.25;0.02,numerical_tolerance
+"Rewrite 1.7x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",180;20,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.0x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,7.7;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.39x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,5.37;0.02,numerical_tolerance
+A square has an area of 9.3x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,36;2,numerical_tolerance
+A square has an area of 5.1x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.9e4;2000,numerical_tolerance
+A square has an area of 5.9x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,23;2,numerical_tolerance
+Convert 1.4x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,150;20,numerical_tolerance
+"Rewrite 2.4x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",260;20,numerical_tolerance
+"Rewrite 2.7x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",4.2e4;2000,numerical_tolerance
+Convert 1.62x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.0625;0.0002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.83x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,73.5;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 9.56x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.369;0.002,numerical_tolerance
+Convert 1.87x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,7.22;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.36x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.911;0.002,numerical_tolerance
+"Rewrite 3.00x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",4.65e6;20000,numerical_tolerance
+Convert 1.88x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,2.02;0.02,numerical_tolerance
+"Rewrite 3.1x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",4.8e4;2000,numerical_tolerance
+Convert 3.11x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.82e4;200,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.8x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,6.2;0.2,numerical_tolerance
+"Rewrite 3.1x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",4.8e6;200000,numerical_tolerance
+"Rewrite 1.63x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",175;2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.11x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.72e5;2000,numerical_tolerance
+Convert 5.32x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,8.25e5;2000,numerical_tolerance
+A square has an area of 4.3x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,17;2,numerical_tolerance
+Convert 9.3x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,36;2,numerical_tolerance
+A square has an area of 1.4x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.2e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.19x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,12.8;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.69x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,2.97;0.02,numerical_tolerance
+"Rewrite 3.13x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.121;0.002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.3x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,14;2,numerical_tolerance
+"Rewrite 2.1x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.081;0.002,numerical_tolerance
+"Rewrite 3.0x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",3.2;0.2,numerical_tolerance
+Convert 4.3x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.17;0.02,numerical_tolerance
+"Rewrite 6.2x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",670;20,numerical_tolerance
+Convert 8.1x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,8.7;0.2,numerical_tolerance
+A square has an area of 8.9x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.4e5;20000,numerical_tolerance
+Convert 2.92x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,3.14;0.02,numerical_tolerance
+A square has an area of 2.2x10<sup>7</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,240;20,numerical_tolerance
+A square has an area of 5.89x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,63.4;0.2,numerical_tolerance
+A square has an area of 4.6x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.1e5;20000,numerical_tolerance
+A square has an area of 9.5x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.5e5;20000,numerical_tolerance
+Convert 1.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.9e5;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 2.8x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,3.0e2;20,numerical_tolerance
+Convert 3.9x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,1.5;0.2,numerical_tolerance
+"Rewrite 1.2x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.046;0.002,numerical_tolerance
+"Rewrite 4.6x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",1.8;0.2,numerical_tolerance
+A square has an area of 2.05x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.0792;0.0002,numerical_tolerance
+Convert 7.36x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,792;2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 3.76x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.145;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.1x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,6.4e5;20000,numerical_tolerance
+Convert 2.13x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,229;2,numerical_tolerance
+Convert 9.8x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.5e5;20000,numerical_tolerance
+"Rewrite 1.71x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.0660;0.0002,numerical_tolerance
+Convert 1.2x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.3;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 7.4x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.29;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.29x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.00e6;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.0x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,540;20,numerical_tolerance
+"Rewrite 1.37x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.12e6;20000,numerical_tolerance
+Convert 1.22x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.89e4;200,numerical_tolerance
+A square has an area of 9.19x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,98.9;0.2,numerical_tolerance
+Convert 1.4x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.2e5;20000,numerical_tolerance
+Convert 1.7x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.066;0.002,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.2x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,4.6;0.2,numerical_tolerance
+"Rewrite 5.1x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",550;20,numerical_tolerance
+Convert 2.2x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.4e5;20000,numerical_tolerance
+Convert 1.99x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,7.68;0.02,numerical_tolerance
+A square has an area of 5.5x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,59;2,numerical_tolerance
+A square has an area of 9.0x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,97;2,numerical_tolerance
+"Rewrite 9.62x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.371;0.002,numerical_tolerance
+Convert 1.1x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.42;0.02,numerical_tolerance
+Convert 1.06x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.0409;0.0002,numerical_tolerance
+Convert 5.61x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,604;2,numerical_tolerance
+Convert 5.56x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,59.8;0.2,numerical_tolerance
+"Rewrite 2.64x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",10.2;0.2,numerical_tolerance
+"Rewrite 1.0x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.6e4;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.2x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,5.0e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.3x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,1.4;0.2,numerical_tolerance
+A square has an area of 1.3x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.0e5;20000,numerical_tolerance
+A square has an area of 3.71x10<sup>5</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,3.99;0.02,numerical_tolerance
+"Rewrite 7.0x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.1e7;2000000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.9x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,42;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.68x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,61.1;0.2,numerical_tolerance
+"Rewrite 2.4x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.93;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 3.3x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,5.1e6;200000,numerical_tolerance
+A square has an area of 2.2x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,24;2,numerical_tolerance
+"Rewrite 1.60x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",6.18;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 3.94x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,4.24;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.6x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,7.1e5;20000,numerical_tolerance
+"Rewrite 1.62x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",2.51e5;2000,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 8.2x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,32;2,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.0x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,110;20,numerical_tolerance
+"Rewrite 3.5x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.4e5;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.32x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,680.;2,numerical_tolerance
+Convert 3.1x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.8e4;2000,numerical_tolerance
+A square has an area of 1.4x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,2.2e6;200000,numerical_tolerance
+"Rewrite 3.32x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.15e6;20000,numerical_tolerance
+A square has an area of 2.80x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,1.08;0.02,numerical_tolerance
+"Rewrite 5.41x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.209;0.002,numerical_tolerance
+A square has an area of 6.9x10<sup>5</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,0.27;0.02,numerical_tolerance
+"Rewrite 3.24x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",1.25;0.02,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.73x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.68e4;200,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 2.04x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,7.88;0.02,numerical_tolerance
+A square has an area of 6.03x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,9.35e4;200,numerical_tolerance
+A square has an area of 2.1x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,3.3e5;20000,numerical_tolerance
+A square has an area of 3.0x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.7e5;20000,numerical_tolerance
+Convert 1.05x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.405;0.002,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 3.58x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.138;0.002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.81x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,19.5;0.2,numerical_tolerance
+"Rewrite 5.2x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.1e6;200000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 8.95x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.39e5;2000,numerical_tolerance
+"Rewrite 4.7x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",5.1;0.2,numerical_tolerance
+Convert 1.85x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.714;0.002,numerical_tolerance
+Convert 1.19x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,128;2,numerical_tolerance
+"Rewrite 7.0x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.1e7;2000000,numerical_tolerance
+Convert 3.9x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,6.0e6;200000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 6.2x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,670;20,numerical_tolerance
+"Rewrite 2.06x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",222;2,numerical_tolerance
+A square has an area of 8.7x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,34;2,numerical_tolerance
+A square has an area of 6.1x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,9.5e4;2000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.44x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,3.78e6;20000,numerical_tolerance
+Convert 9.03x10<sup>5</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,0.349;0.002,numerical_tolerance
+"Rewrite 4.0x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",430;20,numerical_tolerance
+A square has an area of 4.18x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,1.61;0.02,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.4x10<sup>5</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,5.8;0.2,numerical_tolerance
+A square has an area of 4.65x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.21e6;20000,numerical_tolerance
+Convert 2.68x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,10.3;0.2,numerical_tolerance
+"Rewrite 2.77x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.107;0.002,numerical_tolerance
+Convert 4.45x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,6.90e6;20000,numerical_tolerance
+Convert 7.89x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,8.49;0.02,numerical_tolerance
+"Rewrite 1.94x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",209;2,numerical_tolerance
+"Rewrite 3.7x10<sup>7</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",14;2,numerical_tolerance
+"Rewrite 3.5x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.4e5;20000,numerical_tolerance
+Convert 8.95x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,96.3;0.2,numerical_tolerance
+Convert 2.7x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,29;2,numerical_tolerance
+Convert 9.61x10<sup>6</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,3.71;0.02,numerical_tolerance
+"Rewrite 3.7x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",5.7e6;200000,numerical_tolerance
+"Rewrite 3.6x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.14;0.02,numerical_tolerance
+A square has an area of 4.5x10<sup>6</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,7.0e5;20000,numerical_tolerance
+"Rewrite 4.31x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",4.64;0.02,numerical_tolerance
+"Rewrite 6.6x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.0e5;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 9.6x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,1.5e6;200000,numerical_tolerance
+A square has an area of 2.8x10<sup>7</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,4.3e6;200000,numerical_tolerance
+"Rewrite 2.4x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",2.6;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 6.1x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,9.5e5;20000,numerical_tolerance
+Convert 2.60x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,4.03e6;20000,numerical_tolerance
+"Rewrite 7.65x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",823;2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 3.6x10<sup>7</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,14;2,numerical_tolerance
+A square has an area of 3.4x10<sup>6</sup> mm<sup>2</sup>. There are 304.8 mm in one ft. What is the area of the square in ft<sup>2</sup>?,37;2,numerical_tolerance
+"Rewrite 1.13x10<sup>5</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",1.75e4;200,numerical_tolerance
+"Rewrite 2.5x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",3.9e5;20000,numerical_tolerance
+Convert the following to in<sup>2</sup>: 1.9x10<sup>7</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,2.9e6;200000,numerical_tolerance
+A square has an area of 1.6x10<sup>7</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,6.2;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.31x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.506;0.002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.4x10<sup>6</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,15;2,numerical_tolerance
+"Rewrite 2.8x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",1.1;0.2,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.0x10<sup>6</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.39;0.02,numerical_tolerance
+A square has an area of 3.67x10<sup>6</sup> m<sup>2</sup>. There are 1609.34 m in one mi. What is the area of the square in mi<sup>2</sup>?,1.42;0.02,numerical_tolerance
+"Rewrite 4.6x10<sup>7</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",7.1e6;200000,numerical_tolerance
+Convert 6.4x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,690;20,numerical_tolerance
+Convert 1.6x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.5e4;2000,numerical_tolerance
+"Rewrite 3.15x10<sup>5</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",3.39;0.02,numerical_tolerance
+A square has an area of 8.2x10<sup>5</sup> cm<sup>2</sup>. There are 2.54 cm in one in. What is the area of the square in in<sup>2</sup>?,1.3e5;20000,numerical_tolerance
+Convert 1.66x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.57e4;200,numerical_tolerance
+Convert 2.1x10<sup>7</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,3.3e6;200000,numerical_tolerance
+"Rewrite 9.62x10<sup>6</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",3.71;0.02,numerical_tolerance
+Convert the following to mi<sup>2</sup>: 1.0x10<sup>5</sup> m<sup>2</sup><br>There are 1609.34 m in one mi.,0.039;0.002,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 1.73x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,186;2,numerical_tolerance
+Convert 1.6x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,1.7;0.2,numerical_tolerance
+Convert 1.2x10<sup>7</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,130;20,numerical_tolerance
+Convert 2.4x10<sup>6</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,26;2,numerical_tolerance
+Convert 8.14x10<sup>7</sup> m<sup>2</sup> to mi<sup>2</sup>. There are 1609.34 m in one mi.,31.4;0.2,numerical_tolerance
+"Rewrite 6.53x10<sup>6</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",70.3;0.2,numerical_tolerance
+Convert the following to in<sup>2</sup>: 2.93x10<sup>6</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,4.54e5;2000,numerical_tolerance
+Convert 1.78x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,2.76e4;200,numerical_tolerance
+Convert 8.89x10<sup>6</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.38e6;20000,numerical_tolerance
+"Rewrite 7.10x10<sup>5</sup> m<sup>2</sup> in units of mi<sup>2</sup>, given that there are 1609.34 m per mi.",0.274;0.002,numerical_tolerance
+Convert the following to in<sup>2</sup>: 4.6x10<sup>5</sup> cm<sup>2</sup><br>There are 2.54 cm in one in.,7.1e4;2000,numerical_tolerance
+"Rewrite 1.56x10<sup>7</sup> mm<sup>2</sup> in units of ft<sup>2</sup>, given that there are 304.8 mm per ft.",168;2,numerical_tolerance
+Convert 2.55x10<sup>5</sup> mm<sup>2</sup> to ft<sup>2</sup>. There are 304.8 mm in one ft.,2.74;0.02,numerical_tolerance
+Convert 7.3x10<sup>5</sup> cm<sup>2</sup> to in<sup>2</sup>. There are 2.54 cm in one in.,1.1e5;20000,numerical_tolerance
+"Rewrite 5.6x10<sup>6</sup> cm<sup>2</sup> in units of in<sup>2</sup>, given that there are 2.54 cm per in.",8.7e5;20000,numerical_tolerance
+Convert the following to ft<sup>2</sup>: 5.49x10<sup>7</sup> mm<sup>2</sup><br>There are 304.8 mm in one ft.,591;2,numerical_tolerance

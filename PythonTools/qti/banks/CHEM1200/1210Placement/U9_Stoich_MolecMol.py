@@ -6,22 +6,45 @@ import os
 
 from dp_qti.makeqti import *
 from dp_qti import sf
+from dp_qti.periodictable import periodictable
 
-from random import randint
+PT = periodictable()
 
 def generate_question():
-    question_type = 'short_answer'
+    question_type = 'numerical_tolerance'
 
     question_options = [
-        '{tex};answer'
+        'How many moles are in {N_fmt} atoms of {name}?;answer_n',
+        'A sample of {name} has {N_fmt} atoms. How many moles of {name} are in the sample?;answer_n',
+        'How many atoms are in {n_fmt} moles of {name}?;answer_N',
+        'A sample containes {n_fmt} moles of a compound. How many atoms are present in the sample?;answer_N'
     ]
 
-    x = randint(-3,4)
-    answer = sf(str(10**x),1).as_num()
-    if float(answer) < 1:
-        answer += ';' + answer[1:]
-    tex = create_mattext_element('10^{'+str(x)+'}=')
+    while True:
+        element = PT.random(weighted=True)
+        name = element['name']
+        if not (element['atomic_number'] in [1,7,8,9,17,35,53,85,117]): # no diatomics to avoid confusion
+            break
+    
+    N = sf.random_value((1e20,1e26),(2,4),True,'molecules')
+    n = N.convert_to('mol')
 
+    N_fmt = str(N)
+    if 'e' in str(N):
+        base, exponent = N_fmt.split('e')
+        exponent = exponent.replace('+', '')  # Remove the plus sign if it exists
+        N_fmt = f'{base}x10<sup>{exponent}</sup>'
+
+    n_fmt = str(n)
+    if 'e' in str(n):
+        base, exponent = n_fmt.split('e')
+        exponent = exponent.replace('+', '')  # Remove the plus sign if it exists
+        n_fmt = f'{base}x10<sup>{exponent}</sup>'
+        
+    tol_n = 2*10**(n.last_decimal_place)
+    answer_n = f'{n};{tol_n}'
+    tol_N = 2*10**(N.last_decimal_place)
+    answer_N = f'{N};{tol_N}'
 
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)

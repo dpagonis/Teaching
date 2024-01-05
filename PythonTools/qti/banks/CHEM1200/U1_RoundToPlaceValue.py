@@ -16,9 +16,7 @@ def generate_question():
         'Round the following number to the {pv} place: {num};rounded_num'
     ]
 
-    # generating random values for variables, doing calculations, & prepping namespace here
-    n = sf.random_value((10_000,94_999),(9,9))
-    num = n.as_num()
+
 
     pvs = {
         'ones': 0,
@@ -30,14 +28,21 @@ def generate_question():
         'hundredths': -2,
         'thousandths': -3
     }
-
-    pv = random.choice(list(pvs.keys()))
-    rounded_num = sf(num,last_decimal_place = pvs[pv]).as_num()
     
-    #haven't taught the sig fig rules for significant zero in the ones place yet
-    if rounded_num.endswith('.'):
-        pv = 'tens'
+    while True:
+        # generating random values for variables, doing calculations, & prepping namespace here
+        n = sf.random_value((10_000,94_999),(10,10))
+        num = n.as_num()
+        pv = random.choice(list(pvs.keys()))
         rounded_num = sf(num,last_decimal_place = pvs[pv]).as_num()
+        
+        #haven't taught the sig fig rules for significant zero in the ones place yet
+        if rounded_num.endswith('.'):
+            pv = 'tens'
+            rounded_num = sf(num,last_decimal_place = pvs[pv]).as_num()
+
+        if 'e' not in rounded_num:
+            break
 
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)

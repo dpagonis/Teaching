@@ -16,7 +16,12 @@ def generate_question():
     question_options = [
         'What is the atomic number of {element_name}?;atomic_number',
         'What element has {atomic_number} protons in its nucleus?;name_symbol_answers',
-        'What is the name of the element with symbol {symbol}?;name_answers'
+        'What is the name of the element with symbol {symbol}?;name_answers',
+        'What element has atomic number {atomic_number}?;name_symbol_answers',
+        'An atom has {atomic_number} protons. What element is this atom?;name_symbol_answers',
+        'How many protons are in {a_an} {element_name} nucleus?;atomic_number',
+        'What is the symbol for {element_name}?;symbol',
+        'What is the chemical symbol of the element with atomic number {atomic_number};symbol'
     ]
 
 
@@ -24,6 +29,7 @@ def generate_question():
     #this is a dictionary
     
     element_name = element_dict['name']
+    a_an = 'an' if element_name[0].lower() in 'aeiou' else 'a'
     atomic_number = element_dict['atomic_number']
     symbol = element_dict['symbol']
 

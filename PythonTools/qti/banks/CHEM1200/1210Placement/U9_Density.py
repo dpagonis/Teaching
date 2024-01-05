@@ -6,23 +6,29 @@ import os
 
 from dp_qti.makeqti import *
 from dp_qti import sf
+from dp_qti.units import units
 
-from random import randint
 
 def generate_question():
-    question_type = 'short_answer'
+    question_type = 'numerical_tolerance'
 
     question_options = [
-        '{tex};answer'
+       'Calculate the density of a solution (in g/mL) if {mass} g of solution has a volume of {vol} mL;density_answer',
+       'Calculate the density of a solution (in g/cm<sup>3</sup>) if {vol} cm<sup>3</sup> of solution has a mass of {mass} g.;density_answer',
+       'A solution has a density of {density} g/cm<sup>3</sup>. How much does {vol} cm<sup>3</sup> of solution weight (in g)?;mass_answer',
+       'What is the mass (in g) of {vol} mL of a solution whose density is {density} g/mL?;mass_answer',
+       'Find the volume of solution in a beaker (in mL) given the following information. The solution weight {mass} g and has a density of {density} g/mL.;vol_answer',
+       'A solution has a density of {density} g/mL. Calculate the volume of solution (in mL) needed to give a mass of {mass} g.;vol_answer'
     ]
 
-    x = randint(-3,4)
-    answer = sf(str(10**x),1).as_num()
-    if float(answer) < 1:
-        answer += ';' + answer[1:]
-    tex = create_mattext_element('10^{'+str(x)+'}=')
+    vol = sf.random_value((1,100),(2,3))
+    density = sf.random_value((0.8,1.4),(3,4))
+    mass = density * vol 
 
-
+    vol_answer = f'{vol};{2*10**vol.last_decimal_place}'
+    mass_answer = f'{mass};{2*10**mass.last_decimal_place}'
+    density_answer = f'{density};{2*10**density.last_decimal_place}'
+    
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)
     question_row = random.choice(question_options) if len(question_options) > 1 else question_options[0]

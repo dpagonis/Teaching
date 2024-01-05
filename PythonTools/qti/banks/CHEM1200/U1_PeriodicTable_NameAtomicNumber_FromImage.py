@@ -1,27 +1,49 @@
 import hashlib
 import pandas as pd
 import random
-from scipy.stats import t
 import os
 
 from dp_qti.makeqti import *
-from dp_qti import sf
+from dp_qti import periodictable
 
-from random import randint
+PT = periodictable.periodictable()
 
 def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        '{tex};answer'
+        'What is the chemical symbol for the element shown in the figure?,<br>{img};symbol',
+        'What element is shown below?<br>{img};name_symbol_answers'
     ]
 
-    x = randint(-3,4)
-    answer = sf(str(10**x),1).as_num()
-    if float(answer) < 1:
-        answer += ';' + answer[1:]
-    tex = create_mattext_element('10^{'+str(x)+'}=')
+    while True:
+        element_dict = PT.random(weighted=True)
+        element_name = element_dict['name']
+        a_an = 'an' if element_name[0].lower() in 'aeiou' else 'a'
+        atomic_number = element_dict['atomic_number']
+        symbol = element_dict['symbol']
+        if atomic_number <= 12:
+            break
 
+    n_neutrons = random.randint(atomic_number-3,atomic_number+3)
+    n_neutrons = max(0,n_neutrons)
+
+    img_hash_name = hashlib.sha256(f'{atomic_number}_{n_neutrons}'.encode()).hexdigest()
+
+    img = create_img_mattext(f'{img_hash_name}.png')
+
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    png_dir = os.path.join(script_dir, 'png')
+    filecheck = os.path.join(png_dir, f'{img_hash_name}.png')
+
+    if not os.path.exists(filecheck):
+        print(atomic_number,n_neutrons,img_hash_name)
+
+    name_upper = element_name.capitalize()
+    name_lower = element_name.lower()
+    name_answers = f"{name_upper};{name_lower}"
+
+    name_symbol_answers = name_answers+";"+symbol
 
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)
@@ -44,6 +66,7 @@ def generate_question():
         'question_type': question_type
     }
 
+
 def generate_questions():
     num_questions = 1000
     basename = os.path.basename(__file__).removesuffix('.py')
@@ -61,11 +84,6 @@ def generate_questions():
     questions_df = pd.DataFrame(questions)
     return questions_df, basename, assessment_ident
 
-def yes_no(bool):
-    if bool:
-        return "Yes;yes;Y;y"
-    else:
-        return "No;no;N;n"
 
 def main():
     questions_df, basename, assessment_ident = generate_questions()
