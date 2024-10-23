@@ -4,8 +4,8 @@ import random
 import os
 
 from dp_qti.makeqti import *
-from dp_qti import sf
-from dp_qti import weakacid
+from dp_chem import sf
+from dp_chem import weakacid
 
 weakacids = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/weakacidbases.csv')
 weakacids['pKa'] = weakacids['pKa'].apply(lambda x: [float(i) for i in x.split(';')])

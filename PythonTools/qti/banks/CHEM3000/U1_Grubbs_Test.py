@@ -4,8 +4,8 @@ import random
 import os
 
 from dp_qti.makeqti import *
-from dp_qti import sf
-from dp_qti import uv
+from dp_chem import sf
+from dp_chem import uncertainvalue as uv
 
 def generate_questions():
     num_questions = 1000

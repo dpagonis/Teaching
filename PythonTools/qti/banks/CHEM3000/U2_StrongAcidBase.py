@@ -4,7 +4,7 @@ import random
 import os
 
 from dp_qti.makeqti import *
-from dp_qti import sf
+from dp_chem import sf
 
 strongacids = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/strongacids.csv')
 strongbases = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/strongbases.csv')

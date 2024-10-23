@@ -3,8 +3,8 @@ import pandas as pd
 import random
 
 from dp_qti.makeqti import *
-from dp_qti import sf
-from dp_qti import uv
+from dp_chem import sf
+from dp_chem import uncertainvalue as uv
 
 def generate_questions():
     num_questions = 1000
@@ -42,7 +42,7 @@ def generate_question():
     units = ['bar', 'mbar', 'atm', 'Pa', 'kPa', 'Torr', 'mmHg', 'kg', 'g', 'mol', 'A', 'mA', 'V', 'kV', 'm', 'km', 'nm', 's', 'ms', 'ns', 'yr', 'h', 'L', 'mL', 'M', 'mM', 'K', 'J', 'kJ', 'cal', 'kcal', 'N', 'W', 'Hz']
     unit = random.choice(units)
 
-    n = random.choice([1,2,3,4,5,6,7,8,9,10,15,20,25,30,40,60,120])
+    n = random.choice([3,4,5,6,7,8,9,10,15,20,25,30,40,60,120])
 
     x = uv.random_value((1e-2,1e4),(0.01,0.5),n_range=(n,n),mean_log=True,stdev_relative=True,no_hidden_digits=True)
     ci = uv(x.mean,x.ci(confidence_level=conf_level),x.n)

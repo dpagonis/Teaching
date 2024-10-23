@@ -5,8 +5,8 @@ import numpy as np
 from scipy.stats import f
 
 from dp_qti.makeqti import *
-from dp_qti import uncertainvalue as uv
-from dp_qti import sigfig as sf
+from dp_chem import uncertainvalue as uv
+from dp_chem import sigfig as sf
 
 def generate_questions():
     num_questions = 1000

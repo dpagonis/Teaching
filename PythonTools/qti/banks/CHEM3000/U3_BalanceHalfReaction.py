@@ -8,7 +8,7 @@ import re
 from itertools import permutations
 
 from dp_qti.makeqti import *
-from dp_qti import molecule
+from dp_chem import molecule
 
 reactions = pd.read_csv('C:/Users/demetriospagonis/Box/github/Teaching/PythonTools/tables/redoxpairs.csv')
 

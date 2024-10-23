@@ -5,6 +5,7 @@ import os
 
 from dp_qti.makeqti import *
 from dp_chem import uncertainvalue as uv
+from dp_chem import sf
 
 def generate_questions():
     num_questions = 1000
@@ -29,20 +30,17 @@ def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        '{x} + {y} = ?<br>Use the ± symbol in your answer.;sum.answers()',
-        '{x} - {y} = ?<br>Use the ± symbol in your answer.;difference.answers()',
-        '{x} × {y} = ?<br>Use the ± symbol in your answer.;product.answers()',
-        '{x} ÷ {y} = ?<br>Use the ± symbol in your answer.;division.answers()'
+        'Give the following mean and standard deviation with the correct number of significant figures. Use the ± symbol: <br>{x} ± {s};answers'
     ]
 
     # generating random values for variables, doing calculations, & prepping namespace here
-    x = uv.random_value((1e-2,1e4),(0.01,0.5),mean_log=True,stdev_relative=True,no_hidden_digits=True)
-    y = uv.random_value((x.mean.value*0.1,x.mean.value*10),(0.01,0.5),mean_log=True,stdev_relative=True,no_hidden_digits=True)
+    x = sf.random_value((1,1000),(7,8))
+    s = sf.random_value((x.value/2,x.value/1000),(5,6),True)
 
-    sum = x + y
-    difference = x - y
-    product = x*y
-    division = x / y
+    xs = uv(x.value,s.value)
+    answers = xs.answers()
+
+    print(f'{x} ± {s}; {answers}')
 
     #####------------------Shouldn't need to edit anything from here down--------------------------#####
     # Randomly select a question and its answer(s)

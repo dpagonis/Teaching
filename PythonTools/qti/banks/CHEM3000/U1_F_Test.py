@@ -8,8 +8,8 @@ import math
 import numpy as np
 
 from dp_qti.makeqti import *
-from dp_qti import  uv
-from dp_qti import sf
+from dp_chem import  uncertainvalue as uv
+from dp_chem import sf
 
 def generate_questions():
     basename = 'U1_F_test' #this string is used to name the bank and the hash ID
