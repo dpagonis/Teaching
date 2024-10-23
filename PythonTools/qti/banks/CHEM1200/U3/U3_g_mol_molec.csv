@@ -1,0 +1,1001 @@
+question,correct_answers,question_type
+How many molecules are in a 30 mol sample of CuSO<sub>4</sub>?,2e25;2e25;2E25;1.8e25;1.8e25;1.8E25;1e25;1e25;1E25;1.0e25;1.0e25;1.0E25,short_answer
+How many moles are in a 1431 g sample of CH<sub>5</sub>N?,46.08;4.608e1;4.608E1;46.1;4.61e1;4.61E1;46.080;4.6080e1;4.6080E1;46.07;4.607e1;4.607E1;46.1;4.61e1;4.61E1;46.070;4.6070e1;4.6070E1,short_answer
+How many moles are in a 4 g sample of HBr?,0.05;5e-2;5E-2;.05;0.050;5.0e-2;5.0E-2;.050;0.04;4e-2;4E-2;.04;0.040;4.0e-2;4.0E-2;.040,short_answer
+How much does 0.1033 mol of CO weigh (in g)?,2.893;2.893e0;2.893E0;2.89;2.89e0;2.89E0;2.8934;2.8934e0;2.8934E0;2.894;2.894e0;2.894E0;2.89;2.89e0;2.89E0;2.8940;2.8940e0;2.8940E0,short_answer
+What is the mass in g of 0.15 moles of N<sub>2</sub>H<sub>4</sub>?,4.8;4.8e0;4.8E0;5;5e0;5E0;5.;4.81;4.81e0;4.81E0;4.9;4.9e0;4.9E0;5;5e0;5E0;5.;4.90;4.90e0;4.90E0,short_answer
+What is the number of moles in a 2000 g sample of KNO<sub>3</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many molecules are in a 3379 g sample of C<sub>6</sub>H<sub>6</sub>?,2.605e25;2.605e25;2.605E25;2.61e25;2.61e25;2.61E25;2.6052e25;2.6052e25;2.6052E25;2.606e25;2.606e25;2.606E25;2.61e25;2.61e25;2.61E25;2.6060e25;2.6060e25;2.6060E25,short_answer
+How many moles are in a 3.83 g sample of AlCl<sub>3</sub>?,0.0287;2.87e-2;2.87E-2;.0287;0.029;2.9e-2;2.9E-2;.029;0.02870;2.870e-2;2.870E-2;.02870;0.0286;2.86e-2;2.86E-2;.0286;0.029;2.9e-2;2.9E-2;.029;0.02860;2.860e-2;2.860E-2;.02860,short_answer
+What is the mass in g of 26.9 moles of AuCl<sub>3</sub>?,8160;8.16e3;8.16E3;8200;8.2e3;8.2E3;8159;8.159e3;8.159E3;8159.;8150;8.15e3;8.15E3;8200;8.2e3;8.2E3;8150.;8.150e3;8.150E3;8150..,short_answer
+How many moles are in a 44.90 g sample of Cl<sub>2</sub>?,0.6333;6.333e-1;6.333E-1;.6333;0.633;6.33e-1;6.33E-1;.633;0.63330;6.3330e-1;6.3330E-1;.63330;0.6332;6.332e-1;6.332E-1;.6332;0.633;6.33e-1;6.33E-1;.633;0.63320;6.3320e-1;6.3320E-1;.63320,short_answer
+What is the mass of 6.468 x 10<sup>22</sup> molecules of H<sub>2</sub>CO<sub>3</sub> in g?,6.661;6.661e0;6.661E0;6.66;6.66e0;6.66E0;6.6614;6.6614e0;6.6614E0;6.662;6.662e0;6.662E0;6.66;6.66e0;6.66E0;6.6620;6.6620e0;6.6620E0,short_answer
+What is the mass in g of 2.418 moles of F<sub>2</sub>?,91.88;9.188e1;9.188E1;91.9;9.19e1;9.19E1;91.876;9.1876e1;9.1876E1;91.87;9.187e1;9.187E1;91.9;9.19e1;9.19E1;91.870;9.1870e1;9.1870E1,short_answer
+What is the mass of 6.38 x 10<sup>23</sup> molecules of WF<sub>6</sub> in g?,316;3.16e2;3.16E2;316.;320;3.2e2;3.2E2;315.7;3.157e2;3.157E2;315;3.15e2;3.15E2;315.;320;3.2e2;3.2E2;315.0;3.150e2;3.150E2,short_answer
+What is the mass of 1.10 x 10<sup>22</sup> molecules of K<sub>2</sub>S in g?,2.02;2.02e0;2.02E0;2.0;2.0e0;2.0E0;2.018;2.018e0;2.018E0;2.01;2.01e0;2.01E0;2.0;2.0e0;2.0E0;2.010;2.010e0;2.010E0,short_answer
+What is the mass of 1.5 x 10<sup>23</sup> molecules of O<sub>3</sub> in g?,12;1.2e1;1.2E1;12.;10;1e1;1E1;12.0;1.20e1;1.20E1;11;1.1e1;1.1E1;11.;10;1e1;1E1;11.0;1.10e1;1.10E1,short_answer
+How much does 0.1261 mol of O<sub>3</sub> weigh (in g)?,6.052;6.052e0;6.052E0;6.05;6.05e0;6.05E0;6.0524;6.0524e0;6.0524E0;6.053;6.053e0;6.053E0;6.05;6.05e0;6.05E0;6.0530;6.0530e0;6.0530E0,short_answer
+How much does 2.46 mol of HBr weigh (in g)?,199;1.99e2;1.99E2;199.;2.0e2;2.0e2;2.0E2;199.0;1.990e2;1.990E2;200.;2.00e2;2.00E2;200..;2.0e2;2.0e2;2.0E2;200.0;2.000e2;2.000E2,short_answer
+How many molecules are in a 0.12 mol sample of Ag<sub>2</sub>O?,7.2e22;7.2e22;7.2E22;7e22;7e22;7E22;7.23e22;7.23e22;7.23E22;7.3e22;7.3e22;7.3E22;7e22;7e22;7E22;7.30e22;7.30e22;7.30E22,short_answer
+What is the number of moles in a 5.12 g sample of MgO?,0.127;1.27e-1;1.27E-1;.127;0.13;1.3e-1;1.3E-1;.13;0.1270;1.270e-1;1.270E-1;.1270;0.126;1.26e-1;1.26E-1;.126;0.13;1.3e-1;1.3E-1;.13;0.1260;1.260e-1;1.260E-1;.1260,short_answer
+How much does 5.96 mol of InP weigh (in g)?,869;8.69e2;8.69E2;869.;870;8.7e2;8.7E2;868.9;8.689e2;8.689E2;868;8.68e2;8.68E2;868.;870;8.7e2;8.7E2;868.0;8.680e2;8.680E2,short_answer
+How much does 5 mol of H<sub>2</sub> weigh (in g)?,10;1e1;1E1;10.;1.0e1;1.0E1;10..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+What is the mass in g of 1.5 moles of NH<sub>3</sub>?,26;2.6e1;2.6E1;26.;30;3e1;3E1;25.5;2.55e1;2.55E1;25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+What is the mass of 1.150 x 10<sup>23</sup> molecules of RuCl<sub>3</sub> in g?,39.62;3.962e1;3.962E1;39.6;3.96e1;3.96E1;39.617;3.9617e1;3.9617E1;39.61;3.961e1;3.961E1;39.6;3.96e1;3.96E1;39.610;3.9610e1;3.9610E1,short_answer
+What is the mass in g of 0.02552 moles of AlP?,1.479;1.479e0;1.479E0;1.48;1.48e0;1.48E0;1.4790;1.4790e0;1.4790E0;1.480;1.480e0;1.480E0;1.48;1.48e0;1.48E0;1.4800;1.4800e0;1.4800E0,short_answer
+How many molecules are in a 12 mol sample of AsF<sub>5</sub>?,7.2e24;7.2e24;7.2E24;7e24;7e24;7E24;7.23e24;7.23e24;7.23E24;7.3e24;7.3e24;7.3E24;7e24;7e24;7E24;7.30e24;7.30e24;7.30E24,short_answer
+How many moles are in a 998.7 g sample of MgO?,24.78;2.478e1;2.478E1;24.8;2.48e1;2.48E1;24.780;2.4780e1;2.4780E1;24.77;2.477e1;2.477E1;24.8;2.48e1;2.48E1;24.770;2.4770e1;2.4770E1,short_answer
+How many molecules are in a 0.0146 mol sample of C<sub>2</sub>H<sub>7</sub>N?,8.79e21;8.79e21;8.79E21;8.8e21;8.8e21;8.8E21;8.792e21;8.792e21;8.792E21;8.80e21;8.80e21;8.80E21;8.8e21;8.8e21;8.8E21;8.800e21;8.800e21;8.800E21,short_answer
+How much does 0.017 mol of SO<sub>3</sub> weigh (in g)?,1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.36;1.36e0;1.36E0;1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.30;1.30e0;1.30E0,short_answer
+What is the number of moles in a 6.977 g sample of CdO?,0.05433;5.433e-2;5.433E-2;.05433;0.0543;5.43e-2;5.43E-2;.0543;0.054330;5.4330e-2;5.4330E-2;.054330;0.05432;5.432e-2;5.432E-2;.05432;0.0543;5.43e-2;5.43E-2;.0543;0.054320;5.4320e-2;5.4320E-2;.054320,short_answer
+What is the number of moles in a 2300 g sample of FeCl<sub>3</sub>?,14;1.4e1;1.4E1;14.;10;1e1;1E1;14.0;1.40e1;1.40E1;13;1.3e1;1.3E1;13.;10;1e1;1E1;13.0;1.30e1;1.30E1,short_answer
+What is the mass of 6.87 x 10<sup>22</sup> molecules of UF<sub>6</sub> in g?,40.1;4.01e1;4.01E1;40.;4.0e1;4.0E1;40..;40.13;4.013e1;4.013E1;40.2;4.02e1;4.02E1;40.;4.0e1;4.0E1;40..;40.20;4.020e1;4.020E1,short_answer
+How much does 0.0316 mol of SbF<sub>3</sub> weigh (in g)?,5.65;5.65e0;5.65E0;5.6;5.6e0;5.6E0;5.649;5.649e0;5.649E0;5.64;5.64e0;5.64E0;5.6;5.6e0;5.6E0;5.640;5.640e0;5.640E0,short_answer
+What is the number of moles in a 35 g sample of O<sub>2</sub>?,1.1;1.1e0;1.1E0;1;1e0;1E0;1.;1.10;1.10e0;1.10E0;1.0;1.0e0;1.0E0;1;1e0;1E0;1.;1.00;1.00e0;1.00E0,short_answer
+How many molecules are in a 9.133 g sample of PBr<sub>3</sub>?,2.032e22;2.032e22;2.032E22;2.03e22;2.03e22;2.03E22;2.0319e22;2.0319e22;2.0319E22;2.031e22;2.031e22;2.031E22;2.03e22;2.03e22;2.03E22;2.0310e22;2.0310e22;2.0310E22,short_answer
+What is the mass of 2.02 x 10<sup>25</sup> molecules of S<sub>2</sub>Cl<sub>2</sub> in g?,4520;4.52e3;4.52E3;4500;4.5e3;4.5E3;4523;4.523e3;4.523E3;4523.;4530;4.53e3;4.53E3;4500;4.5e3;4.5E3;4530.;4.530e3;4.530E3;4530..,short_answer
+How many moles are in a 9.1 g sample of C<sub>2</sub>H<sub>2</sub>?,0.35;3.5e-1;3.5E-1;.35;0.3;3e-1;3E-1;.3;0.350;3.50e-1;3.50E-1;.350;0.34;3.4e-1;3.4E-1;.34;0.3;3e-1;3E-1;.3;0.340;3.40e-1;3.40E-1;.340,short_answer
+How many molecules are in a 2.5 mol sample of KH?,1.5e24;1.5e24;1.5E24;2e24;2e24;2E24;1.51e24;1.51e24;1.51E24;1.6e24;1.6e24;1.6E24;2e24;2e24;2E24;1.60e24;1.60e24;1.60E24,short_answer
+What is the mass in g of 3.823 moles of I<sub>2</sub>?,970.3;9.703e2;9.703E2;970.;9.70e2;9.70E2;970..;970.31;9.7031e2;9.7031E2;970.4;9.704e2;9.704E2;970.;9.70e2;9.70E2;970..;970.40;9.7040e2;9.7040E2,short_answer
+What is the mass in g of 15.9 moles of BeCl<sub>2</sub>?,1270;1.27e3;1.27E3;1300;1.3e3;1.3E3;1271;1.271e3;1.271E3;1271.;1280;1.28e3;1.28E3;1300;1.3e3;1.3E3;1280.;1.280e3;1.280E3;1280..,short_answer
+How many molecules are in a 20 mol sample of SnO<sub>2</sub>?,1e25;1e25;1E25;1.2e25;1.2e25;1.2E25;2e25;2e25;2E25;2.0e25;2.0e25;2.0E25,short_answer
+How much does 40.0 mol of LiOH weigh (in g)?,958;9.58e2;9.58E2;958.;960;9.6e2;9.6E2;957.9;9.579e2;9.579E2;957;9.57e2;9.57E2;957.;960;9.6e2;9.6E2;957.0;9.570e2;9.570E2,short_answer
+What is the mass in g of 3 moles of Fe<sub>2</sub>O<sub>3</sub>?,500;5e2;5E2;480;4.8e2;4.8E2;400;4e2;4E2;4.0e2;4.0e2;4.0E2,short_answer
+How many moles are in a 27.3 g sample of MgSO<sub>4</sub>?,0.227;2.27e-1;2.27E-1;.227;0.23;2.3e-1;2.3E-1;.23;0.2270;2.270e-1;2.270E-1;.2270;0.226;2.26e-1;2.26E-1;.226;0.23;2.3e-1;2.3E-1;.23;0.2260;2.260e-1;2.260E-1;.2260,short_answer
+How much does 24.2 mol of AlN weigh (in g)?,992;9.92e2;9.92E2;992.;990;9.9e2;9.9E2;991.9;9.919e2;9.919E2;991;9.91e2;9.91E2;991.;990;9.9e2;9.9E2;991.0;9.910e2;9.910E2,short_answer
+How much does 12.0 mol of HfCl<sub>4</sub> weigh (in g)?,3840;3.84e3;3.84E3;3800;3.8e3;3.8E3;3843;3.843e3;3.843E3;3843.;3850;3.85e3;3.85E3;3900;3.9e3;3.9E3;3850.;3.850e3;3.850E3;3850..,short_answer
+How much does 3 mol of WF<sub>6</sub> weigh (in g)?,900;9e2;9E2;890;8.9e2;8.9E2;800;8e2;8E2;8.0e2;8.0e2;8.0E2,short_answer
+How much does 11 mol of Br<sub>2</sub> weigh (in g)?,1800;1.8e3;1.8E3;2000;2e3;2E3;1760;1.76e3;1.76E3;1700;1.7e3;1.7E3;2000;2e3;2E3;1.70e3;1.70e3;1.70E3,short_answer
+What is the mass in g of 6.521 moles of CdO?,837.4;8.374e2;8.374E2;837;8.37e2;8.37E2;837.;837.38;8.3738e2;8.3738E2;837.3;8.373e2;8.373E2;837;8.37e2;8.37E2;837.;837.30;8.3730e2;8.3730E2,short_answer
+What is the mass of 2 x 10<sup>22</sup> molecules of SiBr<sub>4</sub> in g?,10;1e1;1E1;10.;1.0e1;1.0E1;10..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+How many moles are in a 28 g sample of TcF<sub>6</sub>?,0.13;1.3e-1;1.3E-1;.13;0.1;1e-1;1E-1;.1;0.130;1.30e-1;1.30E-1;.130;0.12;1.2e-1;1.2E-1;.12;0.1;1e-1;1E-1;.1;0.120;1.20e-1;1.20E-1;.120,short_answer
+What is the mass of 5.0 x 10<sup>24</sup> molecules of HgO in g?,1800;1.8e3;1.8E3;2000;2e3;2E3;1.80e3;1.80e3;1.80E3;1700;1.7e3;1.7E3;2000;2e3;2E3;1.70e3;1.70e3;1.70E3,short_answer
+How much does 0.02 mol of CCl<sub>4</sub> weigh (in g)?,3;3e0;3E0;3.;3.1;3.1e0;3.1E0;4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+What is the mass in g of 0.15 moles of SF<sub>6</sub>?,22;2.2e1;2.2E1;22.;20;2e1;2E1;21.9;2.19e1;2.19E1;21;2.1e1;2.1E1;21.;20;2e1;2E1;21.0;2.10e1;2.10E1,short_answer
+What is the mass in g of 0.02 moles of O<sub>2</sub>?,0.6;6e-1;6E-1;.6;0.64;6.4e-1;6.4E-1;.64;0.7;7e-1;7E-1;.7;0.70;7.0e-1;7.0E-1;.70,short_answer
+How many molecules are in a 8.16 g sample of WF<sub>6</sub>?,1.65e22;1.65e22;1.65E22;1.7e22;1.7e22;1.7E22;1.650e22;1.650e22;1.650E22;1.66e22;1.66e22;1.66E22;1.7e22;1.7e22;1.7E22;1.660e22;1.660e22;1.660E22,short_answer
+How much does 0.450 mol of TcF<sub>6</sub> weigh (in g)?,95.4;9.54e1;9.54E1;95;9.5e1;9.5E1;95.;95.35;9.535e1;9.535E1;95.3;9.53e1;9.53E1;95;9.5e1;9.5E1;95.;95.30;9.530e1;9.530E1,short_answer
+What is the mass of 6.835 x 10<sup>24</sup> molecules of NH<sub>4</sub>Cl in g?,607.1;6.071e2;6.071E2;607;6.07e2;6.07E2;607.;607.10;6.0710e2;6.0710E2;607.2;6.072e2;6.072E2;607;6.07e2;6.07E2;607.;607.20;6.0720e2;6.0720E2,short_answer
+How much does 6.523 mol of CO weigh (in g)?,182.7;1.827e2;1.827E2;183;1.83e2;1.83E2;183.;182.71;1.8271e2;1.8271E2;182.8;1.828e2;1.828E2;183;1.83e2;1.83E2;183.;182.80;1.8280e2;1.8280E2,short_answer
+How many moles are in a 150 g sample of CF<sub>4</sub>?,1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.70;1.70e0;1.70E0;1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.60;1.60e0;1.60E0,short_answer
+How many moles are in a 243 g sample of PF<sub>5</sub>?,1.93;1.93e0;1.93E0;1.9;1.9e0;1.9E0;1.930;1.930e0;1.930E0;1.92;1.92e0;1.92E0;1.9;1.9e0;1.9E0;1.920;1.920e0;1.920E0,short_answer
+How many moles are in a 219 g sample of AsF<sub>5</sub>?,1.29;1.29e0;1.29E0;1.3;1.3e0;1.3E0;1.290;1.290e0;1.290E0;1.28;1.28e0;1.28E0;1.3;1.3e0;1.3E0;1.280;1.280e0;1.280E0,short_answer
+How many molecules are in a 13.93 mol sample of CdCl<sub>2</sub>?,8.389e24;8.389e24;8.389E24;8.39e24;8.39e24;8.39E24;8.3888e24;8.3888e24;8.3888E24;8.388e24;8.388e24;8.388E24;8.39e24;8.39e24;8.39E24;8.3880e24;8.3880e24;8.3880E24,short_answer
+How many molecules are in a 20 mol sample of I<sub>2</sub>?,1e25;1e25;1E25;1.2e25;1.2e25;1.2E25;2e25;2e25;2E25;2.0e25;2.0e25;2.0E25,short_answer
+What is the mass of 1.776 x 10<sup>22</sup> molecules of WF<sub>6</sub> in g?,8.783;8.783e0;8.783E0;8.78;8.78e0;8.78E0;8.7830;8.7830e0;8.7830E0;8.784;8.784e0;8.784E0;8.78;8.78e0;8.78E0;8.7840;8.7840e0;8.7840E0,short_answer
+What is the number of moles in a 5 g sample of H<sub>2</sub>O?,0.3;3e-1;3E-1;.3;0.30;3.0e-1;3.0E-1;.30;0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20,short_answer
+What is the number of moles in a 1010 g sample of C<sub>3</sub>H<sub>8</sub>?,22.9;2.29e1;2.29E1;23;2.3e1;2.3E1;23.;22.90;2.290e1;2.290E1;22.8;2.28e1;2.28E1;23;2.3e1;2.3E1;23.;22.80;2.280e1;2.280E1,short_answer
+How many molecules are in a 0.027 mol sample of I<sub>2</sub>?,1.6e22;1.6e22;1.6E22;2e22;2e22;2E22;1.63e22;1.63e22;1.63E22;1.7e22;1.7e22;1.7E22;2e22;2e22;2E22;1.70e22;1.70e22;1.70E22,short_answer
+What is the mass of 2 x 10<sup>24</sup> molecules of ZrCl<sub>4</sub> in g?,700;7e2;7E2;7.0e2;7.0e2;7.0E2;600;6e2;6E2;6.0e2;6.0e2;6.0E2,short_answer
+How many molecules are in a 200 g sample of SO<sub>2</sub>?,2e24;2e24;2E24;1.8e24;1.8e24;1.8E24;1e24;1e24;1E24;1.0e24;1.0e24;1.0E24,short_answer
+How many molecules are in a 40 g sample of MgSO<sub>4</sub>?,2e23;2e23;2E23;1.8e23;1.8e23;1.8E23;1e23;1e23;1E23;1.0e23;1.0e23;1.0E23,short_answer
+How much does 0.5 mol of PCl<sub>3</sub> weigh (in g)?,70;7e1;7E1;69;6.9e1;6.9E1;69.;60;6e1;6E1;60.;6.0e1;6.0E1;60..,short_answer
+How many moles are in a 5.60 x 10<sup>3</sup> g sample of FeCl<sub>3</sub>?,34.5;3.45e1;3.45E1;35;3.5e1;3.5E1;35.;34.50;3.450e1;3.450E1;34.4;3.44e1;3.44E1;34;3.4e1;3.4E1;34.;34.40;3.440e1;3.440E1,short_answer
+What is the mass in g of 0.03288 moles of NaOH?,1.315;1.315e0;1.315E0;1.32;1.32e0;1.32E0;1.3151;1.3151e0;1.3151E0;1.316;1.316e0;1.316E0;1.32;1.32e0;1.32E0;1.3160;1.3160e0;1.3160E0,short_answer
+How many moles are in a 160 g sample of SiF<sub>4</sub>?,1.5;1.5e0;1.5E0;2;2e0;2E0;2.;1.50;1.50e0;1.50E0;1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.40;1.40e0;1.40E0,short_answer
+What is the mass of 1 x 10<sup>25</sup> molecules of TcF<sub>6</sub> in g?,4000;4e3;4E3;4200;4.2e3;4.2E3;5000;5e3;5E3;5.0e3;5.0e3;5.0E3,short_answer
+What is the mass of 2.43 x 10<sup>24</sup> molecules of SiF<sub>4</sub> in g?,420.;4.20e2;4.20E2;420..;420;4.2e2;4.2E2;420.5;4.205e2;4.205E2;421;4.21e2;4.21E2;421.;420;4.2e2;4.2E2;421.0;4.210e2;4.210E2,short_answer
+What is the mass of 2 x 10<sup>24</sup> molecules of TcCl<sub>4</sub> in g?,700;7e2;7E2;720;7.2e2;7.2E2;800;8e2;8E2;8.0e2;8.0e2;8.0E2,short_answer
+How many moles are in a 3.68 g sample of ZnO?,0.0452;4.52e-2;4.52E-2;.0452;0.045;4.5e-2;4.5E-2;.045;0.04520;4.520e-2;4.520E-2;.04520;0.0451;4.51e-2;4.51E-2;.0451;0.045;4.5e-2;4.5E-2;.045;0.04510;4.510e-2;4.510E-2;.04510,short_answer
+What is the mass in g of 1.3 moles of O<sub>2</sub>?,42;4.2e1;4.2E1;42.;40;4e1;4E1;41.6;4.16e1;4.16E1;41;4.1e1;4.1E1;41.;40;4e1;4E1;41.0;4.10e1;4.10E1,short_answer
+How much does 0.0134 mol of NaCl weigh (in g)?,0.783;7.83e-1;7.83E-1;.783;0.78;7.8e-1;7.8E-1;.78;0.7831;7.831e-1;7.831E-1;.7831;0.784;7.84e-1;7.84E-1;.784;0.78;7.8e-1;7.8E-1;.78;0.7840;7.840e-1;7.840E-1;.7840,short_answer
+How much does 0.028 mol of PH<sub>3</sub> weigh (in g)?,0.95;9.5e-1;9.5E-1;.95;1.0;1.0e0;1.0E0;.0;0.952;9.52e-1;9.52E-1;.952;0.96;9.6e-1;9.6E-1;.96;1.0;1.0e0;1.0E0;.0;0.960;9.60e-1;9.60E-1;.960,short_answer
+How many molecules are in a 18 mol sample of H<sub>2</sub>SO<sub>4</sub>?,1.1e25;1.1e25;1.1E25;1e25;1e25;1E25;1.08e25;1.08e25;1.08E25;1.0e25;1.0e25;1.0E25;1e25;1e25;1E25;1.00e25;1.00e25;1.00E25,short_answer
+How many molecules are in a 370 g sample of XeF<sub>2</sub>?,1.3e24;1.3e24;1.3E24;1e24;1e24;1E24;1.32e24;1.32e24;1.32E24;1.4e24;1.4e24;1.4E24;1e24;1e24;1E24;1.40e24;1.40e24;1.40E24,short_answer
+How many molecules are in a 35.0 mol sample of ZnO?,2.11e25;2.11e25;2.11E25;2.1e25;2.1e25;2.1E25;2.108e25;2.108e25;2.108E25;2.10e25;2.10e25;2.10E25;2.1e25;2.1e25;2.1E25;2.100e25;2.100e25;2.100E25,short_answer
+What is the mass in g of 0.017 moles of SiF<sub>4</sub>?,1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.77;1.77e0;1.77E0;1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.70;1.70e0;1.70E0,short_answer
+What is the mass in g of 0.2 moles of C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>?,10;1e1;1E1;12;1.2e1;1.2E1;12.;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+What is the mass of 1.703 x 10<sup>25</sup> molecules of OF<sub>2</sub> in g?,1527;1.527e3;1.527E3;1527.;1530;1.53e3;1.53E3;1527.0;1.5270e3;1.5270E3;1528;1.528e3;1.528E3;1528.;1530;1.53e3;1.53E3;1528.0;1.5280e3;1.5280E3,short_answer
+How many moles are in a 200 g sample of P<sub>4</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+What is the mass in g of 0.264 moles of CdCl<sub>2</sub>?,48.4;4.84e1;4.84E1;48;4.8e1;4.8E1;48.;48.39;4.839e1;4.839E1;48.3;4.83e1;4.83E1;48;4.8e1;4.8E1;48.;48.30;4.830e1;4.830E1,short_answer
+How many molecules are in a 0.01200 mol sample of VO<sub>2</sub>?,7.227e21;7.227e21;7.227E21;7.23e21;7.23e21;7.23E21;7.2266e21;7.2266e21;7.2266E21;7.226e21;7.226e21;7.226E21;7.23e21;7.23e21;7.23E21;7.2260e21;7.2260e21;7.2260E21,short_answer
+How much does 0.07843 mol of BaF<sub>2</sub> weigh (in g)?,13.75;1.375e1;1.375E1;13.8;1.38e1;1.38E1;13.751;1.3751e1;1.3751E1;13.76;1.376e1;1.376E1;13.8;1.38e1;1.38E1;13.760;1.3760e1;1.3760E1,short_answer
+How many molecules are in a 0.2 mol sample of TcF<sub>6</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the number of moles in a 283 g sample of TeF<sub>6</sub>?,1.17;1.17e0;1.17E0;1.2;1.2e0;1.2E0;1.170;1.170e0;1.170E0;1.16;1.16e0;1.16E0;1.2;1.2e0;1.2E0;1.160;1.160e0;1.160E0,short_answer
+How many moles are in a 7.08 g sample of N<sub>2</sub>H<sub>4</sub>?,0.221;2.21e-1;2.21E-1;.221;0.22;2.2e-1;2.2E-1;.22;0.2210;2.210e-1;2.210E-1;.2210;0.220;2.20e-1;2.20E-1;.220;0.22;2.2e-1;2.2E-1;.22;0.2200;2.200e-1;2.200E-1;.2200,short_answer
+How much does 1.873 mol of IF<sub>7</sub> weigh (in g)?,486.8;4.868e2;4.868E2;487;4.87e2;4.87E2;487.;486.78;4.8678e2;4.8678E2;486.7;4.867e2;4.867E2;487;4.87e2;4.87E2;487.;486.70;4.8670e2;4.8670E2,short_answer
+How many moles are in a 58.8 g sample of ZnSO<sub>4</sub>?,0.364;3.64e-1;3.64E-1;.364;0.36;3.6e-1;3.6E-1;.36;0.3640;3.640e-1;3.640E-1;.3640;0.363;3.63e-1;3.63E-1;.363;0.36;3.6e-1;3.6E-1;.36;0.3630;3.630e-1;3.630E-1;.3630,short_answer
+What is the mass of 5.6 x 10<sup>23</sup> molecules of CBr<sub>4</sub> in g?,310;3.1e2;3.1E2;300;3e2;3E2;308;3.08e2;3.08E2;308.;3.0e2;3.0e2;3.0E2;300;3e2;3E2;300.;3.00e2;3.00E2;300..,short_answer
+What is the mass in g of 0.0369 moles of CaF<sub>2</sub>?,2.88;2.88e0;2.88E0;2.9;2.9e0;2.9E0;2.881;2.881e0;2.881E0;2.89;2.89e0;2.89E0;2.9;2.9e0;2.9E0;2.890;2.890e0;2.890E0,short_answer
+What is the mass of 4.082 x 10<sup>22</sup> molecules of SrF<sub>2</sub> in g?,8.514;8.514e0;8.514E0;8.51;8.51e0;8.51E0;8.5143;8.5143e0;8.5143E0;8.515;8.515e0;8.515E0;8.51;8.51e0;8.51E0;8.5150;8.5150e0;8.5150E0,short_answer
+What is the number of moles in a 3.172 g sample of WF<sub>6</sub>?,0.01065;1.065e-2;1.065E-2;.01065;0.0106;1.06e-2;1.06E-2;.0106;0.010650;1.0650e-2;1.0650E-2;.010650;0.01064;1.064e-2;1.064E-2;.01064;0.0106;1.06e-2;1.06E-2;.0106;0.010640;1.0640e-2;1.0640E-2;.010640,short_answer
+How many moles are in a 3.0 x 10<sup>2</sup> g sample of CoO?,4.0;4.0e0;4.0E0;4;4e0;4E0;4.;4.00;4.00e0;4.00E0;3.9;3.9e0;3.9E0;4;4e0;4E0;4.;3.90;3.90e0;3.90E0,short_answer
+What is the number of moles in a 198.2 g sample of AgNO<sub>3</sub>?,1.167;1.167e0;1.167E0;1.17;1.17e0;1.17E0;1.1670;1.1670e0;1.1670E0;1.166;1.166e0;1.166E0;1.17;1.17e0;1.17E0;1.1660;1.1660e0;1.1660E0,short_answer
+How many molecules are in a 0.01204 mol sample of MoF<sub>5</sub>?,7.251e21;7.251e21;7.251E21;7.25e21;7.25e21;7.25E21;7.2507e21;7.2507e21;7.2507E21;7.250e21;7.250e21;7.250E21;7.25e21;7.25e21;7.25E21;7.2500e21;7.2500e21;7.2500E21,short_answer
+How many molecules are in a 1.10 g sample of NO<sub>2</sub>?,1.44e22;1.44e22;1.44E22;1.4e22;1.4e22;1.4E22;1.439e22;1.439e22;1.439E22;1.43e22;1.43e22;1.43E22;1.4e22;1.4e22;1.4E22;1.430e22;1.430e22;1.430E22,short_answer
+How many molecules are in a 0.0120 mol sample of N<sub>2</sub>?,7.23e21;7.23e21;7.23E21;7.2e21;7.2e21;7.2E21;7.227e21;7.227e21;7.227E21;7.22e21;7.22e21;7.22E21;7.2e21;7.2e21;7.2E21;7.220e21;7.220e21;7.220E21,short_answer
+What is the number of moles in a 6000 g sample of RhCl<sub>3</sub>?,30;3e1;3E1;30.;3.0e1;3.0E1;30..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+What is the number of moles in a 160 g sample of NO<sub>2</sub>?,3.5;3.5e0;3.5E0;4;4e0;4E0;4.;3.50;3.50e0;3.50E0;3.4;3.4e0;3.4E0;3;3e0;3E0;3.;3.40;3.40e0;3.40E0,short_answer
+What is the mass in g of 6.019 moles of CCl<sub>4</sub>?,925.8;9.258e2;9.258E2;926;9.26e2;9.26E2;926.;925.79;9.2579e2;9.2579E2;925.7;9.257e2;9.257E2;926;9.26e2;9.26E2;926.;925.70;9.2570e2;9.2570E2,short_answer
+How many molecules are in a 3000 g sample of AgCl?,1e25;1e25;1E25;1.2e25;1.2e25;1.2E25;2e25;2e25;2E25;2.0e25;2.0e25;2.0E25,short_answer
+What is the number of moles in a 209 g sample of Cu<sub>2</sub>O?,1.46;1.46e0;1.46E0;1.5;1.5e0;1.5E0;1.460;1.460e0;1.460E0;1.45;1.45e0;1.45E0;1.4;1.4e0;1.4E0;1.450;1.450e0;1.450E0,short_answer
+What is the mass of 6.6 x 10<sup>24</sup> molecules of MgF<sub>2</sub> in g?,690;6.9e2;6.9E2;700;7e2;7E2;685;6.85e2;6.85E2;685.;680;6.8e2;6.8E2;700;7e2;7E2;680.;6.80e2;6.80E2;680..,short_answer
+What is the number of moles in a 5940 g sample of SnO<sub>2</sub>?,39.4;3.94e1;3.94E1;39;3.9e1;3.9E1;39.;39.40;3.940e1;3.940E1;39.3;3.93e1;3.93E1;39;3.9e1;3.9E1;39.;39.30;3.930e1;3.930E1,short_answer
+What is the mass in g of 1.03 moles of BiF<sub>3</sub>?,274;2.74e2;2.74E2;274.;270;2.7e2;2.7E2;274.0;2.740e2;2.740E2;273;2.73e2;2.73E2;273.;270;2.7e2;2.7E2;273.0;2.730e2;2.730E2,short_answer
+What is the mass of 8.606 x 10<sup>23</sup> molecules of SiF<sub>4</sub> in g?,148.7;1.487e2;1.487E2;149;1.49e2;1.49E2;149.;148.73;1.4873e2;1.4873E2;148.8;1.488e2;1.488E2;149;1.49e2;1.49E2;149.;148.80;1.4880e2;1.4880E2,short_answer
+What is the number of moles in a 3.46 g sample of ZnO?,0.0425;4.25e-2;4.25E-2;.0425;0.043;4.3e-2;4.3E-2;.043;0.04250;4.250e-2;4.250E-2;.04250;0.0424;4.24e-2;4.24E-2;.0424;0.042;4.2e-2;4.2E-2;.042;0.04240;4.240e-2;4.240E-2;.04240,short_answer
+What is the number of moles in a 37 g sample of BaCl<sub>2</sub>?,0.18;1.8e-1;1.8E-1;.18;0.2;2e-1;2E-1;.2;0.180;1.80e-1;1.80E-1;.180;0.17;1.7e-1;1.7E-1;.17;0.2;2e-1;2E-1;.2;0.170;1.70e-1;1.70E-1;.170,short_answer
+How many moles are in a 10 g sample of OF<sub>2</sub>?,0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20;0.1;1e-1;1E-1;.1;0.10;1.0e-1;1.0E-1;.10,short_answer
+How many molecules are in a 0.896 g sample of VO<sub>2</sub>?,6.50e21;6.50e21;6.50E21;6.5e21;6.5e21;6.5E21;6.504e21;6.504e21;6.504E21;6.51e21;6.51e21;6.51E21;6.5e21;6.5e21;6.5E21;6.510e21;6.510e21;6.510E21,short_answer
+How many moles are in a 8.3 g sample of CH<sub>2</sub>O<sub>2</sub>?,0.18;1.8e-1;1.8E-1;.18;0.2;2e-1;2E-1;.2;0.180;1.80e-1;1.80E-1;.180;0.17;1.7e-1;1.7E-1;.17;0.2;2e-1;2E-1;.2;0.170;1.70e-1;1.70E-1;.170,short_answer
+How many molecules are in a 618 g sample of CH<sub>5</sub>N?,1.20e25;1.20e25;1.20E25;1.2e25;1.2e25;1.2E25;1.198e25;1.198e25;1.198E25;1.19e25;1.19e25;1.19E25;1.2e25;1.2e25;1.2E25;1.190e25;1.190e25;1.190E25,short_answer
+How many moles are in a 0.6 g sample of C<sub>2</sub>H<sub>6</sub>?,0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020;0.01;1e-2;1E-2;.01;0.010;1.0e-2;1.0E-2;.010,short_answer
+How many molecules are in a 0.011 mol sample of SO<sub>3</sub>?,6.6e21;6.6e21;6.6E21;7e21;7e21;7E21;6.62e21;6.62e21;6.62E21;6.7e21;6.7e21;6.7E21;7e21;7e21;7E21;6.70e21;6.70e21;6.70E21,short_answer
+How many molecules are in a 880 g sample of NaCl?,9.0e24;9.0e24;9.0E24;9e24;9e24;9E24;9.03e24;9.03e24;9.03E24;9.1e24;9.1e24;9.1E24;9e24;9e24;9E24;9.10e24;9.10e24;9.10E24,short_answer
+What is the number of moles in a 154.6 g sample of CdO?,1.204;1.204e0;1.204E0;1.20;1.20e0;1.20E0;1.2040;1.2040e0;1.2040E0;1.203;1.203e0;1.203E0;1.20;1.20e0;1.20E0;1.2030;1.2030e0;1.2030E0,short_answer
+How many moles are in a 500 g sample of XeF<sub>6</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How much does 0.3 mol of SiCl<sub>4</sub> weigh (in g)?,50;5e1;5E1;51;5.1e1;5.1E1;51.;60;6e1;6E1;60.;6.0e1;6.0E1;60..,short_answer
+What is the number of moles in a 1.435 g sample of HNO<sub>3</sub>?,0.02277;2.277e-2;2.277E-2;.02277;0.0228;2.28e-2;2.28E-2;.0228;0.022770;2.2770e-2;2.2770E-2;.022770;0.02276;2.276e-2;2.276E-2;.02276;0.0228;2.28e-2;2.28E-2;.0228;0.022760;2.2760e-2;2.2760E-2;.022760,short_answer
+How much does 27 mol of RaF<sub>2</sub> weigh (in g)?,7100;7.1e3;7.1E3;7000;7e3;7E3;7130;7.13e3;7.13E3;7200;7.2e3;7.2E3;7000;7e3;7E3;7.20e3;7.20e3;7.20E3,short_answer
+What is the mass of 1.1 x 10<sup>22</sup> molecules of CrO<sub>3</sub> in g?,1.8;1.8e0;1.8E0;2;2e0;2E0;2.;1.80;1.80e0;1.80E0;1.7;1.7e0;1.7E0;2;2e0;2E0;2.;1.70;1.70e0;1.70E0,short_answer
+What is the number of moles in a 80 g sample of HgCl<sub>2</sub>?,0.3;3e-1;3E-1;.3;0.30;3.0e-1;3.0E-1;.30;0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20,short_answer
+How many moles are in a 6.57 g sample of PtCl<sub>2</sub>?,0.0247;2.47e-2;2.47E-2;.0247;0.025;2.5e-2;2.5E-2;.025;0.02470;2.470e-2;2.470E-2;.02470;0.0246;2.46e-2;2.46E-2;.0246;0.025;2.5e-2;2.5E-2;.025;0.02460;2.460e-2;2.460E-2;.02460,short_answer
+How many molecules are in a 3210 g sample of MgCl<sub>2</sub>?,2.03e25;2.03e25;2.03E25;2.0e25;2.0e25;2.0E25;2.029e25;2.029e25;2.029E25;2.02e25;2.02e25;2.02E25;2.0e25;2.0e25;2.0E25;2.020e25;2.020e25;2.020E25,short_answer
+What is the number of moles in a 183.8 g sample of HBr?,2.272;2.272e0;2.272E0;2.27;2.27e0;2.27E0;2.2720;2.2720e0;2.2720E0;2.271;2.271e0;2.271E0;2.27;2.27e0;2.27E0;2.2710;2.2710e0;2.2710E0,short_answer
+How much does 0.05 mol of Na<sub>2</sub>S weigh (in g)?,4;4e0;4E0;4.;3.9;3.9e0;3.9E0;3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+How many molecules are in a 0.5825 mol sample of GaAs?,3.508e23;3.508e23;3.508E23;3.51e23;3.51e23;3.51E23;3.5079e23;3.5079e23;3.5079E23;3.507e23;3.507e23;3.507E23;3.51e23;3.51e23;3.51E23;3.5070e23;3.5070e23;3.5070E23,short_answer
+How many moles are in a 111.6 g sample of HfCl<sub>4</sub>?,0.3484;3.484e-1;3.484E-1;.3484;0.348;3.48e-1;3.48E-1;.348;0.34840;3.4840e-1;3.4840E-1;.34840;0.3483;3.483e-1;3.483E-1;.3483;0.348;3.48e-1;3.48E-1;.348;0.34830;3.4830e-1;3.4830E-1;.34830,short_answer
+What is the mass of 1.9 x 10<sup>23</sup> molecules of PI<sub>3</sub> in g?,130;1.3e2;1.3E2;100;1e2;1E2;132;1.32e2;1.32E2;132.;140;1.4e2;1.4E2;100;1e2;1E2;140.;1.40e2;1.40E2;140..,short_answer
+What is the number of moles in a 800 g sample of UO<sub>2</sub>?,3;3e0;3E0;3.;3.0;3.0e0;3.0E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+What is the mass in g of 0.716 moles of Li<sub>2</sub>CO<sub>3</sub>?,52.9;5.29e1;5.29E1;53;5.3e1;5.3E1;53.;52.90;5.290e1;5.290E1;53.0;5.30e1;5.30E1;53;5.3e1;5.3E1;53.;53.00;5.300e1;5.300E1,short_answer
+What is the mass in g of 0.022 moles of HCN?,0.59;5.9e-1;5.9E-1;.59;0.6;6e-1;6E-1;.6;0.595;5.95e-1;5.95E-1;.595;0.60;6.0e-1;6.0E-1;.60;0.6;6e-1;6E-1;.6;0.600;6.00e-1;6.00E-1;.600,short_answer
+What is the mass of 1.1 x 10<sup>23</sup> molecules of ZnO in g?,15;1.5e1;1.5E1;15.;10;1e1;1E1;14.6;1.46e1;1.46E1;14;1.4e1;1.4E1;14.;10;1e1;1E1;14.0;1.40e1;1.40E1,short_answer
+What is the mass of 1.1 x 10<sup>25</sup> molecules of Br<sub>2</sub> in g?,2900;2.9e3;2.9E3;3000;3e3;3E3;2880;2.88e3;2.88E3;2800;2.8e3;2.8E3;3000;3e3;3E3;2.80e3;2.80e3;2.80E3,short_answer
+What is the mass in g of 12 moles of CuSO<sub>4</sub>?,1900;1.9e3;1.9E3;2000;2e3;2E3;1920;1.92e3;1.92E3;2.0e3;2.0e3;2.0E3;2000;2e3;2E3;2.00e3;2.00e3;2.00E3,short_answer
+What is the mass of 1.1 x 10<sup>25</sup> molecules of Na<sub>2</sub>CO<sub>3</sub> in g?,1900;1.9e3;1.9E3;2000;2e3;2E3;1910;1.91e3;1.91E3;2.0e3;2.0e3;2.0E3;2000;2e3;2E3;2.00e3;2.00e3;2.00E3,short_answer
+How many moles are in a 14.25 g sample of MoF<sub>6</sub>?,0.06788;6.788e-2;6.788E-2;.06788;0.0679;6.79e-2;6.79E-2;.0679;0.067880;6.7880e-2;6.7880E-2;.067880;0.06787;6.787e-2;6.787E-2;.06787;0.0679;6.79e-2;6.79E-2;.0679;0.067870;6.7870e-2;6.7870E-2;.067870,short_answer
+How much does 30.17 mol of WF<sub>6</sub> weigh (in g)?,8986;8.986e3;8.986E3;8986.;8990;8.99e3;8.99E3;8985.5;8.9855e3;8.9855E3;8985;8.985e3;8.985E3;8985.;8990;8.99e3;8.99E3;8985.0;8.9850e3;8.9850E3,short_answer
+How many molecules are in a 3.33 g sample of SiCl<sub>4</sub>?,1.18e22;1.18e22;1.18E22;1.2e22;1.2e22;1.2E22;1.180e22;1.180e22;1.180E22;1.19e22;1.19e22;1.19E22;1.2e22;1.2e22;1.2E22;1.190e22;1.190e22;1.190E22,short_answer
+What is the mass of 1.691 x 10<sup>23</sup> molecules of SCl<sub>2</sub> in g?,28.91;2.891e1;2.891E1;28.9;2.89e1;2.89E1;28.911;2.8911e1;2.8911E1;28.92;2.892e1;2.892E1;28.9;2.89e1;2.89E1;28.920;2.8920e1;2.8920E1,short_answer
+What is the mass of 2 x 10<sup>24</sup> molecules of H<sub>2</sub>O in g?,50;5e1;5E1;54;5.4e1;5.4E1;54.;60;6e1;6E1;60.;6.0e1;6.0E1;60..,short_answer
+What is the mass in g of 0.151 moles of CF<sub>4</sub>?,13.3;1.33e1;1.33E1;13;1.3e1;1.3E1;13.;13.29;1.329e1;1.329E1;13.2;1.32e1;1.32E1;13;1.3e1;1.3E1;13.;13.20;1.320e1;1.320E1,short_answer
+What is the number of moles in a 350.6 g sample of CdO?,2.730;2.730e0;2.730E0;2.73;2.73e0;2.73E0;2.7300;2.7300e0;2.7300E0;2.729;2.729e0;2.729E0;2.73;2.73e0;2.73E0;2.7290;2.7290e0;2.7290E0,short_answer
+What is the mass in g of 0.3 moles of IF<sub>7</sub>?,80;8e1;8E1;78;7.8e1;7.8E1;78.;70;7e1;7E1;70.;7.0e1;7.0E1;70..,short_answer
+How much does 1.030 mol of BeCl<sub>2</sub> weigh (in g)?,82.31;8.231e1;8.231E1;82.3;8.23e1;8.23E1;82.310;8.2310e1;8.2310E1;82.30;8.230e1;8.230E1;82.3;8.23e1;8.23E1;82.300;8.2300e1;8.2300E1,short_answer
+How much does 20 mol of AlP weigh (in g)?,1000;1e3;1E3;1200;1.2e3;1.2E3;2000;2e3;2E3;2.0e3;2.0e3;2.0E3,short_answer
+How many molecules are in a 0.146 mol sample of CCl<sub>4</sub>?,8.79e22;8.79e22;8.79E22;8.8e22;8.8e22;8.8E22;8.792e22;8.792e22;8.792E22;8.80e22;8.80e22;8.80E22;8.8e22;8.8e22;8.8E22;8.800e22;8.800e22;8.800E22,short_answer
+What is the number of moles in a 9000 g sample of WF<sub>6</sub>?,30;3e1;3E1;30.;3.0e1;3.0E1;30..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+How many molecules are in a 4734 g sample of ZnCl<sub>2</sub>?,2.092e25;2.092e25;2.092E25;2.09e25;2.09e25;2.09E25;2.0921e25;2.0921e25;2.0921E25;2.093e25;2.093e25;2.093E25;2.09e25;2.09e25;2.09E25;2.0930e25;2.0930e25;2.0930E25,short_answer
+How many molecules are in a 5.0 mol sample of BrF<sub>5</sub>?,3.0e24;3.0e24;3.0E24;3e24;3e24;3E24;3.01e24;3.01e24;3.01E24;3.1e24;3.1e24;3.1E24;3e24;3e24;3E24;3.10e24;3.10e24;3.10E24,short_answer
+How many molecules are in a 205.2 g sample of Cl<sub>2</sub>?,1.743e24;1.743e24;1.743E24;1.74e24;1.74e24;1.74E24;1.7428e24;1.7428e24;1.7428E24;1.742e24;1.742e24;1.742E24;1.74e24;1.74e24;1.74E24;1.7420e24;1.7420e24;1.7420E24,short_answer
+What is the mass of 4.9 x 10<sup>24</sup> molecules of UO<sub>2</sub> in g?,2200;2.2e3;2.2E3;2000;2e3;2E3;2190;2.19e3;2.19E3;2100;2.1e3;2.1E3;2000;2e3;2E3;2.10e3;2.10e3;2.10E3,short_answer
+What is the number of moles in a 9.525 g sample of MgSO<sub>4</sub>?,0.07914;7.914e-2;7.914E-2;.07914;0.0791;7.91e-2;7.91E-2;.0791;0.079140;7.9140e-2;7.9140E-2;.079140;0.07913;7.913e-2;7.913E-2;.07913;0.0791;7.91e-2;7.91E-2;.0791;0.079130;7.9130e-2;7.9130E-2;.079130,short_answer
+What is the number of moles in a 5.855 g sample of C<sub>2</sub>H<sub>6</sub>O?,0.1271;1.271e-1;1.271E-1;.1271;0.127;1.27e-1;1.27E-1;.127;0.12710;1.2710e-1;1.2710E-1;.12710;0.1270;1.270e-1;1.270E-1;.1270;0.127;1.27e-1;1.27E-1;.127;0.12700;1.2700e-1;1.2700E-1;.12700,short_answer
+How many moles are in a 4.47 g sample of MoF<sub>5</sub>?,0.0234;2.34e-2;2.34E-2;.0234;0.023;2.3e-2;2.3E-2;.023;0.02340;2.340e-2;2.340E-2;.02340;0.0233;2.33e-2;2.33E-2;.0233;0.023;2.3e-2;2.3E-2;.023;0.02330;2.330e-2;2.330E-2;.02330,short_answer
+What is the number of moles in a 167 g sample of NH<sub>4</sub>NO<sub>3</sub>?,2.09;2.09e0;2.09E0;2.1;2.1e0;2.1E0;2.090;2.090e0;2.090E0;2.08;2.08e0;2.08E0;2.1;2.1e0;2.1E0;2.080;2.080e0;2.080E0,short_answer
+How many molecules are in a 0.01991 mol sample of K<sub>2</sub>CO<sub>3</sub>?,1.199e22;1.199e22;1.199E22;1.20e22;1.20e22;1.20E22;1.1990e22;1.1990e22;1.1990E22;1.200e22;1.200e22;1.200E22;1.20e22;1.20e22;1.20E22;1.2000e22;1.2000e22;1.2000E22,short_answer
+How much does 0.0666 mol of NF<sub>3</sub> weigh (in g)?,4.73;4.73e0;4.73E0;4.7;4.7e0;4.7E0;4.729;4.729e0;4.729E0;4.72;4.72e0;4.72E0;4.7;4.7e0;4.7E0;4.720;4.720e0;4.720E0,short_answer
+What is the mass in g of 0.03 moles of AgCl?,4;4e0;4E0;4.;4.3;4.3e0;4.3E0;5;5e0;5E0;5.;5.0;5.0e0;5.0E0,short_answer
+What is the mass in g of 11 moles of MgO?,440;4.4e2;4.4E2;400;4e2;4E2;443;4.43e2;4.43E2;443.;450;4.5e2;4.5E2;500;5e2;5E2;450.;4.50e2;4.50E2;450..,short_answer
+How much does 17 mol of IF<sub>7</sub> weigh (in g)?,4400;4.4e3;4.4E3;4000;4e3;4E3;4420;4.42e3;4.42E3;4500;4.5e3;4.5E3;5000;5e3;5E3;4.50e3;4.50e3;4.50E3,short_answer
+How much does 0.5026 mol of SiO<sub>2</sub> weigh (in g)?,30.20;3.020e1;3.020E1;30.2;3.02e1;3.02E1;30.198;3.0198e1;3.0198E1;30.19;3.019e1;3.019E1;30.2;3.02e1;3.02E1;30.190;3.0190e1;3.0190E1,short_answer
+How much does 11.1 mol of K<sub>2</sub>CO<sub>3</sub> weigh (in g)?,1530;1.53e3;1.53E3;1500;1.5e3;1.5E3;1534;1.534e3;1.534E3;1534.;1540;1.54e3;1.54E3;1500;1.5e3;1.5E3;1540.;1.540e3;1.540E3;1540..,short_answer
+What is the mass in g of 0.3183 moles of SeCl<sub>4</sub>?,70.27;7.027e1;7.027E1;70.3;7.03e1;7.03E1;70.271;7.0271e1;7.0271E1;70.28;7.028e1;7.028E1;70.3;7.03e1;7.03E1;70.280;7.0280e1;7.0280E1,short_answer
+How much does 24.1 mol of WF<sub>6</sub> weigh (in g)?,7180;7.18e3;7.18E3;7200;7.2e3;7.2E3;7178;7.178e3;7.178E3;7178.;7170;7.17e3;7.17E3;7200;7.2e3;7.2E3;7170.;7.170e3;7.170E3;7170..,short_answer
+How many molecules are in a 0.3 mol sample of V<sub>2</sub>O<sub>5</sub>?,2e23;2e23;2E23;1.8e23;1.8e23;1.8E23;1e23;1e23;1E23;1.0e23;1.0e23;1.0E23,short_answer
+How much does 1.76 mol of BrF<sub>5</sub> weigh (in g)?,308;3.08e2;3.08E2;308.;310;3.1e2;3.1E2;307.8;3.078e2;3.078E2;307;3.07e2;3.07E2;307.;310;3.1e2;3.1E2;307.0;3.070e2;3.070E2,short_answer
+What is the mass of 1 x 10<sup>24</sup> molecules of C<sub>3</sub>H<sub>8</sub> in g?,90;9e1;9E1;88;8.8e1;8.8E1;88.;80;8e1;8E1;80.;8.0e1;8.0E1;80..,short_answer
+How much does 20 mol of MnF<sub>2</sub> weigh (in g)?,2000;2e3;2E3;1900;1.9e3;1.9E3;1000;1e3;1E3;1.0e3;1.0e3;1.0E3,short_answer
+How much does 0.463 mol of UF<sub>6</sub> weigh (in g)?,163;1.63e2;1.63E2;163.;160;1.6e2;1.6E2;163.0;1.630e2;1.630E2;162;1.62e2;1.62E2;162.;160;1.6e2;1.6E2;162.0;1.620e2;1.620E2,short_answer
+What is the mass of 1.65 x 10<sup>22</sup> molecules of C<sub>6</sub>H<sub>14</sub> in g?,2.36;2.36e0;2.36E0;2.4;2.4e0;2.4E0;2.361;2.361e0;2.361E0;2.37;2.37e0;2.37E0;2.4;2.4e0;2.4E0;2.370;2.370e0;2.370E0,short_answer
+How much does 0.17 mol of P<sub>4</sub> weigh (in g)?,21;2.1e1;2.1E1;21.;20;2e1;2E1;21.1;2.11e1;2.11E1;22;2.2e1;2.2E1;22.;20;2e1;2E1;22.0;2.20e1;2.20E1,short_answer
+How many molecules are in a 0.2 mol sample of HgO?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+How much does 0.2 mol of Br<sub>2</sub> weigh (in g)?,30;3e1;3E1;32;3.2e1;3.2E1;32.;40;4e1;4E1;40.;4.0e1;4.0E1;40..,short_answer
+How many molecules are in a 0.012 mol sample of HCN?,7.2e21;7.2e21;7.2E21;7e21;7e21;7E21;7.23e21;7.23e21;7.23E21;7.3e21;7.3e21;7.3E21;7e21;7e21;7E21;7.30e21;7.30e21;7.30E21,short_answer
+How many molecules are in a 0.156 mol sample of KH?,9.39e22;9.39e22;9.39E22;9.4e22;9.4e22;9.4E22;9.395e22;9.395e22;9.395E22;9.40e22;9.40e22;9.40E22;9.4e22;9.4e22;9.4E22;9.400e22;9.400e22;9.400E22,short_answer
+How much does 0.306 mol of HgO weigh (in g)?,66.3;6.63e1;6.63E1;66;6.6e1;6.6E1;66.;66.28;6.628e1;6.628E1;66.2;6.62e1;6.62E1;66;6.6e1;6.6E1;66.;66.20;6.620e1;6.620E1,short_answer
+How many molecules are in a 270 g sample of TiCl<sub>4</sub>?,8.4e23;8.4e23;8.4E23;8e23;8e23;8E23;8.43e23;8.43e23;8.43E23;8.5e23;8.5e23;8.5E23;9e23;9e23;9E23;8.50e23;8.50e23;8.50E23,short_answer
+What is the number of moles in a 4620 g sample of InCl<sub>3</sub>?,20.9;2.09e1;2.09E1;21;2.1e1;2.1E1;21.;20.90;2.090e1;2.090E1;20.8;2.08e1;2.08E1;21;2.1e1;2.1E1;21.;20.80;2.080e1;2.080E1,short_answer
+How many molecules are in a 0.015 mol sample of NaNO<sub>3</sub>?,9.0e21;9.0e21;9.0E21;9e21;9e21;9E21;9.03e21;9.03e21;9.03E21;9.1e21;9.1e21;9.1E21;9e21;9e21;9E21;9.10e21;9.10e21;9.10E21,short_answer
+How many moles are in a 1.37 g sample of H<sub>2</sub>SO<sub>4</sub>?,0.0140;1.40e-2;1.40E-2;.0140;0.014;1.4e-2;1.4E-2;.014;0.01400;1.400e-2;1.400E-2;.01400;0.0139;1.39e-2;1.39E-2;.0139;0.014;1.4e-2;1.4E-2;.014;0.01390;1.390e-2;1.390E-2;.01390,short_answer
+What is the mass in g of 0.3 moles of ClF<sub>3</sub>?,30;3e1;3E1;28;2.8e1;2.8E1;28.;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+What is the number of moles in a 4.78 g sample of CCl<sub>4</sub>?,0.0311;3.11e-2;3.11E-2;.0311;0.031;3.1e-2;3.1E-2;.031;0.03110;3.110e-2;3.110E-2;.03110;0.0310;3.10e-2;3.10E-2;.0310;0.031;3.1e-2;3.1E-2;.031;0.03100;3.100e-2;3.100E-2;.03100,short_answer
+What is the mass in g of 0.120 moles of SF<sub>4</sub>?,13.0;1.30e1;1.30E1;13;1.3e1;1.3E1;13.;12.97;1.297e1;1.297E1;12.9;1.29e1;1.29E1;13;1.3e1;1.3E1;13.;12.90;1.290e1;1.290E1,short_answer
+How many molecules are in a 3190 g sample of SiCl<sub>4</sub>?,1.13e25;1.13e25;1.13E25;1.1e25;1.1e25;1.1E25;1.132e25;1.132e25;1.132E25;1.14e25;1.14e25;1.14E25;1.1e25;1.1e25;1.1E25;1.140e25;1.140e25;1.140E25,short_answer
+How many molecules are in a 12 mol sample of KrF<sub>2</sub>?,7.2e24;7.2e24;7.2E24;7e24;7e24;7E24;7.23e24;7.23e24;7.23E24;7.3e24;7.3e24;7.3E24;7e24;7e24;7E24;7.30e24;7.30e24;7.30E24,short_answer
+What is the number of moles in a 94.45 g sample of HNO<sub>3</sub>?,1.499;1.499e0;1.499E0;1.50;1.50e0;1.50E0;1.4990;1.4990e0;1.4990E0;1.498;1.498e0;1.498E0;1.50;1.50e0;1.50E0;1.4980;1.4980e0;1.4980E0,short_answer
+What is the number of moles in a 4.9 g sample of HBr?,0.061;6.1e-2;6.1E-2;.061;0.06;6e-2;6E-2;.06;0.0610;6.10e-2;6.10E-2;.0610;0.060;6.0e-2;6.0E-2;.060;0.06;6e-2;6E-2;.06;0.0600;6.00e-2;6.00E-2;.0600,short_answer
+How many moles are in a 0.79 g sample of KOH?,0.014;1.4e-2;1.4E-2;.014;0.01;1e-2;1E-2;.01;0.0140;1.40e-2;1.40E-2;.0140;0.013;1.3e-2;1.3E-2;.013;0.01;1e-2;1E-2;.01;0.0130;1.30e-2;1.30E-2;.0130,short_answer
+How many molecules are in a 20 mol sample of SiBr<sub>4</sub>?,1e25;1e25;1E25;1.2e25;1.2e25;1.2E25;2e25;2e25;2E25;2.0e25;2.0e25;2.0E25,short_answer
+What is the number of moles in a 2300 g sample of CdO?,18;1.8e1;1.8E1;18.;20;2e1;2E1;18.0;1.80e1;1.80E1;17;1.7e1;1.7E1;17.;20;2e1;2E1;17.0;1.70e1;1.70E1,short_answer
+How many moles are in a 67.20 g sample of Cl<sub>2</sub>?,0.9478;9.478e-1;9.478E-1;.9478;0.948;9.48e-1;9.48E-1;.948;0.94780;9.4780e-1;9.4780E-1;.94780;0.9477;9.477e-1;9.477E-1;.9477;0.948;9.48e-1;9.48E-1;.948;0.94770;9.4770e-1;9.4770E-1;.94770,short_answer
+What is the mass in g of 4.5 moles of U<sub>3</sub>O<sub>8</sub>?,3800;3.8e3;3.8E3;4000;4e3;4E3;3790;3.79e3;3.79E3;3700;3.7e3;3.7E3;4000;4e3;4E3;3.70e3;3.70e3;3.70E3,short_answer
+What is the mass of 3 x 10<sup>24</sup> molecules of AsF<sub>3</sub> in g?,700;7e2;7E2;660;6.6e2;6.6E2;600;6e2;6E2;6.0e2;6.0e2;6.0E2,short_answer
+What is the mass in g of 2.3 moles of SCl<sub>2</sub>?,240;2.4e2;2.4E2;200;2e2;2E2;237;2.37e2;2.37E2;237.;230;2.3e2;2.3E2;200;2e2;2E2;230.;2.30e2;2.30E2;230..,short_answer
+How much does 0.037 mol of SiC weigh (in g)?,1.5;1.5e0;1.5E0;1;1e0;1E0;1.;1.48;1.48e0;1.48E0;1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.40;1.40e0;1.40E0,short_answer
+What is the number of moles in a 1200 g sample of MgCO<sub>3</sub>?,14;1.4e1;1.4E1;14.;10;1e1;1E1;14.0;1.40e1;1.40E1;13;1.3e1;1.3E1;13.;10;1e1;1E1;13.0;1.30e1;1.30E1,short_answer
+What is the mass of 3.8 x 10<sup>22</sup> molecules of MnF<sub>2</sub> in g?,5.9;5.9e0;5.9E0;6;6e0;6E0;6.;5.85;5.85e0;5.85E0;5.8;5.8e0;5.8E0;6;6e0;6E0;6.;5.80;5.80e0;5.80E0,short_answer
+What is the number of moles in a 80 g sample of HCN?,3;3e0;3E0;3.;3.0;3.0e0;3.0E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+How many molecules are in a 23.85 mol sample of UF<sub>6</sub>?,1.436e25;1.436e25;1.436E25;1.44e25;1.44e25;1.44E25;1.4363e25;1.4363e25;1.4363E25;1.437e25;1.437e25;1.437E25;1.44e25;1.44e25;1.44E25;1.4370e25;1.4370e25;1.4370E25,short_answer
+How many molecules are in a 1484 g sample of HI?,6.986e24;6.986e24;6.986E24;6.99e24;6.99e24;6.99E24;6.9857e24;6.9857e24;6.9857E24;6.985e24;6.985e24;6.985E24;6.99e24;6.99e24;6.99E24;6.9850e24;6.9850e24;6.9850E24,short_answer
+How many moles are in a 1110 g sample of CrO<sub>3</sub>?,11.1;1.11e1;1.11E1;11;1.1e1;1.1E1;11.;11.10;1.110e1;1.110E1;11.0;1.10e1;1.10E1;11;1.1e1;1.1E1;11.;11.00;1.100e1;1.100E1,short_answer
+What is the number of moles in a 13 g sample of KH?,0.32;3.2e-1;3.2E-1;.32;0.3;3e-1;3E-1;.3;0.320;3.20e-1;3.20E-1;.320;0.31;3.1e-1;3.1E-1;.31;0.3;3e-1;3E-1;.3;0.310;3.10e-1;3.10E-1;.310,short_answer
+What is the mass in g of 0.081 moles of CaCO<sub>3</sub>?,8.1;8.1e0;8.1E0;8;8e0;8E0;8.;8.11;8.11e0;8.11E0;8.2;8.2e0;8.2E0;8;8e0;8E0;8.;8.20;8.20e0;8.20E0,short_answer
+How many molecules are in a 0.3 mol sample of XeF<sub>2</sub>?,2e23;2e23;2E23;1.8e23;1.8e23;1.8E23;1e23;1e23;1E23;1.0e23;1.0e23;1.0E23,short_answer
+What is the mass in g of 0.056 moles of SF<sub>6</sub>?,8.2;8.2e0;8.2E0;8;8e0;8E0;8.;8.18;8.18e0;8.18E0;8.1;8.1e0;8.1E0;8;8e0;8E0;8.;8.10;8.10e0;8.10E0,short_answer
+How many molecules are in a 0.2132 mol sample of LiF?,1.284e23;1.284e23;1.284E23;1.28e23;1.28e23;1.28E23;1.2839e23;1.2839e23;1.2839E23;1.283e23;1.283e23;1.283E23;1.28e23;1.28e23;1.28E23;1.2830e23;1.2830e23;1.2830E23,short_answer
+How much does 0.01414 mol of N<sub>2</sub>H<sub>4</sub> weigh (in g)?,0.4531;4.531e-1;4.531E-1;.4531;0.453;4.53e-1;4.53E-1;.453;0.45313;4.5313e-1;4.5313E-1;.45313;0.4532;4.532e-1;4.532E-1;.4532;0.453;4.53e-1;4.53E-1;.453;0.45320;4.5320e-1;4.5320E-1;.45320,short_answer
+How many moles are in a 0.6 g sample of O<sub>2</sub>?,0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020;0.01;1e-2;1E-2;.01;0.010;1.0e-2;1.0E-2;.010,short_answer
+How many molecules are in a 1.92 g sample of ZnCl<sub>2</sub>?,8.49e21;8.49e21;8.49E21;8.5e21;8.5e21;8.5E21;8.491e21;8.491e21;8.491E21;8.50e21;8.50e21;8.50E21;8.5e21;8.5e21;8.5E21;8.500e21;8.500e21;8.500E21,short_answer
+What is the mass in g of 5.0 moles of C<sub>6</sub>H<sub>6</sub>?,390;3.9e2;3.9E2;400;4e2;4E2;391;3.91e2;3.91E2;391.;4.0e2;4.0e2;4.0E2;400;4e2;4E2;400.;4.00e2;4.00E2;400..,short_answer
+How much does 15.37 mol of AgCl weigh (in g)?,2203;2.203e3;2.203E3;2203.;2.20e3;2.20e3;2.20E3;2202.8;2.2028e3;2.2028E3;2202;2.202e3;2.202E3;2202.;2.20e3;2.20e3;2.20E3;2202.0;2.2020e3;2.2020E3,short_answer
+What is the mass in g of 1.5 moles of AsF<sub>5</sub>?,250;2.5e2;2.5E2;300;3e2;3E2;255;2.55e2;2.55E2;255.;260;2.6e2;2.6E2;300;3e2;3E2;260.;2.60e2;2.60E2;260..,short_answer
+How many molecules are in a 2.08 g sample of C<sub>7</sub>H<sub>16</sub>?,1.25e22;1.25e22;1.25E22;1.3e22;1.3e22;1.3E22;1.253e22;1.253e22;1.253E22;1.26e22;1.26e22;1.26E22;1.3e22;1.3e22;1.3E22;1.260e22;1.260e22;1.260E22,short_answer
+How much does 0.03 mol of NF<sub>3</sub> weigh (in g)?,2;2e0;2E0;2.;2.1;2.1e0;2.1E0;3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+How many molecules are in a 10.68 mol sample of PBr<sub>3</sub>?,6.432e24;6.432e24;6.432E24;6.43e24;6.43e24;6.43E24;6.4316e24;6.4316e24;6.4316E24;6.431e24;6.431e24;6.431E24;6.43e24;6.43e24;6.43E24;6.4310e24;6.4310e24;6.4310E24,short_answer
+How many molecules are in a 0.0148 mol sample of MgCO<sub>3</sub>?,8.91e21;8.91e21;8.91E21;8.9e21;8.9e21;8.9E21;8.913e21;8.913e21;8.913E21;8.92e21;8.92e21;8.92E21;8.9e21;8.9e21;8.9E21;8.920e21;8.920e21;8.920E21,short_answer
+How much does 1.2 mol of N<sub>2</sub>H<sub>4</sub> weigh (in g)?,38;3.8e1;3.8E1;38.;40;4e1;4E1;38.5;3.85e1;3.85E1;39;3.9e1;3.9E1;39.;40;4e1;4E1;39.0;3.90e1;3.90E1,short_answer
+What is the number of moles in a 4960 g sample of UF<sub>6</sub>?,14.1;1.41e1;1.41E1;14;1.4e1;1.4E1;14.;14.10;1.410e1;1.410E1;14.0;1.40e1;1.40E1;14;1.4e1;1.4E1;14.;14.00;1.400e1;1.400E1,short_answer
+How many molecules are in a 2 mol sample of F<sub>2</sub>?,1e24;1e24;1E24;1.2e24;1.2e24;1.2E24;2e24;2e24;2E24;2.0e24;2.0e24;2.0E24,short_answer
+What is the mass of 7.004 x 10<sup>23</sup> molecules of AgCl in g?,166.7;1.667e2;1.667E2;167;1.67e2;1.67E2;167.;166.68;1.6668e2;1.6668E2;166.6;1.666e2;1.666E2;167;1.67e2;1.67E2;167.;166.60;1.6660e2;1.6660E2,short_answer
+What is the number of moles in a 3.50 x 10<sup>3</sup> g sample of AgNO<sub>3</sub>?,20.6;2.06e1;2.06E1;21;2.1e1;2.1E1;21.;20.60;2.060e1;2.060E1;20.5;2.05e1;2.05E1;21;2.1e1;2.1E1;21.;20.50;2.050e1;2.050E1,short_answer
+How many molecules are in a 822 g sample of XeF<sub>6</sub>?,2.02e24;2.02e24;2.02E24;2.0e24;2.0e24;2.0E24;2.017e24;2.017e24;2.017E24;2.01e24;2.01e24;2.01E24;2.0e24;2.0e24;2.0E24;2.010e24;2.010e24;2.010E24,short_answer
+How many molecules are in a 0.050 mol sample of SO<sub>2</sub>?,3.0e22;3.0e22;3.0E22;3e22;3e22;3E22;3.01e22;3.01e22;3.01E22;3.1e22;3.1e22;3.1E22;3e22;3e22;3E22;3.10e22;3.10e22;3.10E22,short_answer
+What is the mass of 6.6 x 10<sup>24</sup> molecules of TeF<sub>6</sub> in g?,2700;2.7e3;2.7E3;3000;3e3;3E3;2660;2.66e3;2.66E3;2600;2.6e3;2.6E3;3000;3e3;3E3;2.60e3;2.60e3;2.60E3,short_answer
+What is the mass of 6.81 x 10<sup>22</sup> molecules of PbO in g?,25.2;2.52e1;2.52E1;25;2.5e1;2.5E1;25.;25.22;2.522e1;2.522E1;25.3;2.53e1;2.53E1;25;2.5e1;2.5E1;25.;25.30;2.530e1;2.530E1,short_answer
+How many molecules are in a 25.6 g sample of TcF<sub>6</sub>?,7.29e22;7.29e22;7.29E22;7.3e22;7.3e22;7.3E22;7.287e22;7.287e22;7.287E22;7.28e22;7.28e22;7.28E22;7.3e22;7.3e22;7.3E22;7.280e22;7.280e22;7.280E22,short_answer
+What is the mass of 1 x 10<sup>22</sup> molecules of Br<sub>2</sub> in g?,3;3e0;3E0;3.;3.2;3.2e0;3.2E0;4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+What is the number of moles in a 1027 g sample of NiO?,13.75;1.375e1;1.375E1;13.8;1.38e1;1.38E1;13.750;1.3750e1;1.3750E1;13.74;1.374e1;1.374E1;13.7;1.37e1;1.37E1;13.740;1.3740e1;1.3740E1,short_answer
+What is the mass in g of 0.03 moles of H<sub>2</sub>O?,0.5;5e-1;5E-1;.5;0.54;5.4e-1;5.4E-1;.54;0.6;6e-1;6E-1;.6;0.60;6.0e-1;6.0E-1;.60,short_answer
+What is the number of moles in a 1940 g sample of MnO<sub>2</sub>?,22.3;2.23e1;2.23E1;22;2.2e1;2.2E1;22.;22.30;2.230e1;2.230E1;22.2;2.22e1;2.22E1;22;2.2e1;2.2E1;22.;22.20;2.220e1;2.220E1,short_answer
+How many molecules are in a 11 mol sample of NaCl?,6.6e24;6.6e24;6.6E24;7e24;7e24;7E24;6.62e24;6.62e24;6.62E24;6.7e24;6.7e24;6.7E24;7e24;7e24;7E24;6.70e24;6.70e24;6.70E24,short_answer
+How many moles are in a 2.52 g sample of SeCl<sub>4</sub>?,0.0114;1.14e-2;1.14E-2;.0114;0.011;1.1e-2;1.1E-2;.011;0.01140;1.140e-2;1.140E-2;.01140;0.0113;1.13e-2;1.13E-2;.0113;0.011;1.1e-2;1.1E-2;.011;0.01130;1.130e-2;1.130E-2;.01130,short_answer
+How many molecules are in a 0.15 mol sample of O<sub>3</sub>?,9.0e22;9.0e22;9.0E22;9e22;9e22;9E22;9.03e22;9.03e22;9.03E22;9.1e22;9.1e22;9.1E22;9e22;9e22;9E22;9.10e22;9.10e22;9.10E22,short_answer
+How many moles are in a 8.730 g sample of C<sub>6</sub>H<sub>14</sub>?,0.1013;1.013e-1;1.013E-1;.1013;0.101;1.01e-1;1.01E-1;.101;0.10130;1.0130e-1;1.0130E-1;.10130;0.1012;1.012e-1;1.012E-1;.1012;0.101;1.01e-1;1.01E-1;.101;0.10120;1.0120e-1;1.0120E-1;.10120,short_answer
+How many molecules are in a 5 mol sample of PF<sub>3</sub>?,3e24;3e24;3E24;3.0e24;3.0e24;3.0E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+How many molecules are in a 0.028 mol sample of NaNO<sub>3</sub>?,1.7e22;1.7e22;1.7E22;2e22;2e22;2E22;1.69e22;1.69e22;1.69E22;1.6e22;1.6e22;1.6E22;2e22;2e22;2E22;1.60e22;1.60e22;1.60E22,short_answer
+What is the mass of 4.794 x 10<sup>24</sup> molecules of SiF<sub>4</sub> in g?,828.6;8.286e2;8.286E2;829;8.29e2;8.29E2;829.;828.57;8.2857e2;8.2857E2;828.5;8.285e2;8.285E2;829;8.29e2;8.29E2;829.;828.50;8.2850e2;8.2850E2,short_answer
+How many moles are in a 960 g sample of O<sub>3</sub>?,20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.0;2.00e1;2.00E1;19;1.9e1;1.9E1;19.;20;2e1;2E1;19.0;1.90e1;1.90E1,short_answer
+How much does 0.037 mol of ZnO weigh (in g)?,3.0;3.0e0;3.0E0;3;3e0;3E0;3.;3.01;3.01e0;3.01E0;3.1;3.1e0;3.1E0;3;3e0;3E0;3.;3.10;3.10e0;3.10E0,short_answer
+What is the number of moles in a 700 g sample of HCl?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+What is the number of moles in a 432.0 g sample of I<sub>2</sub>?,1.702;1.702e0;1.702E0;1.70;1.70e0;1.70E0;1.7020;1.7020e0;1.7020E0;1.701;1.701e0;1.701E0;1.70;1.70e0;1.70E0;1.7010;1.7010e0;1.7010E0,short_answer
+How much does 0.7655 mol of Ag<sub>2</sub>O weigh (in g)?,177.4;1.774e2;1.774E2;177;1.77e2;1.77E2;177.;177.39;1.7739e2;1.7739E2;177.3;1.773e2;1.773E2;177;1.77e2;1.77E2;177.;177.30;1.7730e2;1.7730E2,short_answer
+How much does 10.16 mol of ZnO weigh (in g)?,826.8;8.268e2;8.268E2;827;8.27e2;8.27E2;827.;826.81;8.2681e2;8.2681E2;826.9;8.269e2;8.269E2;827;8.27e2;8.27E2;827.;826.90;8.2690e2;8.2690E2,short_answer
+How many molecules are in a 940 g sample of Cu<sub>2</sub>O?,4.0e24;4.0e24;4.0E24;4e24;4e24;4E24;3.97e24;3.97e24;3.97E24;3.9e24;3.9e24;3.9E24;4e24;4e24;4E24;3.90e24;3.90e24;3.90E24,short_answer
+How many moles are in a 13.4 g sample of SiH<sub>4</sub>?,0.417;4.17e-1;4.17E-1;.417;0.42;4.2e-1;4.2E-1;.42;0.4170;4.170e-1;4.170E-1;.4170;0.416;4.16e-1;4.16E-1;.416;0.42;4.2e-1;4.2E-1;.42;0.4160;4.160e-1;4.160E-1;.4160,short_answer
+What is the mass of 2.1 x 10<sup>22</sup> molecules of XeF<sub>6</sub> in g?,8.6;8.6e0;8.6E0;9;9e0;9E0;9.;8.58;8.58e0;8.58E0;8.5;8.5e0;8.5E0;9;9e0;9E0;9.;8.50;8.50e0;8.50E0,short_answer
+What is the mass in g of 0.60 moles of SiC?,24;2.4e1;2.4E1;24.;20;2e1;2E1;24.1;2.41e1;2.41E1;25;2.5e1;2.5E1;25.;30;3e1;3E1;25.0;2.50e1;2.50E1,short_answer
+How much does 1.8 mol of AuCl<sub>3</sub> weigh (in g)?,550;5.5e2;5.5E2;500;5e2;5E2;546;5.46e2;5.46E2;546.;540;5.4e2;5.4E2;500;5e2;5E2;540.;5.40e2;5.40E2;540..,short_answer
+How many moles are in a 74.9 g sample of ClO<sub>2</sub>?,1.11;1.11e0;1.11E0;1.1;1.1e0;1.1E0;1.110;1.110e0;1.110E0;1.10;1.10e0;1.10E0;1.1;1.1e0;1.1E0;1.100;1.100e0;1.100E0,short_answer
+What is the mass of 2 x 10<sup>23</sup> molecules of BaCl<sub>2</sub> in g?,60;6e1;6E1;62;6.2e1;6.2E1;62.;70;7e1;7E1;70.;7.0e1;7.0E1;70..,short_answer
+How many moles are in a 2760 g sample of HI?,21.6;2.16e1;2.16E1;22;2.2e1;2.2E1;22.;21.60;2.160e1;2.160E1;21.5;2.15e1;2.15E1;22;2.2e1;2.2E1;22.;21.50;2.150e1;2.150E1,short_answer
+How many moles are in a 1.84 g sample of CaF<sub>2</sub>?,0.0236;2.36e-2;2.36E-2;.0236;0.024;2.4e-2;2.4E-2;.024;0.02360;2.360e-2;2.360E-2;.02360;0.0235;2.35e-2;2.35E-2;.0235;0.024;2.4e-2;2.4E-2;.024;0.02350;2.350e-2;2.350E-2;.02350,short_answer
+What is the mass in g of 7.906 moles of SCl<sub>2</sub>?,814.0;8.140e2;8.140E2;814;8.14e2;8.14E2;814.;814.00;8.1400e2;8.1400E2;814.1;8.141e2;8.141E2;814;8.14e2;8.14E2;814.;814.10;8.1410e2;8.1410E2,short_answer
+What is the mass in g of 2 moles of SO<sub>3</sub>?,200;2e2;2E2;160;1.6e2;1.6E2;100;1e2;1E2;1.0e2;1.0e2;1.0E2,short_answer
+How many moles are in a 32.93 g sample of NiO?,0.4409;4.409e-1;4.409E-1;.4409;0.441;4.41e-1;4.41E-1;.441;0.44090;4.4090e-1;4.4090E-1;.44090;0.4408;4.408e-1;4.408E-1;.4408;0.441;4.41e-1;4.41E-1;.441;0.44080;4.4080e-1;4.4080E-1;.44080,short_answer
+How many molecules are in a 2.678 mol sample of PbO?,1.613e24;1.613e24;1.613E24;1.61e24;1.61e24;1.61E24;1.6127e24;1.6127e24;1.6127E24;1.612e24;1.612e24;1.612E24;1.61e24;1.61e24;1.61E24;1.6120e24;1.6120e24;1.6120E24,short_answer
+What is the number of moles in a 27.5 g sample of Li<sub>2</sub>S?,0.599;5.99e-1;5.99E-1;.599;0.60;6.0e-1;6.0E-1;.60;0.5990;5.990e-1;5.990E-1;.5990;0.598;5.98e-1;5.98E-1;.598;0.60;6.0e-1;6.0E-1;.60;0.5980;5.980e-1;5.980E-1;.5980,short_answer
+How many molecules are in a 0.038 mol sample of PbO?,2.3e22;2.3e22;2.3E22;2e22;2e22;2E22;2.29e22;2.29e22;2.29E22;2.2e22;2.2e22;2.2E22;2e22;2e22;2E22;2.20e22;2.20e22;2.20E22,short_answer
+How many moles are in a 150. g sample of CrO<sub>3</sub>?,1.50;1.50e0;1.50E0;1.5;1.5e0;1.5E0;1.500;1.500e0;1.500E0;1.49;1.49e0;1.49E0;1.5;1.5e0;1.5E0;1.490;1.490e0;1.490E0,short_answer
+What is the number of moles in a 3 g sample of C<sub>6</sub>H<sub>6</sub>O?,0.03;3e-2;3E-2;.03;0.030;3.0e-2;3.0E-2;.030;0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020,short_answer
+What is the mass of 8.43 x 10<sup>22</sup> molecules of RnF<sub>2</sub> in g?,36.4;3.64e1;3.64E1;36;3.6e1;3.6E1;36.;36.40;3.640e1;3.640E1;36.3;3.63e1;3.63E1;36;3.6e1;3.6E1;36.;36.30;3.630e1;3.630E1,short_answer
+What is the number of moles in a 28.42 g sample of C<sub>6</sub>H<sub>14</sub>?,0.3298;3.298e-1;3.298E-1;.3298;0.330;3.30e-1;3.30E-1;.330;0.32980;3.2980e-1;3.2980E-1;.32980;0.3297;3.297e-1;3.297E-1;.3297;0.330;3.30e-1;3.30E-1;.330;0.32970;3.2970e-1;3.2970E-1;.32970,short_answer
+How many molecules are in a 0.0548 mol sample of PF<sub>5</sub>?,3.30e22;3.30e22;3.30E22;3.3e22;3.3e22;3.3E22;3.300e22;3.300e22;3.300E22;3.31e22;3.31e22;3.31E22;3.3e22;3.3e22;3.3E22;3.310e22;3.310e22;3.310E22,short_answer
+How many molecules are in a 0.0506 mol sample of SbF<sub>3</sub>?,3.05e22;3.05e22;3.05E22;3.0e22;3.0e22;3.0E22;3.047e22;3.047e22;3.047E22;3.04e22;3.04e22;3.04E22;3.0e22;3.0e22;3.0E22;3.040e22;3.040e22;3.040E22,short_answer
+What is the number of moles in a 2.63 g sample of C<sub>2</sub>H<sub>2</sub>?,0.101;1.01e-1;1.01E-1;.101;0.10;1.0e-1;1.0E-1;.10;0.1010;1.010e-1;1.010E-1;.1010;0.100;1.00e-1;1.00E-1;.100;0.10;1.0e-1;1.0E-1;.10;0.1000;1.000e-1;1.000E-1;.1000,short_answer
+How many molecules are in a 0.0377 mol sample of ClO<sub>2</sub>?,2.27e22;2.27e22;2.27E22;2.3e22;2.3e22;2.3E22;2.270e22;2.270e22;2.270E22;2.28e22;2.28e22;2.28E22;2.3e22;2.3e22;2.3E22;2.280e22;2.280e22;2.280E22,short_answer
+How much does 0.03911 mol of TcF<sub>6</sub> weigh (in g)?,8.287;8.287e0;8.287E0;8.29;8.29e0;8.29E0;8.2873;8.2873e0;8.2873E0;8.288;8.288e0;8.288E0;8.29;8.29e0;8.29E0;8.2880;8.2880e0;8.2880E0,short_answer
+What is the mass of 9.0 x 10<sup>23</sup> molecules of I<sub>2</sub> in g?,380;3.8e2;3.8E2;400;4e2;4E2;381;3.81e2;3.81E2;381.;390;3.9e2;3.9E2;400;4e2;4E2;390.;3.90e2;3.90E2;390..,short_answer
+How much does 0.016 mol of NH<sub>4</sub>NO<sub>3</sub> weigh (in g)?,1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.28;1.28e0;1.28E0;1.2;1.2e0;1.2E0;1;1e0;1E0;1.;1.20;1.20e0;1.20E0,short_answer
+What is the number of moles in a 81.97 g sample of KOH?,1.461;1.461e0;1.461E0;1.46;1.46e0;1.46E0;1.4610;1.4610e0;1.4610E0;1.460;1.460e0;1.460E0;1.46;1.46e0;1.46E0;1.4600;1.4600e0;1.4600E0,short_answer
+How many moles are in a 5.47 g sample of F<sub>2</sub>?,0.144;1.44e-1;1.44E-1;.144;0.14;1.4e-1;1.4E-1;.14;0.1440;1.440e-1;1.440E-1;.1440;0.143;1.43e-1;1.43E-1;.143;0.14;1.4e-1;1.4E-1;.14;0.1430;1.430e-1;1.430E-1;.1430,short_answer
+How many molecules are in a 2.204 g sample of NH<sub>4</sub>Cl?,2.481e22;2.481e22;2.481E22;2.48e22;2.48e22;2.48E22;2.4811e22;2.4811e22;2.4811E22;2.482e22;2.482e22;2.482E22;2.48e22;2.48e22;2.48E22;2.4820e22;2.4820e22;2.4820E22,short_answer
+What is the number of moles in a 500 g sample of C<sub>2</sub>H<sub>2</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many moles are in a 9.0 g sample of BaCl<sub>2</sub>?,0.043;4.3e-2;4.3E-2;.043;0.04;4e-2;4E-2;.04;0.0430;4.30e-2;4.30E-2;.0430;0.042;4.2e-2;4.2E-2;.042;0.04;4e-2;4E-2;.04;0.0420;4.20e-2;4.20E-2;.0420,short_answer
+How many moles are in a 5880 g sample of AuCl<sub>3</sub>?,19.4;1.94e1;1.94E1;19;1.9e1;1.9E1;19.;19.40;1.940e1;1.940E1;19.3;1.93e1;1.93E1;19;1.9e1;1.9E1;19.;19.30;1.930e1;1.930E1,short_answer
+What is the number of moles in a 3.375 g sample of SiH<sub>4</sub>?,0.1051;1.051e-1;1.051E-1;.1051;0.105;1.05e-1;1.05E-1;.105;0.10510;1.0510e-1;1.0510E-1;.10510;0.1050;1.050e-1;1.050E-1;.1050;0.105;1.05e-1;1.05E-1;.105;0.10500;1.0500e-1;1.0500E-1;.10500,short_answer
+What is the mass of 1.29 x 10<sup>22</sup> molecules of IO<sub>4</sub> in g?,4.09;4.09e0;4.09E0;4.1;4.1e0;4.1E0;4.085;4.085e0;4.085E0;4.08;4.08e0;4.08E0;4.1;4.1e0;4.1E0;4.080;4.080e0;4.080E0,short_answer
+What is the number of moles in a 140.4 g sample of NO<sub>2</sub>?,3.052;3.052e0;3.052E0;3.05;3.05e0;3.05E0;3.0520;3.0520e0;3.0520E0;3.051;3.051e0;3.051E0;3.05;3.05e0;3.05E0;3.0510;3.0510e0;3.0510E0,short_answer
+What is the mass in g of 0.3520 moles of UF<sub>6</sub>?,123.9;1.239e2;1.239E2;124;1.24e2;1.24E2;124.;123.91;1.2391e2;1.2391E2;124.0;1.240e2;1.240E2;124;1.24e2;1.24E2;124.;124.00;1.2400e2;1.2400E2,short_answer
+How many moles are in a 666 g sample of SnO<sub>2</sub>?,4.42;4.42e0;4.42E0;4.4;4.4e0;4.4E0;4.420;4.420e0;4.420E0;4.41;4.41e0;4.41E0;4.4;4.4e0;4.4E0;4.410;4.410e0;4.410E0,short_answer
+What is the number of moles in a 0.9190 g sample of SiC?,0.02292;2.292e-2;2.292E-2;.02292;0.0229;2.29e-2;2.29E-2;.0229;0.022920;2.2920e-2;2.2920E-2;.022920;0.02291;2.291e-2;2.291E-2;.02291;0.0229;2.29e-2;2.29E-2;.0229;0.022910;2.2910e-2;2.2910E-2;.022910,short_answer
+How many moles are in a 30 g sample of SrCl<sub>2</sub>?,0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20;0.1;1e-1;1E-1;.1;0.10;1.0e-1;1.0E-1;.10,short_answer
+What is the number of moles in a 20 g sample of SO<sub>3</sub>?,0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20;0.1;1e-1;1E-1;.1;0.10;1.0e-1;1.0E-1;.10,short_answer
+How many molecules are in a 44 g sample of AlCl<sub>3</sub>?,2.0e23;2.0e23;2.0E23;2e23;2e23;2E23;1.99e23;1.99e23;1.99E23;1.9e23;1.9e23;1.9E23;2e23;2e23;2E23;1.90e23;1.90e23;1.90E23,short_answer
+What is the mass of 1.782 x 10<sup>25</sup> molecules of Bi<sub>2</sub>O<sub>3</sub> in g?,13790;1.379e4;1.379E4;13800;1.38e4;1.38E4;13788;1.3788e4;1.3788E4;13788.;13780;1.378e4;1.378E4;13800;1.38e4;1.38E4;13780.;1.3780e4;1.3780E4;13780..,short_answer
+What is the mass of 5.0 x 10<sup>22</sup> molecules of MgCO<sub>3</sub> in g?,7.0;7.0e0;7.0E0;7;7e0;7E0;7.;7.00;7.00e0;7.00E0;6.9;6.9e0;6.9E0;7;7e0;7E0;7.;6.90;6.90e0;6.90E0,short_answer
+What is the number of moles in a 420 g sample of HfCl<sub>4</sub>?,1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.30;1.30e0;1.30E0;1.2;1.2e0;1.2E0;1;1e0;1E0;1.;1.20;1.20e0;1.20E0,short_answer
+What is the mass in g of 0.0105 moles of SbF<sub>3</sub>?,1.88;1.88e0;1.88E0;1.9;1.9e0;1.9E0;1.877;1.877e0;1.877E0;1.87;1.87e0;1.87E0;1.9;1.9e0;1.9E0;1.870;1.870e0;1.870E0,short_answer
+What is the number of moles in a 400 g sample of CdO?,3;3e0;3E0;3.;3.0;3.0e0;3.0E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+How much does 8 mol of I<sub>2</sub> weigh (in g)?,2000;2e3;2E3;2.0e3;2.0e3;2.0E3;3000;3e3;3E3;3.0e3;3.0e3;3.0E3,short_answer
+What is the mass of 1.33 x 10<sup>24</sup> molecules of AgNO<sub>3</sub> in g?,375;3.75e2;3.75E2;375.;380;3.8e2;3.8E2;375.4;3.754e2;3.754E2;376;3.76e2;3.76E2;376.;380;3.8e2;3.8E2;376.0;3.760e2;3.760E2,short_answer
+How much does 0.02 mol of BiF<sub>3</sub> weigh (in g)?,5;5e0;5E0;5.;5.3;5.3e0;5.3E0;6;6e0;6E0;6.;6.0;6.0e0;6.0E0,short_answer
+What is the mass in g of 0.011 moles of Ag<sub>2</sub>O?,2.5;2.5e0;2.5E0;3;3e0;3E0;3.;2.55;2.55e0;2.55E0;2.6;2.6e0;2.6E0;3;3e0;3E0;3.;2.60;2.60e0;2.60E0,short_answer
+How many molecules are in a 1883 g sample of GaAs?,7.841e24;7.841e24;7.841E24;7.84e24;7.84e24;7.84E24;7.8408e24;7.8408e24;7.8408E24;7.840e24;7.840e24;7.840E24;7.84e24;7.84e24;7.84E24;7.8400e24;7.8400e24;7.8400E24,short_answer
+How many molecules are in a 7000 g sample of K<sub>2</sub>CO<sub>3</sub>?,3e25;3e25;3E25;3.0e25;3.0e25;3.0E25;4e25;4e25;4E25;4.0e25;4.0e25;4.0E25,short_answer
+What is the mass in g of 0.02791 moles of CdO?,3.584;3.584e0;3.584E0;3.58;3.58e0;3.58E0;3.5840;3.5840e0;3.5840E0;3.585;3.585e0;3.585E0;3.59;3.59e0;3.59E0;3.5850;3.5850e0;3.5850E0,short_answer
+How many molecules are in a 0.02 mol sample of CH<sub>5</sub>N?,1e22;1e22;1E22;1.2e22;1.2e22;1.2E22;2e22;2e22;2E22;2.0e22;2.0e22;2.0E22,short_answer
+How much does 20.41 mol of MgCl<sub>2</sub> weigh (in g)?,1943;1.943e3;1.943E3;1943.;1940;1.94e3;1.94E3;1943.1;1.9431e3;1.9431E3;1944;1.944e3;1.944E3;1944.;1940;1.94e3;1.94E3;1944.0;1.9440e3;1.9440E3,short_answer
+How many molecules are in a 20 mol sample of CrF<sub>2</sub>?,1e25;1e25;1E25;1.2e25;1.2e25;1.2E25;2e25;2e25;2E25;2.0e25;2.0e25;2.0E25,short_answer
+How many moles are in a 648.6 g sample of SO<sub>3</sub>?,8.102;8.102e0;8.102E0;8.10;8.10e0;8.10E0;8.1020;8.1020e0;8.1020E0;8.101;8.101e0;8.101E0;8.10;8.10e0;8.10E0;8.1010;8.1010e0;8.1010E0,short_answer
+How many moles are in a 3.71 g sample of PH<sub>3</sub>?,0.109;1.09e-1;1.09E-1;.109;0.11;1.1e-1;1.1E-1;.11;0.1090;1.090e-1;1.090E-1;.1090;0.108;1.08e-1;1.08E-1;.108;0.11;1.1e-1;1.1E-1;.11;0.1080;1.080e-1;1.080E-1;.1080,short_answer
+How much does 0.011 mol of SiI<sub>4</sub> weigh (in g)?,5.9;5.9e0;5.9E0;6;6e0;6E0;6.;5.89;5.89e0;5.89E0;5.8;5.8e0;5.8E0;6;6e0;6E0;6.;5.80;5.80e0;5.80E0,short_answer
+What is the mass in g of 0.1081 moles of NH<sub>4</sub>Cl?,5.782;5.782e0;5.782E0;5.78;5.78e0;5.78E0;5.7822;5.7822e0;5.7822E0;5.783;5.783e0;5.783E0;5.78;5.78e0;5.78E0;5.7830;5.7830e0;5.7830E0,short_answer
+What is the mass in g of 34.34 moles of SO<sub>3</sub>?,2749;2.749e3;2.749E3;2749.;2750;2.75e3;2.75E3;2749.2;2.7492e3;2.7492E3;2750.;2.750e3;2.750E3;2750..;2750;2.75e3;2.75E3;2750.0;2.7500e3;2.7500E3,short_answer
+What is the mass of 8.058 x 10<sup>22</sup> molecules of NaNO<sub>3</sub> in g?,11.37;1.137e1;1.137E1;11.4;1.14e1;1.14E1;11.372;1.1372e1;1.1372E1;11.38;1.138e1;1.138E1;11.4;1.14e1;1.14E1;11.380;1.1380e1;1.1380E1,short_answer
+What is the mass of 3.139 x 10<sup>24</sup> molecules of U<sub>3</sub>O<sub>8</sub> in g?,4389;4.389e3;4.389E3;4389.;4390;4.39e3;4.39E3;4388.9;4.3889e3;4.3889E3;4388;4.388e3;4.388E3;4388.;4390;4.39e3;4.39E3;4388.0;4.3880e3;4.3880E3,short_answer
+How many molecules are in a 0.027 mol sample of HNO<sub>3</sub>?,1.6e22;1.6e22;1.6E22;2e22;2e22;2E22;1.63e22;1.63e22;1.63E22;1.7e22;1.7e22;1.7E22;2e22;2e22;2E22;1.70e22;1.70e22;1.70E22,short_answer
+What is the mass in g of 0.05561 moles of SO<sub>2</sub>?,3.562;3.562e0;3.562E0;3.56;3.56e0;3.56E0;3.5623;3.5623e0;3.5623E0;3.563;3.563e0;3.563E0;3.56;3.56e0;3.56E0;3.5630;3.5630e0;3.5630E0,short_answer
+What is the mass in g of 6.498 moles of IrCl<sub>3</sub>?,1940.;1.940e3;1.940E3;1940..;1940;1.94e3;1.94E3;1940.1;1.9401e3;1.9401E3;1941;1.941e3;1.941E3;1941.;1940;1.94e3;1.94E3;1941.0;1.9410e3;1.9410E3,short_answer
+How many molecules are in a 30 g sample of P<sub>2</sub>O<sub>5</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the mass of 3 x 10<sup>23</sup> molecules of CuSO<sub>4</sub> in g?,80;8e1;8E1;80.;8.0e1;8.0E1;80..;70;7e1;7E1;70.;7.0e1;7.0E1;70..,short_answer
+What is the number of moles in a 3630 g sample of CF<sub>4</sub>?,41.2;4.12e1;4.12E1;41;4.1e1;4.1E1;41.;41.20;4.120e1;4.120E1;41.1;4.11e1;4.11E1;41;4.1e1;4.1E1;41.;41.10;4.110e1;4.110E1,short_answer
+How many molecules are in a 8.900 mol sample of Al<sub>2</sub>O<sub>3</sub>?,5.360e24;5.360e24;5.360E24;5.36e24;5.36e24;5.36E24;5.3597e24;5.3597e24;5.3597E24;5.359e24;5.359e24;5.359E24;5.36e24;5.36e24;5.36E24;5.3590e24;5.3590e24;5.3590E24,short_answer
+How much does 0.2444 mol of SiCl<sub>4</sub> weigh (in g)?,41.52;4.152e1;4.152E1;41.5;4.15e1;4.15E1;41.520;4.1520e1;4.1520E1;41.51;4.151e1;4.151E1;41.5;4.15e1;4.15E1;41.510;4.1510e1;4.1510E1,short_answer
+What is the mass of 2.327 x 10<sup>22</sup> molecules of HNO<sub>3</sub> in g?,2.435;2.435e0;2.435E0;2.43;2.43e0;2.43E0;2.4348;2.4348e0;2.4348E0;2.434;2.434e0;2.434E0;2.43;2.43e0;2.43E0;2.4340;2.4340e0;2.4340E0,short_answer
+How many molecules are in a 0.3114 mol sample of Cu<sub>2</sub>O?,1.875e23;1.875e23;1.875E23;1.88e23;1.88e23;1.88E23;1.8753e23;1.8753e23;1.8753E23;1.876e23;1.876e23;1.876E23;1.88e23;1.88e23;1.88E23;1.8760e23;1.8760e23;1.8760E23,short_answer
+How many moles are in a 2.871 g sample of ZnCl<sub>2</sub>?,0.02107;2.107e-2;2.107E-2;.02107;0.0211;2.11e-2;2.11E-2;.0211;0.021070;2.1070e-2;2.1070E-2;.021070;0.02106;2.106e-2;2.106E-2;.02106;0.0211;2.11e-2;2.11E-2;.0211;0.021060;2.1060e-2;2.1060E-2;.021060,short_answer
+What is the mass of 1.18 x 10<sup>23</sup> molecules of N<sub>2</sub>O in g?,8.63;8.63e0;8.63E0;8.6;8.6e0;8.6E0;8.627;8.627e0;8.627E0;8.62;8.62e0;8.62E0;8.6;8.6e0;8.6E0;8.620;8.620e0;8.620E0,short_answer
+How many molecules are in a 650 g sample of SO<sub>3</sub>?,4.9e24;4.9e24;4.9E24;5e24;5e24;5E24;4.88e24;4.88e24;4.88E24;4.8e24;4.8e24;4.8E24;5e24;5e24;5E24;4.80e24;4.80e24;4.80E24,short_answer
+What is the number of moles in a 5300 g sample of Br<sub>2</sub>?,33;3.3e1;3.3E1;33.;30;3e1;3E1;33.0;3.30e1;3.30E1;32;3.2e1;3.2E1;32.;30;3e1;3E1;32.0;3.20e1;3.20E1,short_answer
+What is the mass in g of 1.7 moles of CO?,48;4.8e1;4.8E1;48.;50;5e1;5E1;47.6;4.76e1;4.76E1;47;4.7e1;4.7E1;47.;50;5e1;5E1;47.0;4.70e1;4.70E1,short_answer
+What is the mass in g of 0.08558 moles of C<sub>8</sub>H<sub>18</sub>?,9.776;9.776e0;9.776E0;9.78;9.78e0;9.78E0;9.7760;9.7760e0;9.7760E0;9.775;9.775e0;9.775E0;9.78;9.78e0;9.78E0;9.7750;9.7750e0;9.7750E0,short_answer
+What is the mass of 4 x 10<sup>23</sup> molecules of CaCl<sub>2</sub> in g?,80;8e1;8E1;78;7.8e1;7.8E1;78.;70;7e1;7E1;70.;7.0e1;7.0E1;70..,short_answer
+How many moles are in a 6.75 g sample of LiOH?,0.282;2.82e-1;2.82E-1;.282;0.28;2.8e-1;2.8E-1;.28;0.2820;2.820e-1;2.820E-1;.2820;0.281;2.81e-1;2.81E-1;.281;0.28;2.8e-1;2.8E-1;.28;0.2810;2.810e-1;2.810E-1;.2810,short_answer
+How many molecules are in a 14 mol sample of C<sub>7</sub>H<sub>16</sub>?,8.4e24;8.4e24;8.4E24;8e24;8e24;8E24;8.43e24;8.43e24;8.43E24;8.5e24;8.5e24;8.5E24;9e24;9e24;9E24;8.50e24;8.50e24;8.50E24,short_answer
+How many moles are in a 2.0 g sample of CaCl<sub>2</sub>?,0.018;1.8e-2;1.8E-2;.018;0.02;2e-2;2E-2;.02;0.0180;1.80e-2;1.80E-2;.0180;0.017;1.7e-2;1.7E-2;.017;0.02;2e-2;2E-2;.02;0.0170;1.70e-2;1.70E-2;.0170,short_answer
+What is the mass of 6.727 x 10<sup>24</sup> molecules of Cu<sub>2</sub>O in g?,1598;1.598e3;1.598E3;1598.;1.60e3;1.60e3;1.60E3;1598.3;1.5983e3;1.5983E3;1599;1.599e3;1.599E3;1599.;1.60e3;1.60e3;1.60E3;1599.0;1.5990e3;1.5990E3,short_answer
+How much does 20 mol of HF weigh (in g)?,400;4e2;4E2;4.0e2;4.0e2;4.0E2;500;5e2;5E2;5.0e2;5.0e2;5.0E2,short_answer
+How many molecules are in a 6.589 g sample of Na<sub>2</sub>CO<sub>3</sub>?,3.744e22;3.744e22;3.744E22;3.74e22;3.74e22;3.74E22;3.7440e22;3.7440e22;3.7440E22;3.743e22;3.743e22;3.743E22;3.74e22;3.74e22;3.74E22;3.7430e22;3.7430e22;3.7430E22,short_answer
+What is the number of moles in a 1.3 g sample of CrF<sub>2</sub>?,0.014;1.4e-2;1.4E-2;.014;0.01;1e-2;1E-2;.01;0.0140;1.40e-2;1.40E-2;.0140;0.013;1.3e-2;1.3E-2;.013;0.01;1e-2;1E-2;.01;0.0130;1.30e-2;1.30E-2;.0130,short_answer
+What is the mass in g of 0.2575 moles of WF<sub>6</sub>?,76.69;7.669e1;7.669E1;76.7;7.67e1;7.67E1;76.691;7.6691e1;7.6691E1;76.70;7.670e1;7.670E1;76.7;7.67e1;7.67E1;76.700;7.6700e1;7.6700E1,short_answer
+How many moles are in a 17.8 g sample of InP?,0.122;1.22e-1;1.22E-1;.122;0.12;1.2e-1;1.2E-1;.12;0.1220;1.220e-1;1.220E-1;.1220;0.121;1.21e-1;1.21E-1;.121;0.12;1.2e-1;1.2E-1;.12;0.1210;1.210e-1;1.210E-1;.1210,short_answer
+How many molecules are in a 15.47 g sample of C<sub>6</sub>H<sub>6</sub>O?,9.900e22;9.900e22;9.900E22;9.90e22;9.90e22;9.90E22;9.9004e22;9.9004e22;9.9004E22;9.901e22;9.901e22;9.901E22;9.90e22;9.90e22;9.90E22;9.9010e22;9.9010e22;9.9010E22,short_answer
+What is the mass in g of 25 moles of C<sub>7</sub>H<sub>16</sub>?,2500;2.5e3;2.5E3;3000;3e3;3E3;2510;2.51e3;2.51E3;2600;2.6e3;2.6E3;3000;3e3;3E3;2.60e3;2.60e3;2.60E3,short_answer
+How many molecules are in a 16.59 g sample of PCl<sub>3</sub>?,7.275e22;7.275e22;7.275E22;7.27e22;7.27e22;7.27E22;7.2747e22;7.2747e22;7.2747E22;7.274e22;7.274e22;7.274E22;7.27e22;7.27e22;7.27E22;7.2740e22;7.2740e22;7.2740E22,short_answer
+What is the mass of 2 x 10<sup>25</sup> molecules of SF<sub>4</sub> in g?,3000;3e3;3E3;3200;3.2e3;3.2E3;4000;4e3;4E3;4.0e3;4.0e3;4.0E3,short_answer
+What is the mass in g of 0.46 moles of TeF<sub>6</sub>?,110;1.1e2;1.1E2;100;1e2;1E2;111;1.11e2;1.11E2;111.;120;1.2e2;1.2E2;100;1e2;1E2;120.;1.20e2;1.20E2;120..,short_answer
+How many molecules are in a 43.7 mol sample of NH<sub>4</sub>Cl?,2.63e25;2.63e25;2.63E25;2.6e25;2.6e25;2.6E25;2.632e25;2.632e25;2.632E25;2.64e25;2.64e25;2.64E25;2.6e25;2.6e25;2.6E25;2.640e25;2.640e25;2.640E25,short_answer
+What is the mass of 2 x 10<sup>24</sup> molecules of N<sub>2</sub> in g?,80;8e1;8E1;84;8.4e1;8.4E1;84.;90;9e1;9E1;90.;9.0e1;9.0E1;90..,short_answer
+How many molecules are in a 3 g sample of CH<sub>4</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the mass in g of 0.1245 moles of ClO<sub>2</sub>?,8.397;8.397e0;8.397E0;8.40;8.40e0;8.40E0;8.3973;8.3973e0;8.3973E0;8.398;8.398e0;8.398E0;8.40;8.40e0;8.40E0;8.3980;8.3980e0;8.3980E0,short_answer
+How much does 0.022 mol of C<sub>2</sub>H<sub>4</sub> weigh (in g)?,0.62;6.2e-1;6.2E-1;.62;0.6;6e-1;6E-1;.6;0.617;6.17e-1;6.17E-1;.617;0.61;6.1e-1;6.1E-1;.61;0.6;6e-1;6E-1;.6;0.610;6.10e-1;6.10E-1;.610,short_answer
+What is the number of moles in a 5500 g sample of Tl<sub>2</sub>O?,13;1.3e1;1.3E1;13.;10;1e1;1E1;13.0;1.30e1;1.30E1;12;1.2e1;1.2E1;12.;10;1e1;1E1;12.0;1.20e1;1.20E1,short_answer
+How much does 0.2914 mol of Na<sub>2</sub>CO<sub>3</sub> weigh (in g)?,30.88;3.088e1;3.088E1;30.9;3.09e1;3.09E1;30.885;3.0885e1;3.0885E1;30.89;3.089e1;3.089E1;30.9;3.09e1;3.09E1;30.890;3.0890e1;3.0890E1,short_answer
+What is the number of moles in a 2666 g sample of H<sub>2</sub>SO<sub>4</sub>?,27.18;2.718e1;2.718E1;27.2;2.72e1;2.72E1;27.180;2.7180e1;2.7180E1;27.17;2.717e1;2.717E1;27.2;2.72e1;2.72E1;27.170;2.7170e1;2.7170E1,short_answer
+How much does 0.0297 mol of CdO weigh (in g)?,3.81;3.81e0;3.81E0;3.8;3.8e0;3.8E0;3.814;3.814e0;3.814E0;3.82;3.82e0;3.82E0;3.8;3.8e0;3.8E0;3.820;3.820e0;3.820E0,short_answer
+What is the number of moles in a 3000 g sample of Fe<sub>2</sub>O<sub>3</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many molecules are in a 0.6554 mol sample of Cl<sub>2</sub>?,3.947e23;3.947e23;3.947E23;3.95e23;3.95e23;3.95E23;3.9469e23;3.9469e23;3.9469E23;3.946e23;3.946e23;3.946E23;3.95e23;3.95e23;3.95E23;3.9460e23;3.9460e23;3.9460E23,short_answer
+How many moles are in a 4600 g sample of TeCl<sub>4</sub>?,17;1.7e1;1.7E1;17.;20;2e1;2E1;17.0;1.70e1;1.70E1;16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1,short_answer
+How many molecules are in a 0.14 mol sample of S<sub>2</sub>Cl<sub>2</sub>?,8.4e22;8.4e22;8.4E22;8e22;8e22;8E22;8.43e22;8.43e22;8.43E22;8.5e22;8.5e22;8.5E22;9e22;9e22;9E22;8.50e22;8.50e22;8.50E22,short_answer
+How many moles are in a 0.478 g sample of Li<sub>2</sub>S?,0.0104;1.04e-2;1.04E-2;.0104;0.010;1.0e-2;1.0E-2;.010;0.01040;1.040e-2;1.040E-2;.01040;0.0103;1.03e-2;1.03E-2;.0103;0.010;1.0e-2;1.0E-2;.010;0.01030;1.030e-2;1.030E-2;.01030,short_answer
+How many moles are in a 1900 g sample of AsF<sub>5</sub>?,11;1.1e1;1.1E1;11.;10;1e1;1E1;11.0;1.10e1;1.10E1;10.;1.0e1;1.0E1;10..;10;1e1;1E1;10.0;1.00e1;1.00E1,short_answer
+What is the mass of 1.767 x 10<sup>25</sup> molecules of MnO<sub>2</sub> in g?,2551;2.551e3;2.551E3;2551.;2550;2.55e3;2.55E3;2550.7;2.5507e3;2.5507E3;2550.;2.550e3;2.550E3;2550..;2550;2.55e3;2.55E3;2550.0;2.5500e3;2.5500E3,short_answer
+How many molecules are in a 1.42 mol sample of TcCl<sub>4</sub>?,8.55e23;8.55e23;8.55E23;8.6e23;8.6e23;8.6E23;8.551e23;8.551e23;8.551E23;8.56e23;8.56e23;8.56E23;8.6e23;8.6e23;8.6E23;8.560e23;8.560e23;8.560E23,short_answer
+What is the mass in g of 0.3441 moles of CI<sub>4</sub>?,178.8;1.788e2;1.788E2;179;1.79e2;1.79E2;179.;178.80;1.7880e2;1.7880E2;178.9;1.789e2;1.789E2;179;1.79e2;1.79E2;179.;178.90;1.7890e2;1.7890E2,short_answer
+How many molecules are in a 300 g sample of NH<sub>3</sub>?,1e25;1e25;1E25;1.2e25;1.2e25;1.2E25;2e25;2e25;2E25;2.0e25;2.0e25;2.0E25,short_answer
+How many molecules are in a 0.237 mol sample of S<sub>2</sub>Cl<sub>2</sub>?,1.43e23;1.43e23;1.43E23;1.4e23;1.4e23;1.4E23;1.427e23;1.427e23;1.427E23;1.42e23;1.42e23;1.42E23;1.4e23;1.4e23;1.4E23;1.420e23;1.420e23;1.420E23,short_answer
+How much does 3.01 mol of SeF<sub>6</sub> weigh (in g)?,581;5.81e2;5.81E2;581.;580;5.8e2;5.8E2;580.8;5.808e2;5.808E2;580.;5.80e2;5.80E2;580..;580;5.8e2;5.8E2;580.0;5.800e2;5.800E2,short_answer
+What is the mass of 2.44 x 10<sup>22</sup> molecules of KOH in g?,2.27;2.27e0;2.27E0;2.3;2.3e0;2.3E0;2.272;2.272e0;2.272E0;2.28;2.28e0;2.28E0;2.3;2.3e0;2.3E0;2.280;2.280e0;2.280E0,short_answer
+How many molecules are in a 1.40 x 10<sup>3</sup> g sample of UO<sub>2</sub>?,3.12e24;3.12e24;3.12E24;3.1e24;3.1e24;3.1E24;3.119e24;3.119e24;3.119E24;3.11e24;3.11e24;3.11E24;3.1e24;3.1e24;3.1E24;3.110e24;3.110e24;3.110E24,short_answer
+How many moles are in a 8.370 g sample of RhCl<sub>3</sub>?,0.04000;4.000e-2;4.000E-2;.04000;0.0400;4.00e-2;4.00E-2;.0400;0.040000;4.0000e-2;4.0000E-2;.040000;0.03999;3.999e-2;3.999E-2;.03999;0.0400;4.00e-2;4.00E-2;.0400;0.039990;3.9990e-2;3.9990E-2;.039990,short_answer
+How many molecules are in a 0.078 mol sample of ClF<sub>3</sub>?,4.7e22;4.7e22;4.7E22;5e22;5e22;5E22;4.70e22;4.70e22;4.70E22;4.6e22;4.6e22;4.6E22;5e22;5e22;5E22;4.60e22;4.60e22;4.60E22,short_answer
+How many molecules are in a 167.2 g sample of HI?,7.871e23;7.871e23;7.871E23;7.87e23;7.87e23;7.87E23;7.8709e23;7.8709e23;7.8709E23;7.870e23;7.870e23;7.870E23;7.87e23;7.87e23;7.87E23;7.8700e23;7.8700e23;7.8700E23,short_answer
+What is the mass of 2.03 x 10<sup>23</sup> molecules of Na<sub>2</sub>S in g?,26.3;2.63e1;2.63E1;26;2.6e1;2.6E1;26.;26.30;2.630e1;2.630E1;26.2;2.62e1;2.62E1;26;2.6e1;2.6E1;26.;26.20;2.620e1;2.620E1,short_answer
+How many molecules are in a 0.12 mol sample of WF<sub>6</sub>?,7.2e22;7.2e22;7.2E22;7e22;7e22;7E22;7.23e22;7.23e22;7.23E22;7.3e22;7.3e22;7.3E22;7e22;7e22;7E22;7.30e22;7.30e22;7.30E22,short_answer
+What is the mass of 1.1 x 10<sup>23</sup> molecules of SiC in g?,7.2;7.2e0;7.2E0;7;7e0;7E0;7.;7.22;7.22e0;7.22E0;7.3;7.3e0;7.3E0;7;7e0;7E0;7.;7.30;7.30e0;7.30E0,short_answer
+What is the number of moles in a 1800 g sample of PCl<sub>3</sub>?,13;1.3e1;1.3E1;13.;10;1e1;1E1;13.0;1.30e1;1.30E1;12;1.2e1;1.2E1;12.;10;1e1;1E1;12.0;1.20e1;1.20E1,short_answer
+How many moles are in a 0.02667 g sample of H<sub>2</sub>?,0.01323;1.323e-2;1.323E-2;.01323;0.0132;1.32e-2;1.32E-2;.0132;0.013230;1.3230e-2;1.3230E-2;.013230;0.01322;1.322e-2;1.322E-2;.01322;0.0132;1.32e-2;1.32E-2;.0132;0.013220;1.3220e-2;1.3220E-2;.013220,short_answer
+What is the number of moles in a 480 g sample of C<sub>4</sub>H<sub>10</sub>?,8.3;8.3e0;8.3E0;8;8e0;8E0;8.;8.30;8.30e0;8.30E0;8.2;8.2e0;8.2E0;8;8e0;8E0;8.;8.20;8.20e0;8.20E0,short_answer
+How much does 15.82 mol of N<sub>2</sub> weigh (in g)?,443.2;4.432e2;4.432E2;443;4.43e2;4.43E2;443.;443.18;4.4318e2;4.4318E2;443.1;4.431e2;4.431E2;443;4.43e2;4.43E2;443.;443.10;4.4310e2;4.4310E2,short_answer
+What is the number of moles in a 1.9 g sample of C<sub>6</sub>H<sub>6</sub>O?,0.020;2.0e-2;2.0E-2;.020;0.02;2e-2;2E-2;.02;0.0200;2.00e-2;2.00E-2;.0200;0.019;1.9e-2;1.9E-2;.019;0.02;2e-2;2E-2;.02;0.0190;1.90e-2;1.90E-2;.0190,short_answer
+How many molecules are in a 2880 g sample of PF<sub>5</sub>?,1.38e25;1.38e25;1.38E25;1.4e25;1.4e25;1.4E25;1.379e25;1.379e25;1.379E25;1.37e25;1.37e25;1.37E25;1.4e25;1.4e25;1.4E25;1.370e25;1.370e25;1.370E25,short_answer
+What is the number of moles in a 430 g sample of CH<sub>4</sub>?,27;2.7e1;2.7E1;27.;30;3e1;3E1;27.0;2.70e1;2.70E1;26;2.6e1;2.6E1;26.;30;3e1;3E1;26.0;2.60e1;2.60E1,short_answer
+What is the mass of 1 x 10<sup>23</sup> molecules of CCl<sub>4</sub> in g?,30;3e1;3E1;31;3.1e1;3.1E1;31.;40;4e1;4E1;40.;4.0e1;4.0E1;40..,short_answer
+How many molecules are in a 4.3 g sample of CH<sub>5</sub>N?,8.4e22;8.4e22;8.4E22;8e22;8e22;8E22;8.43e22;8.43e22;8.43E22;8.5e22;8.5e22;8.5E22;9e22;9e22;9E22;8.50e22;8.50e22;8.50E22,short_answer
+What is the number of moles in a 30. g sample of PBr<sub>3</sub>?,0.11;1.1e-1;1.1E-1;.11;0.1;1e-1;1E-1;.1;0.110;1.10e-1;1.10E-1;.110;0.10;1.0e-1;1.0E-1;.10;0.1;1e-1;1E-1;.1;0.100;1.00e-1;1.00E-1;.100,short_answer
+What is the mass in g of 0.1040 moles of KrF<sub>2</sub>?,12.67;1.267e1;1.267E1;12.7;1.27e1;1.27E1;12.667;1.2667e1;1.2667E1;12.66;1.266e1;1.266E1;12.7;1.27e1;1.27E1;12.660;1.2660e1;1.2660E1,short_answer
+What is the mass of 9.635 x 10<sup>21</sup> molecules of Fe<sub>2</sub>O<sub>3</sub> in g?,2.555;2.555e0;2.555E0;2.55;2.55e0;2.55E0;2.5550;2.5550e0;2.5550E0;2.554;2.554e0;2.554E0;2.55;2.55e0;2.55E0;2.5540;2.5540e0;2.5540E0,short_answer
+How much does 0.106 mol of C<sub>4</sub>H<sub>10</sub> weigh (in g)?,6.16;6.16e0;6.16E0;6.2;6.2e0;6.2E0;6.161;6.161e0;6.161E0;6.17;6.17e0;6.17E0;6.2;6.2e0;6.2E0;6.170;6.170e0;6.170E0,short_answer
+What is the number of moles in a 3.44 g sample of BaF<sub>2</sub>?,0.0196;1.96e-2;1.96E-2;.0196;0.020;2.0e-2;2.0E-2;.020;0.01960;1.960e-2;1.960E-2;.01960;0.0195;1.95e-2;1.95E-2;.0195;0.020;2.0e-2;2.0E-2;.020;0.01950;1.950e-2;1.950E-2;.01950,short_answer
+What is the number of moles in a 8.40 g sample of NH<sub>3</sub>?,0.493;4.93e-1;4.93E-1;.493;0.49;4.9e-1;4.9E-1;.49;0.4930;4.930e-1;4.930E-1;.4930;0.492;4.92e-1;4.92E-1;.492;0.49;4.9e-1;4.9E-1;.49;0.4920;4.920e-1;4.920E-1;.4920,short_answer
+How many molecules are in a 1.66 mol sample of NaOH?,1.000e24;1.000e24;1.000E24;1.00e24;1.00e24;1.00E24;9.997e23;9.997e23;9.997E23;9.99e23;9.99e23;9.99E23;1.00e24;1.00e24;1.00E24;9.990e23;9.990e23;9.990E23,short_answer
+What is the number of moles in a 98.5 g sample of RuCl<sub>3</sub>?,0.475;4.75e-1;4.75E-1;.475;0.48;4.8e-1;4.8E-1;.48;0.4750;4.750e-1;4.750E-1;.4750;0.474;4.74e-1;4.74E-1;.474;0.47;4.7e-1;4.7E-1;.47;0.4740;4.740e-1;4.740E-1;.4740,short_answer
+How many moles are in a 4000 g sample of MgSO<sub>4</sub>?,30;3e1;3E1;30.;3.0e1;3.0E1;30..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+What is the number of moles in a 76.77 g sample of InCl<sub>3</sub>?,0.3471;3.471e-1;3.471E-1;.3471;0.347;3.47e-1;3.47E-1;.347;0.34710;3.4710e-1;3.4710E-1;.34710;0.3470;3.470e-1;3.470E-1;.3470;0.347;3.47e-1;3.47E-1;.347;0.34700;3.4700e-1;3.4700E-1;.34700,short_answer
+What is the mass of 9.455 x 10<sup>21</sup> molecules of KNO<sub>3</sub> in g?,1.587;1.587e0;1.587E0;1.59;1.59e0;1.59E0;1.5873;1.5873e0;1.5873E0;1.588;1.588e0;1.588E0;1.59;1.59e0;1.59E0;1.5880;1.5880e0;1.5880E0,short_answer
+How many molecules are in a 0.01427 mol sample of HF?,8.594e21;8.594e21;8.594E21;8.59e21;8.59e21;8.59E21;8.5936e21;8.5936e21;8.5936E21;8.593e21;8.593e21;8.593E21;8.59e21;8.59e21;8.59E21;8.5930e21;8.5930e21;8.5930E21,short_answer
+What is the mass in g of 0.1209 moles of OF<sub>2</sub>?,6.528;6.528e0;6.528E0;6.53;6.53e0;6.53E0;6.5281;6.5281e0;6.5281E0;6.529;6.529e0;6.529E0;6.53;6.53e0;6.53E0;6.5290;6.5290e0;6.5290E0,short_answer
+What is the number of moles in a 500 g sample of ClO<sub>2</sub>?,7;7e0;7E0;7.;7.0;7.0e0;7.0E0;6;6e0;6E0;6.;6.0;6.0e0;6.0E0,short_answer
+What is the mass of 8.85 x 10<sup>22</sup> molecules of MgCO<sub>3</sub> in g?,12.4;1.24e1;1.24E1;12;1.2e1;1.2E1;12.;12.39;1.239e1;1.239E1;12.3;1.23e1;1.23E1;12;1.2e1;1.2E1;12.;12.30;1.230e1;1.230E1,short_answer
+How many molecules are in a 996 g sample of C<sub>5</sub>H<sub>12</sub>?,8.31e24;8.31e24;8.31E24;8.3e24;8.3e24;8.3E24;8.311e24;8.311e24;8.311E24;8.32e24;8.32e24;8.32E24;8.3e24;8.3e24;8.3E24;8.320e24;8.320e24;8.320E24,short_answer
+What is the number of moles in a 1.0 g sample of O<sub>3</sub>?,0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020;0.01;1e-2;1E-2;.01;0.010;1.0e-2;1.0E-2;.010,short_answer
+What is the mass of 2.20 x 10<sup>23</sup> molecules of CuSO<sub>4</sub> in g?,58.3;5.83e1;5.83E1;58;5.8e1;5.8E1;58.;58.25;5.825e1;5.825E1;58.2;5.82e1;5.82E1;58;5.8e1;5.8E1;58.;58.20;5.820e1;5.820E1,short_answer
+How much does 14 mol of SiO<sub>2</sub> weigh (in g)?,840;8.4e2;8.4E2;800;8e2;8E2;841;8.41e2;8.41E2;841.;850;8.5e2;8.5E2;900;9e2;9E2;850.;8.50e2;8.50E2;850..,short_answer
+What is the mass in g of 0.104 moles of Cu<sub>2</sub>O?,14.9;1.49e1;1.49E1;15;1.5e1;1.5E1;15.;14.88;1.488e1;1.488E1;14.8;1.48e1;1.48E1;15;1.5e1;1.5E1;15.;14.80;1.480e1;1.480E1,short_answer
+How many molecules are in a 379.1 g sample of BrO<sub>3</sub>?,1.785e24;1.785e24;1.785E24;1.78e24;1.78e24;1.78E24;1.7850e24;1.7850e24;1.7850E24;1.784e24;1.784e24;1.784E24;1.78e24;1.78e24;1.78E24;1.7840e24;1.7840e24;1.7840E24,short_answer
+What is the mass in g of 0.0216 moles of Rb<sub>2</sub>S?,4.38;4.38e0;4.38E0;4.4;4.4e0;4.4E0;4.385;4.385e0;4.385E0;4.39;4.39e0;4.39E0;4.4;4.4e0;4.4E0;4.390;4.390e0;4.390E0,short_answer
+What is the number of moles in a 500 g sample of HgCl<sub>2</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How much does 1.99 mol of MgCl<sub>2</sub> weigh (in g)?,189;1.89e2;1.89E2;189.;190;1.9e2;1.9E2;189.5;1.895e2;1.895E2;190.;1.90e2;1.90E2;190..;190;1.9e2;1.9E2;190.0;1.900e2;1.900E2,short_answer
+How many moles are in a 400 g sample of Rb<sub>2</sub>S?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+What is the mass of 1.1 x 10<sup>24</sup> molecules of SnO<sub>2</sub> in g?,270;2.7e2;2.7E2;300;3e2;3E2;271;2.71e2;2.71E2;271.;280;2.8e2;2.8E2;300;3e2;3E2;280.;2.80e2;2.80E2;280..,short_answer
+What is the mass in g of 4.2 moles of C<sub>8</sub>H<sub>18</sub>?,480;4.8e2;4.8E2;500;5e2;5E2;480.;4.80e2;4.80E2;480..;470;4.7e2;4.7E2;500;5e2;5E2;470.;4.70e2;4.70E2;470..,short_answer
+What is the mass of 6.986 x 10<sup>24</sup> molecules of BiF<sub>3</sub> in g?,3085;3.085e3;3.085E3;3085.;3090;3.09e3;3.09E3;3085.3;3.0853e3;3.0853E3;3086;3.086e3;3.086E3;3086.;3090;3.09e3;3.09E3;3086.0;3.0860e3;3.0860E3,short_answer
+How many moles are in a 6 g sample of OsCl<sub>3</sub>?,0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020;0.01;1e-2;1E-2;.01;0.010;1.0e-2;1.0E-2;.010,short_answer
+How many molecules are in a 6.245 g sample of BaF<sub>2</sub>?,2.145e22;2.145e22;2.145E22;2.15e22;2.15e22;2.15E22;2.1451e22;2.1451e22;2.1451E22;2.146e22;2.146e22;2.146E22;2.15e22;2.15e22;2.15E22;2.1460e22;2.1460e22;2.1460E22,short_answer
+How much does 9.80 mol of NaOH weigh (in g)?,392;3.92e2;3.92E2;392.;390;3.9e2;3.9E2;392.0;3.920e2;3.920E2;391;3.91e2;3.91E2;391.;390;3.9e2;3.9E2;391.0;3.910e2;3.910E2,short_answer
+What is the number of moles in a 3000 g sample of SF<sub>6</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+What is the number of moles in a 53 g sample of C<sub>6</sub>H<sub>6</sub>O?,0.56;5.6e-1;5.6E-1;.56;0.6;6e-1;6E-1;.6;0.560;5.60e-1;5.60E-1;.560;0.55;5.5e-1;5.5E-1;.55;0.6;6e-1;6E-1;.6;0.550;5.50e-1;5.50E-1;.550,short_answer
+How many molecules are in a 1200 g sample of Li<sub>2</sub>CO<sub>3</sub>?,9.6e24;9.6e24;9.6E24;1.0e25;1.0e25;1.0E25;9.64e24;9.64e24;9.64E24;9.7e24;9.7e24;9.7E24;1.0e25;1.0e25;1.0E25;9.70e24;9.70e24;9.70E24,short_answer
+How many molecules are in a 0.03716 mol sample of CdCl<sub>2</sub>?,2.238e22;2.238e22;2.238E22;2.24e22;2.24e22;2.24E22;2.2378e22;2.2378e22;2.2378E22;2.237e22;2.237e22;2.237E22;2.24e22;2.24e22;2.24E22;2.2370e22;2.2370e22;2.2370E22,short_answer
+What is the mass of 2.0 x 10<sup>24</sup> molecules of C<sub>2</sub>H<sub>7</sub>N in g?,150;1.5e2;1.5E2;100;1e2;1E2;149;1.49e2;1.49E2;149.;140;1.4e2;1.4E2;100;1e2;1E2;140.;1.40e2;1.40E2;140..,short_answer
+What is the mass of 8.4 x 10<sup>22</sup> molecules of WF<sub>6</sub> in g?,42;4.2e1;4.2E1;42.;40;4e1;4E1;41.7;4.17e1;4.17E1;41;4.1e1;4.1E1;41.;40;4e1;4E1;41.0;4.10e1;4.10E1,short_answer
+What is the number of moles in a 242 g sample of TcF<sub>6</sub>?,1.14;1.14e0;1.14E0;1.1;1.1e0;1.1E0;1.140;1.140e0;1.140E0;1.13;1.13e0;1.13E0;1.1;1.1e0;1.1E0;1.130;1.130e0;1.130E0,short_answer
+What is the mass of 6.203 x 10<sup>21</sup> molecules of BaCl<sub>2</sub> in g?,2.145;2.145e0;2.145E0;2.14;2.14e0;2.14E0;2.1447;2.1447e0;2.1447E0;2.144;2.144e0;2.144E0;2.14;2.14e0;2.14E0;2.1440;2.1440e0;2.1440E0,short_answer
+How many moles are in a 8929 g sample of TcF<sub>6</sub>?,42.14;4.214e1;4.214E1;42.1;4.21e1;4.21E1;42.140;4.2140e1;4.2140E1;42.13;4.213e1;4.213E1;42.1;4.21e1;4.21E1;42.130;4.2130e1;4.2130E1,short_answer
+What is the number of moles in a 310 g sample of C<sub>4</sub>H<sub>10</sub>?,5.3;5.3e0;5.3E0;5;5e0;5E0;5.;5.30;5.30e0;5.30E0;5.2;5.2e0;5.2E0;5;5e0;5E0;5.;5.20;5.20e0;5.20E0,short_answer
+How many molecules are in a 50 g sample of TeF<sub>6</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the number of moles in a 2.76 g sample of SeF<sub>6</sub>?,0.0143;1.43e-2;1.43E-2;.0143;0.014;1.4e-2;1.4E-2;.014;0.01430;1.430e-2;1.430E-2;.01430;0.0142;1.42e-2;1.42E-2;.0142;0.014;1.4e-2;1.4E-2;.014;0.01420;1.420e-2;1.420E-2;.01420,short_answer
+How many moles are in a 180 g sample of TiO<sub>2</sub>?,2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.30;2.30e0;2.30E0;2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.20;2.20e0;2.20E0,short_answer
+How many moles are in a 84.79 g sample of AsF<sub>5</sub>?,0.4990;4.990e-1;4.990E-1;.4990;0.499;4.99e-1;4.99E-1;.499;0.49900;4.9900e-1;4.9900E-1;.49900;0.4989;4.989e-1;4.989E-1;.4989;0.499;4.99e-1;4.99E-1;.499;0.49890;4.9890e-1;4.9890E-1;.49890,short_answer
+What is the number of moles in a 540. g sample of CaCO<sub>3</sub>?,5.40;5.40e0;5.40E0;5.4;5.4e0;5.4E0;5.400;5.400e0;5.400E0;5.39;5.39e0;5.39E0;5.4;5.4e0;5.4E0;5.390;5.390e0;5.390E0,short_answer
+How many molecules are in a 0.1471 mol sample of K<sub>2</sub>CO<sub>3</sub>?,8.859e22;8.859e22;8.859E22;8.86e22;8.86e22;8.86E22;8.8586e22;8.8586e22;8.8586E22;8.858e22;8.858e22;8.858E22;8.86e22;8.86e22;8.86E22;8.8580e22;8.8580e22;8.8580E22,short_answer
+How many molecules are in a 630 g sample of CaCO<sub>3</sub>?,3.8e24;3.8e24;3.8E24;4e24;4e24;4E24;3.79e24;3.79e24;3.79E24;3.7e24;3.7e24;3.7E24;4e24;4e24;4E24;3.70e24;3.70e24;3.70E24,short_answer
+How many molecules are in a 2.019 g sample of NaOH?,3.040e22;3.040e22;3.040E22;3.04e22;3.04e22;3.04E22;3.0400e22;3.0400e22;3.0400E22;3.039e22;3.039e22;3.039E22;3.04e22;3.04e22;3.04E22;3.0390e22;3.0390e22;3.0390E22,short_answer
+How much does 20. mol of ReF<sub>6</sub> weigh (in g)?,6.0e3;6.0e3;6.0E3;6000;6e3;6E3;6.00e3;6.00e3;6.00E3;6100;6.1e3;6.1E3;6000;6e3;6E3;6.10e3;6.10e3;6.10E3,short_answer
+How many molecules are in a 10.2 mol sample of SeF<sub>6</sub>?,6.14e24;6.14e24;6.14E24;6.1e24;6.1e24;6.1E24;6.143e24;6.143e24;6.143E24;6.15e24;6.15e24;6.15E24;6.2e24;6.2e24;6.2E24;6.150e24;6.150e24;6.150E24,short_answer
+What is the mass of 4.086 x 10<sup>24</sup> molecules of CdO in g?,871.3;8.713e2;8.713E2;871;8.71e2;8.71E2;871.;871.28;8.7128e2;8.7128E2;871.2;8.712e2;8.712E2;871;8.71e2;8.71E2;871.;871.20;8.7120e2;8.7120E2,short_answer
+How much does 0.02 mol of AlP weigh (in g)?,1;1e0;1E0;1.;1.2;1.2e0;1.2E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+What is the number of moles in a 7.383 g sample of AuCl<sub>3</sub>?,0.02434;2.434e-2;2.434E-2;.02434;0.0243;2.43e-2;2.43E-2;.0243;0.024340;2.4340e-2;2.4340E-2;.024340;0.02433;2.433e-2;2.433E-2;.02433;0.0243;2.43e-2;2.43E-2;.0243;0.024330;2.4330e-2;2.4330E-2;.024330,short_answer
+What is the number of moles in a 2.46 g sample of V<sub>2</sub>O<sub>5</sub>?,0.0135;1.35e-2;1.35E-2;.0135;0.014;1.4e-2;1.4E-2;.014;0.01350;1.350e-2;1.350E-2;.01350;0.0134;1.34e-2;1.34E-2;.0134;0.013;1.3e-2;1.3E-2;.013;0.01340;1.340e-2;1.340E-2;.01340,short_answer
+How much does 29.87 mol of VO<sub>2</sub> weigh (in g)?,2477;2.477e3;2.477E3;2477.;2480;2.48e3;2.48E3;2477.4;2.4774e3;2.4774E3;2478;2.478e3;2.478E3;2478.;2480;2.48e3;2.48E3;2478.0;2.4780e3;2.4780E3,short_answer
+How many moles are in a 977.3 g sample of CrF<sub>2</sub>?,10.86;1.086e1;1.086E1;10.9;1.09e1;1.09E1;10.860;1.0860e1;1.0860E1;10.85;1.085e1;1.085E1;10.8;1.08e1;1.08E1;10.850;1.0850e1;1.0850E1,short_answer
+What is the mass in g of 0.05 moles of MgCO<sub>3</sub>?,4;4e0;4E0;4.;4.2;4.2e0;4.2E0;5;5e0;5E0;5.;5.0;5.0e0;5.0E0,short_answer
+How many molecules are in a 10.6 mol sample of SiI<sub>4</sub>?,6.38e24;6.38e24;6.38E24;6.4e24;6.4e24;6.4E24;6.383e24;6.383e24;6.383E24;6.39e24;6.39e24;6.39E24;6.4e24;6.4e24;6.4E24;6.390e24;6.390e24;6.390E24,short_answer
+How many molecules are in a 29 g sample of XeF<sub>4</sub>?,8.4e22;8.4e22;8.4E22;8e22;8e22;8E22;8.43e22;8.43e22;8.43E22;8.5e22;8.5e22;8.5E22;9e22;9e22;9E22;8.50e22;8.50e22;8.50E22,short_answer
+What is the number of moles in a 1.56 g sample of K<sub>2</sub>CO<sub>3</sub>?,0.0113;1.13e-2;1.13E-2;.0113;0.011;1.1e-2;1.1E-2;.011;0.01130;1.130e-2;1.130E-2;.01130;0.0112;1.12e-2;1.12E-2;.0112;0.011;1.1e-2;1.1E-2;.011;0.01120;1.120e-2;1.120E-2;.01120,short_answer
+How many moles are in a 33.44 g sample of AgCl?,0.2333;2.333e-1;2.333E-1;.2333;0.233;2.33e-1;2.33E-1;.233;0.23330;2.3330e-1;2.3330E-1;.23330;0.2332;2.332e-1;2.332E-1;.2332;0.233;2.33e-1;2.33E-1;.233;0.23320;2.3320e-1;2.3320E-1;.23320,short_answer
+How many moles are in a 2000 g sample of K<sub>2</sub>S?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+What is the mass of 3.0 x 10<sup>23</sup> molecules of H<sub>2</sub>SO<sub>4</sub> in g?,49;4.9e1;4.9E1;49.;50;5e1;5E1;49.0;4.90e1;4.90E1;50.;5.0e1;5.0E1;50..;50;5e1;5E1;50.0;5.00e1;5.00E1,short_answer
+What is the mass in g of 0.201 moles of P<sub>2</sub>O<sub>5</sub>?,28.5;2.85e1;2.85E1;29;2.9e1;2.9E1;29.;28.53;2.853e1;2.853E1;28.6;2.86e1;2.86E1;29;2.9e1;2.9E1;29.;28.60;2.860e1;2.860E1,short_answer
+How many moles are in a 2.50 g sample of GaCl<sub>3</sub>?,0.0142;1.42e-2;1.42E-2;.0142;0.014;1.4e-2;1.4E-2;.014;0.01420;1.420e-2;1.420E-2;.01420;0.0141;1.41e-2;1.41E-2;.0141;0.014;1.4e-2;1.4E-2;.014;0.01410;1.410e-2;1.410E-2;.01410,short_answer
+What is the number of moles in a 300 g sample of AgNO<sub>3</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How many molecules are in a 60. g sample of KH?,9.0e23;9.0e23;9.0E23;9e23;9e23;9E23;9.03e23;9.03e23;9.03E23;9.1e23;9.1e23;9.1E23;9e23;9e23;9E23;9.10e23;9.10e23;9.10E23,short_answer
+What is the mass in g of 0.0109 moles of V<sub>2</sub>O<sub>5</sub>?,1.98;1.98e0;1.98E0;2.0;2.0e0;2.0E0;1.982;1.982e0;1.982E0;1.99;1.99e0;1.99E0;2.0;2.0e0;2.0E0;1.990;1.990e0;1.990E0,short_answer
+How many moles are in a 30 g sample of AsF<sub>5</sub>?,0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20;0.1;1e-1;1E-1;.1;0.10;1.0e-1;1.0E-1;.10,short_answer
+How much does 2 mol of MoF<sub>6</sub> weigh (in g)?,400;4e2;4E2;420;4.2e2;4.2E2;500;5e2;5E2;5.0e2;5.0e2;5.0E2,short_answer
+What is the number of moles in a 6.06 g sample of BeF<sub>2</sub>?,0.129;1.29e-1;1.29E-1;.129;0.13;1.3e-1;1.3E-1;.13;0.1290;1.290e-1;1.290E-1;.1290;0.128;1.28e-1;1.28E-1;.128;0.13;1.3e-1;1.3E-1;.13;0.1280;1.280e-1;1.280E-1;.1280,short_answer
+What is the number of moles in a 4.23 g sample of HfCl<sub>4</sub>?,0.0132;1.32e-2;1.32E-2;.0132;0.013;1.3e-2;1.3E-2;.013;0.01320;1.320e-2;1.320E-2;.01320;0.0131;1.31e-2;1.31E-2;.0131;0.013;1.3e-2;1.3E-2;.013;0.01310;1.310e-2;1.310E-2;.01310,short_answer
+How many moles are in a 800 g sample of C<sub>2</sub>H<sub>2</sub>?,30;3e1;3E1;30.;3.0e1;3.0E1;30..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+How many moles are in a 2.522 g sample of HBr?,0.03117;3.117e-2;3.117E-2;.03117;0.0312;3.12e-2;3.12E-2;.0312;0.031170;3.1170e-2;3.1170E-2;.031170;0.03116;3.116e-2;3.116E-2;.03116;0.0312;3.12e-2;3.12E-2;.0312;0.031160;3.1160e-2;3.1160E-2;.031160,short_answer
+How many molecules are in a 44 g sample of ClO<sub>2</sub>?,3.9e23;3.9e23;3.9E23;4e23;4e23;4E23;3.91e23;3.91e23;3.91E23;4.0e23;4.0e23;4.0E23;4e23;4e23;4E23;4.00e23;4.00e23;4.00E23,short_answer
+What is the mass in g of 1.8 moles of KH?,72;7.2e1;7.2E1;72.;70;7e1;7E1;72.2;7.22e1;7.22E1;73;7.3e1;7.3E1;73.;70;7e1;7E1;73.0;7.30e1;7.30E1,short_answer
+What is the mass in g of 0.02 moles of SiO<sub>2</sub>?,1;1e0;1E0;1.;1.2;1.2e0;1.2E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+What is the mass in g of 0.30 moles of Bi<sub>2</sub>O<sub>3</sub>?,140;1.4e2;1.4E2;100;1e2;1E2;140.;1.40e2;1.40E2;140..;130;1.3e2;1.3E2;100;1e2;1E2;130.;1.30e2;1.30E2;130..,short_answer
+How much does 0.1457 mol of NiCl<sub>2</sub> weigh (in g)?,18.88;1.888e1;1.888E1;18.9;1.89e1;1.89E1;18.882;1.8882e1;1.8882E1;18.89;1.889e1;1.889E1;18.9;1.89e1;1.89E1;18.890;1.8890e1;1.8890E1,short_answer
+How much does 15.86 mol of Na<sub>2</sub>CO<sub>3</sub> weigh (in g)?,1681;1.681e3;1.681E3;1681.;1680;1.68e3;1.68E3;1681.0;1.6810e3;1.6810E3;1680.;1.680e3;1.680E3;1680..;1680;1.68e3;1.68E3;1680.0;1.6800e3;1.6800E3,short_answer
+How many molecules are in a 4.2 mol sample of CBr<sub>4</sub>?,2.5e24;2.5e24;2.5E24;3e24;3e24;3E24;2.53e24;2.53e24;2.53E24;2.6e24;2.6e24;2.6E24;3e24;3e24;3E24;2.60e24;2.60e24;2.60E24,short_answer
+How many molecules are in a 4800 g sample of NiCl<sub>2</sub>?,2.2e25;2.2e25;2.2E25;2e25;2e25;2E25;2.23e25;2.23e25;2.23E25;2.3e25;2.3e25;2.3E25;2e25;2e25;2E25;2.30e25;2.30e25;2.30E25,short_answer
+What is the number of moles in a 250 g sample of C<sub>7</sub>H<sub>16</sub>?,2.5;2.5e0;2.5E0;3;3e0;3E0;3.;2.50;2.50e0;2.50E0;2.4;2.4e0;2.4E0;2;2e0;2E0;2.;2.40;2.40e0;2.40E0,short_answer
+How many molecules are in a 210.6 g sample of MoF<sub>6</sub>?,6.040e23;6.040e23;6.040E23;6.04e23;6.04e23;6.04E23;6.0402e23;6.0402e23;6.0402E23;6.041e23;6.041e23;6.041E23;6.04e23;6.04e23;6.04E23;6.0410e23;6.0410e23;6.0410E23,short_answer
+How many molecules are in a 39.3 g sample of SF<sub>4</sub>?,2.19e23;2.19e23;2.19E23;2.2e23;2.2e23;2.2E23;2.192e23;2.192e23;2.192E23;2.20e23;2.20e23;2.20E23;2.2e23;2.2e23;2.2E23;2.200e23;2.200e23;2.200E23,short_answer
+What is the mass of 1.640 x 10<sup>25</sup> molecules of ReCl<sub>4</sub> in g?,8932;8.932e3;8.932E3;8932.;8930;8.93e3;8.93E3;8931.6;8.9316e3;8.9316E3;8931;8.931e3;8.931E3;8931.;8930;8.93e3;8.93E3;8931.0;8.9310e3;8.9310E3,short_answer
+How many molecules are in a 5 g sample of UO<sub>2</sub>?,1e22;1e22;1E22;1.2e22;1.2e22;1.2E22;2e22;2e22;2E22;2.0e22;2.0e22;2.0E22,short_answer
+How much does 2 mol of GaAs weigh (in g)?,300;3e2;3E2;290;2.9e2;2.9E2;200;2e2;2E2;2.0e2;2.0e2;2.0E2,short_answer
+How many molecules are in a 29 g sample of BaCl<sub>2</sub>?,8.4e22;8.4e22;8.4E22;8e22;8e22;8E22;8.43e22;8.43e22;8.43E22;8.5e22;8.5e22;8.5E22;9e22;9e22;9E22;8.50e22;8.50e22;8.50E22,short_answer
+What is the number of moles in a 5300 g sample of PtCl<sub>2</sub>?,20.;2.0e1;2.0E1;20..;20;2e1;2E1;20.0;2.00e1;2.00E1;19;1.9e1;1.9E1;19.;20;2e1;2E1;19.0;1.90e1;1.90E1,short_answer
+How many moles are in a 17.16 g sample of ZnSO<sub>4</sub>?,0.1063;1.063e-1;1.063E-1;.1063;0.106;1.06e-1;1.06E-1;.106;0.10630;1.0630e-1;1.0630E-1;.10630;0.1062;1.062e-1;1.062E-1;.1062;0.106;1.06e-1;1.06E-1;.106;0.10620;1.0620e-1;1.0620E-1;.10620,short_answer
+What is the mass of 2.4 x 10<sup>22</sup> molecules of MgCO<sub>3</sub> in g?,3.4;3.4e0;3.4E0;3;3e0;3E0;3.;3.37;3.37e0;3.37E0;3.3;3.3e0;3.3E0;3;3e0;3E0;3.;3.30;3.30e0;3.30E0,short_answer
+What is the mass of 9.0 x 10<sup>24</sup> molecules of SrF<sub>2</sub> in g?,1900;1.9e3;1.9E3;2000;2e3;2E3;1880;1.88e3;1.88E3;1800;1.8e3;1.8E3;2000;2e3;2E3;1.80e3;1.80e3;1.80E3,short_answer
+How many molecules are in a 23 mol sample of AlN?,1.4e25;1.4e25;1.4E25;1e25;1e25;1E25;1.39e25;1.39e25;1.39E25;1.3e25;1.3e25;1.3E25;1e25;1e25;1E25;1.30e25;1.30e25;1.30E25,short_answer
+What is the mass of 2.42 x 10<sup>23</sup> molecules of PbO in g?,89.7;8.97e1;8.97E1;90.;9.0e1;9.0E1;90..;89.73;8.973e1;8.973E1;89.8;8.98e1;8.98E1;90.;9.0e1;9.0E1;90..;89.80;8.980e1;8.980E1,short_answer
+How many molecules are in a 0.0194 mol sample of MoF<sub>5</sub>?,1.17e22;1.17e22;1.17E22;1.2e22;1.2e22;1.2E22;1.168e22;1.168e22;1.168E22;1.16e22;1.16e22;1.16E22;1.2e22;1.2e22;1.2E22;1.160e22;1.160e22;1.160E22,short_answer
+What is the mass in g of 0.1133 moles of V<sub>2</sub>O<sub>5</sub>?,20.61;2.061e1;2.061E1;20.6;2.06e1;2.06E1;20.607;2.0607e1;2.0607E1;20.60;2.060e1;2.060E1;20.6;2.06e1;2.06E1;20.600;2.0600e1;2.0600E1,short_answer
+What is the number of moles in a 3 g sample of SnO<sub>2</sub>?,0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020;0.01;1e-2;1E-2;.01;0.010;1.0e-2;1.0E-2;.010,short_answer
+How many molecules are in a 16.2 mol sample of CH<sub>5</sub>N?,9.76e24;9.76e24;9.76E24;9.8e24;9.8e24;9.8E24;9.756e24;9.756e24;9.756E24;9.75e24;9.75e24;9.75E24;9.8e24;9.8e24;9.8E24;9.750e24;9.750e24;9.750E24,short_answer
+How many moles are in a 77.4 g sample of OsCl<sub>3</sub>?,0.261;2.61e-1;2.61E-1;.261;0.26;2.6e-1;2.6E-1;.26;0.2610;2.610e-1;2.610E-1;.2610;0.260;2.60e-1;2.60E-1;.260;0.26;2.6e-1;2.6E-1;.26;0.2600;2.600e-1;2.600E-1;.2600,short_answer
+What is the mass of 2 x 10<sup>25</sup> molecules of BrO<sub>3</sub> in g?,4000;4e3;4E3;3800;3.8e3;3.8E3;3000;3e3;3E3;3.0e3;3.0e3;3.0E3,short_answer
+What is the number of moles in a 31.7 g sample of OsCl<sub>3</sub>?,0.107;1.07e-1;1.07E-1;.107;0.11;1.1e-1;1.1E-1;.11;0.1070;1.070e-1;1.070E-1;.1070;0.106;1.06e-1;1.06E-1;.106;0.11;1.1e-1;1.1E-1;.11;0.1060;1.060e-1;1.060E-1;.1060,short_answer
+How many moles are in a 4200 g sample of WF<sub>6</sub>?,14;1.4e1;1.4E1;14.;10;1e1;1E1;14.0;1.40e1;1.40E1;13;1.3e1;1.3E1;13.;10;1e1;1E1;13.0;1.30e1;1.30E1,short_answer
+How much does 0.1602 mol of SiCl<sub>4</sub> weigh (in g)?,27.22;2.722e1;2.722E1;27.2;2.72e1;2.72E1;27.216;2.7216e1;2.7216E1;27.21;2.721e1;2.721E1;27.2;2.72e1;2.72E1;27.210;2.7210e1;2.7210E1,short_answer
+How many molecules are in a 9 g sample of NO<sub>2</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+How many molecules are in a 0.28 mol sample of HF?,1.7e23;1.7e23;1.7E23;2e23;2e23;2E23;1.69e23;1.69e23;1.69E23;1.6e23;1.6e23;1.6E23;2e23;2e23;2E23;1.60e23;1.60e23;1.60E23,short_answer
+What is the mass of 2.07 x 10<sup>23</sup> molecules of RaF<sub>2</sub> in g?,90.8;9.08e1;9.08E1;91;9.1e1;9.1E1;91.;90.81;9.081e1;9.081E1;90.9;9.09e1;9.09E1;91;9.1e1;9.1E1;91.;90.90;9.090e1;9.090E1,short_answer
+What is the mass in g of 0.232 moles of CuCl<sub>2</sub>?,31.2;3.12e1;3.12E1;31;3.1e1;3.1E1;31.;31.19;3.119e1;3.119E1;31.1;3.11e1;3.11E1;31;3.1e1;3.1E1;31.;31.10;3.110e1;3.110E1,short_answer
+What is the mass in g of 1.42 moles of Tl<sub>2</sub>O?,603;6.03e2;6.03E2;603.;6.0e2;6.0e2;6.0E2;603.2;6.032e2;6.032E2;604;6.04e2;6.04E2;604.;6.0e2;6.0e2;6.0E2;604.0;6.040e2;6.040E2,short_answer
+How much does 0.4165 mol of MoF<sub>6</sub> weigh (in g)?,87.44;8.744e1;8.744E1;87.4;8.74e1;8.74E1;87.440;8.7440e1;8.7440E1;87.45;8.745e1;8.745E1;87.5;8.75e1;8.75E1;87.450;8.7450e1;8.7450E1,short_answer
+What is the mass of 1.119 x 10<sup>23</sup> molecules of AuCl<sub>3</sub> in g?,56.36;5.636e1;5.636E1;56.4;5.64e1;5.64E1;56.356;5.6356e1;5.6356E1;56.35;5.635e1;5.635E1;56.4;5.64e1;5.64E1;56.350;5.6350e1;5.6350E1,short_answer
+How much does 15.2 mol of CH<sub>5</sub>N weigh (in g)?,472;4.72e2;4.72E2;472.;470;4.7e2;4.7E2;472.1;4.721e2;4.721E2;473;4.73e2;4.73E2;473.;470;4.7e2;4.7E2;473.0;4.730e2;4.730E2,short_answer
+What is the number of moles in a 25.15 g sample of Fe<sub>2</sub>O<sub>3</sub>?,0.1575;1.575e-1;1.575E-1;.1575;0.158;1.58e-1;1.58E-1;.158;0.15750;1.5750e-1;1.5750E-1;.15750;0.1574;1.574e-1;1.574E-1;.1574;0.157;1.57e-1;1.57E-1;.157;0.15740;1.5740e-1;1.5740E-1;.15740,short_answer
+How many moles are in a 50 g sample of C<sub>2</sub>H<sub>2</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How many molecules are in a 0.0522 g sample of H<sub>2</sub>?,1.56e22;1.56e22;1.56E22;1.6e22;1.6e22;1.6E22;1.560e22;1.560e22;1.560E22;1.55e22;1.55e22;1.55E22;1.6e22;1.6e22;1.6E22;1.550e22;1.550e22;1.550E22,short_answer
+What is the mass of 5 x 10<sup>24</sup> molecules of H<sub>3</sub>PO<sub>4</sub> in g?,800;8e2;8E2;780;7.8e2;7.8E2;700;7e2;7E2;7.0e2;7.0e2;7.0E2,short_answer
+How many molecules are in a 0.68 mol sample of MnF<sub>2</sub>?,4.1e23;4.1e23;4.1E23;4e23;4e23;4E23;4.10e23;4.10e23;4.10E23;4.0e23;4.0e23;4.0E23;4e23;4e23;4E23;4.00e23;4.00e23;4.00E23,short_answer
+What is the mass in g of 0.13 moles of OF<sub>2</sub>?,7.0;7.0e0;7.0E0;7;7e0;7E0;7.;7.02;7.02e0;7.02E0;7.1;7.1e0;7.1E0;7;7e0;7E0;7.;7.10;7.10e0;7.10E0,short_answer
+What is the mass of 2.38 x 10<sup>23</sup> molecules of AlN in g?,16.2;1.62e1;1.62E1;16;1.6e1;1.6E1;16.;16.19;1.619e1;1.619E1;16.1;1.61e1;1.61E1;16;1.6e1;1.6E1;16.;16.10;1.610e1;1.610E1,short_answer
+How much does 0.146 mol of AgNO<sub>3</sub> weigh (in g)?,24.8;2.48e1;2.48E1;25;2.5e1;2.5E1;25.;24.80;2.480e1;2.480E1;24.9;2.49e1;2.49E1;25;2.5e1;2.5E1;25.;24.90;2.490e1;2.490E1,short_answer
+What is the mass of 2 x 10<sup>23</sup> molecules of S<sub>2</sub>Cl<sub>2</sub> in g?,40;4e1;4E1;41;4.1e1;4.1E1;41.;50;5e1;5E1;50.;5.0e1;5.0E1;50..,short_answer
+What is the mass in g of 22 moles of PbO?,4900;4.9e3;4.9E3;5000;5e3;5E3;4910;4.91e3;4.91E3;5.0e3;5.0e3;5.0E3;5000;5e3;5E3;5.00e3;5.00e3;5.00E3,short_answer
+What is the mass in g of 0.0531 moles of CI<sub>4</sub>?,27.6;2.76e1;2.76E1;28;2.8e1;2.8E1;28.;27.59;2.759e1;2.759E1;27.5;2.75e1;2.75E1;28;2.8e1;2.8E1;28.;27.50;2.750e1;2.750E1,short_answer
+How many molecules are in a 637 g sample of NaCl?,6.56e24;6.56e24;6.56E24;6.6e24;6.6e24;6.6E24;6.564e24;6.564e24;6.564E24;6.57e24;6.57e24;6.57E24;6.6e24;6.6e24;6.6E24;6.570e24;6.570e24;6.570E24,short_answer
+What is the number of moles in a 480 g sample of H<sub>2</sub>S?,14;1.4e1;1.4E1;14.;10;1e1;1E1;14.0;1.40e1;1.40E1;13;1.3e1;1.3E1;13.;10;1e1;1E1;13.0;1.30e1;1.30E1,short_answer
+What is the mass of 6.715 x 10<sup>22</sup> molecules of LiF in g?,2.892;2.892e0;2.892E0;2.89;2.89e0;2.89E0;2.8921;2.8921e0;2.8921E0;2.893;2.893e0;2.893E0;2.89;2.89e0;2.89E0;2.8930;2.8930e0;2.8930E0,short_answer
+How many molecules are in a 7 g sample of AsF<sub>3</sub>?,3e22;3e22;3E22;3.0e22;3.0e22;3.0E22;4e22;4e22;4E22;4.0e22;4.0e22;4.0E22,short_answer
+What is the mass of 1.3 x 10<sup>23</sup> molecules of NH<sub>4</sub>NO<sub>3</sub> in g?,18;1.8e1;1.8E1;18.;20;2e1;2E1;17.6;1.76e1;1.76E1;17;1.7e1;1.7E1;17.;20;2e1;2E1;17.0;1.70e1;1.70E1,short_answer
+How many moles are in a 700 g sample of SiF<sub>4</sub>?,7;7e0;7E0;7.;7.0;7.0e0;7.0E0;6;6e0;6E0;6.;6.0;6.0e0;6.0E0,short_answer
+How many molecules are in a 700 g sample of K<sub>2</sub>CO<sub>3</sub>?,3e24;3e24;3E24;3.0e24;3.0e24;3.0E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+What is the mass of 3.799 x 10<sup>23</sup> molecules of NF<sub>3</sub> in g?,44.79;4.479e1;4.479E1;44.8;4.48e1;4.48E1;44.788;4.4788e1;4.4788E1;44.78;4.478e1;4.478E1;44.8;4.48e1;4.48E1;44.780;4.4780e1;4.4780E1,short_answer
+How much does 0.1390 mol of XeF<sub>4</sub> weigh (in g)?,28.81;2.881e1;2.881E1;28.8;2.88e1;2.88E1;28.813;2.8813e1;2.8813E1;28.82;2.882e1;2.882E1;28.8;2.88e1;2.88E1;28.820;2.8820e1;2.8820E1,short_answer
+What is the mass of 1.684 x 10<sup>22</sup> molecules of TlCl<sub>3</sub> in g?,8.688;8.688e0;8.688E0;8.69;8.69e0;8.69E0;8.6880;8.6880e0;8.6880E0;8.689;8.689e0;8.689E0;8.69;8.69e0;8.69E0;8.6890;8.6890e0;8.6890E0,short_answer
+What is the mass of 4.439 x 10<sup>23</sup> molecules of AlCl<sub>3</sub> in g?,98.28;9.828e1;9.828E1;98.3;9.83e1;9.83E1;98.279;9.8279e1;9.8279E1;98.27;9.827e1;9.827E1;98.3;9.83e1;9.83E1;98.270;9.8270e1;9.8270E1,short_answer
+What is the mass of 2.21 x 10<sup>23</sup> molecules of K<sub>2</sub>S in g?,40.5;4.05e1;4.05E1;40.;4.0e1;4.0E1;40..;40.46;4.046e1;4.046E1;40.4;4.04e1;4.04E1;40.;4.0e1;4.0E1;40..;40.40;4.040e1;4.040E1,short_answer
+What is the mass in g of 0.3 moles of IF<sub>7</sub>?,80;8e1;8E1;78;7.8e1;7.8E1;78.;70;7e1;7E1;70.;7.0e1;7.0E1;70..,short_answer
+How many molecules are in a 0.15 mol sample of HF?,9.0e22;9.0e22;9.0E22;9e22;9e22;9E22;9.03e22;9.03e22;9.03E22;9.1e22;9.1e22;9.1E22;9e22;9e22;9E22;9.10e22;9.10e22;9.10E22,short_answer
+What is the mass of 2.34 x 10<sup>23</sup> molecules of SbF<sub>3</sub> in g?,69.5;6.95e1;6.95E1;70.;7.0e1;7.0E1;70..;69.54;6.954e1;6.954E1;69.6;6.96e1;6.96E1;70.;7.0e1;7.0E1;70..;69.60;6.960e1;6.960E1,short_answer
+What is the number of moles in a 1.572 g sample of SO<sub>3</sub>?,0.01964;1.964e-2;1.964E-2;.01964;0.0196;1.96e-2;1.96E-2;.0196;0.019640;1.9640e-2;1.9640E-2;.019640;0.01963;1.963e-2;1.963E-2;.01963;0.0196;1.96e-2;1.96E-2;.0196;0.019630;1.9630e-2;1.9630E-2;.019630,short_answer
+What is the mass in g of 0.01163 moles of SnO<sub>2</sub>?,1.753;1.753e0;1.753E0;1.75;1.75e0;1.75E0;1.7527;1.7527e0;1.7527E0;1.752;1.752e0;1.752E0;1.75;1.75e0;1.75E0;1.7520;1.7520e0;1.7520E0,short_answer
+How many molecules are in a 0.226 mol sample of ZnO?,1.36e23;1.36e23;1.36E23;1.4e23;1.4e23;1.4E23;1.361e23;1.361e23;1.361E23;1.37e23;1.37e23;1.37E23;1.4e23;1.4e23;1.4E23;1.370e23;1.370e23;1.370E23,short_answer
+How many moles are in a 32.57 g sample of CdCl<sub>2</sub>?,0.1777;1.777e-1;1.777E-1;.1777;0.178;1.78e-1;1.78E-1;.178;0.17770;1.7770e-1;1.7770E-1;.17770;0.1776;1.776e-1;1.776E-1;.1776;0.178;1.78e-1;1.78E-1;.178;0.17760;1.7760e-1;1.7760E-1;.17760,short_answer
+How many molecules are in a 0.2 mol sample of MnO<sub>2</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the number of moles in a 447 g sample of MgO?,11.1;1.11e1;1.11E1;11;1.1e1;1.1E1;11.;11.10;1.110e1;1.110E1;11.0;1.10e1;1.10E1;11;1.1e1;1.1E1;11.;11.00;1.100e1;1.100E1,short_answer
+How many moles are in a 4 g sample of C<sub>6</sub>H<sub>14</sub>?,0.05;5e-2;5E-2;.05;0.050;5.0e-2;5.0E-2;.050;0.04;4e-2;4E-2;.04;0.040;4.0e-2;4.0E-2;.040,short_answer
+What is the mass of 9.51 x 10<sup>22</sup> molecules of ReF<sub>6</sub> in g?,47.4;4.74e1;4.74E1;47;4.7e1;4.7E1;47.;47.43;4.743e1;4.743E1;47.5;4.75e1;4.75E1;48;4.8e1;4.8E1;48.;47.50;4.750e1;4.750E1,short_answer
+What is the number of moles in a 10. g sample of NaH?,0.42;4.2e-1;4.2E-1;.42;0.4;4e-1;4E-1;.4;0.420;4.20e-1;4.20E-1;.420;0.41;4.1e-1;4.1E-1;.41;0.4;4e-1;4E-1;.4;0.410;4.10e-1;4.10E-1;.410,short_answer
+What is the mass of 6.082 x 10<sup>24</sup> molecules of K<sub>2</sub>S in g?,1114;1.114e3;1.114E3;1114.;1110;1.11e3;1.11E3;1113.6;1.1136e3;1.1136E3;1113;1.113e3;1.113E3;1113.;1110;1.11e3;1.11E3;1113.0;1.1130e3;1.1130E3,short_answer
+How many molecules are in a 0.05 mol sample of SO<sub>2</sub>?,3e22;3e22;3E22;3.0e22;3.0e22;3.0E22;4e22;4e22;4E22;4.0e22;4.0e22;4.0E22,short_answer
+What is the mass in g of 0.462 moles of SO<sub>3</sub>?,37.0;3.70e1;3.70E1;37;3.7e1;3.7E1;37.;36.99;3.699e1;3.699E1;36.9;3.69e1;3.69E1;37;3.7e1;3.7E1;37.;36.90;3.690e1;3.690E1,short_answer
+What is the mass of 7.2 x 10<sup>24</sup> molecules of MnO<sub>2</sub> in g?,1.0e3;1.0e3;1.0E3;1000;1e3;1E3;1040;1.04e3;1.04E3;1100;1.1e3;1.1E3;1000;1e3;1E3;1.10e3;1.10e3;1.10E3,short_answer
+How many molecules are in a 2 mol sample of ReF<sub>6</sub>?,1e24;1e24;1E24;1.2e24;1.2e24;1.2E24;2e24;2e24;2E24;2.0e24;2.0e24;2.0E24,short_answer
+How many molecules are in a 35 mol sample of NO<sub>2</sub>?,2.1e25;2.1e25;2.1E25;2e25;2e25;2E25;2.11e25;2.11e25;2.11E25;2.2e25;2.2e25;2.2E25;2e25;2e25;2E25;2.20e25;2.20e25;2.20E25,short_answer
+How many molecules are in a 20 g sample of AlP?,2e23;2e23;2E23;1.8e23;1.8e23;1.8E23;1e23;1e23;1E23;1.0e23;1.0e23;1.0E23,short_answer
+How many molecules are in a 9.22 g sample of CoO?,7.41e22;7.41e22;7.41E22;7.4e22;7.4e22;7.4E22;7.407e22;7.407e22;7.407E22;7.40e22;7.40e22;7.40E22;7.4e22;7.4e22;7.4E22;7.400e22;7.400e22;7.400E22,short_answer
+How many moles are in a 2.9 g sample of CuSO<sub>4</sub>?,0.018;1.8e-2;1.8E-2;.018;0.02;2e-2;2E-2;.02;0.0180;1.80e-2;1.80E-2;.0180;0.017;1.7e-2;1.7E-2;.017;0.02;2e-2;2E-2;.02;0.0170;1.70e-2;1.70E-2;.0170,short_answer
+How many moles are in a 400 g sample of S<sub>2</sub>Cl<sub>2</sub>?,3;3e0;3E0;3.;3.0;3.0e0;3.0E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+How many moles are in a 3000 g sample of PCl<sub>3</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many molecules are in a 0.01055 mol sample of IrCl<sub>3</sub>?,6.353e21;6.353e21;6.353E21;6.35e21;6.35e21;6.35E21;6.3534e21;6.3534e21;6.3534E21;6.354e21;6.354e21;6.354E21;6.35e21;6.35e21;6.35E21;6.3540e21;6.3540e21;6.3540E21,short_answer
+How many molecules are in a 6.0 x 10<sup>2</sup> g sample of HF?,1.8e25;1.8e25;1.8E25;2e25;2e25;2E25;1.81e25;1.81e25;1.81E25;1.9e25;1.9e25;1.9E25;2e25;2e25;2E25;1.90e25;1.90e25;1.90E25,short_answer
+What is the mass of 1.612 x 10<sup>25</sup> molecules of SiBr<sub>4</sub> in g?,9308;9.308e3;9.308E3;9308.;9310;9.31e3;9.31E3;9308.0;9.3080e3;9.3080E3;9307;9.307e3;9.307E3;9307.;9310;9.31e3;9.31E3;9307.0;9.3070e3;9.3070E3,short_answer
+What is the mass in g of 0.139 moles of Li<sub>2</sub>S?,6.39;6.39e0;6.39E0;6.4;6.4e0;6.4E0;6.386;6.386e0;6.386E0;6.38;6.38e0;6.38E0;6.4;6.4e0;6.4E0;6.380;6.380e0;6.380E0,short_answer
+How many moles are in a 145 g sample of CCl<sub>4</sub>?,0.943;9.43e-1;9.43E-1;.943;0.94;9.4e-1;9.4E-1;.94;0.9430;9.430e-1;9.430E-1;.9430;0.942;9.42e-1;9.42E-1;.942;0.94;9.4e-1;9.4E-1;.94;0.9420;9.420e-1;9.420E-1;.9420,short_answer
+What is the number of moles in a 1.231 g sample of C<sub>6</sub>H<sub>6</sub>O?,0.01308;1.308e-2;1.308E-2;.01308;0.0131;1.31e-2;1.31E-2;.0131;0.013080;1.3080e-2;1.3080E-2;.013080;0.01307;1.307e-2;1.307E-2;.01307;0.0131;1.31e-2;1.31E-2;.0131;0.013070;1.3070e-2;1.3070E-2;.013070,short_answer
+How many moles are in a 240 g sample of ZnSO<sub>4</sub>?,1.5;1.5e0;1.5E0;2;2e0;2E0;2.;1.50;1.50e0;1.50E0;1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.40;1.40e0;1.40E0,short_answer
+How much does 0.85 mol of Li<sub>2</sub>S weigh (in g)?,39;3.9e1;3.9E1;39.;40;4e1;4E1;39.0;3.90e1;3.90E1;40.;4.0e1;4.0E1;40..;40;4e1;4E1;40.0;4.00e1;4.00E1,short_answer
+What is the mass of 7.835 x 10<sup>24</sup> molecules of NO<sub>2</sub> in g?,598.5;5.985e2;5.985E2;599;5.99e2;5.99E2;599.;598.53;5.9853e2;5.9853E2;598.6;5.986e2;5.986E2;599;5.99e2;5.99E2;599.;598.60;5.9860e2;5.9860E2,short_answer
+What is the mass in g of 0.395 moles of Al<sub>2</sub>O<sub>3</sub>?,40.3;4.03e1;4.03E1;40.;4.0e1;4.0E1;40..;40.27;4.027e1;4.027E1;40.2;4.02e1;4.02E1;40.;4.0e1;4.0E1;40..;40.20;4.020e1;4.020E1,short_answer
+What is the number of moles in a 80.93 g sample of SiO<sub>2</sub>?,1.347;1.347e0;1.347E0;1.35;1.35e0;1.35E0;1.3470;1.3470e0;1.3470E0;1.346;1.346e0;1.346E0;1.35;1.35e0;1.35E0;1.3460;1.3460e0;1.3460E0,short_answer
+What is the number of moles in a 150 g sample of NiO?,2.0;2.0e0;2.0E0;2;2e0;2E0;2.;2.00;2.00e0;2.00E0;1.9;1.9e0;1.9E0;2;2e0;2E0;2.;1.90;1.90e0;1.90E0,short_answer
+How many moles are in a 1000 g sample of OF<sub>2</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many molecules are in a 2420 g sample of ZrCl<sub>4</sub>?,6.26e24;6.26e24;6.26E24;6.3e24;6.3e24;6.3E24;6.263e24;6.263e24;6.263E24;6.27e24;6.27e24;6.27E24;6.3e24;6.3e24;6.3E24;6.270e24;6.270e24;6.270E24,short_answer
+What is the mass of 1.39 x 10<sup>22</sup> molecules of RnF<sub>2</sub> in g?,6.01;6.01e0;6.01E0;6.0;6.0e0;6.0E0;6.006;6.006e0;6.006E0;6.00;6.00e0;6.00E0;6.0;6.0e0;6.0E0;6.000;6.000e0;6.000E0,short_answer
+How many molecules are in a 0.011 mol sample of SrCl<sub>2</sub>?,6.6e21;6.6e21;6.6E21;7e21;7e21;7E21;6.62e21;6.62e21;6.62E21;6.7e21;6.7e21;6.7E21;7e21;7e21;7E21;6.70e21;6.70e21;6.70E21,short_answer
+How much does 14.6 mol of Fe<sub>3</sub>O<sub>4</sub> weigh (in g)?,3380;3.38e3;3.38E3;3400;3.4e3;3.4E3;3380.;3.380e3;3.380E3;3380..;3390;3.39e3;3.39E3;3400;3.4e3;3.4E3;3390.;3.390e3;3.390E3;3390..,short_answer
+What is the mass of 1 x 10<sup>23</sup> molecules of H<sub>2</sub> in g?,0.4;4e-1;4E-1;.4;0.40;4.0e-1;4.0E-1;.40;0.5;5e-1;5E-1;.5;0.50;5.0e-1;5.0E-1;.50,short_answer
+How much does 0.27 mol of MoF<sub>5</sub> weigh (in g)?,52;5.2e1;5.2E1;52.;50;5e1;5E1;51.6;5.16e1;5.16E1;51;5.1e1;5.1E1;51.;50;5e1;5E1;51.0;5.10e1;5.10E1,short_answer
+How many moles are in a 96.6 g sample of HF?,4.83;4.83e0;4.83E0;4.8;4.8e0;4.8E0;4.830;4.830e0;4.830E0;4.82;4.82e0;4.82E0;4.8;4.8e0;4.8E0;4.820;4.820e0;4.820E0,short_answer
+How many molecules are in a 200 g sample of TiO<sub>2</sub>?,2e24;2e24;2E24;1.8e24;1.8e24;1.8E24;1e24;1e24;1E24;1.0e24;1.0e24;1.0E24,short_answer
+What is the mass of 1.17 x 10<sup>24</sup> molecules of SCl<sub>2</sub> in g?,200.;2.00e2;2.00E2;200..;2.0e2;2.0e2;2.0E2;199.7;1.997e2;1.997E2;199;1.99e2;1.99E2;199.;2.0e2;2.0e2;2.0E2;199.0;1.990e2;1.990E2,short_answer
+What is the mass of 1 x 10<sup>24</sup> molecules of AlCl<sub>3</sub> in g?,300;3e2;3E2;270;2.7e2;2.7E2;200;2e2;2E2;2.0e2;2.0e2;2.0E2,short_answer
+How much does 0.01180 mol of Br<sub>2</sub> weigh (in g)?,1.886;1.886e0;1.886E0;1.89;1.89e0;1.89E0;1.8857;1.8857e0;1.8857E0;1.885;1.885e0;1.885E0;1.89;1.89e0;1.89E0;1.8850;1.8850e0;1.8850E0,short_answer
+What is the mass of 2.3 x 10<sup>22</sup> molecules of UF<sub>4</sub> in g?,12;1.2e1;1.2E1;12.;10;1e1;1E1;11.9;1.19e1;1.19E1;11;1.1e1;1.1E1;11.;10;1e1;1E1;11.0;1.10e1;1.10E1,short_answer
+How many molecules are in a 50 g sample of LiOH?,1e24;1e24;1E24;1.2e24;1.2e24;1.2E24;2e24;2e24;2E24;2.0e24;2.0e24;2.0E24,short_answer
+How many moles are in a 61 g sample of BeF<sub>2</sub>?,1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.30;1.30e0;1.30E0;1.2;1.2e0;1.2E0;1;1e0;1E0;1.;1.20;1.20e0;1.20E0,short_answer
+How many molecules are in a 0.042 mol sample of SrF<sub>2</sub>?,2.5e22;2.5e22;2.5E22;3e22;3e22;3E22;2.53e22;2.53e22;2.53E22;2.6e22;2.6e22;2.6E22;3e22;3e22;3E22;2.60e22;2.60e22;2.60E22,short_answer
+How many moles are in a 31.1 g sample of SiCl<sub>4</sub>?,0.183;1.83e-1;1.83E-1;.183;0.18;1.8e-1;1.8E-1;.18;0.1830;1.830e-1;1.830E-1;.1830;0.182;1.82e-1;1.82E-1;.182;0.18;1.8e-1;1.8E-1;.18;0.1820;1.820e-1;1.820E-1;.1820,short_answer
+How many molecules are in a 0.37 mol sample of H<sub>2</sub>?,2.2e23;2.2e23;2.2E23;2e23;2e23;2E23;2.23e23;2.23e23;2.23E23;2.3e23;2.3e23;2.3E23;2e23;2e23;2E23;2.30e23;2.30e23;2.30E23,short_answer
+How many molecules are in a 42 mol sample of Cl<sub>2</sub>?,2.5e25;2.5e25;2.5E25;3e25;3e25;3E25;2.53e25;2.53e25;2.53E25;2.6e25;2.6e25;2.6E25;3e25;3e25;3E25;2.60e25;2.60e25;2.60E25,short_answer
+How many molecules are in a 0.014 mol sample of SeF<sub>6</sub>?,8.4e21;8.4e21;8.4E21;8e21;8e21;8E21;8.43e21;8.43e21;8.43E21;8.5e21;8.5e21;8.5E21;9e21;9e21;9E21;8.50e21;8.50e21;8.50E21,short_answer
+How many moles are in a 200 g sample of HBr?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+What is the mass of 1.1 x 10<sup>22</sup> molecules of CaCl<sub>2</sub> in g?,2.0;2.0e0;2.0E0;2;2e0;2E0;2.;2.00;2.00e0;2.00E0;1.9;1.9e0;1.9E0;2;2e0;2E0;2.;1.90;1.90e0;1.90E0,short_answer
+How many molecules are in a 588 g sample of BeF<sub>2</sub>?,7.53e24;7.53e24;7.53E24;7.5e24;7.5e24;7.5E24;7.528e24;7.528e24;7.528E24;7.52e24;7.52e24;7.52E24;7.5e24;7.5e24;7.5E24;7.520e24;7.520e24;7.520E24,short_answer
+How many molecules are in a 0.023 mol sample of ZnSO<sub>4</sub>?,1.4e22;1.4e22;1.4E22;1e22;1e22;1E22;1.39e22;1.39e22;1.39E22;1.3e22;1.3e22;1.3E22;1e22;1e22;1E22;1.30e22;1.30e22;1.30E22,short_answer
+What is the number of moles in a 243.4 g sample of Bi<sub>2</sub>O<sub>3</sub>?,0.5224;5.224e-1;5.224E-1;.5224;0.522;5.22e-1;5.22E-1;.522;0.52240;5.2240e-1;5.2240E-1;.52240;0.5223;5.223e-1;5.223E-1;.5223;0.522;5.22e-1;5.22E-1;.522;0.52230;5.2230e-1;5.2230E-1;.52230,short_answer
+How many molecules are in a 0.03 mol sample of ClF<sub>3</sub>?,2e22;2e22;2E22;1.8e22;1.8e22;1.8E22;1e22;1e22;1E22;1.0e22;1.0e22;1.0E22,short_answer
+How much does 0.0327 mol of AgCl weigh (in g)?,4.69;4.69e0;4.69E0;4.7;4.7e0;4.7E0;4.687;4.687e0;4.687E0;4.68;4.68e0;4.68E0;4.7;4.7e0;4.7E0;4.680;4.680e0;4.680E0,short_answer
+How many molecules are in a 1010 g sample of NH<sub>4</sub>NO<sub>3</sub>?,7.59e24;7.59e24;7.59E24;7.6e24;7.6e24;7.6E24;7.588e24;7.588e24;7.588E24;7.58e24;7.58e24;7.58E24;7.6e24;7.6e24;7.6E24;7.580e24;7.580e24;7.580E24,short_answer
+How many molecules are in a 3.14 mol sample of SrF<sub>2</sub>?,1.89e24;1.89e24;1.89E24;1.9e24;1.9e24;1.9E24;1.891e24;1.891e24;1.891E24;1.90e24;1.90e24;1.90E24;1.9e24;1.9e24;1.9E24;1.900e24;1.900e24;1.900E24,short_answer
+How many moles are in a 78 g sample of TlCl<sub>3</sub>?,0.25;2.5e-1;2.5E-1;.25;0.3;3e-1;3E-1;.3;0.250;2.50e-1;2.50E-1;.250;0.24;2.4e-1;2.4E-1;.24;0.2;2e-1;2E-1;.2;0.240;2.40e-1;2.40E-1;.240,short_answer
+How many moles are in a 480 g sample of NaOH?,12;1.2e1;1.2E1;12.;10;1e1;1E1;12.0;1.20e1;1.20E1;11;1.1e1;1.1E1;11.;10;1e1;1E1;11.0;1.10e1;1.10E1,short_answer
+How many molecules are in a 23 mol sample of N<sub>2</sub>?,1.4e25;1.4e25;1.4E25;1e25;1e25;1E25;1.39e25;1.39e25;1.39E25;1.3e25;1.3e25;1.3E25;1e25;1e25;1E25;1.30e25;1.30e25;1.30E25,short_answer
+How many molecules are in a 0.9326 g sample of C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>?,9.352e21;9.352e21;9.352E21;9.35e21;9.35e21;9.35E21;9.3524e21;9.3524e21;9.3524E21;9.353e21;9.353e21;9.353E21;9.35e21;9.35e21;9.35E21;9.3530e21;9.3530e21;9.3530E21,short_answer
+How many moles are in a 8840 g sample of SeF<sub>6</sub>?,45.8;4.58e1;4.58E1;46;4.6e1;4.6E1;46.;45.80;4.580e1;4.580E1;45.7;4.57e1;4.57E1;46;4.6e1;4.6E1;46.;45.70;4.570e1;4.570E1,short_answer
+What is the number of moles in a 217.5 g sample of N<sub>2</sub>O?,4.942;4.942e0;4.942E0;4.94;4.94e0;4.94E0;4.9420;4.9420e0;4.9420E0;4.941;4.941e0;4.941E0;4.94;4.94e0;4.94E0;4.9410;4.9410e0;4.9410E0,short_answer
+What is the mass in g of 20 moles of SiO<sub>2</sub>?,1000;1e3;1E3;1200;1.2e3;1.2E3;2000;2e3;2E3;2.0e3;2.0e3;2.0E3,short_answer
+How many moles are in a 200 g sample of CoO?,3;3e0;3E0;3.;3.0;3.0e0;3.0E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+How many moles are in a 8.2 g sample of NiO?,0.11;1.1e-1;1.1E-1;.11;0.1;1e-1;1E-1;.1;0.110;1.10e-1;1.10E-1;.110;0.10;1.0e-1;1.0E-1;.10;0.1;1e-1;1E-1;.1;0.100;1.00e-1;1.00E-1;.100,short_answer
+How many molecules are in a 0.147 mol sample of Fe<sub>3</sub>O<sub>4</sub>?,8.85e22;8.85e22;8.85E22;8.9e22;8.9e22;8.9E22;8.853e22;8.853e22;8.853E22;8.86e22;8.86e22;8.86E22;8.9e22;8.9e22;8.9E22;8.860e22;8.860e22;8.860E22,short_answer
+What is the mass in g of 3 moles of CaCl<sub>2</sub>?,300;3e2;3E2;330;3.3e2;3.3E2;400;4e2;4E2;4.0e2;4.0e2;4.0E2,short_answer
+What is the number of moles in a 10. g sample of MoF<sub>5</sub>?,0.05;5e-2;5E-2;.05;0.050;5.0e-2;5.0E-2;.050;0.04;4e-2;4E-2;.04;0.040;4.0e-2;4.0E-2;.040,short_answer
+What is the number of moles in a 530 g sample of C<sub>3</sub>H<sub>8</sub>?,12;1.2e1;1.2E1;12.;10;1e1;1E1;12.0;1.20e1;1.20E1;11;1.1e1;1.1E1;11.;10;1e1;1E1;11.0;1.10e1;1.10E1,short_answer
+What is the mass of 2 x 10<sup>24</sup> molecules of IO<sub>4</sub> in g?,600;6e2;6E2;570;5.7e2;5.7E2;500;5e2;5E2;5.0e2;5.0e2;5.0E2,short_answer
+How many molecules are in a 5.05 g sample of IrCl<sub>3</sub>?,1.02e22;1.02e22;1.02E22;1.0e22;1.0e22;1.0E22;1.018e22;1.018e22;1.018E22;1.01e22;1.01e22;1.01E22;1.0e22;1.0e22;1.0E22;1.010e22;1.010e22;1.010E22,short_answer
+What is the number of moles in a 290 g sample of LiOH?,12;1.2e1;1.2E1;12.;10;1e1;1E1;12.0;1.20e1;1.20E1;11;1.1e1;1.1E1;11.;10;1e1;1E1;11.0;1.10e1;1.10E1,short_answer
+How many molecules are in a 1.41 mol sample of TiCl<sub>4</sub>?,8.49e23;8.49e23;8.49E23;8.5e23;8.5e23;8.5E23;8.491e23;8.491e23;8.491E23;8.50e23;8.50e23;8.50E23;8.5e23;8.5e23;8.5E23;8.500e23;8.500e23;8.500E23,short_answer
+What is the number of moles in a 3700 g sample of ZrCl<sub>4</sub>?,16;1.6e1;1.6E1;16.;20;2e1;2E1;16.0;1.60e1;1.60E1;15;1.5e1;1.5E1;15.;20;2e1;2E1;15.0;1.50e1;1.50E1,short_answer
+What is the mass in g of 0.3 moles of TiO<sub>2</sub>?,20;2e1;2E1;24;2.4e1;2.4E1;24.;30;3e1;3E1;30.;3.0e1;3.0E1;30..,short_answer
+How many moles are in a 0.57 g sample of C<sub>3</sub>H<sub>8</sub>?,0.013;1.3e-2;1.3E-2;.013;0.01;1e-2;1E-2;.01;0.0130;1.30e-2;1.30E-2;.0130;0.012;1.2e-2;1.2E-2;.012;0.01;1e-2;1E-2;.01;0.0120;1.20e-2;1.20E-2;.0120,short_answer
+What is the number of moles in a 906 g sample of C<sub>2</sub>H<sub>7</sub>N?,20.1;2.01e1;2.01E1;20.;2.0e1;2.0E1;20..;20.10;2.010e1;2.010E1;20.0;2.00e1;2.00E1;20.;2.0e1;2.0E1;20..;20.00;2.000e1;2.000E1,short_answer
+How much does 0.02099 mol of VO<sub>2</sub> weigh (in g)?,1.741;1.741e0;1.741E0;1.74;1.74e0;1.74E0;1.7409;1.7409e0;1.7409E0;1.740;1.740e0;1.740E0;1.74;1.74e0;1.74E0;1.7400;1.7400e0;1.7400E0,short_answer
+How many moles are in a 1900 g sample of HBr?,23;2.3e1;2.3E1;23.;20;2e1;2E1;23.0;2.30e1;2.30E1;22;2.2e1;2.2E1;22.;20;2e1;2E1;22.0;2.20e1;2.20E1,short_answer
+How many molecules are in a 3.888 g sample of C<sub>2</sub>H<sub>6</sub>?,7.787e22;7.787e22;7.787E22;7.79e22;7.79e22;7.79E22;7.7866e22;7.7866e22;7.7866E22;7.786e22;7.786e22;7.786E22;7.79e22;7.79e22;7.79E22;7.7860e22;7.7860e22;7.7860E22,short_answer
+What is the mass of 1.05 x 10<sup>24</sup> molecules of WF<sub>6</sub> in g?,518;5.18e2;5.18E2;518.;520;5.2e2;5.2E2;518.2;5.182e2;5.182E2;519;5.19e2;5.19E2;519.;520;5.2e2;5.2E2;519.0;5.190e2;5.190E2,short_answer
+What is the number of moles in a 2.65 g sample of CaCl<sub>2</sub>?,0.0239;2.39e-2;2.39E-2;.0239;0.024;2.4e-2;2.4E-2;.024;0.02390;2.390e-2;2.390E-2;.02390;0.0238;2.38e-2;2.38E-2;.0238;0.024;2.4e-2;2.4E-2;.024;0.02380;2.380e-2;2.380E-2;.02380,short_answer
+How many molecules are in a 1.0 g sample of BeCl<sub>2</sub>?,7.8e21;7.8e21;7.8E21;8e21;8e21;8E21;7.83e21;7.83e21;7.83E21;7.9e21;7.9e21;7.9E21;8e21;8e21;8E21;7.90e21;7.90e21;7.90E21,short_answer
+How many moles are in a 200 g sample of NH<sub>4</sub>NO<sub>3</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How many moles are in a 4100 g sample of UO<sub>2</sub>?,15;1.5e1;1.5E1;15.;20;2e1;2E1;15.0;1.50e1;1.50E1;14;1.4e1;1.4E1;14.;10;1e1;1E1;14.0;1.40e1;1.40E1,short_answer
+How many molecules are in a 0.02 mol sample of CrO<sub>3</sub>?,1e22;1e22;1E22;1.2e22;1.2e22;1.2E22;2e22;2e22;2E22;2.0e22;2.0e22;2.0E22,short_answer
+How many molecules are in a 35.2 mol sample of RhCl<sub>3</sub>?,2.12e25;2.12e25;2.12E25;2.1e25;2.1e25;2.1E25;2.120e25;2.120e25;2.120E25;2.11e25;2.11e25;2.11E25;2.1e25;2.1e25;2.1E25;2.110e25;2.110e25;2.110E25,short_answer
+How many moles are in a 14 g sample of NH<sub>4</sub>NO<sub>3</sub>?,0.17;1.7e-1;1.7E-1;.17;0.2;2e-1;2E-1;.2;0.170;1.70e-1;1.70E-1;.170;0.16;1.6e-1;1.6E-1;.16;0.2;2e-1;2E-1;.2;0.160;1.60e-1;1.60E-1;.160,short_answer
+What is the number of moles in a 5000 g sample of I<sub>2</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many molecules are in a 6.78 g sample of XeF<sub>4</sub>?,1.97e22;1.97e22;1.97E22;2.0e22;2.0e22;2.0E22;1.969e22;1.969e22;1.969E22;1.96e22;1.96e22;1.96E22;2.0e22;2.0e22;2.0E22;1.960e22;1.960e22;1.960E22,short_answer
+What is the mass in g of 0.5 moles of SF<sub>4</sub>?,50;5e1;5E1;54;5.4e1;5.4E1;54.;60;6e1;6E1;60.;6.0e1;6.0E1;60..,short_answer
+What is the mass of 8.4 x 10<sup>23</sup> molecules of SrF<sub>2</sub> in g?,180;1.8e2;1.8E2;200;2e2;2E2;176;1.76e2;1.76E2;176.;170;1.7e2;1.7E2;200;2e2;2E2;170.;1.70e2;1.70E2;170..,short_answer
+How much does 0.02 mol of C<sub>2</sub>H<sub>2</sub> weigh (in g)?,0.5;5e-1;5E-1;.5;0.52;5.2e-1;5.2E-1;.52;0.6;6e-1;6E-1;.6;0.60;6.0e-1;6.0E-1;.60,short_answer
+What is the mass of 1.10 x 10<sup>25</sup> molecules of BN in g?,454;4.54e2;4.54E2;454.;450;4.5e2;4.5E2;454.2;4.542e2;4.542E2;455;4.55e2;4.55E2;455.;460;4.6e2;4.6E2;455.0;4.550e2;4.550E2,short_answer
+How many molecules are in a 20 mol sample of WF<sub>6</sub>?,1e25;1e25;1E25;1.2e25;1.2e25;1.2E25;2e25;2e25;2E25;2.0e25;2.0e25;2.0E25,short_answer
+What is the number of moles in a 874 g sample of SrF<sub>2</sub>?,6.96;6.96e0;6.96E0;7.0;7.0e0;7.0E0;6.960;6.960e0;6.960E0;6.95;6.95e0;6.95E0;7.0;7.0e0;7.0E0;6.950;6.950e0;6.950E0,short_answer
+What is the mass of 6.191 x 10<sup>23</sup> molecules of C<sub>2</sub>H<sub>6</sub>O in g?,47.36;4.736e1;4.736E1;47.4;4.74e1;4.74E1;47.359;4.7359e1;4.7359E1;47.35;4.735e1;4.735E1;47.4;4.74e1;4.74E1;47.350;4.7350e1;4.7350E1,short_answer
+How much does 0.03 mol of SiBr<sub>4</sub> weigh (in g)?,10;1e1;1E1;10.;1.0e1;1.0E1;10..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+How much does 0.02765 mol of MgCl<sub>2</sub> weigh (in g)?,2.632;2.632e0;2.632E0;2.63;2.63e0;2.63E0;2.6324;2.6324e0;2.6324E0;2.633;2.633e0;2.633E0;2.63;2.63e0;2.63E0;2.6330;2.6330e0;2.6330E0,short_answer
+How many molecules are in a 0.9057 g sample of VO<sub>2</sub>?,6.576e21;6.576e21;6.576E21;6.58e21;6.58e21;6.58E21;6.5762e21;6.5762e21;6.5762E21;6.577e21;6.577e21;6.577E21;6.58e21;6.58e21;6.58E21;6.5770e21;6.5770e21;6.5770E21,short_answer
+What is the number of moles in a 0.31 g sample of CO?,0.011;1.1e-2;1.1E-2;.011;0.01;1e-2;1E-2;.01;0.0110;1.10e-2;1.10E-2;.0110;0.010;1e-2;1E-2;.010;0.0100;1.0e-2;1.0E-2;.0100,short_answer
+What is the number of moles in a 6.2 g sample of PbO?,0.028;2.8e-2;2.8E-2;.028;0.03;3e-2;3E-2;.03;0.0280;2.80e-2;2.80E-2;.0280;0.027;2.7e-2;2.7E-2;.027;0.03;3e-2;3E-2;.03;0.0270;2.70e-2;2.70E-2;.0270,short_answer
+How much does 28.58 mol of ZnO weigh (in g)?,2326;2.326e3;2.326E3;2326.;2330;2.33e3;2.33E3;2325.8;2.3258e3;2.3258E3;2325;2.325e3;2.325E3;2325.;2330;2.33e3;2.33E3;2325.0;2.3250e3;2.3250E3,short_answer
+How many molecules are in a 8 mol sample of SiF<sub>4</sub>?,5e24;5e24;5E24;4.8e24;4.8e24;4.8E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+What is the number of moles in a 810 g sample of ReF<sub>6</sub>?,2.7;2.7e0;2.7E0;3;3e0;3E0;3.;2.70;2.70e0;2.70E0;2.6;2.6e0;2.6E0;3;3e0;3E0;3.;2.60;2.60e0;2.60E0,short_answer
+What is the mass of 2 x 10<sup>24</sup> molecules of XeF<sub>6</sub> in g?,700;7e2;7E2;740;7.4e2;7.4E2;800;8e2;8E2;8.0e2;8.0e2;8.0E2,short_answer
+How many molecules are in a 0.02 mol sample of N<sub>2</sub>O?,1e22;1e22;1E22;1.2e22;1.2e22;1.2E22;2e22;2e22;2E22;2.0e22;2.0e22;2.0E22,short_answer
+How much does 30 mol of Cl<sub>2</sub> weigh (in g)?,2000;2e3;2E3;2100;2.1e3;2.1E3;3000;3e3;3E3;3.0e3;3.0e3;3.0E3,short_answer
+How many molecules are in a 90 g sample of KrF<sub>2</sub>?,4e23;4e23;4E23;4.2e23;4.2e23;4.2E23;5e23;5e23;5E23;5.0e23;5.0e23;5.0E23,short_answer
+How many molecules are in a 0.16 mol sample of NiO?,9.6e22;9.6e22;9.6E22;1.0e23;1.0e23;1.0E23;9.64e22;9.64e22;9.64E22;9.7e22;9.7e22;9.7E22;1.0e23;1.0e23;1.0E23;9.70e22;9.70e22;9.70E22,short_answer
+What is the number of moles in a 40 g sample of PbO?,0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20;0.1;1e-1;1E-1;.1;0.10;1.0e-1;1.0E-1;.10,short_answer
+How much does 0.0130 mol of Li<sub>2</sub>S weigh (in g)?,0.597;5.97e-1;5.97E-1;.597;0.60;6.0e-1;6.0E-1;.60;0.5972;5.972e-1;5.972E-1;.5972;0.598;5.98e-1;5.98E-1;.598;0.60;6.0e-1;6.0E-1;.60;0.5980;5.980e-1;5.980E-1;.5980,short_answer
+What is the number of moles in a 3.0 x 10<sup>3</sup> g sample of ZnCl<sub>2</sub>?,22;2.2e1;2.2E1;22.;20;2e1;2E1;22.0;2.20e1;2.20E1;21;2.1e1;2.1E1;21.;20;2e1;2E1;21.0;2.10e1;2.10E1,short_answer
+How much does 22.63 mol of AgNO<sub>3</sub> weigh (in g)?,3844;3.844e3;3.844E3;3844.;3840;3.84e3;3.84E3;3844.2;3.8442e3;3.8442E3;3845;3.845e3;3.845E3;3845.;3850;3.85e3;3.85E3;3845.0;3.8450e3;3.8450E3,short_answer
+How much does 0.3 mol of Fe<sub>2</sub>O<sub>3</sub> weigh (in g)?,50;5e1;5E1;48;4.8e1;4.8E1;48.;40;4e1;4E1;40.;4.0e1;4.0E1;40..,short_answer
+What is the mass in g of 0.05 moles of MgF<sub>2</sub>?,3;3e0;3E0;3.;3.1;3.1e0;3.1E0;4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+What is the number of moles in a 20 g sample of BiF<sub>3</sub>?,0.08;8e-2;8E-2;.08;0.080;8.0e-2;8.0E-2;.080;0.07;7e-2;7E-2;.07;0.070;7.0e-2;7.0E-2;.070,short_answer
+How many moles are in a 4.608 g sample of SF<sub>6</sub>?,0.03155;3.155e-2;3.155E-2;.03155;0.0316;3.16e-2;3.16E-2;.0316;0.031550;3.1550e-2;3.1550E-2;.031550;0.03154;3.154e-2;3.154E-2;.03154;0.0315;3.15e-2;3.15E-2;.0315;0.031540;3.1540e-2;3.1540E-2;.031540,short_answer
+How much does 0.03 mol of FeSO<sub>4</sub> weigh (in g)?,5;5e0;5E0;5.;4.6;4.6e0;4.6E0;4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+What is the number of moles in a 3.80 g sample of S<sub>8</sub>?,0.0148;1.48e-2;1.48E-2;.0148;0.015;1.5e-2;1.5E-2;.015;0.01480;1.480e-2;1.480E-2;.01480;0.0147;1.47e-2;1.47E-2;.0147;0.015;1.5e-2;1.5E-2;.015;0.01470;1.470e-2;1.470E-2;.01470,short_answer
+What is the mass in g of 0.835 moles of LiOH?,20.0;2.00e1;2.00E1;20.;2.0e1;2.0E1;20..;20.00;2.000e1;2.000E1;19.9;1.99e1;1.99E1;20.;2.0e1;2.0E1;20..;19.90;1.990e1;1.990E1,short_answer
+How many moles are in a 0.82 g sample of NiO?,0.011;1.1e-2;1.1E-2;.011;0.01;1e-2;1E-2;.01;0.0110;1.10e-2;1.10E-2;.0110;0.010;1e-2;1E-2;.010;0.0100;1.0e-2;1.0E-2;.0100,short_answer
+What is the mass of 1.07 x 10<sup>25</sup> molecules of ReCl<sub>4</sub> in g?,5840;5.84e3;5.84E3;5800;5.8e3;5.8E3;5839;5.839e3;5.839E3;5839.;5830;5.83e3;5.83E3;5800;5.8e3;5.8E3;5830.;5.830e3;5.830E3;5830..,short_answer
+How many moles are in a 100 g sample of HNO<sub>3</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How much does 1.386 mol of XeF<sub>2</sub> weigh (in g)?,234.6;2.346e2;2.346E2;235;2.35e2;2.35E2;235.;234.64;2.3464e2;2.3464E2;234.7;2.347e2;2.347E2;235;2.35e2;2.35E2;235.;234.70;2.3470e2;2.3470E2,short_answer
+How many molecules are in a 6.73 g sample of SO<sub>2</sub>?,6.32e22;6.32e22;6.32E22;6.3e22;6.3e22;6.3E22;6.323e22;6.323e22;6.323E22;6.33e22;6.33e22;6.33E22;6.3e22;6.3e22;6.3E22;6.330e22;6.330e22;6.330E22,short_answer
+What is the mass of 6.197 x 10<sup>22</sup> molecules of AsF<sub>3</sub> in g?,13.57;1.357e1;1.357E1;13.6;1.36e1;1.36E1;13.574;1.3574e1;1.3574E1;13.58;1.358e1;1.358E1;13.6;1.36e1;1.36E1;13.580;1.3580e1;1.3580E1,short_answer
+How many molecules are in a 4.3 mol sample of SeF<sub>6</sub>?,2.6e24;2.6e24;2.6E24;3e24;3e24;3E24;2.59e24;2.59e24;2.59E24;2.5e24;2.5e24;2.5E24;2e24;2e24;2E24;2.50e24;2.50e24;2.50E24,short_answer
+What is the mass of 1.142 x 10<sup>25</sup> molecules of TcCl<sub>4</sub> in g?,4545;4.545e3;4.545E3;4545.;4540;4.54e3;4.54E3;4544.8;4.5448e3;4.5448E3;4544;4.544e3;4.544E3;4544.;4540;4.54e3;4.54E3;4544.0;4.5440e3;4.5440E3,short_answer
+How many molecules are in a 6.2 g sample of C<sub>3</sub>H<sub>8</sub>?,8.4e22;8.4e22;8.4E22;8e22;8e22;8E22;8.43e22;8.43e22;8.43E22;8.5e22;8.5e22;8.5E22;9e22;9e22;9E22;8.50e22;8.50e22;8.50E22,short_answer
+How many molecules are in a 9.3 g sample of H<sub>2</sub>SO<sub>4</sub>?,5.7e22;5.7e22;5.7E22;6e22;6e22;6E22;5.72e22;5.72e22;5.72E22;5.8e22;5.8e22;5.8E22;6e22;6e22;6E22;5.80e22;5.80e22;5.80E22,short_answer
+How many molecules are in a 5 mol sample of ZnCl<sub>2</sub>?,3e24;3e24;3E24;3.0e24;3.0e24;3.0E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+How many moles are in a 479 g sample of ReCl<sub>4</sub>?,1.46;1.46e0;1.46E0;1.5;1.5e0;1.5E0;1.460;1.460e0;1.460E0;1.45;1.45e0;1.45E0;1.4;1.4e0;1.4E0;1.450;1.450e0;1.450E0,short_answer
+What is the mass of 9.45 x 10<sup>21</sup> molecules of SiH<sub>4</sub> in g?,0.504;5.04e-1;5.04E-1;.504;0.50;5.0e-1;5.0E-1;.50;0.5042;5.042e-1;5.042E-1;.5042;0.505;5.05e-1;5.05E-1;.505;0.51;5.1e-1;5.1E-1;.51;0.5050;5.050e-1;5.050E-1;.5050,short_answer
+What is the mass in g of 17.3 moles of CBr<sub>4</sub>?,5740;5.74e3;5.74E3;5700;5.7e3;5.7E3;5737;5.737e3;5.737E3;5737.;5730;5.73e3;5.73E3;5700;5.7e3;5.7E3;5730.;5.730e3;5.730E3;5730..,short_answer
+What is the mass in g of 2.7 moles of C<sub>2</sub>H<sub>7</sub>N?,120;1.2e2;1.2E2;100;1e2;1E2;122;1.22e2;1.22E2;122.;130;1.3e2;1.3E2;100;1e2;1E2;130.;1.30e2;1.30E2;130..,short_answer
+What is the mass in g of 0.365 moles of Cu<sub>2</sub>O?,52.2;5.22e1;5.22E1;52;5.2e1;5.2E1;52.;52.23;5.223e1;5.223E1;52.3;5.23e1;5.23E1;52;5.2e1;5.2E1;52.;52.30;5.230e1;5.230E1,short_answer
+How many moles are in a 4.956 g sample of KBr?,0.04165;4.165e-2;4.165E-2;.04165;0.0417;4.17e-2;4.17E-2;.0417;0.041650;4.1650e-2;4.1650E-2;.041650;0.04164;4.164e-2;4.164E-2;.04164;0.0416;4.16e-2;4.16E-2;.0416;0.041640;4.1640e-2;4.1640E-2;.041640,short_answer
+How many moles are in a 56 g sample of AgNO<sub>3</sub>?,0.33;3.3e-1;3.3E-1;.33;0.3;3e-1;3E-1;.3;0.330;3.30e-1;3.30E-1;.330;0.32;3.2e-1;3.2E-1;.32;0.3;3e-1;3E-1;.3;0.320;3.20e-1;3.20E-1;.320,short_answer
+How many moles are in a 120 g sample of PbO<sub>2</sub>?,0.50;5.0e-1;5.0E-1;.50;0.5;5e-1;5E-1;.5;0.500;5.00e-1;5.00E-1;.500;0.49;4.9e-1;4.9E-1;.49;0.5;5e-1;5E-1;.5;0.490;4.90e-1;4.90E-1;.490,short_answer
+What is the number of moles in a 0.6778 g sample of MgF<sub>2</sub>?,0.01088;1.088e-2;1.088E-2;.01088;0.0109;1.09e-2;1.09E-2;.0109;0.010880;1.0880e-2;1.0880E-2;.010880;0.01087;1.087e-2;1.087E-2;.01087;0.0109;1.09e-2;1.09E-2;.0109;0.010870;1.0870e-2;1.0870E-2;.010870,short_answer
+How much does 1.4 mol of CBr<sub>4</sub> weigh (in g)?,460;4.6e2;4.6E2;500;5e2;5E2;464;4.64e2;4.64E2;464.;470;4.7e2;4.7E2;500;5e2;5E2;470.;4.70e2;4.70E2;470..,short_answer
+How many moles are in a 217.1 g sample of SeF<sub>6</sub>?,1.125;1.125e0;1.125E0;1.13;1.13e0;1.13E0;1.1250;1.1250e0;1.1250E0;1.124;1.124e0;1.124E0;1.12;1.12e0;1.12E0;1.1240;1.1240e0;1.1240E0,short_answer
+How many moles are in a 3 g sample of SiC?,0.07;7e-2;7E-2;.07;0.070;7.0e-2;7.0E-2;.070;0.06;6e-2;6E-2;.06;0.060;6.0e-2;6.0E-2;.060,short_answer
+How many moles are in a 900 g sample of C<sub>2</sub>H<sub>6</sub>?,30;3e1;3E1;30.;3.0e1;3.0E1;30..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+How many molecules are in a 1.153 mol sample of TcF<sub>6</sub>?,6.944e23;6.944e23;6.944E23;6.94e23;6.94e23;6.94E23;6.9435e23;6.9435e23;6.9435E23;6.943e23;6.943e23;6.943E23;6.94e23;6.94e23;6.94E23;6.9430e23;6.9430e23;6.9430E23,short_answer
+What is the mass in g of 0.01375 moles of RaF<sub>2</sub>?,3.630;3.630e0;3.630E0;3.63;3.63e0;3.63E0;3.6300;3.6300e0;3.6300E0;3.629;3.629e0;3.629E0;3.63;3.63e0;3.63E0;3.6290;3.6290e0;3.6290E0,short_answer
+What is the mass in g of 0.045 moles of CoO?,3.4;3.4e0;3.4E0;3;3e0;3E0;3.;3.37;3.37e0;3.37E0;3.3;3.3e0;3.3E0;3;3e0;3E0;3.;3.30;3.30e0;3.30E0,short_answer
+What is the mass of 1.17 x 10<sup>22</sup> molecules of SnO<sub>2</sub> in g?,2.92;2.92e0;2.92E0;2.9;2.9e0;2.9E0;2.924;2.924e0;2.924E0;2.93;2.93e0;2.93E0;2.9;2.9e0;2.9E0;2.930;2.930e0;2.930E0,short_answer
+How many molecules are in a 30 g sample of P<sub>2</sub>O<sub>5</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the number of moles in a 87.25 g sample of NH<sub>4</sub>NO<sub>3</sub>?,1.090;1.090e0;1.090E0;1.09;1.09e0;1.09E0;1.0900;1.0900e0;1.0900E0;1.089;1.089e0;1.089E0;1.09;1.09e0;1.09E0;1.0890;1.0890e0;1.0890E0,short_answer
+How much does 0.02 mol of SiCl<sub>4</sub> weigh (in g)?,3;3e0;3E0;3.;3.4;3.4e0;3.4E0;4;4e0;4E0;4.;4.0;4.0e0;4.0E0,short_answer
+What is the mass in g of 4.45 moles of KrF<sub>2</sub>?,542;5.42e2;5.42E2;542.;540;5.4e2;5.4E2;542.0;5.420e2;5.420E2;541;5.41e2;5.41E2;541.;540;5.4e2;5.4E2;541.0;5.410e2;5.410E2,short_answer
+How many molecules are in a 654 g sample of BrO<sub>3</sub>?,3.08e24;3.08e24;3.08E24;3.1e24;3.1e24;3.1E24;3.077e24;3.077e24;3.077E24;3.07e24;3.07e24;3.07E24;3.1e24;3.1e24;3.1E24;3.070e24;3.070e24;3.070E24,short_answer
+What is the mass in g of 0.2 moles of SO<sub>3</sub>?,20;2e1;2E1;16;1.6e1;1.6E1;16.;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many moles are in a 29.7 g sample of TeF<sub>6</sub>?,0.123;1.23e-1;1.23E-1;.123;0.12;1.2e-1;1.2E-1;.12;0.1230;1.230e-1;1.230E-1;.1230;0.122;1.22e-1;1.22E-1;.122;0.12;1.2e-1;1.2E-1;.12;0.1220;1.220e-1;1.220E-1;.1220,short_answer
+How many moles are in a 5600 g sample of XeF<sub>6</sub>?,23;2.3e1;2.3E1;23.;20;2e1;2E1;23.0;2.30e1;2.30E1;22;2.2e1;2.2E1;22.;20;2e1;2E1;22.0;2.20e1;2.20E1,short_answer
+How many molecules are in a 0.32 mol sample of C<sub>2</sub>H<sub>2</sub>?,1.9e23;1.9e23;1.9E23;2e23;2e23;2E23;1.93e23;1.93e23;1.93E23;2.0e23;2.0e23;2.0E23;2e23;2e23;2E23;2.00e23;2.00e23;2.00E23,short_answer
+What is the mass in g of 0.0118 moles of H<sub>2</sub>SO<sub>4</sub>?,1.16;1.16e0;1.16E0;1.2;1.2e0;1.2E0;1.157;1.157e0;1.157E0;1.15;1.15e0;1.15E0;1.1;1.1e0;1.1E0;1.150;1.150e0;1.150E0,short_answer
+What is the mass in g of 12.3 moles of MnF<sub>2</sub>?,1140;1.14e3;1.14E3;1100;1.1e3;1.1E3;1143;1.143e3;1.143E3;1143.;1150;1.15e3;1.15E3;1200;1.2e3;1.2E3;1150.;1.150e3;1.150E3;1150..,short_answer
+What is the mass of 5.9 x 10<sup>22</sup> molecules of C<sub>2</sub>H<sub>7</sub>N in g?,4.4;4.4e0;4.4E0;4;4e0;4E0;4.;4.42;4.42e0;4.42E0;4.5;4.5e0;4.5E0;5;5e0;5E0;5.;4.50;4.50e0;4.50E0,short_answer
+How many moles are in a 200 g sample of H<sub>2</sub>CO<sub>3</sub>?,3;3e0;3E0;3.;3.0;3.0e0;3.0E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+What is the mass of 3 x 10<sup>25</sup> molecules of SCl<sub>2</sub> in g?,5000;5e3;5E3;5100;5.1e3;5.1E3;6000;6e3;6E3;6.0e3;6.0e3;6.0E3,short_answer
+How much does 0.5 mol of CdO weigh (in g)?,60;6e1;6E1;64;6.4e1;6.4E1;64.;70;7e1;7E1;70.;7.0e1;7.0E1;70..,short_answer
+How many molecules are in a 13 mol sample of CdO?,7.8e24;7.8e24;7.8E24;8e24;8e24;8E24;7.83e24;7.83e24;7.83E24;7.9e24;7.9e24;7.9E24;8e24;8e24;8E24;7.90e24;7.90e24;7.90E24,short_answer
+How many molecules are in a 0.2 mol sample of NH<sub>4</sub>NO<sub>3</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the mass in g of 0.152 moles of SeCl<sub>4</sub>?,33.6;3.36e1;3.36E1;34;3.4e1;3.4E1;34.;33.56;3.356e1;3.356E1;33.5;3.35e1;3.35E1;34;3.4e1;3.4E1;34.;33.50;3.350e1;3.350E1,short_answer
+How many molecules are in a 5 mol sample of F<sub>2</sub>?,3e24;3e24;3E24;3.0e24;3.0e24;3.0E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+How many moles are in a 774 g sample of O<sub>2</sub>?,24.2;2.42e1;2.42E1;24;2.4e1;2.4E1;24.;24.20;2.420e1;2.420E1;24.1;2.41e1;2.41E1;24;2.4e1;2.4E1;24.;24.10;2.410e1;2.410E1,short_answer
+How much does 14 mol of TcCl<sub>4</sub> weigh (in g)?,3400;3.4e3;3.4E3;3000;3e3;3E3;3360;3.36e3;3.36E3;3300;3.3e3;3.3E3;3000;3e3;3E3;3.30e3;3.30e3;3.30E3,short_answer
+What is the mass in g of 22 moles of AsF<sub>3</sub>?,2900;2.9e3;2.9E3;3000;3e3;3E3;2.90e3;2.90e3;2.90E3;3.0e3;3.0e3;3.0E3;3000;3e3;3E3;3.00e3;3.00e3;3.00E3,short_answer
+How many moles are in a 790 g sample of GaCl<sub>3</sub>?,4.5;4.5e0;4.5E0;5;5e0;5E0;5.;4.50;4.50e0;4.50E0;4.4;4.4e0;4.4E0;4;4e0;4E0;4.;4.40;4.40e0;4.40E0,short_answer
+How much does 3 mol of CF<sub>4</sub> weigh (in g)?,300;3e2;3E2;260;2.6e2;2.6E2;200;2e2;2E2;2.0e2;2.0e2;2.0E2,short_answer
+How many moles are in a 898 g sample of MnF<sub>2</sub>?,9.66;9.66e0;9.66E0;9.7;9.7e0;9.7E0;9.660;9.660e0;9.660E0;9.65;9.65e0;9.65E0;9.7;9.7e0;9.7E0;9.650;9.650e0;9.650E0,short_answer
+How many molecules are in a 0.8 mol sample of KNO<sub>3</sub>?,5e23;5e23;5E23;4.8e23;4.8e23;4.8E23;4e23;4e23;4E23;4.0e23;4.0e23;4.0E23,short_answer
+What is the mass of 1.16 x 10<sup>23</sup> molecules of CO<sub>2</sub> in g?,8.49;8.49e0;8.49E0;8.5;8.5e0;8.5E0;8.494;8.494e0;8.494E0;8.50;8.50e0;8.50E0;8.5;8.5e0;8.5E0;8.500;8.500e0;8.500E0,short_answer
+How much does 36.28 mol of XeF<sub>2</sub> weigh (in g)?,6142;6.142e3;6.142E3;6142.;6140;6.14e3;6.14E3;6141.8;6.1418e3;6.1418E3;6141;6.141e3;6.141E3;6141.;6140;6.14e3;6.14E3;6141.0;6.1410e3;6.1410E3,short_answer
+How much does 50 mol of PI<sub>3</sub> weigh (in g)?,20000;2e4;2E4;21000;2.1e4;2.1E4;30000;3e4;3E4;3.0e4;3.0e4;3.0E4,short_answer
+What is the mass in g of 0.307 moles of WF<sub>6</sub>?,91.4;9.14e1;9.14E1;91;9.1e1;9.1E1;91.;91.43;9.143e1;9.143E1;91.5;9.15e1;9.15E1;92;9.2e1;9.2E1;92.;91.50;9.150e1;9.150E1,short_answer
+What is the number of moles in a 4168 g sample of KNO<sub>3</sub>?,41.23;4.123e1;4.123E1;41.2;4.12e1;4.12E1;41.230;4.1230e1;4.1230E1;41.22;4.122e1;4.122E1;41.2;4.12e1;4.12E1;41.220;4.1220e1;4.1220E1,short_answer
+How much does 0.20 mol of SiC weigh (in g)?,8.0;8.0e0;8.0E0;8;8e0;8E0;8.;8.02;8.02e0;8.02E0;8.1;8.1e0;8.1E0;8;8e0;8E0;8.;8.10;8.10e0;8.10E0,short_answer
+How many molecules are in a 6 g sample of PF<sub>3</sub>?,4e22;4e22;4E22;4.2e22;4.2e22;4.2E22;5e22;5e22;5E22;5.0e22;5.0e22;5.0E22,short_answer
+How many molecules are in a 4.6 mol sample of BaF<sub>2</sub>?,2.8e24;2.8e24;2.8E24;3e24;3e24;3E24;2.77e24;2.77e24;2.77E24;2.7e24;2.7e24;2.7E24;3e24;3e24;3E24;2.70e24;2.70e24;2.70E24,short_answer
+How many moles are in a 5.981 g sample of Tl<sub>2</sub>O?,0.01408;1.408e-2;1.408E-2;.01408;0.0141;1.41e-2;1.41E-2;.0141;0.014080;1.4080e-2;1.4080E-2;.014080;0.01407;1.407e-2;1.407E-2;.01407;0.0141;1.41e-2;1.41E-2;.0141;0.014070;1.4070e-2;1.4070E-2;.014070,short_answer
+How much does 0.01153 mol of CCl<sub>4</sub> weigh (in g)?,1.773;1.773e0;1.773E0;1.77;1.77e0;1.77E0;1.7734;1.7734e0;1.7734E0;1.774;1.774e0;1.774E0;1.77;1.77e0;1.77E0;1.7740;1.7740e0;1.7740E0,short_answer
+How many molecules are in a 21.84 mol sample of CdO?,1.315e25;1.315e25;1.315E25;1.32e25;1.32e25;1.32E25;1.3152e25;1.3152e25;1.3152E25;1.316e25;1.316e25;1.316E25;1.32e25;1.32e25;1.32E25;1.3160e25;1.3160e25;1.3160E25,short_answer
+How many molecules are in a 4820 g sample of Ag<sub>2</sub>O?,1.25e25;1.25e25;1.25E25;1.3e25;1.3e25;1.3E25;1.253e25;1.253e25;1.253E25;1.26e25;1.26e25;1.26E25;1.3e25;1.3e25;1.3E25;1.260e25;1.260e25;1.260E25,short_answer
+What is the number of moles in a 0.58 g sample of PH<sub>3</sub>?,0.017;1.7e-2;1.7E-2;.017;0.02;2e-2;2E-2;.02;0.0170;1.70e-2;1.70E-2;.0170;0.016;1.6e-2;1.6E-2;.016;0.02;2e-2;2E-2;.02;0.0160;1.60e-2;1.60E-2;.0160,short_answer
+How much does 10.70 mol of CCl<sub>4</sub> weigh (in g)?,1646;1.646e3;1.646E3;1646.;1650;1.65e3;1.65E3;1645.8;1.6458e3;1.6458E3;1645;1.645e3;1.645E3;1645.;1650;1.65e3;1.65E3;1645.0;1.6450e3;1.6450E3,short_answer
+What is the mass of 3 x 10<sup>23</sup> molecules of NaOH in g?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many moles are in a 0.70 g sample of LiF?,0.027;2.7e-2;2.7E-2;.027;0.03;3e-2;3E-2;.03;0.0270;2.70e-2;2.70E-2;.0270;0.026;2.6e-2;2.6E-2;.026;0.03;3e-2;3E-2;.03;0.0260;2.60e-2;2.60E-2;.0260,short_answer
+How many molecules are in a 0.14 mol sample of RhCl<sub>3</sub>?,8.4e22;8.4e22;8.4E22;8e22;8e22;8E22;8.43e22;8.43e22;8.43E22;8.5e22;8.5e22;8.5E22;9e22;9e22;9E22;8.50e22;8.50e22;8.50E22,short_answer
+What is the number of moles in a 20.0 g sample of V<sub>2</sub>O<sub>5</sub>?,0.110;1.10e-1;1.10E-1;.110;0.11;1.1e-1;1.1E-1;.11;0.1100;1.100e-1;1.100E-1;.1100;0.109;1.09e-1;1.09E-1;.109;0.11;1.1e-1;1.1E-1;.11;0.1090;1.090e-1;1.090E-1;.1090,short_answer
+How much does 0.0160 mol of WF<sub>6</sub> weigh (in g)?,4.77;4.77e0;4.77E0;4.8;4.8e0;4.8E0;4.765;4.765e0;4.765E0;4.76;4.76e0;4.76E0;4.8;4.8e0;4.8E0;4.760;4.760e0;4.760E0,short_answer
+What is the mass in g of 1.04 moles of H<sub>2</sub>?,2.10;2.10e0;2.10E0;2.1;2.1e0;2.1E0;2.097;2.097e0;2.097E0;2.09;2.09e0;2.09E0;2.1;2.1e0;2.1E0;2.090;2.090e0;2.090E0,short_answer
+How many moles are in a 420 g sample of WF<sub>6</sub>?,1.4;1.4e0;1.4E0;1;1e0;1E0;1.;1.40;1.40e0;1.40E0;1.3;1.3e0;1.3E0;1;1e0;1E0;1.;1.30;1.30e0;1.30E0,short_answer
+How many molecules are in a 230 g sample of BaF<sub>2</sub>?,7.8e23;7.8e23;7.8E23;8e23;8e23;8E23;7.83e23;7.83e23;7.83E23;7.9e23;7.9e23;7.9E23;8e23;8e23;8E23;7.90e23;7.90e23;7.90E23,short_answer
+How much does 1.036 mol of CO<sub>2</sub> weigh (in g)?,45.59;4.559e1;4.559E1;45.6;4.56e1;4.56E1;45.593;4.5593e1;4.5593E1;45.60;4.560e1;4.560E1;45.6;4.56e1;4.56E1;45.600;4.5600e1;4.5600E1,short_answer
+What is the mass in g of 0.0206 moles of UF<sub>6</sub>?,7.25;7.25e0;7.25E0;7.3;7.3e0;7.3E0;7.252;7.252e0;7.252E0;7.26;7.26e0;7.26E0;7.3;7.3e0;7.3E0;7.260;7.260e0;7.260E0,short_answer
+How many molecules are in a 4563 g sample of Fe<sub>3</sub>O<sub>4</sub>?,1.187e25;1.187e25;1.187E25;1.19e25;1.19e25;1.19E25;1.1870e25;1.1870e25;1.1870E25;1.186e25;1.186e25;1.186E25;1.19e25;1.19e25;1.19E25;1.1860e25;1.1860e25;1.1860E25,short_answer
+What is the mass of 2 x 10<sup>23</sup> molecules of S<sub>8</sub> in g?,80;8e1;8E1;77;7.7e1;7.7E1;77.;70;7e1;7E1;70.;7.0e1;7.0E1;70..,short_answer
+How many molecules are in a 0.0111 mol sample of BrO<sub>3</sub>?,6.68e21;6.68e21;6.68E21;6.7e21;6.7e21;6.7E21;6.685e21;6.685e21;6.685E21;6.69e21;6.69e21;6.69E21;6.7e21;6.7e21;6.7E21;6.690e21;6.690e21;6.690E21,short_answer
+How many molecules are in a 0.2478 mol sample of SrF<sub>2</sub>?,1.492e23;1.492e23;1.492E23;1.49e23;1.49e23;1.49E23;1.4923e23;1.4923e23;1.4923E23;1.493e23;1.493e23;1.493E23;1.49e23;1.49e23;1.49E23;1.4930e23;1.4930e23;1.4930E23,short_answer
+What is the mass in g of 0.05 moles of SF<sub>4</sub>?,5;5e0;5E0;5.;5.4;5.4e0;5.4E0;6;6e0;6E0;6.;6.0;6.0e0;6.0E0,short_answer
+How many molecules are in a 6500 g sample of SnO<sub>2</sub>?,2.6e25;2.6e25;2.6E25;3e25;3e25;3E25;2.59e25;2.59e25;2.59E25;2.5e25;2.5e25;2.5E25;2e25;2e25;2E25;2.50e25;2.50e25;2.50E25,short_answer
+How much does 1.1 mol of KrF<sub>2</sub> weigh (in g)?,130;1.3e2;1.3E2;100;1e2;1E2;134;1.34e2;1.34E2;134.;140;1.4e2;1.4E2;100;1e2;1E2;140.;1.40e2;1.40E2;140..,short_answer
+How many molecules are in a 0.070 mol sample of NF<sub>3</sub>?,4.2e22;4.2e22;4.2E22;4e22;4e22;4E22;4.22e22;4.22e22;4.22E22;4.3e22;4.3e22;4.3E22;4e22;4e22;4E22;4.30e22;4.30e22;4.30E22,short_answer
+How many molecules are in a 386.6 g sample of SiBr<sub>4</sub>?,6.697e23;6.697e23;6.697E23;6.70e23;6.70e23;6.70E23;6.6966e23;6.6966e23;6.6966E23;6.696e23;6.696e23;6.696E23;6.70e23;6.70e23;6.70E23;6.6960e23;6.6960e23;6.6960E23,short_answer
+How many molecules are in a 8.0 mol sample of CF<sub>4</sub>?,4.8e24;4.8e24;4.8E24;5e24;5e24;5E24;4.82e24;4.82e24;4.82E24;4.9e24;4.9e24;4.9E24;5e24;5e24;5E24;4.90e24;4.90e24;4.90E24,short_answer
+How much does 0.0118 mol of C<sub>7</sub>H<sub>16</sub> weigh (in g)?,1.18;1.18e0;1.18E0;1.2;1.2e0;1.2E0;1.182;1.182e0;1.182E0;1.19;1.19e0;1.19E0;1.2;1.2e0;1.2E0;1.190;1.190e0;1.190E0,short_answer
+How many molecules are in a 0.7 mol sample of OsCl<sub>3</sub>?,4e23;4e23;4E23;4.2e23;4.2e23;4.2E23;5e23;5e23;5E23;5.0e23;5.0e23;5.0E23,short_answer
+How many molecules are in a 100 g sample of OF<sub>2</sub>?,1e24;1e24;1E24;1.2e24;1.2e24;1.2E24;2e24;2e24;2E24;2.0e24;2.0e24;2.0E24,short_answer
+How many molecules are in a 13 mol sample of SiH<sub>4</sub>?,7.8e24;7.8e24;7.8E24;8e24;8e24;8E24;7.83e24;7.83e24;7.83E24;7.9e24;7.9e24;7.9E24;8e24;8e24;8E24;7.90e24;7.90e24;7.90E24,short_answer
+How many molecules are in a 265 g sample of XeF<sub>6</sub>?,6.50e23;6.50e23;6.50E23;6.5e23;6.5e23;6.5E23;6.504e23;6.504e23;6.504E23;6.51e23;6.51e23;6.51E23;6.5e23;6.5e23;6.5E23;6.510e23;6.510e23;6.510E23,short_answer
+How much does 0.1278 mol of TlCl<sub>3</sub> weigh (in g)?,39.71;3.971e1;3.971E1;39.7;3.97e1;3.97E1;39.711;3.9711e1;3.9711E1;39.72;3.972e1;3.972E1;39.7;3.97e1;3.97E1;39.720;3.9720e1;3.9720E1,short_answer
+What is the number of moles in a 39 g sample of IF<sub>7</sub>?,0.15;1.5e-1;1.5E-1;.15;0.1;1e-1;1E-1;.1;0.150;1.50e-1;1.50E-1;.150;0.14;1.4e-1;1.4E-1;.14;0.1;1e-1;1E-1;.1;0.140;1.40e-1;1.40E-1;.140,short_answer
+How many molecules are in a 0.07 mol sample of SCl<sub>2</sub>?,4e22;4e22;4E22;4.2e22;4.2e22;4.2E22;5e22;5e22;5E22;5.0e22;5.0e22;5.0E22,short_answer
+What is the number of moles in a 6.0 g sample of SiC?,0.15;1.5e-1;1.5E-1;.15;0.1;1e-1;1E-1;.1;0.150;1.50e-1;1.50E-1;.150;0.14;1.4e-1;1.4E-1;.14;0.1;1e-1;1E-1;.1;0.140;1.40e-1;1.40E-1;.140,short_answer
+What is the mass of 1 x 10<sup>23</sup> molecules of P<sub>4</sub> in g?,20;2e1;2E1;25;2.5e1;2.5E1;25.;30;3e1;3E1;30.;3.0e1;3.0E1;30..,short_answer
+How many moles are in a 4 g sample of GaAs?,0.03;3e-2;3E-2;.03;0.030;3.0e-2;3.0E-2;.030;0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020,short_answer
+What is the number of moles in a 4 g sample of AgCl?,0.03;3e-2;3E-2;.03;0.030;3.0e-2;3.0E-2;.030;0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020,short_answer
+How many moles are in a 3.2 g sample of Li<sub>2</sub>S?,0.070;7.0e-2;7.0E-2;.070;0.07;7e-2;7E-2;.07;0.0700;7.00e-2;7.00E-2;.0700;0.069;6.9e-2;6.9E-2;.069;0.07;7e-2;7E-2;.07;0.0690;6.90e-2;6.90E-2;.0690,short_answer
+How many molecules are in a 5 mol sample of CdCl<sub>2</sub>?,3e24;3e24;3E24;3.0e24;3.0e24;3.0E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+How many molecules are in a 7.537 mol sample of Rb<sub>2</sub>S?,4.539e24;4.539e24;4.539E24;4.54e24;4.54e24;4.54E24;4.5389e24;4.5389e24;4.5389E24;4.538e24;4.538e24;4.538E24;4.54e24;4.54e24;4.54E24;4.5380e24;4.5380e24;4.5380E24,short_answer
+How many moles are in a 5.016 g sample of PBr<sub>3</sub>?,0.01853;1.853e-2;1.853E-2;.01853;0.0185;1.85e-2;1.85E-2;.0185;0.018530;1.8530e-2;1.8530E-2;.018530;0.01852;1.852e-2;1.852E-2;.01852;0.0185;1.85e-2;1.85E-2;.0185;0.018520;1.8520e-2;1.8520E-2;.018520,short_answer
+What is the mass of 3.075 x 10<sup>24</sup> molecules of P<sub>2</sub>O<sub>5</sub> in g?,724.8;7.248e2;7.248E2;725;7.25e2;7.25E2;725.;724.76;7.2476e2;7.2476E2;724.7;7.247e2;7.247E2;725;7.25e2;7.25E2;725.;724.70;7.2470e2;7.2470E2,short_answer
+How much does 0.3 mol of H<sub>2</sub>CO<sub>3</sub> weigh (in g)?,20;2e1;2E1;19;1.9e1;1.9E1;19.;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+What is the mass in g of 0.01179 moles of MgCO<sub>3</sub>?,0.9941;9.941e-1;9.941E-1;.9941;0.994;9.94e-1;9.94E-1;.994;0.99405;9.9405e-1;9.9405E-1;.99405;0.9940;9.940e-1;9.940E-1;.9940;0.994;9.94e-1;9.94E-1;.994;0.99400;9.9400e-1;9.9400E-1;.99400,short_answer
+How many molecules are in a 0.38 g sample of LiOH?,9.6e21;9.6e21;9.6E21;1.0e22;1.0e22;1.0E22;9.64e21;9.64e21;9.64E21;9.7e21;9.7e21;9.7E21;1.0e22;1.0e22;1.0E22;9.70e21;9.70e21;9.70E21,short_answer
+What is the number of moles in a 300 g sample of K<sub>2</sub>CO<sub>3</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+What is the number of moles in a 7000 g sample of XeF<sub>6</sub>?,30;3e1;3E1;30.;3.0e1;3.0E1;30..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+How many moles are in a 271.5 g sample of C<sub>3</sub>H<sub>8</sub>?,6.157;6.157e0;6.157E0;6.16;6.16e0;6.16E0;6.1570;6.1570e0;6.1570E0;6.156;6.156e0;6.156E0;6.16;6.16e0;6.16E0;6.1560;6.1560e0;6.1560E0,short_answer
+How many molecules are in a 0.13 mol sample of NaH?,7.8e22;7.8e22;7.8E22;8e22;8e22;8E22;7.83e22;7.83e22;7.83E22;7.9e22;7.9e22;7.9E22;8e22;8e22;8E22;7.90e22;7.90e22;7.90E22,short_answer
+What is the mass in g of 5.5 moles of GaAs?,8.0e2;8.0e2;8.0E2;800;8e2;8E2;796;7.96e2;7.96E2;796.;790;7.9e2;7.9E2;800;8e2;8E2;790.;7.90e2;7.90E2;790..,short_answer
+How many molecules are in a 17.98 mol sample of C<sub>8</sub>H<sub>18</sub>?,1.083e25;1.083e25;1.083E25;1.08e25;1.08e25;1.08E25;1.0828e25;1.0828e25;1.0828E25;1.082e25;1.082e25;1.082E25;1.08e25;1.08e25;1.08E25;1.0820e25;1.0820e25;1.0820E25,short_answer
+How many molecules are in a 0.1863 mol sample of TeCl<sub>4</sub>?,1.122e23;1.122e23;1.122E23;1.12e23;1.12e23;1.12E23;1.1219e23;1.1219e23;1.1219E23;1.121e23;1.121e23;1.121E23;1.12e23;1.12e23;1.12E23;1.1210e23;1.1210e23;1.1210E23,short_answer
+How many molecules are in a 32.2 mol sample of CH<sub>4</sub>?,1.94e25;1.94e25;1.94E25;1.9e25;1.9e25;1.9E25;1.939e25;1.939e25;1.939E25;1.93e25;1.93e25;1.93E25;1.9e25;1.9e25;1.9E25;1.930e25;1.930e25;1.930E25,short_answer
+How much does 36.5 mol of MgCO<sub>3</sub> weigh (in g)?,3080;3.08e3;3.08E3;3100;3.1e3;3.1E3;3077;3.077e3;3.077E3;3077.;3070;3.07e3;3.07E3;3100;3.1e3;3.1E3;3070.;3.070e3;3.070E3;3070..,short_answer
+What is the number of moles in a 17.9 g sample of TiO<sub>2</sub>?,0.224;2.24e-1;2.24E-1;.224;0.22;2.2e-1;2.2E-1;.22;0.2240;2.240e-1;2.240E-1;.2240;0.223;2.23e-1;2.23E-1;.223;0.22;2.2e-1;2.2E-1;.22;0.2230;2.230e-1;2.230E-1;.2230,short_answer
+What is the number of moles in a 383.0 g sample of AsF<sub>3</sub>?,2.903;2.903e0;2.903E0;2.90;2.90e0;2.90E0;2.9030;2.9030e0;2.9030E0;2.902;2.902e0;2.902E0;2.90;2.90e0;2.90E0;2.9020;2.9020e0;2.9020E0,short_answer
+How many moles are in a 4800 g sample of RuCl<sub>3</sub>?,23;2.3e1;2.3E1;23.;20;2e1;2E1;23.0;2.30e1;2.30E1;22;2.2e1;2.2E1;22.;20;2e1;2E1;22.0;2.20e1;2.20E1,short_answer
+What is the mass of 6.335 x 10<sup>21</sup> molecules of SCl<sub>2</sub> in g?,1.083;1.083e0;1.083E0;1.08;1.08e0;1.08E0;1.0831;1.0831e0;1.0831E0;1.084;1.084e0;1.084E0;1.08;1.08e0;1.08E0;1.0840;1.0840e0;1.0840E0,short_answer
+How many molecules are in a 3.2 mol sample of MnF<sub>2</sub>?,1.9e24;1.9e24;1.9E24;2e24;2e24;2E24;1.93e24;1.93e24;1.93E24;2.0e24;2.0e24;2.0E24;2e24;2e24;2E24;2.00e24;2.00e24;2.00E24,short_answer
+How many molecules are in a 8500 g sample of BiF<sub>3</sub>?,1.9e25;1.9e25;1.9E25;2e25;2e25;2E25;1.93e25;1.93e25;1.93E25;2.0e25;2.0e25;2.0E25;2e25;2e25;2E25;2.00e25;2.00e25;2.00E25,short_answer
+What is the mass in g of 0.2 moles of C<sub>6</sub>H<sub>12</sub>?,20;2e1;2E1;17;1.7e1;1.7E1;17.;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+What is the mass in g of 16 moles of TlCl<sub>3</sub>?,5.0e3;5.0e3;5.0E3;5000;5e3;5E3;4970;4.97e3;4.97E3;4900;4.9e3;4.9E3;5000;5e3;5E3;4.90e3;4.90e3;4.90E3,short_answer
+What is the mass in g of 12.8 moles of AlP?,742;7.42e2;7.42E2;742.;740;7.4e2;7.4E2;741.8;7.418e2;7.418E2;741;7.41e2;7.41E2;741.;740;7.4e2;7.4E2;741.0;7.410e2;7.410E2,short_answer
+How much does 30 mol of H<sub>3</sub>PO<sub>4</sub> weigh (in g)?,3000;3e3;3E3;2900;2.9e3;2.9E3;2000;2e3;2E3;2.0e3;2.0e3;2.0E3,short_answer
+What is the mass of 2 x 10<sup>22</sup> molecules of BaF<sub>2</sub> in g?,5;5e0;5E0;5.;5.3;5.3e0;5.3E0;6;6e0;6E0;6.;6.0;6.0e0;6.0E0,short_answer
+What is the number of moles in a 2636 g sample of SeCl<sub>4</sub>?,11.94;1.194e1;1.194E1;11.9;1.19e1;1.19E1;11.940;1.1940e1;1.1940E1;11.93;1.193e1;1.193E1;11.9;1.19e1;1.19E1;11.930;1.1930e1;1.1930E1,short_answer
+How many molecules are in a 9 g sample of BrF<sub>5</sub>?,3e22;3e22;3E22;3.0e22;3.0e22;3.0E22;4e22;4e22;4E22;4.0e22;4.0e22;4.0E22,short_answer
+How many moles are in a 369 g sample of TcCl<sub>4</sub>?,1.54;1.54e0;1.54E0;1.5;1.5e0;1.5E0;1.540;1.540e0;1.540E0;1.53;1.53e0;1.53E0;1.5;1.5e0;1.5E0;1.530;1.530e0;1.530E0,short_answer
+How many molecules are in a 5 mol sample of RuCl<sub>3</sub>?,3e24;3e24;3E24;3.0e24;3.0e24;3.0E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+How many molecules are in a 74 g sample of ZnSO<sub>4</sub>?,2.8e23;2.8e23;2.8E23;3e23;3e23;3E23;2.77e23;2.77e23;2.77E23;2.7e23;2.7e23;2.7E23;3e23;3e23;3E23;2.70e23;2.70e23;2.70E23,short_answer
+How many molecules are in a 0.5 g sample of CH<sub>4</sub>?,2e22;2e22;2E22;1.8e22;1.8e22;1.8E22;1e22;1e22;1E22;1.0e22;1.0e22;1.0E22,short_answer
+How many moles are in a 5784 g sample of S<sub>2</sub>Cl<sub>2</sub>?,42.84;4.284e1;4.284E1;42.8;4.28e1;4.28E1;42.840;4.2840e1;4.2840E1;42.83;4.283e1;4.283E1;42.8;4.28e1;4.28E1;42.830;4.2830e1;4.2830E1,short_answer
+What is the mass of 2 x 10<sup>25</sup> molecules of C<sub>7</sub>H<sub>16</sub> in g?,3000;3e3;3E3;3.0e3;3.0e3;3.0E3;4000;4e3;4E3;4.0e3;4.0e3;4.0E3,short_answer
+How much does 0.241 mol of CaCl<sub>2</sub> weigh (in g)?,26.7;2.67e1;2.67E1;27;2.7e1;2.7E1;27.;26.75;2.675e1;2.675E1;26.8;2.68e1;2.68E1;27;2.7e1;2.7E1;27.;26.80;2.680e1;2.680E1,short_answer
+How much does 15.1 mol of MoF<sub>5</sub> weigh (in g)?,2880;2.88e3;2.88E3;2900;2.9e3;2.9E3;2883;2.883e3;2.883E3;2883.;2890;2.89e3;2.89E3;2900;2.9e3;2.9E3;2890.;2.890e3;2.890E3;2890..,short_answer
+How much does 3 mol of Al<sub>2</sub>O<sub>3</sub> weigh (in g)?,300;3e2;3E2;310;3.1e2;3.1E2;400;4e2;4E2;4.0e2;4.0e2;4.0E2,short_answer
+How many molecules are in a 0.18 mol sample of BrF<sub>5</sub>?,1.1e23;1.1e23;1.1E23;1e23;1e23;1E23;1.08e23;1.08e23;1.08E23;1.0e23;1.0e23;1.0E23;1e23;1e23;1E23;1.00e23;1.00e23;1.00E23,short_answer
+What is the number of moles in a 130 g sample of CI<sub>4</sub>?,0.25;2.5e-1;2.5E-1;.25;0.3;3e-1;3E-1;.3;0.250;2.50e-1;2.50E-1;.250;0.24;2.4e-1;2.4E-1;.24;0.2;2e-1;2E-1;.2;0.240;2.40e-1;2.40E-1;.240,short_answer
+What is the mass of 1 x 10<sup>25</sup> molecules of RhCl<sub>3</sub> in g?,4000;4e3;4E3;4200;4.2e3;4.2E3;5000;5e3;5E3;5.0e3;5.0e3;5.0E3,short_answer
+What is the mass of 1.840 x 10<sup>22</sup> molecules of Cl<sub>2</sub> in g?,2.166;2.166e0;2.166E0;2.17;2.17e0;2.17E0;2.1660;2.1660e0;2.1660E0;2.165;2.165e0;2.165E0;2.17;2.17e0;2.17E0;2.1650;2.1650e0;2.1650E0,short_answer
+How many molecules are in a 0.050 mol sample of PH<sub>3</sub>?,3.0e22;3.0e22;3.0E22;3e22;3e22;3E22;3.01e22;3.01e22;3.01E22;3.1e22;3.1e22;3.1E22;3e22;3e22;3E22;3.10e22;3.10e22;3.10E22,short_answer
+How much does 1.5 mol of InCl<sub>3</sub> weigh (in g)?,330;3.3e2;3.3E2;300;3e2;3E2;332;3.32e2;3.32E2;332.;340;3.4e2;3.4E2;300;3e2;3E2;340.;3.40e2;3.40E2;340..,short_answer
+How much does 20 mol of MgO weigh (in g)?,800;8e2;8E2;810;8.1e2;8.1E2;900;9e2;9E2;9.0e2;9.0e2;9.0E2,short_answer
+What is the mass of 8.262 x 10<sup>24</sup> molecules of SiI<sub>4</sub> in g?,7350.;7.350e3;7.350E3;7350..;7350;7.35e3;7.35E3;7349.8;7.3498e3;7.3498E3;7349;7.349e3;7.349E3;7349.;7350;7.35e3;7.35E3;7349.0;7.3490e3;7.3490E3,short_answer
+How many molecules are in a 2.1 g sample of SCl<sub>2</sub>?,1.2e22;1.2e22;1.2E22;1e22;1e22;1E22;1.20e22;1.20e22;1.20E22;1.3e22;1.3e22;1.3E22;1e22;1e22;1E22;1.30e22;1.30e22;1.30E22,short_answer
+What is the mass of 5.833 x 10<sup>22</sup> molecules of C<sub>4</sub>H<sub>10</sub> in g?,5.630;5.630e0;5.630E0;5.63;5.63e0;5.63E0;5.6299;5.6299e0;5.6299E0;5.629;5.629e0;5.629E0;5.63;5.63e0;5.63E0;5.6290;5.6290e0;5.6290E0,short_answer
+What is the mass in g of 12.4 moles of N<sub>2</sub>H<sub>4</sub>?,397;3.97e2;3.97E2;397.;4.0e2;4.0e2;4.0E2;397.4;3.974e2;3.974E2;398;3.98e2;3.98E2;398.;4.0e2;4.0e2;4.0E2;398.0;3.980e2;3.980E2,short_answer
+How many molecules are in a 603 g sample of Tl<sub>2</sub>O?,8.55e23;8.55e23;8.55E23;8.6e23;8.6e23;8.6E23;8.551e23;8.551e23;8.551E23;8.56e23;8.56e23;8.56E23;8.6e23;8.6e23;8.6E23;8.560e23;8.560e23;8.560E23,short_answer
+How many molecules are in a 3.545 mol sample of C<sub>2</sub>H<sub>2</sub>?,2.135e24;2.135e24;2.135E24;2.13e24;2.13e24;2.13E24;2.1348e24;2.1348e24;2.1348E24;2.134e24;2.134e24;2.134E24;2.13e24;2.13e24;2.13E24;2.1340e24;2.1340e24;2.1340E24,short_answer
+How much does 20 mol of WF<sub>6</sub> weigh (in g)?,6000;6e3;6E3;6.0e3;6.0e3;6.0E3;5000;5e3;5E3;5.0e3;5.0e3;5.0E3,short_answer
+How many molecules are in a 6.63 g sample of Br<sub>2</sub>?,2.50e22;2.50e22;2.50E22;2.5e22;2.5e22;2.5E22;2.499e22;2.499e22;2.499E22;2.49e22;2.49e22;2.49E22;2.5e22;2.5e22;2.5E22;2.490e22;2.490e22;2.490E22,short_answer
+How many molecules are in a 2 mol sample of C<sub>4</sub>H<sub>10</sub>?,1e24;1e24;1E24;1.2e24;1.2e24;1.2E24;2e24;2e24;2E24;2.0e24;2.0e24;2.0E24,short_answer
+How much does 0.053 mol of CaCl<sub>2</sub> weigh (in g)?,5.9;5.9e0;5.9E0;6;6e0;6E0;6.;5.88;5.88e0;5.88E0;5.8;5.8e0;5.8E0;6;6e0;6E0;6.;5.80;5.80e0;5.80E0,short_answer
+What is the mass of 1.967 x 10<sup>22</sup> molecules of XeF<sub>2</sub> in g?,5.529;5.529e0;5.529E0;5.53;5.53e0;5.53E0;5.5290;5.5290e0;5.5290E0;5.530;5.530e0;5.530E0;5.53;5.53e0;5.53E0;5.5300;5.5300e0;5.5300E0,short_answer
+What is the mass in g of 2.856 moles of SiC?,114.5;1.145e2;1.145E2;115;1.15e2;1.15E2;115.;114.51;1.1451e2;1.1451E2;114.6;1.146e2;1.146E2;115;1.15e2;1.15E2;115.;114.60;1.1460e2;1.1460E2,short_answer
+What is the number of moles in a 2.5 g sample of SF<sub>6</sub>?,0.017;1.7e-2;1.7E-2;.017;0.02;2e-2;2E-2;.02;0.0170;1.70e-2;1.70E-2;.0170;0.016;1.6e-2;1.6E-2;.016;0.02;2e-2;2E-2;.02;0.0160;1.60e-2;1.60E-2;.0160,short_answer
+What is the mass of 2.35 x 10<sup>22</sup> molecules of AgNO<sub>3</sub> in g?,6.63;6.63e0;6.63E0;6.6;6.6e0;6.6E0;6.625;6.625e0;6.625E0;6.62;6.62e0;6.62E0;6.6;6.6e0;6.6E0;6.620;6.620e0;6.620E0,short_answer
+How much does 8.176 mol of H<sub>2</sub>S weigh (in g)?,278.6;2.786e2;2.786E2;279;2.79e2;2.79E2;279.;278.61;2.7861e2;2.7861E2;278.7;2.787e2;2.787E2;279;2.79e2;2.79E2;279.;278.70;2.7870e2;2.7870E2,short_answer
+How many molecules are in a 1.35 mol sample of SF<sub>6</sub>?,8.13e23;8.13e23;8.13E23;8.1e23;8.1e23;8.1E23;8.130e23;8.130e23;8.130E23;8.12e23;8.12e23;8.12E23;8.1e23;8.1e23;8.1E23;8.120e23;8.120e23;8.120E23,short_answer
+What is the mass of 6.305 x 10<sup>22</sup> molecules of CrO<sub>3</sub> in g?,10.47;1.047e1;1.047E1;10.5;1.05e1;1.05E1;10.469;1.0469e1;1.0469E1;10.46;1.046e1;1.046E1;10.5;1.05e1;1.05E1;10.460;1.0460e1;1.0460E1,short_answer
+How much does 30 mol of H<sub>2</sub>SO<sub>4</sub> weigh (in g)?,3000;3e3;3E3;2900;2.9e3;2.9E3;2000;2e3;2E3;2.0e3;2.0e3;2.0E3,short_answer
+How many molecules are in a 550.7 g sample of NO<sub>2</sub>?,7.209e24;7.209e24;7.209E24;7.21e24;7.21e24;7.21E24;7.2085e24;7.2085e24;7.2085E24;7.208e24;7.208e24;7.208E24;7.21e24;7.21e24;7.21E24;7.2080e24;7.2080e24;7.2080E24,short_answer
+How much does 0.11 mol of SrCl<sub>2</sub> weigh (in g)?,17;1.7e1;1.7E1;17.;20;2e1;2E1;17.4;1.74e1;1.74E1;18;1.8e1;1.8E1;18.;20;2e1;2E1;18.0;1.80e1;1.80E1,short_answer
+How many molecules are in a 0.1609 mol sample of C<sub>2</sub>H<sub>6</sub>O?,9.690e22;9.690e22;9.690E22;9.69e22;9.69e22;9.69E22;9.6896e22;9.6896e22;9.6896E22;9.689e22;9.689e22;9.689E22;9.69e22;9.69e22;9.69E22;9.6890e22;9.6890e22;9.6890E22,short_answer
+How many moles are in a 168 g sample of HI?,1.31;1.31e0;1.31E0;1.3;1.3e0;1.3E0;1.310;1.310e0;1.310E0;1.30;1.30e0;1.30E0;1.3;1.3e0;1.3E0;1.300;1.300e0;1.300E0,short_answer
+How many moles are in a 800 g sample of NaOH?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How much does 0.16 mol of NH<sub>3</sub> weigh (in g)?,2.7;2.7e0;2.7E0;3;3e0;3E0;3.;2.72;2.72e0;2.72E0;2.8;2.8e0;2.8E0;3;3e0;3E0;3.;2.80;2.80e0;2.80E0,short_answer
+How much does 0.095 mol of CoO weigh (in g)?,7.1;7.1e0;7.1E0;7;7e0;7E0;7.;7.12;7.12e0;7.12E0;7.2;7.2e0;7.2E0;7;7e0;7E0;7.;7.20;7.20e0;7.20E0,short_answer
+How many molecules are in a 25.3 g sample of RuCl<sub>3</sub>?,7.35e22;7.35e22;7.35E22;7.3e22;7.3e22;7.3E22;7.347e22;7.347e22;7.347E22;7.34e22;7.34e22;7.34E22;7.3e22;7.3e22;7.3E22;7.340e22;7.340e22;7.340E22,short_answer
+How much does 0.03 mol of PbO<sub>2</sub> weigh (in g)?,7;7e0;7E0;7.;7.2;7.2e0;7.2E0;8;8e0;8E0;8.;8.0;8.0e0;8.0E0,short_answer
+How many moles are in a 1.0 g sample of N<sub>2</sub>H<sub>4</sub>?,0.03;3e-2;3E-2;.03;0.030;3.0e-2;3.0E-2;.030;0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020,short_answer
+How many molecules are in a 1.3 mol sample of ZrCl<sub>4</sub>?,7.8e23;7.8e23;7.8E23;8e23;8e23;8E23;7.83e23;7.83e23;7.83E23;7.9e23;7.9e23;7.9E23;8e23;8e23;8E23;7.90e23;7.90e23;7.90E23,short_answer
+What is the number of moles in a 8567 g sample of Cs<sub>2</sub>S?,28.76;2.876e1;2.876E1;28.8;2.88e1;2.88E1;28.760;2.8760e1;2.8760E1;28.75;2.875e1;2.875E1;28.8;2.88e1;2.88E1;28.750;2.8750e1;2.8750E1,short_answer
+What is the number of moles in a 9.935 g sample of P<sub>2</sub>O<sub>5</sub>?,0.06999;6.999e-2;6.999E-2;.06999;0.0700;7.00e-2;7.00E-2;.0700;0.069990;6.9990e-2;6.9990E-2;.069990;0.06998;6.998e-2;6.998E-2;.06998;0.0700;7.00e-2;7.00E-2;.0700;0.069980;6.9980e-2;6.9980E-2;.069980,short_answer
+How many moles are in a 28.06 g sample of ZrCl<sub>4</sub>?,0.1204;1.204e-1;1.204E-1;.1204;0.120;1.20e-1;1.20E-1;.120;0.12040;1.2040e-1;1.2040E-1;.12040;0.1203;1.203e-1;1.203E-1;.1203;0.120;1.20e-1;1.20E-1;.120;0.12030;1.2030e-1;1.2030E-1;.12030,short_answer
+How many molecules are in a 0.015 mol sample of GaCl<sub>3</sub>?,9.0e21;9.0e21;9.0E21;9e21;9e21;9E21;9.03e21;9.03e21;9.03E21;9.1e21;9.1e21;9.1E21;9e21;9e21;9E21;9.10e21;9.10e21;9.10E21,short_answer
+How many molecules are in a 4660 g sample of Tl<sub>2</sub>O<sub>3</sub>?,6.14e24;6.14e24;6.14E24;6.1e24;6.1e24;6.1E24;6.143e24;6.143e24;6.143E24;6.15e24;6.15e24;6.15E24;6.2e24;6.2e24;6.2E24;6.150e24;6.150e24;6.150E24,short_answer
+How many moles are in a 483 g sample of C<sub>7</sub>H<sub>16</sub>?,4.82;4.82e0;4.82E0;4.8;4.8e0;4.8E0;4.820;4.820e0;4.820E0;4.81;4.81e0;4.81E0;4.8;4.8e0;4.8E0;4.810;4.810e0;4.810E0,short_answer
+How many molecules are in a 0.05 mol sample of NiCl<sub>2</sub>?,3e22;3e22;3E22;3.0e22;3.0e22;3.0E22;4e22;4e22;4E22;4.0e22;4.0e22;4.0E22,short_answer
+What is the mass of 1.01 x 10<sup>22</sup> molecules of RhCl<sub>3</sub> in g?,3.52;3.52e0;3.52E0;3.5;3.5e0;3.5E0;3.515;3.515e0;3.515E0;3.51;3.51e0;3.51E0;3.5;3.5e0;3.5E0;3.510;3.510e0;3.510E0,short_answer
+What is the mass of 8.184 x 10<sup>23</sup> molecules of FeCl<sub>3</sub> in g?,220.4;2.204e2;2.204E2;220.;2.20e2;2.20E2;220..;220.42;2.2042e2;2.2042E2;220.5;2.205e2;2.205E2;221;2.21e2;2.21E2;221.;220.50;2.2050e2;2.2050E2,short_answer
+What is the mass in g of 29.9 moles of S<sub>8</sub>?,7670;7.67e3;7.67E3;7700;7.7e3;7.7E3;7669;7.669e3;7.669E3;7669.;7660;7.66e3;7.66E3;7700;7.7e3;7.7E3;7660.;7.660e3;7.660E3;7660..,short_answer
+What is the number of moles in a 0.6372 g sample of C<sub>2</sub>H<sub>6</sub>?,0.02119;2.119e-2;2.119E-2;.02119;0.0212;2.12e-2;2.12E-2;.0212;0.021190;2.1190e-2;2.1190E-2;.021190;0.02118;2.118e-2;2.118E-2;.02118;0.0212;2.12e-2;2.12E-2;.0212;0.021180;2.1180e-2;2.1180E-2;.021180,short_answer
+How much does 3 mol of IF<sub>7</sub> weigh (in g)?,800;8e2;8E2;780;7.8e2;7.8E2;700;7e2;7E2;7.0e2;7.0e2;7.0E2,short_answer
+How much does 1.214 mol of SiC weigh (in g)?,48.68;4.868e1;4.868E1;48.7;4.87e1;4.87E1;48.677;4.8677e1;4.8677E1;48.67;4.867e1;4.867E1;48.7;4.87e1;4.87E1;48.670;4.8670e1;4.8670E1,short_answer
+How much does 0.5 mol of MnF<sub>2</sub> weigh (in g)?,50;5e1;5E1;46;4.6e1;4.6E1;46.;40;4e1;4E1;40.;4.0e1;4.0E1;40..,short_answer
+How many molecules are in a 480 g sample of TcCl<sub>4</sub>?,1.2e24;1.2e24;1.2E24;1e24;1e24;1E24;1.20e24;1.20e24;1.20E24;1.3e24;1.3e24;1.3E24;1e24;1e24;1E24;1.30e24;1.30e24;1.30E24,short_answer
+What is the mass of 1.18 x 10<sup>24</sup> molecules of N<sub>2</sub>O in g?,86.3;8.63e1;8.63E1;86;8.6e1;8.6E1;86.;86.27;8.627e1;8.627E1;86.2;8.62e1;8.62E1;86;8.6e1;8.6E1;86.;86.20;8.620e1;8.620E1,short_answer
+How many molecules are in a 0.0365 mol sample of HCN?,2.20e22;2.20e22;2.20E22;2.2e22;2.2e22;2.2E22;2.198e22;2.198e22;2.198E22;2.19e22;2.19e22;2.19E22;2.2e22;2.2e22;2.2E22;2.190e22;2.190e22;2.190E22,short_answer
+What is the mass of 1.7 x 10<sup>24</sup> molecules of I<sub>2</sub> in g?,710;7.1e2;7.1E2;700;7e2;7E2;711;7.11e2;7.11E2;711.;720;7.2e2;7.2E2;700;7e2;7E2;720.;7.20e2;7.20E2;720..,short_answer
+How many molecules are in a 1.73 mol sample of TeF<sub>6</sub>?,1.04e24;1.04e24;1.04E24;1.0e24;1.0e24;1.0E24;1.042e24;1.042e24;1.042E24;1.05e24;1.05e24;1.05E24;1.1e24;1.1e24;1.1E24;1.050e24;1.050e24;1.050E24,short_answer
+What is the mass of 1.265 x 10<sup>22</sup> molecules of ClO<sub>2</sub> in g?,1.417;1.417e0;1.417E0;1.42;1.42e0;1.42E0;1.4171;1.4171e0;1.4171E0;1.418;1.418e0;1.418E0;1.42;1.42e0;1.42E0;1.4180;1.4180e0;1.4180E0,short_answer
+How many moles are in a 50 g sample of FeCl<sub>3</sub>?,0.3;3e-1;3E-1;.3;0.30;3.0e-1;3.0E-1;.30;0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20,short_answer
+How many moles are in a 8000 g sample of ZnSO<sub>4</sub>?,50;5e1;5E1;50.;5.0e1;5.0E1;50..;40;4e1;4E1;40.;4.0e1;4.0E1;40..,short_answer
+What is the mass in g of 43 moles of AsF<sub>3</sub>?,5700;5.7e3;5.7E3;6000;6e3;6E3;5670;5.67e3;5.67E3;5600;5.6e3;5.6E3;6000;6e3;6E3;5.60e3;5.60e3;5.60E3,short_answer
+What is the number of moles in a 43 g sample of PBr<sub>3</sub>?,0.16;1.6e-1;1.6E-1;.16;0.2;2e-1;2E-1;.2;0.160;1.60e-1;1.60E-1;.160;0.15;1.5e-1;1.5E-1;.15;0.1;1e-1;1E-1;.1;0.150;1.50e-1;1.50E-1;.150,short_answer
+How much does 0.02 mol of ZnO weigh (in g)?,2;2e0;2E0;2.;1.6;1.6e0;1.6E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How many molecules are in a 0.0299 mol sample of XeF<sub>4</sub>?,1.80e22;1.80e22;1.80E22;1.8e22;1.8e22;1.8E22;1.801e22;1.801e22;1.801E22;1.81e22;1.81e22;1.81E22;1.8e22;1.8e22;1.8E22;1.810e22;1.810e22;1.810E22,short_answer
+What is the mass in g of 0.3 moles of CCl<sub>4</sub>?,50;5e1;5E1;46;4.6e1;4.6E1;46.;40;4e1;4E1;40.;4.0e1;4.0E1;40..,short_answer
+What is the number of moles in a 2.9 g sample of C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>?,0.048;4.8e-2;4.8E-2;.048;0.05;5e-2;5E-2;.05;0.0480;4.80e-2;4.80E-2;.0480;0.047;4.7e-2;4.7E-2;.047;0.05;5e-2;5E-2;.05;0.0470;4.70e-2;4.70E-2;.0470,short_answer
+What is the mass of 8.43 x 10<sup>23</sup> molecules of N<sub>2</sub>O in g?,61.6;6.16e1;6.16E1;62;6.2e1;6.2E1;62.;61.62;6.162e1;6.162E1;61.7;6.17e1;6.17E1;62;6.2e1;6.2E1;62.;61.70;6.170e1;6.170E1,short_answer
+How much does 0.0963 mol of NO weigh (in g)?,2.89;2.89e0;2.89E0;2.9;2.9e0;2.9E0;2.890;2.890e0;2.890E0;2.88;2.88e0;2.88E0;2.9;2.9e0;2.9E0;2.880;2.880e0;2.880E0,short_answer
+How many molecules are in a 2.68 g sample of RnF<sub>2</sub>?,6.20e21;6.20e21;6.20E21;6.2e21;6.2e21;6.2E21;6.203e21;6.203e21;6.203E21;6.21e21;6.21e21;6.21E21;6.2e21;6.2e21;6.2E21;6.210e21;6.210e21;6.210E21,short_answer
+How much does 0.5 mol of MoF<sub>6</sub> weigh (in g)?,100;1e2;1E2;1.0e2;1.0e2;1.0E2;200;2e2;2E2;2.0e2;2.0e2;2.0E2,short_answer
+What is the mass of 2.06 x 10<sup>22</sup> molecules of TeF<sub>6</sub> in g?,8.26;8.26e0;8.26E0;8.3;8.3e0;8.3E0;8.262;8.262e0;8.262E0;8.27;8.27e0;8.27E0;8.3;8.3e0;8.3E0;8.270;8.270e0;8.270E0,short_answer
+How many molecules are in a 0.01246 mol sample of NF<sub>3</sub>?,7.504e21;7.504e21;7.504E21;7.50e21;7.50e21;7.50E21;7.5036e21;7.5036e21;7.5036E21;7.503e21;7.503e21;7.503E21;7.50e21;7.50e21;7.50E21;7.5030e21;7.5030e21;7.5030E21,short_answer
+How much does 12 mol of N<sub>2</sub>O weigh (in g)?,530;5.3e2;5.3E2;500;5e2;5E2;528;5.28e2;5.28E2;528.;520;5.2e2;5.2E2;500;5e2;5E2;520.;5.20e2;5.20E2;520..,short_answer
+How much does 0.06936 mol of C<sub>6</sub>H<sub>6</sub>O weigh (in g)?,6.528;6.528e0;6.528E0;6.53;6.53e0;6.53E0;6.5277;6.5277e0;6.5277E0;6.527;6.527e0;6.527E0;6.53;6.53e0;6.53E0;6.5270;6.5270e0;6.5270E0,short_answer
+How many molecules are in a 2.96 g sample of AsF<sub>5</sub>?,1.05e22;1.05e22;1.05E22;1.0e22;1.0e22;1.0E22;1.048e22;1.048e22;1.048E22;1.04e22;1.04e22;1.04E22;1.0e22;1.0e22;1.0E22;1.040e22;1.040e22;1.040E22,short_answer
+What is the mass in g of 0.16 moles of SiBr<sub>4</sub>?,56;5.6e1;5.6E1;56.;60;6e1;6E1;55.6;5.56e1;5.56E1;55;5.5e1;5.5E1;55.;60;6e1;6E1;55.0;5.50e1;5.50E1,short_answer
+How much does 0.6964 mol of ClO<sub>2</sub> weigh (in g)?,46.97;4.697e1;4.697E1;47.0;4.70e1;4.70E1;46.971;4.6971e1;4.6971E1;46.98;4.698e1;4.698E1;47.0;4.70e1;4.70E1;46.980;4.6980e1;4.6980E1,short_answer
+What is the mass in g of 0.025 moles of H<sub>2</sub>?,0.050;5.0e-2;5.0E-2;.050;0.05;5e-2;5E-2;.05;0.0504;5.04e-2;5.04E-2;.0504;0.051;5.1e-2;5.1E-2;.051;0.05;5e-2;5E-2;.05;0.0510;5.10e-2;5.10E-2;.0510,short_answer
+How many molecules are in a 0.7869 g sample of BeF<sub>2</sub>?,1.008e22;1.008e22;1.008E22;1.01e22;1.01e22;1.01E22;1.0081e22;1.0081e22;1.0081E22;1.009e22;1.009e22;1.009E22;1.01e22;1.01e22;1.01E22;1.0090e22;1.0090e22;1.0090E22,short_answer
+How much does 0.071 mol of CH<sub>5</sub>N weigh (in g)?,2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.21;2.21e0;2.21E0;2.3;2.3e0;2.3E0;2;2e0;2E0;2.;2.30;2.30e0;2.30E0,short_answer
+How much does 0.060 mol of WF<sub>6</sub> weigh (in g)?,18;1.8e1;1.8E1;18.;20;2e1;2E1;17.9;1.79e1;1.79E1;17;1.7e1;1.7E1;17.;20;2e1;2E1;17.0;1.70e1;1.70E1,short_answer
+How many moles are in a 600 g sample of N<sub>2</sub>H<sub>4</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many moles are in a 400 g sample of SeCl<sub>4</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How many molecules are in a 6000 g sample of MoF<sub>5</sub>?,2e25;2e25;2E25;1.8e25;1.8e25;1.8E25;1e25;1e25;1E25;1.0e25;1.0e25;1.0E25,short_answer
+How many moles are in a 3000 g sample of AgNO<sub>3</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How many moles are in a 34.7 g sample of N<sub>2</sub>?,1.24;1.24e0;1.24E0;1.2;1.2e0;1.2E0;1.240;1.240e0;1.240E0;1.23;1.23e0;1.23E0;1.2;1.2e0;1.2E0;1.230;1.230e0;1.230E0,short_answer
+How many molecules are in a 4.4 g sample of NO<sub>2</sub>?,5.8e22;5.8e22;5.8E22;6e22;6e22;6E22;5.78e22;5.78e22;5.78E22;5.7e22;5.7e22;5.7E22;6e22;6e22;6E22;5.70e22;5.70e22;5.70E22,short_answer
+What is the mass of 6.6 x 10<sup>21</sup> molecules of CI<sub>4</sub> in g?,5.7;5.7e0;5.7E0;6;6e0;6E0;6.;5.72;5.72e0;5.72E0;5.8;5.8e0;5.8E0;6;6e0;6E0;6.;5.80;5.80e0;5.80E0,short_answer
+What is the number of moles in a 29 g sample of SiF<sub>4</sub>?,0.28;2.8e-1;2.8E-1;.28;0.3;3e-1;3E-1;.3;0.280;2.80e-1;2.80E-1;.280;0.27;2.7e-1;2.7E-1;.27;0.3;3e-1;3E-1;.3;0.270;2.70e-1;2.70E-1;.270,short_answer
+How many molecules are in a 16.24 mol sample of ZnSO<sub>4</sub>?,9.780e24;9.780e24;9.780E24;9.78e24;9.78e24;9.78E24;9.7800e24;9.7800e24;9.7800E24;9.779e24;9.779e24;9.779E24;9.78e24;9.78e24;9.78E24;9.7790e24;9.7790e24;9.7790E24,short_answer
+How many moles are in a 4367 g sample of Cs<sub>2</sub>S?,14.66;1.466e1;1.466E1;14.7;1.47e1;1.47E1;14.660;1.4660e1;1.4660E1;14.65;1.465e1;1.465E1;14.7;1.47e1;1.47E1;14.650;1.4650e1;1.4650E1,short_answer
+What is the mass of 4 x 10<sup>22</sup> molecules of KrF<sub>2</sub> in g?,9;9e0;9E0;9.;8.5;8.5e0;8.5E0;8;8e0;8E0;8.;8.0;8.0e0;8.0E0,short_answer
+How many molecules are in a 200 g sample of LiF?,5e24;5e24;5E24;4.8e24;4.8e24;4.8E24;4e24;4e24;4E24;4.0e24;4.0e24;4.0E24,short_answer
+How many molecules are in a 2.0 mol sample of InP?,1.2e24;1.2e24;1.2E24;1e24;1e24;1E24;1.20e24;1.20e24;1.20E24;1.3e24;1.3e24;1.3E24;1e24;1e24;1E24;1.30e24;1.30e24;1.30E24,short_answer
+What is the number of moles in a 800 g sample of RaF<sub>2</sub>?,3;3e0;3E0;3.;3.0;3.0e0;3.0E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+How many molecules are in a 5270 g sample of HgCl<sub>2</sub>?,1.17e25;1.17e25;1.17E25;1.2e25;1.2e25;1.2E25;1.168e25;1.168e25;1.168E25;1.16e25;1.16e25;1.16E25;1.2e25;1.2e25;1.2E25;1.160e25;1.160e25;1.160E25,short_answer
+What is the number of moles in a 40 g sample of BaF<sub>2</sub>?,0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20;0.1;1e-1;1E-1;.1;0.10;1.0e-1;1.0E-1;.10,short_answer
+What is the mass in g of 3 moles of BeCl<sub>2</sub>?,200;2e2;2E2;240;2.4e2;2.4E2;300;3e2;3E2;3.0e2;3.0e2;3.0E2,short_answer
+What is the number of moles in a 6000 g sample of RuCl<sub>3</sub>?,30;3e1;3E1;30.;3.0e1;3.0E1;30..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+How much does 0.14 mol of SO<sub>2</sub> weigh (in g)?,9.0;9.0e0;9.0E0;9;9e0;9E0;9.;8.97;8.97e0;8.97E0;8.9;8.9e0;8.9E0;9;9e0;9E0;9.;8.90;8.90e0;8.90E0,short_answer
+How many molecules are in a 225 g sample of PF<sub>5</sub>?,1.08e24;1.08e24;1.08E24;1.1e24;1.1e24;1.1E24;1.078e24;1.078e24;1.078E24;1.07e24;1.07e24;1.07E24;1.1e24;1.1e24;1.1E24;1.070e24;1.070e24;1.070E24,short_answer
+How many moles are in a 1157 g sample of C<sub>5</sub>H<sub>12</sub>?,16.04;1.604e1;1.604E1;16.0;1.60e1;1.60E1;16.040;1.6040e1;1.6040E1;16.03;1.603e1;1.603E1;16.0;1.60e1;1.60E1;16.030;1.6030e1;1.6030E1,short_answer
+How many moles are in a 9 g sample of WF<sub>6</sub>?,0.03;3e-2;3E-2;.03;0.030;3.0e-2;3.0E-2;.030;0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020,short_answer
+What is the number of moles in a 29.38 g sample of N<sub>2</sub>H<sub>4</sub>?,0.9168;9.168e-1;9.168E-1;.9168;0.917;9.17e-1;9.17E-1;.917;0.91680;9.1680e-1;9.1680E-1;.91680;0.9167;9.167e-1;9.167E-1;.9167;0.917;9.17e-1;9.17E-1;.917;0.91670;9.1670e-1;9.1670E-1;.91670,short_answer
+How many moles are in a 11.7 g sample of C<sub>6</sub>H<sub>6</sub>O?,0.124;1.24e-1;1.24E-1;.124;0.12;1.2e-1;1.2E-1;.12;0.1240;1.240e-1;1.240E-1;.1240;0.123;1.23e-1;1.23E-1;.123;0.12;1.2e-1;1.2E-1;.12;0.1230;1.230e-1;1.230E-1;.1230,short_answer
+What is the mass in g of 4.2 moles of ZnO?,340;3.4e2;3.4E2;300;3e2;3E2;342;3.42e2;3.42E2;342.;350;3.5e2;3.5E2;400;4e2;4E2;350.;3.50e2;3.50E2;350..,short_answer
+What is the mass in g of 0.5 moles of HgO?,100;1e2;1E2;110;1.1e2;1.1E2;200;2e2;2E2;2.0e2;2.0e2;2.0E2,short_answer
+How many molecules are in a 2.1 g sample of NiO?,1.7e22;1.7e22;1.7E22;2e22;2e22;2E22;1.69e22;1.69e22;1.69E22;1.6e22;1.6e22;1.6E22;2e22;2e22;2E22;1.60e22;1.60e22;1.60E22,short_answer
+How many molecules are in a 3.047 mol sample of SF<sub>6</sub>?,1.835e24;1.835e24;1.835E24;1.83e24;1.83e24;1.83E24;1.8349e24;1.8349e24;1.8349E24;1.834e24;1.834e24;1.834E24;1.83e24;1.83e24;1.83E24;1.8340e24;1.8340e24;1.8340E24,short_answer
+What is the mass of 1.1 x 10<sup>25</sup> molecules of H<sub>2</sub> in g?,36;3.6e1;3.6E1;36.;40;4e1;4E1;36.3;3.63e1;3.63E1;37;3.7e1;3.7E1;37.;40;4e1;4E1;37.0;3.70e1;3.70E1,short_answer
+What is the mass in g of 0.03 moles of Li<sub>2</sub>CO<sub>3</sub>?,2;2e0;2E0;2.;2.2;2.2e0;2.2E0;3;3e0;3E0;3.;3.0;3.0e0;3.0E0,short_answer
+How much does 32 mol of CdCl<sub>2</sub> weigh (in g)?,5900;5.9e3;5.9E3;6000;6e3;6E3;5870;5.87e3;5.87E3;5800;5.8e3;5.8E3;6000;6e3;6E3;5.80e3;5.80e3;5.80E3,short_answer
+How much does 0.0264 mol of IF<sub>7</sub> weigh (in g)?,6.86;6.86e0;6.86E0;6.9;6.9e0;6.9E0;6.861;6.861e0;6.861E0;6.87;6.87e0;6.87E0;6.9;6.9e0;6.9E0;6.870;6.870e0;6.870E0,short_answer
+What is the number of moles in a 930 g sample of PtCl<sub>2</sub>?,3.5;3.5e0;3.5E0;4;4e0;4E0;4.;3.50;3.50e0;3.50E0;3.4;3.4e0;3.4E0;3;3e0;3E0;3.;3.40;3.40e0;3.40E0,short_answer
+How many molecules are in a 0.043 mol sample of I<sub>2</sub>?,2.6e22;2.6e22;2.6E22;3e22;3e22;3E22;2.59e22;2.59e22;2.59E22;2.5e22;2.5e22;2.5E22;3e22;3e22;3E22;2.50e22;2.50e22;2.50E22,short_answer
+What is the mass of 7.8 x 10<sup>22</sup> molecules of C<sub>6</sub>H<sub>12</sub> in g?,11;1.1e1;1.1E1;11.;10;1e1;1E1;10.9;1.09e1;1.09E1;10.;1.0e1;1.0E1;10..;10;1e1;1E1;10.0;1.00e1;1.00E1,short_answer
+How many molecules are in a 2 mol sample of SCl<sub>2</sub>?,1e24;1e24;1E24;1.2e24;1.2e24;1.2E24;2e24;2e24;2E24;2.0e24;2.0e24;2.0E24,short_answer
+How many moles are in a 15.37 g sample of K<sub>2</sub>S?,0.1394;1.394e-1;1.394E-1;.1394;0.139;1.39e-1;1.39E-1;.139;0.13940;1.3940e-1;1.3940E-1;.13940;0.1393;1.393e-1;1.393E-1;.1393;0.139;1.39e-1;1.39E-1;.139;0.13930;1.3930e-1;1.3930E-1;.13930,short_answer
+How many moles are in a 2.875 g sample of PBr<sub>3</sub>?,0.01062;1.062e-2;1.062E-2;.01062;0.0106;1.06e-2;1.06E-2;.0106;0.010620;1.0620e-2;1.0620E-2;.010620;0.01061;1.061e-2;1.061E-2;.01061;0.0106;1.06e-2;1.06E-2;.0106;0.010610;1.0610e-2;1.0610E-2;.010610,short_answer
+How many moles are in a 13000 g sample of ReCl<sub>4</sub>?,40.;4.0e1;4.0E1;40..;40;4e1;4E1;40.0;4.00e1;4.00E1;39;3.9e1;3.9E1;39.;40;4e1;4E1;39.0;3.90e1;3.90E1,short_answer
+What is the mass in g of 0.2142 moles of CaF<sub>2</sub>?,16.72;1.672e1;1.672E1;16.7;1.67e1;1.67E1;16.724;1.6724e1;1.6724E1;16.73;1.673e1;1.673E1;16.7;1.67e1;1.67E1;16.730;1.6730e1;1.6730E1,short_answer
+How many moles are in a 48.5 g sample of PF<sub>5</sub>?,0.385;3.85e-1;3.85E-1;.385;0.39;3.9e-1;3.9E-1;.39;0.3850;3.850e-1;3.850E-1;.3850;0.384;3.84e-1;3.84E-1;.384;0.38;3.8e-1;3.8E-1;.38;0.3840;3.840e-1;3.840E-1;.3840,short_answer
+What is the mass in g of 0.05 moles of Rb<sub>2</sub>S?,10;1e1;1E1;10.;1.0e1;1.0E1;10..;20;2e1;2E1;20.;2.0e1;2.0E1;20..,short_answer
+What is the mass in g of 0.213 moles of CaF<sub>2</sub>?,16.6;1.66e1;1.66E1;17;1.7e1;1.7E1;17.;16.63;1.663e1;1.663E1;16.7;1.67e1;1.67E1;17;1.7e1;1.7E1;17.;16.70;1.670e1;1.670E1,short_answer
+How much does 0.07 mol of SO<sub>3</sub> weigh (in g)?,6;6e0;6E0;6.;5.6;5.6e0;5.6E0;5;5e0;5E0;5.;5.0;5.0e0;5.0E0,short_answer
+How much does 1.4 mol of FeSO<sub>4</sub> weigh (in g)?,210;2.1e2;2.1E2;200;2e2;2E2;213;2.13e2;2.13E2;213.;220;2.2e2;2.2E2;200;2e2;2E2;220.;2.20e2;2.20E2;220..,short_answer
+What is the number of moles in a 10. g sample of ClO<sub>2</sub>?,0.15;1.5e-1;1.5E-1;.15;0.1;1e-1;1E-1;.1;0.150;1.50e-1;1.50E-1;.150;0.14;1.4e-1;1.4E-1;.14;0.1;1e-1;1E-1;.1;0.140;1.40e-1;1.40E-1;.140,short_answer
+What is the mass in g of 20 moles of CaCl<sub>2</sub>?,2000;2e3;2E3;2200;2.2e3;2.2E3;3000;3e3;3E3;3.0e3;3.0e3;3.0E3,short_answer
+What is the number of moles in a 411.7 g sample of IrCl<sub>3</sub>?,1.379;1.379e0;1.379E0;1.38;1.38e0;1.38E0;1.3790;1.3790e0;1.3790E0;1.378;1.378e0;1.378E0;1.38;1.38e0;1.38E0;1.3780;1.3780e0;1.3780E0,short_answer
+What is the mass in g of 1.7 moles of AlN?,70.;7.0e1;7.0E1;70..;70;7e1;7E1;69.7;6.97e1;6.97E1;69;6.9e1;6.9E1;69.;70;7e1;7E1;69.0;6.90e1;6.90E1,short_answer
+How many molecules are in a 897 g sample of SO<sub>3</sub>?,6.74e24;6.74e24;6.74E24;6.7e24;6.7e24;6.7E24;6.745e24;6.745e24;6.745E24;6.75e24;6.75e24;6.75E24;6.8e24;6.8e24;6.8E24;6.750e24;6.750e24;6.750E24,short_answer
+How many molecules are in a 0.075 mol sample of SiH<sub>4</sub>?,4.5e22;4.5e22;4.5E22;5e22;5e22;5E22;4.52e22;4.52e22;4.52E22;4.6e22;4.6e22;4.6E22;5e22;5e22;5E22;4.60e22;4.60e22;4.60E22,short_answer
+What is the mass in g of 0.60 moles of KBr?,71;7.1e1;7.1E1;71.;70;7e1;7E1;71.4;7.14e1;7.14E1;72;7.2e1;7.2E1;72.;70;7e1;7E1;72.0;7.20e1;7.20E1,short_answer
+What is the mass of 7.492 x 10<sup>21</sup> molecules of Na<sub>2</sub>S in g?,0.9708;9.708e-1;9.708E-1;.9708;0.971;9.71e-1;9.71E-1;.971;0.97081;9.7081e-1;9.7081E-1;.97081;0.9709;9.709e-1;9.709E-1;.9709;0.971;9.71e-1;9.71E-1;.971;0.97090;9.7090e-1;9.7090E-1;.97090,short_answer
+How many molecules are in a 60 g sample of SeF<sub>6</sub>?,2e23;2e23;2E23;1.8e23;1.8e23;1.8E23;1e23;1e23;1E23;1.0e23;1.0e23;1.0E23,short_answer
+How many molecules are in a 400 g sample of KrF<sub>2</sub>?,2e24;2e24;2E24;1.8e24;1.8e24;1.8E24;1e24;1e24;1E24;1.0e24;1.0e24;1.0E24,short_answer
+What is the number of moles in a 16.14 g sample of H<sub>2</sub>SO<sub>4</sub>?,0.1646;1.646e-1;1.646E-1;.1646;0.165;1.65e-1;1.65E-1;.165;0.16460;1.6460e-1;1.6460E-1;.16460;0.1645;1.645e-1;1.645E-1;.1645;0.165;1.65e-1;1.65E-1;.165;0.16450;1.6450e-1;1.6450E-1;.16450,short_answer
+What is the mass of 4.19 x 10<sup>22</sup> molecules of CaCl<sub>2</sub> in g?,7.72;7.72e0;7.72E0;7.7;7.7e0;7.7E0;7.724;7.724e0;7.724E0;7.73;7.73e0;7.73E0;7.7;7.7e0;7.7E0;7.730;7.730e0;7.730E0,short_answer
+How much does 0.08 mol of RaF<sub>2</sub> weigh (in g)?,20;2e1;2E1;21;2.1e1;2.1E1;21.;30;3e1;3E1;30.;3.0e1;3.0E1;30..,short_answer
+How many moles are in a 8.1 g sample of CuSO<sub>4</sub>?,0.051;5.1e-2;5.1E-2;.051;0.05;5e-2;5E-2;.05;0.0510;5.10e-2;5.10E-2;.0510;0.050;5.0e-2;5.0E-2;.050;0.05;5e-2;5E-2;.05;0.0500;5.00e-2;5.00E-2;.0500,short_answer
+How many molecules are in a 3 mol sample of PbO<sub>2</sub>?,2e24;2e24;2E24;1.8e24;1.8e24;1.8E24;1e24;1e24;1E24;1.0e24;1.0e24;1.0E24,short_answer
+What is the number of moles in a 2196 g sample of SrCl<sub>2</sub>?,13.85;1.385e1;1.385E1;13.9;1.39e1;1.39E1;13.850;1.3850e1;1.3850E1;13.84;1.384e1;1.384E1;13.8;1.38e1;1.38E1;13.840;1.3840e1;1.3840E1,short_answer
+How much does 20 mol of PH<sub>3</sub> weigh (in g)?,700;7e2;7E2;680;6.8e2;6.8E2;600;6e2;6E2;6.0e2;6.0e2;6.0E2,short_answer
+How many molecules are in a 0.02 mol sample of AsF<sub>3</sub>?,1e22;1e22;1E22;1.2e22;1.2e22;1.2E22;2e22;2e22;2E22;2.0e22;2.0e22;2.0E22,short_answer
+How many molecules are in a 818.8 g sample of CBr<sub>4</sub>?,1.487e24;1.487e24;1.487E24;1.49e24;1.49e24;1.49E24;1.4869e24;1.4869e24;1.4869E24;1.486e24;1.486e24;1.486E24;1.49e24;1.49e24;1.49E24;1.4860e24;1.4860e24;1.4860E24,short_answer
+What is the mass in g of 0.149 moles of NiCl<sub>2</sub>?,19.3;1.93e1;1.93E1;19;1.9e1;1.9E1;19.;19.31;1.931e1;1.931E1;19.4;1.94e1;1.94E1;19;1.9e1;1.9E1;19.;19.40;1.940e1;1.940E1,short_answer
+How many molecules are in a 2 mol sample of IF<sub>7</sub>?,1e24;1e24;1E24;1.2e24;1.2e24;1.2E24;2e24;2e24;2E24;2.0e24;2.0e24;2.0E24,short_answer
+What is the number of moles in a 1 g sample of HNO<sub>3</sub>?,0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020;0.01;1e-2;1E-2;.01;0.010;1.0e-2;1.0E-2;.010,short_answer
+What is the mass in g of 0.02 moles of HNO<sub>3</sub>?,1;1e0;1E0;1.;1.3;1.3e0;1.3E0;2;2e0;2E0;2.;2.0;2.0e0;2.0E0,short_answer
+How much does 20 mol of NaH weigh (in g)?,500;5e2;5E2;480;4.8e2;4.8E2;400;4e2;4E2;4.0e2;4.0e2;4.0E2,short_answer
+How many moles are in a 44.43 g sample of SO<sub>3</sub>?,0.5550;5.550e-1;5.550E-1;.5550;0.555;5.55e-1;5.55E-1;.555;0.55500;5.5500e-1;5.5500E-1;.55500;0.5549;5.549e-1;5.549E-1;.5549;0.555;5.55e-1;5.55E-1;.555;0.55490;5.5490e-1;5.5490E-1;.55490,short_answer
+How many molecules are in a 50. g sample of CuCl<sub>2</sub>?,2.2e23;2.2e23;2.2E23;2e23;2e23;2E23;2.23e23;2.23e23;2.23E23;2.3e23;2.3e23;2.3E23;2e23;2e23;2E23;2.30e23;2.30e23;2.30E23,short_answer
+How much does 0.301 mol of PbO weigh (in g)?,67.2;6.72e1;6.72E1;67;6.7e1;6.7E1;67.;67.18;6.718e1;6.718E1;67.1;6.71e1;6.71E1;67;6.7e1;6.7E1;67.;67.10;6.710e1;6.710E1,short_answer
+What is the number of moles in a 3 g sample of CuSO<sub>4</sub>?,0.02;2e-2;2E-2;.02;0.020;2.0e-2;2.0E-2;.020;0.01;1e-2;1E-2;.01;0.010;1.0e-2;1.0E-2;.010,short_answer
+How many moles are in a 3 g sample of SiC?,0.07;7e-2;7E-2;.07;0.070;7.0e-2;7.0E-2;.070;0.06;6e-2;6E-2;.06;0.060;6.0e-2;6.0E-2;.060,short_answer
+What is the mass of 6.365 x 10<sup>21</sup> molecules of Ag<sub>2</sub>O in g?,2.449;2.449e0;2.449E0;2.45;2.45e0;2.45E0;2.4494;2.4494e0;2.4494E0;2.450;2.450e0;2.450E0;2.45;2.45e0;2.45E0;2.4500;2.4500e0;2.4500E0,short_answer
+How many moles are in a 8.3 g sample of SeF<sub>6</sub>?,0.043;4.3e-2;4.3E-2;.043;0.04;4e-2;4E-2;.04;0.0430;4.30e-2;4.30E-2;.0430;0.042;4.2e-2;4.2E-2;.042;0.04;4e-2;4E-2;.04;0.0420;4.20e-2;4.20E-2;.0420,short_answer
+What is the mass in g of 0.3 moles of SiF<sub>4</sub>?,30;3e1;3E1;31;3.1e1;3.1E1;31.;40;4e1;4E1;40.;4.0e1;4.0E1;40..,short_answer
+How many moles are in a 42.08 g sample of I<sub>2</sub>?,0.1658;1.658e-1;1.658E-1;.1658;0.166;1.66e-1;1.66E-1;.166;0.16580;1.6580e-1;1.6580E-1;.16580;0.1657;1.657e-1;1.657E-1;.1657;0.166;1.66e-1;1.66E-1;.166;0.16570;1.6570e-1;1.6570E-1;.16570,short_answer
+How many moles are in a 1.916 g sample of TiCl<sub>4</sub>?,0.01010;1.010e-2;1.010E-2;.01010;0.0101;1.01e-2;1.01E-2;.0101;0.010100;1.0100e-2;1.0100E-2;.010100;0.01009;1.009e-2;1.009E-2;.01009;0.0101;1.01e-2;1.01E-2;.0101;0.010090;1.0090e-2;1.0090E-2;.010090,short_answer
+What is the number of moles in a 600 g sample of C<sub>2</sub>H<sub>4</sub>?,20;2e1;2E1;20.;2.0e1;2.0E1;20..;10;1e1;1E1;10.;1.0e1;1.0E1;10..,short_answer
+How much does 0.117 mol of CdCl<sub>2</sub> weigh (in g)?,21.4;2.14e1;2.14E1;21;2.1e1;2.1E1;21.;21.45;2.145e1;2.145E1;21.5;2.15e1;2.15E1;22;2.2e1;2.2E1;22.;21.50;2.150e1;2.150E1,short_answer
+How much does 0.25 mol of LiOH weigh (in g)?,6.0;6.0e0;6.0E0;6;6e0;6E0;6.;5.99;5.99e0;5.99E0;5.9;5.9e0;5.9E0;6;6e0;6E0;6.;5.90;5.90e0;5.90E0,short_answer
+How many molecules are in a 2.0 mol sample of H<sub>3</sub>PO<sub>4</sub>?,1.2e24;1.2e24;1.2E24;1e24;1e24;1E24;1.20e24;1.20e24;1.20E24;1.3e24;1.3e24;1.3E24;1e24;1e24;1E24;1.30e24;1.30e24;1.30E24,short_answer
+How many molecules are in a 36 g sample of ReCl<sub>4</sub>?,6.6e22;6.6e22;6.6E22;7e22;7e22;7E22;6.62e22;6.62e22;6.62E22;6.7e22;6.7e22;6.7E22;7e22;7e22;7E22;6.70e22;6.70e22;6.70E22,short_answer
+What is the mass of 2.15 x 10<sup>23</sup> molecules of FeCl<sub>3</sub> in g?,57.9;5.79e1;5.79E1;58;5.8e1;5.8E1;58.;57.90;5.790e1;5.790E1;58.0;5.80e1;5.80E1;58;5.8e1;5.8E1;58.;58.00;5.800e1;5.800E1,short_answer
+What is the mass in g of 0.07089 moles of HCN?,1.916;1.916e0;1.916E0;1.92;1.92e0;1.92E0;1.9159;1.9159e0;1.9159E0;1.915;1.915e0;1.915E0;1.92;1.92e0;1.92E0;1.9150;1.9150e0;1.9150E0,short_answer
+How many moles are in a 504.7 g sample of Tl<sub>2</sub>O<sub>3</sub>?,1.105;1.105e0;1.105E0;1.11;1.11e0;1.11E0;1.1050;1.1050e0;1.1050E0;1.104;1.104e0;1.104E0;1.10;1.10e0;1.10E0;1.1040;1.1040e0;1.1040E0,short_answer
+How many molecules are in a 31.73 g sample of FeCl<sub>3</sub>?,1.178e23;1.178e23;1.178E23;1.18e23;1.18e23;1.18E23;1.1779e23;1.1779e23;1.1779E23;1.177e23;1.177e23;1.177E23;1.18e23;1.18e23;1.18E23;1.1770e23;1.1770e23;1.1770E23,short_answer
+How many molecules are in a 15.42 g sample of C<sub>3</sub>H<sub>8</sub>?,2.106e23;2.106e23;2.106E23;2.11e23;2.11e23;2.11E23;2.1059e23;2.1059e23;2.1059E23;2.105e23;2.105e23;2.105E23;2.11e23;2.11e23;2.11E23;2.1050e23;2.1050e23;2.1050E23,short_answer
+What is the number of moles in a 78.7 g sample of C<sub>7</sub>H<sub>16</sub>?,0.785;7.85e-1;7.85E-1;.785;0.79;7.9e-1;7.9E-1;.79;0.7850;7.850e-1;7.850E-1;.7850;0.784;7.84e-1;7.84E-1;.784;0.78;7.8e-1;7.8E-1;.78;0.7840;7.840e-1;7.840E-1;.7840,short_answer
+How many molecules are in a 12.76 mol sample of CoO?,7.684e24;7.684e24;7.684E24;7.68e24;7.68e24;7.68E24;7.6843e24;7.6843e24;7.6843E24;7.685e24;7.685e24;7.685E24;7.69e24;7.69e24;7.69E24;7.6850e24;7.6850e24;7.6850E24,short_answer
+How many molecules are in a 54 g sample of HfCl<sub>4</sub>?,1.0e23;1.0e23;1.0E23;1e23;1e23;1E23;1.02e23;1.02e23;1.02E23;1.1e23;1.1e23;1.1E23;1e23;1e23;1E23;1.10e23;1.10e23;1.10E23,short_answer
+How many molecules are in a 0.2 mol sample of NO<sub>2</sub>?,1e23;1e23;1E23;1.2e23;1.2e23;1.2E23;2e23;2e23;2E23;2.0e23;2.0e23;2.0E23,short_answer
+What is the mass in g of 1.294 moles of ReF<sub>6</sub>?,388.5;3.885e2;3.885E2;388;3.88e2;3.88E2;388.;388.46;3.8846e2;3.8846E2;388.4;3.884e2;3.884E2;388;3.88e2;3.88E2;388.;388.40;3.8840e2;3.8840E2,short_answer
+How many molecules are in a 190 g sample of K<sub>2</sub>S?,1.0e24;1.0e24;1.0E24;1e24;1e24;1E24;1.02e24;1.02e24;1.02E24;1.1e24;1.1e24;1.1E24;1e24;1e24;1E24;1.10e24;1.10e24;1.10E24,short_answer
+How many moles are in a 5100 g sample of SrCl<sub>2</sub>?,32;3.2e1;3.2E1;32.;30;3e1;3E1;32.0;3.20e1;3.20E1;31;3.1e1;3.1E1;31.;30;3e1;3E1;31.0;3.10e1;3.10E1,short_answer
+What is the mass of 3 x 10<sup>23</sup> molecules of C<sub>6</sub>H<sub>6</sub> in g?,40;4e1;4E1;39;3.9e1;3.9E1;39.;30;3e1;3E1;30.;3.0e1;3.0E1;30..,short_answer
+How many molecules are in a 0.08407 mol sample of XeF<sub>6</sub>?,5.063e22;5.063e22;5.063E22;5.06e22;5.06e22;5.06E22;5.0628e22;5.0628e22;5.0628E22;5.062e22;5.062e22;5.062E22;5.06e22;5.06e22;5.06E22;5.0620e22;5.0620e22;5.0620E22,short_answer
+How many moles are in a 8 g sample of KH?,0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20;0.1;1e-1;1E-1;.1;0.10;1.0e-1;1.0E-1;.10,short_answer
+How many molecules are in a 68.2 g sample of C<sub>2</sub>H<sub>6</sub>O?,8.91e23;8.91e23;8.91E23;8.9e23;8.9e23;8.9E23;8.913e23;8.913e23;8.913E23;8.92e23;8.92e23;8.92E23;8.9e23;8.9e23;8.9E23;8.920e23;8.920e23;8.920E23,short_answer
+How many moles are in a 30 g sample of MgCl<sub>2</sub>?,0.3;3e-1;3E-1;.3;0.30;3.0e-1;3.0E-1;.30;0.2;2e-1;2E-1;.2;0.20;2.0e-1;2.0E-1;.20,short_answer
+How many molecules are in a 222.1 g sample of C<sub>2</sub>H<sub>6</sub>?,4.448e24;4.448e24;4.448E24;4.45e24;4.45e24;4.45E24;4.4480e24;4.4480e24;4.4480E24;4.447e24;4.447e24;4.447E24;4.45e24;4.45e24;4.45E24;4.4470e24;4.4470e24;4.4470E24,short_answer
+What is the mass of 1.644 x 10<sup>24</sup> molecules of SiF<sub>4</sub> in g?,284.1;2.841e2;2.841E2;284;2.84e2;2.84E2;284.;284.13;2.8413e2;2.8413E2;284.2;2.842e2;2.842E2;284;2.84e2;2.84E2;284.;284.20;2.8420e2;2.8420E2,short_answer
+What is the mass of 8.4 x 10<sup>22</sup> molecules of Ag<sub>2</sub>O in g?,32;3.2e1;3.2E1;32.;30;3e1;3E1;32.4;3.24e1;3.24E1;33;3.3e1;3.3E1;33.;30;3e1;3E1;33.0;3.30e1;3.30E1,short_answer
+How much does 7.152 mol of C<sub>6</sub>H<sub>12</sub> weigh (in g)?,601.9;6.019e2;6.019E2;602;6.02e2;6.02E2;602.;601.93;6.0193e2;6.0193E2;602.0;6.020e2;6.020E2;602;6.02e2;6.02E2;602.;602.00;6.0200e2;6.0200E2,short_answer
+How much does 0.03308 mol of RnF<sub>2</sub> weigh (in g)?,8.601;8.601e0;8.601E0;8.60;8.60e0;8.60E0;8.6007;8.6007e0;8.6007E0;8.600;8.600e0;8.600E0;8.60;8.60e0;8.60E0;8.6000;8.6000e0;8.6000E0,short_answer
+How many molecules are in a 0.01447 mol sample of NO?,8.714e21;8.714e21;8.714E21;8.71e21;8.71e21;8.71E21;8.7140e21;8.7140e21;8.7140E21;8.715e21;8.715e21;8.715E21;8.71e21;8.71e21;8.71E21;8.7150e21;8.7150e21;8.7150E21,short_answer
+How many molecules are in a 35.36 g sample of ReCl<sub>4</sub>?,6.492e22;6.492e22;6.492E22;6.49e22;6.49e22;6.49E22;6.4919e22;6.4919e22;6.4919E22;6.491e22;6.491e22;6.491E22;6.49e22;6.49e22;6.49E22;6.4910e22;6.4910e22;6.4910E22,short_answer
+How many moles are in a 75.8 g sample of CrF<sub>2</sub>?,0.842;8.42e-1;8.42E-1;.842;0.84;8.4e-1;8.4E-1;.84;0.8420;8.420e-1;8.420E-1;.8420;0.841;8.41e-1;8.41E-1;.841;0.84;8.4e-1;8.4E-1;.84;0.8410;8.410e-1;8.410E-1;.8410,short_answer
+What is the mass in g of 2 moles of KNO<sub>3</sub>?,200;2e2;2E2;2.0e2;2.0e2;2.0E2;300;3e2;3E2;3.0e2;3.0e2;3.0E2,short_answer
+What is the mass in g of 2.125 moles of AlN?,87.10;8.710e1;8.710E1;87.1;8.71e1;8.71E1;87.101;8.7101e1;8.7101E1;87.11;8.711e1;8.711E1;87.1;8.71e1;8.71E1;87.110;8.7110e1;8.7110E1,short_answer
+How many moles are in a 400 g sample of TiCl<sub>4</sub>?,2;2e0;2E0;2.;2.0;2.0e0;2.0E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+How much does 0.03 mol of NaCl weigh (in g)?,2;2e0;2E0;2.;1.8;1.8e0;1.8E0;1;1e0;1E0;1.;1.0;1.0e0;1.0E0,short_answer
+What is the mass of 1.372 x 10<sup>23</sup> molecules of MgF<sub>2</sub> in g?,14.19;1.419e1;1.419E1;14.2;1.42e1;1.42E1;14.192;1.4192e1;1.4192E1;14.20;1.420e1;1.420E1;14.2;1.42e1;1.42E1;14.200;1.4200e1;1.4200E1,short_answer
+How many molecules are in a 9.6 g sample of LiOH?,2.4e23;2.4e23;2.4E23;2e23;2e23;2E23;2.41e23;2.41e23;2.41E23;2.5e23;2.5e23;2.5E23;3e23;3e23;3E23;2.50e23;2.50e23;2.50E23,short_answer
+How many moles are in a 4290 g sample of H<sub>3</sub>PO<sub>4</sub>?,43.8;4.38e1;4.38E1;44;4.4e1;4.4E1;44.;43.80;4.380e1;4.380E1;43.7;4.37e1;4.37E1;44;4.4e1;4.4E1;44.;43.70;4.370e1;4.370E1,short_answer
+How many moles are in a 447 g sample of AlN?,10.9;1.09e1;1.09E1;11;1.1e1;1.1E1;11.;10.90;1.090e1;1.090E1;10.8;1.08e1;1.08E1;11;1.1e1;1.1E1;11.;10.80;1.080e1;1.080E1,short_answer
+What is the number of moles in a 2100 g sample of CO<sub>2</sub>?,48;4.8e1;4.8E1;48.;50;5e1;5E1;48.0;4.80e1;4.80E1;47;4.7e1;4.7E1;47.;50;5e1;5E1;47.0;4.70e1;4.70E1,short_answer
+How many moles are in a 10.0 g sample of HgO?,0.046;4.6e-2;4.6E-2;.046;0.05;5e-2;5E-2;.05;0.0460;4.60e-2;4.60E-2;.0460;0.045;4.5e-2;4.5E-2;.045;0.05;5e-2;5E-2;.05;0.0450;4.50e-2;4.50E-2;.0450,short_answer
+How much does 46.36 mol of C<sub>7</sub>H<sub>16</sub> weigh (in g)?,4646;4.646e3;4.646E3;4646.;4650;4.65e3;4.65E3;4645.5;4.6455e3;4.6455E3;4645;4.645e3;4.645E3;4645.;4650;4.65e3;4.65E3;4645.0;4.6450e3;4.6450E3,short_answer
+How much does 0.015 mol of GaAs weigh (in g)?,2.2;2.2e0;2.2E0;2;2e0;2E0;2.;2.17;2.17e0;2.17E0;2.1;2.1e0;2.1E0;2;2e0;2E0;2.;2.10;2.10e0;2.10E0,short_answer
+How many molecules are in a 70 g sample of CrF<sub>2</sub>?,5e23;5e23;5E23;4.8e23;4.8e23;4.8E23;4e23;4e23;4E23;4.0e23;4.0e23;4.0E23,short_answer
+How many moles are in a 96 g sample of C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>?,1.6;1.6e0;1.6E0;2;2e0;2E0;2.;1.60;1.60e0;1.60E0;1.5;1.5e0;1.5E0;2;2e0;2E0;2.;1.50;1.50e0;1.50E0,short_answer
+What is the mass of 2.618 x 10<sup>23</sup> molecules of FeCl<sub>3</sub> in g?,70.51;7.051e1;7.051E1;70.5;7.05e1;7.05E1;70.506;7.0506e1;7.0506E1;70.50;7.050e1;7.050E1;70.5;7.05e1;7.05E1;70.500;7.0500e1;7.0500E1,short_answer
+How much does 0.676 mol of P<sub>2</sub>O<sub>5</sub> weigh (in g)?,96.0;9.60e1;9.60E1;96;9.6e1;9.6E1;96.;95.95;9.595e1;9.595E1;95.9;9.59e1;9.59E1;96;9.6e1;9.6E1;96.;95.90;9.590e1;9.590E1,short_answer
+How much does 3.042 mol of CrF<sub>2</sub> weigh (in g)?,273.8;2.738e2;2.738E2;274;2.74e2;2.74E2;274.;273.76;2.7376e2;2.7376E2;273.7;2.737e2;2.737E2;274;2.74e2;2.74E2;274.;273.70;2.7370e2;2.7370E2,short_answer
+What is the number of moles in a 2470 g sample of Bi<sub>2</sub>O<sub>3</sub>?,5.30;5.30e0;5.30E0;5.3;5.3e0;5.3E0;5.300;5.300e0;5.300E0;5.29;5.29e0;5.29E0;5.3;5.3e0;5.3E0;5.290;5.290e0;5.290E0,short_answer
+How many molecules are in a 1.48 mol sample of AgNO<sub>3</sub>?,8.91e23;8.91e23;8.91E23;8.9e23;8.9e23;8.9E23;8.913e23;8.913e23;8.913E23;8.92e23;8.92e23;8.92E23;8.9e23;8.9e23;8.9E23;8.920e23;8.920e23;8.920E23,short_answer
+How many moles are in a 3.32 g sample of MgCO<sub>3</sub>?,0.0394;3.94e-2;3.94E-2;.0394;0.039;3.9e-2;3.9E-2;.039;0.03940;3.940e-2;3.940E-2;.03940;0.0393;3.93e-2;3.93E-2;.0393;0.039;3.9e-2;3.9E-2;.039;0.03930;3.930e-2;3.930E-2;.03930,short_answer
+How much does 0.027 mol of H<sub>2</sub> weigh (in g)?,0.054;5.4e-2;5.4E-2;.054;0.05;5e-2;5E-2;.05;0.0544;5.44e-2;5.44E-2;.0544;0.055;5.5e-2;5.5E-2;.055;0.06;6e-2;6E-2;.06;0.0550;5.50e-2;5.50E-2;.0550,short_answer
+What is the number of moles in a 600. g sample of V<sub>2</sub>O<sub>5</sub>?,3.30;3.30e0;3.30E0;3.3;3.3e0;3.3E0;3.300;3.300e0;3.300E0;3.29;3.29e0;3.29E0;3.3;3.3e0;3.3E0;3.290;3.290e0;3.290E0,short_answer
+What is the number of moles in a 79.00 g sample of HCl?,2.167;2.167e0;2.167E0;2.17;2.17e0;2.17E0;2.1670;2.1670e0;2.1670E0;2.166;2.166e0;2.166E0;2.17;2.17e0;2.17E0;2.1660;2.1660e0;2.1660E0,short_answer
+What is the number of moles in a 688.4 g sample of Cs<sub>2</sub>S?,2.311;2.311e0;2.311E0;2.31;2.31e0;2.31E0;2.3110;2.3110e0;2.3110E0;2.310;2.310e0;2.310E0;2.31;2.31e0;2.31E0;2.3100;2.3100e0;2.3100E0,short_answer

@@ -69,7 +69,7 @@
 <body>
     <div class="header">
         <div class="title">Periodic Table of the Elements</div>
-        <img src="png/chembio_horiz.png" alt="Logo">
+        <img src="chembio_horiz.png" alt="Logo">
     </div>
     <table>
         {% for row in table %}
@@ -85,8 +85,8 @@
                 {% if cell.mass is not none %}
                 <div>{{cell.mass}}</div>
                 {% endif %}
-                {% for property, value in cell.extra_properties.items() %}
-                <div>{{ property }}: {{ value }}</div>
+                {% for value in cell.extra_properties %}
+                <div>{{value}}</div>
                 {% endfor %}
             </td>
             {% endif %}

@@ -1,0 +1,1001 @@
+question,correct_answers,question_type
+Convert 10 mi to mmi,10000;1e4;1E4,short_answer
+Convert 1000 cs to s,10;1e1;1E1,short_answer
+Convert 0.1 cs to s,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 kday to day,100;1e2;1E2,short_answer
+Convert 10 mi to Gmi,1e-8;1e-8;1E-8,short_answer
+Convert 0.01 oz to Goz,1e-11;1e-11;1E-11,short_answer
+Convert 1 x 10<sup>6</sup> mPa to Pa,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>4</sup> µg to g,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-8</sup> Mlb to lb,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>8</sup> µh to h,100;1e2;1E2,short_answer
+Convert 0.01 Pa to mPa,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>7</sup> µh to h,10;1e1;1E1,short_answer
+Convert 0.01 m to km,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 L to cL,100;1e2;1E2,short_answer
+Convert 10 bar to mbar,10000;1e4;1E4,short_answer
+Convert 100 mh to h,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 L to cL,1;1e0;1E0;1.,short_answer
+Convert 0.01 cal to kcal,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>8</sup> µmi to mi,100;1e2;1E2,short_answer
+Convert 0.001 Pa to µPa,1000;1e3;1E3,short_answer
+Convert 0.01 lb to clb,1;1e0;1E0;1.,short_answer
+Convert 1 mi to cmi,100;1e2;1E2,short_answer
+Convert 0.01 bar to Gbar,1e-11;1e-11;1E-11,short_answer
+Convert 10 min to cmin,1000;1e3;1E3,short_answer
+Convert 0.001 MJ to J,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-11</sup> Gday to day,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 g to ng,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>5</sup> µm to m,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-6</sup> kgal to gal,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 cal to Gcal,1e-12;1e-12;1E-12,short_answer
+Convert 0.001 Pa to nPa,1000000;1e6;1E6,short_answer
+Convert 0.01 cal to ccal,1;1e0;1E0;1.,short_answer
+Convert 10 cal to mcal,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>5</sup> mcal to cal,100;1e2;1E2,short_answer
+Convert 1000 h to Mh,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 Moz to oz,1000;1e3;1E3,short_answer
+Convert 100 gal to Ggal,1e-7;1e-7;1E-7,short_answer
+Convert 1 x 10<sup>6</sup> µJ to J,1;1e0;1E0;1.,short_answer
+Convert 0.1 J to µJ,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>5</sup> moz to oz,100;1e2;1E2,short_answer
+Convert 100 mcal to cal,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 kL to L,100;1e2;1E2,short_answer
+Convert 0.001 oz to µoz,1000;1e3;1E3,short_answer
+Convert 0.1 ft to Gft,1e-10;1e-10;1E-10,short_answer
+Convert 0.1 min to Mmin,1e-7;1e-7;1E-7,short_answer
+Convert 1 cal to ccal,100;1e2;1E2,short_answer
+Convert 0.1 min to mmin,100;1e2;1E2,short_answer
+Convert 0.001 Mh to h,1000;1e3;1E3,short_answer
+Convert 1000 s to cs,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>6</sup> µm to m,1;1e0;1E0;1.,short_answer
+Convert 0.1 mi to mmi,100;1e2;1E2,short_answer
+Convert 10 oz to Moz,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 10 g to kg,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 cal to Mcal,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>6</sup> nL to L,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 m to Mm,0.000001;1e-6;1E-6,short_answer
+Convert 1 h to Gh,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>4</sup> µcal to cal,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-10</sup> Gh to h,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 mlb to lb,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 mh to h,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-6</sup> km to m,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 J to cJ,10;1e1;1E1,short_answer
+Convert 0.01 s to ks,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 0.01 s to µs,10000;1e4;1E4,short_answer
+Convert 1 J to nJ,1e9;1e9;1E9,short_answer
+Convert 1 x 10<sup>-7</sup> GJ to J,100;1e2;1E2,short_answer
+Convert 100 mi to cmi,10000;1e4;1E4,short_answer
+Convert 1000 lb to clb,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>-7</sup> MJ to J,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-6</sup> Ggal to gal,1000;1e3;1E3,short_answer
+Convert 0.1 kgal to gal,100;1e2;1E2,short_answer
+Convert 0.01 gal to mgal,10;1e1;1E1,short_answer
+Convert 0.001 day to cday,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 cal to mcal,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>8</sup> µPa to Pa,100;1e2;1E2,short_answer
+Convert 10 mlb to lb,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-9</sup> MJ to J,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 L to mL,1000000;1e6;1E6,short_answer
+Convert 10 ms to s,0.01;1e-2;1E-2;.01,short_answer
+Convert 100 day to nday,1e11;1e11;1E11,short_answer
+Convert 0.01 Pa to µPa,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>10</sup> noz to oz,10;1e1;1E1,short_answer
+Convert 0.01 bar to mbar,10;1e1;1E1,short_answer
+Convert 0.1 cal to mcal,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>4</sup> cL to L,100;1e2;1E2,short_answer
+Convert 1 h to mh,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>4</sup> mh to h,10;1e1;1E1,short_answer
+Convert 0.1 cg to g,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 cal to µcal,10000;1e4;1E4,short_answer
+Convert 10 day to kday,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.01 ft to Mft,1e-8;1e-8;1E-8,short_answer
+Convert 1000 Pa to kPa,1;1e0;1E0;1.,short_answer
+Convert 1000 bar to Mbar,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-11</sup> Gday to day,0.01;1e-2;1E-2;.01,short_answer
+Convert 100 g to kg,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 bar to µbar,1e7;1e7;1E7,short_answer
+Convert 1 kday to day,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-8</sup> Mm to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 J to cJ,10;1e1;1E1,short_answer
+Convert 1000 bar to Mbar,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 s to ns,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>-5</sup> kgal to gal,0.01;1e-2;1E-2;.01,short_answer
+Convert 10 mmi to mi,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 Pa to GPa,1e-12;1e-12;1E-12,short_answer
+Convert 1 ft to Mft,0.000001;1e-6;1E-6,short_answer
+Convert 100 ch to h,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-6</sup> Ms to s,1;1e0;1E0;1.,short_answer
+Convert 1000 gal to Ggal,0.000001;1e-6;1E-6,short_answer
+Convert 1000 bar to µbar,1e9;1e9;1E9,short_answer
+Convert 0.01 bar to µbar,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>7</sup> µday to day,10;1e1;1E1,short_answer
+Convert 10 cday to day,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-8</sup> Mcal to cal,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.01 kbar to bar,10;1e1;1E1,short_answer
+Convert 0.1 bar to mbar,100;1e2;1E2,short_answer
+Convert 0.001 ft to Mft,1e-9;1e-9;1E-9,short_answer
+Convert 1000 lb to klb,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-10</sup> GJ to J,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 mi to cmi,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>8</sup> µgal to gal,100;1e2;1E2,short_answer
+Convert 10 g to µg,1e7;1e7;1E7,short_answer
+Convert 100 J to cJ,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-9</sup> Gbar to bar,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>4</sup> mbar to bar,10;1e1;1E1,short_answer
+Convert 100 s to Ms,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1000 µgal to gal,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 s to ms,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>5</sup> cL to L,1000;1e3;1E3,short_answer
+Convert 100 cal to Mcal,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 10 cal to Gcal,1e-8;1e-8;1E-8,short_answer
+Convert 100 bar to µbar,1e8;1e8;1E8,short_answer
+Convert 1 x 10<sup>-4</sup> Mday to day,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>6</sup> mm to m,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>5</sup> ccal to cal,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>4</sup> µL to L,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 ft to kft,1;1e0;1E0;1.,short_answer
+Convert 0.1 day to Mday,1e-7;1e-7;1E-7,short_answer
+Convert 1 mi to µmi,1000000;1e6;1E6,short_answer
+Convert 1000 h to Mh,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 m to Gm,1e-7;1e-7;1E-7,short_answer
+Convert 1 x 10<sup>7</sup> µmin to min,10;1e1;1E1,short_answer
+Convert 100 h to kh,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 s to Ms,1e-9;1e-9;1E-9,short_answer
+Convert 0.01 day to µday,10000;1e4;1E4,short_answer
+Convert 0.001 L to kL,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>-6</sup> Mday to day,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-9</sup> Mh to h,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 mi to Gmi,0.000001;1e-6;1E-6,short_answer
+Convert 100 J to nJ,1e11;1e11;1E11,short_answer
+Convert 1 x 10<sup>-11</sup> Gmi to mi,0.01;1e-2;1E-2;.01,short_answer
+Convert 10 Pa to nPa,1e10;1e10;1E10,short_answer
+Convert 1 x 10<sup>-12</sup> GJ to J,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-9</sup> Mlb to lb,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 s to ms,10000;1e4;1E4,short_answer
+Convert 0.1 m to cm,10;1e1;1E1,short_answer
+Convert 100 s to ks,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 mJ to J,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-7</sup> Gm to m,100;1e2;1E2,short_answer
+Convert 10 coz to oz,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 s to µs,1e7;1e7;1E7,short_answer
+Convert 1 x 10<sup>-5</sup> Moz to oz,10;1e1;1E1,short_answer
+Convert 0.001 min to Gmin,1e-12;1e-12;1E-12,short_answer
+Convert 0.1 m to µm,100000;1e5;1E5,short_answer
+Convert 0.01 klb to lb,10;1e1;1E1,short_answer
+Convert 1000 gal to cgal,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>-7</sup> GJ to J,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-6</sup> kmin to min,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 day to nday,1e12;1e12;1E12,short_answer
+Convert 100 L to ML,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1000 mh to h,1;1e0;1E0;1.,short_answer
+Convert 10 s to µs,1e7;1e7;1E7,short_answer
+Convert 1 x 10<sup>6</sup> nlb to lb,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 cJ to J,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 bar to Mbar,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1 x 10<sup>6</sup> mL to L,1000;1e3;1E3,short_answer
+Convert 100 mcal to cal,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 bar to mbar,100;1e2;1E2,short_answer
+Convert 0.01 gal to µgal,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-9</sup> Glb to lb,1;1e0;1E0;1.,short_answer
+Convert 1000 h to ch,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>-12</sup> Gbar to bar,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-8</sup> Moz to oz,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 lb to clb,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 lb to clb,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-6</sup> Mg to g,1;1e0;1E0;1.,short_answer
+Convert 0.001 Mlb to lb,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>6</sup> mm to m,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>4</sup> µoz to oz,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 min to cmin,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>9</sup> µg to g,1000;1e3;1E3,short_answer
+Convert 1000 h to ch,100000;1e5;1E5,short_answer
+Convert 100 gal to ngal,1e11;1e11;1E11,short_answer
+Convert 1000 µs to s,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 s to ks,1;1e0;1E0;1.,short_answer
+Convert 10 gal to kgal,0.01;1e-2;1E-2;.01,short_answer
+Convert 100 g to ng,1e11;1e11;1E11,short_answer
+Convert 0.1 lb to Glb,1e-10;1e-10;1E-10,short_answer
+Convert 10 ch to h,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 day to µday,1e7;1e7;1E7,short_answer
+Convert 1000 min to Mmin,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-10</sup> Gmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 day to nday,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>5</sup> cL to L,1000;1e3;1E3,short_answer
+Convert 0.001 s to ms,1;1e0;1E0;1.,short_answer
+Convert 1000 min to nmin,1e12;1e12;1E12,short_answer
+Convert 1 m to Gm,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>8</sup> µmin to min,100;1e2;1E2,short_answer
+Convert 0.001 bar to nbar,1000000;1e6;1E6,short_answer
+Convert 0.001 mi to cmi,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 ft to Mft,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 0.01 gal to mgal,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-7</sup> Goz to oz,100;1e2;1E2,short_answer
+Convert 100 L to ML,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 100 h to µh,1e8;1e8;1E8,short_answer
+Convert 0.001 s to Ms,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>-9</sup> Ms to s,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-10</sup> Gmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 kcal to cal,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-8</sup> Gft to ft,10;1e1;1E1,short_answer
+Convert 100 ms to s,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 h to nh,1e12;1e12;1E12,short_answer
+Convert 100 cg to g,1;1e0;1E0;1.,short_answer
+Convert 0.1 day to Mday,1e-7;1e-7;1E-7,short_answer
+Convert 1 x 10<sup>-5</sup> Mm to m,10;1e1;1E1,short_answer
+Convert 100 coz to oz,1;1e0;1E0;1.,short_answer
+Convert 0.1 lb to nlb,1e8;1e8;1E8,short_answer
+Convert 1 x 10<sup>7</sup> µmin to min,10;1e1;1E1,short_answer
+Convert 100 cbar to bar,1;1e0;1E0;1.,short_answer
+Convert 1 h to Mh,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>4</sup> mcal to cal,10;1e1;1E1,short_answer
+Convert 100 s to Gs,1e-7;1e-7;1E-7,short_answer
+Convert 100 mi to mmi,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>-5</sup> kL to L,0.01;1e-2;1E-2;.01,short_answer
+Convert 10 cm to m,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 oz to µoz,1e8;1e8;1E8,short_answer
+Convert 100 gal to cgal,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>6</sup> µPa to Pa,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>9</sup> µL to L,1000;1e3;1E3,short_answer
+Convert 100 h to µh,1e8;1e8;1E8,short_answer
+Convert 0.001 gal to kgal,0.000001;1e-6;1E-6,short_answer
+Convert 100 cm to m,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>4</sup> cgal to gal,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>4</sup> mcal to cal,10;1e1;1E1,short_answer
+Convert 10 Pa to GPa,1e-8;1e-8;1E-8,short_answer
+Convert 100 gal to kgal,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 g to Mg,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1000 gal to cgal,100000;1e5;1E5,short_answer
+Convert 100 day to kday,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 gal to Ggal,1e-10;1e-10;1E-10,short_answer
+Convert 1 x 10<sup>6</sup> mft to ft,1000;1e3;1E3,short_answer
+Convert 0.001 s to ms,1;1e0;1E0;1.,short_answer
+Convert 0.01 J to MJ,1e-8;1e-8;1E-8,short_answer
+Convert 1 mday to day,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 lb to µlb,1e8;1e8;1E8,short_answer
+Convert 0.001 ft to Mft,1e-9;1e-9;1E-9,short_answer
+Convert 0.01 mi to kmi,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 10 day to cday,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-12</sup> Gm to m,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>7</sup> ng to g,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>6</sup> mh to h,1000;1e3;1E3,short_answer
+Convert 10 cPa to Pa,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-8</sup> GJ to J,10;1e1;1E1,short_answer
+Convert 1 day to cday,100;1e2;1E2,short_answer
+Convert 0.1 bar to mbar,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>7</sup> nm to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 oz to µoz,1000;1e3;1E3,short_answer
+Convert 1000 lb to nlb,1e12;1e12;1E12,short_answer
+Convert 1 x 10<sup>-12</sup> Gs to s,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 ccal to cal,1;1e0;1E0;1.,short_answer
+Convert 1000 min to mmin,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>-4</sup> kJ to J,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 gal to mgal,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>8</sup> µh to h,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-8</sup> Glb to lb,10;1e1;1E1,short_answer
+Convert 1 day to mday,1000;1e3;1E3,short_answer
+Convert 0.1 cPa to Pa,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-6</sup> kh to h,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 J to cJ,10;1e1;1E1,short_answer
+Convert 100 clb to lb,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-9</sup> MJ to J,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 bar to Mbar,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1000 gal to Ggal,0.000001;1e-6;1E-6,short_answer
+Convert 0.01 kft to ft,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-11</sup> Gh to h,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>5</sup> cgal to gal,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-7</sup> Mbar to bar,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>8</sup> nPa to Pa,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 min to µmin,1000;1e3;1E3,short_answer
+Convert 1000 µlb to lb,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 g to mg,10000;1e4;1E4,short_answer
+Convert 100 cal to ccal,10000;1e4;1E4,short_answer
+Convert 1 cbar to bar,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>7</sup> µm to m,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>6</sup> µg to g,1;1e0;1E0;1.,short_answer
+Convert 1000 mcal to cal,1;1e0;1E0;1.,short_answer
+Convert 10 s to ns,1e10;1e10;1E10,short_answer
+Convert 1000 L to µL,1e9;1e9;1E9,short_answer
+Convert 1 x 10<sup>5</sup> cL to L,1000;1e3;1E3,short_answer
+Convert 10 min to µmin,1e7;1e7;1E7,short_answer
+Convert 0.1 m to µm,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>-9</sup> Gg to g,1;1e0;1E0;1.,short_answer
+Convert 1 ft to cft,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>10</sup> nPa to Pa,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-6</sup> kcal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 L to kL,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 kcal to cal,10;1e1;1E1,short_answer
+Convert 100 L to nL,1e11;1e11;1E11,short_answer
+Convert 0.001 mi to Mmi,1e-9;1e-9;1E-9,short_answer
+Convert 10 Pa to nPa,1e10;1e10;1E10,short_answer
+Convert 1 x 10<sup>9</sup> µPa to Pa,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>6</sup> nJ to J,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>4</sup> cs to s,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>9</sup> nPa to Pa,1;1e0;1E0;1.,short_answer
+Convert 1000 cal to mcal,1000000;1e6;1E6,short_answer
+Convert 10 g to µg,1e7;1e7;1E7,short_answer
+Convert 1 bar to kbar,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 cL to L,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 gal to ngal,1e9;1e9;1E9,short_answer
+Convert 1 Pa to µPa,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>10</sup> ncal to cal,10;1e1;1E1,short_answer
+Convert 1 oz to Moz,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>-9</sup> Mcal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 h to Mh,1e-8;1e-8;1E-8,short_answer
+Convert 10 mlb to lb,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 cal to µcal,1e9;1e9;1E9,short_answer
+Convert 0.1 kmin to min,100;1e2;1E2,short_answer
+Convert 10 mgal to gal,0.01;1e-2;1E-2;.01,short_answer
+Convert 100 mi to mmi,100000;1e5;1E5,short_answer
+Convert 0.1 s to ns,1e8;1e8;1E8,short_answer
+Convert 0.001 m to cm,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 mm to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>4</sup> mcal to cal,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-4</sup> kL to L,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 J to GJ,1e-7;1e-7;1E-7,short_answer
+Convert 1 x 10<sup>8</sup> µcal to cal,100;1e2;1E2,short_answer
+Convert 100 day to Mday,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 0.01 bar to Mbar,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>-7</sup> Goz to oz,100;1e2;1E2,short_answer
+Convert 0.001 gal to µgal,1000;1e3;1E3,short_answer
+Convert 1 mft to ft,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>8</sup> nL to L,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>8</sup> nPa to Pa,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-8</sup> Gmi to mi,10;1e1;1E1,short_answer
+Convert 1 J to MJ,0.000001;1e-6;1E-6,short_answer
+Convert 0.001 Ms to s,1000;1e3;1E3,short_answer
+Convert 0.001 m to nm,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>-6</sup> Gft to ft,1000;1e3;1E3,short_answer
+Convert 1000 gal to kgal,1;1e0;1E0;1.,short_answer
+Convert 0.001 Mft to ft,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>10</sup> nh to h,10;1e1;1E1,short_answer
+Convert 1 cal to kcal,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 lb to Glb,1e-10;1e-10;1E-10,short_answer
+Convert 1 mbar to bar,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 oz to Goz,1e-7;1e-7;1E-7,short_answer
+Convert 1 coz to oz,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 kft to ft,1;1e0;1E0;1.,short_answer
+Convert 1 h to Mh,0.000001;1e-6;1E-6,short_answer
+Convert 0.01 kgal to gal,10;1e1;1E1,short_answer
+Convert 0.01 g to cg,1;1e0;1E0;1.,short_answer
+Convert 100 h to ch,10000;1e4;1E4,short_answer
+Convert 0.1 kbar to bar,100;1e2;1E2,short_answer
+Convert 1 s to Ms,0.000001;1e-6;1E-6,short_answer
+Convert 10 bar to nbar,1e10;1e10;1E10,short_answer
+Convert 1 gal to kgal,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 J to GJ,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>-7</sup> Ggal to gal,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-8</sup> Mmin to min,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>10</sup> noz to oz,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-11</sup> Gmin to min,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 s to ks,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 0.01 s to Gs,1e-11;1e-11;1E-11,short_answer
+Convert 1 day to mday,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>5</sup> µgal to gal,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-4</sup> ks to s,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-9</sup> Gcal to cal,1;1e0;1E0;1.,short_answer
+Convert 100 J to µJ,1e8;1e8;1E8,short_answer
+Convert 10 g to Mg,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>-10</sup> Gmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-5</sup> Mgal to gal,10;1e1;1E1,short_answer
+Convert 10 day to µday,1e7;1e7;1E7,short_answer
+Convert 0.01 J to µJ,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>11</sup> noz to oz,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>7</sup> µbar to bar,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-6</sup> Gh to h,1000;1e3;1E3,short_answer
+Convert 0.1 cal to ccal,10;1e1;1E1,short_answer
+Convert 1 m to cm,100;1e2;1E2,short_answer
+Convert 1000 lb to Mlb,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 L to kL,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.01 min to µmin,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-8</sup> Gmin to min,10;1e1;1E1,short_answer
+Convert 0.1 ft to nft,1e8;1e8;1E8,short_answer
+Convert 1 mi to nmi,1e9;1e9;1E9,short_answer
+Convert 1 x 10<sup>-9</sup> Gbar to bar,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>4</sup> µgal to gal,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 ft to µft,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-4</sup> kh to h,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 lb to clb,100;1e2;1E2,short_answer
+Convert 1000 min to mmin,1000000;1e6;1E6,short_answer
+Convert 1000 s to ns,1e12;1e12;1E12,short_answer
+Convert 100 L to kL,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 lb to µlb,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-5</sup> kbar to bar,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 oz to µoz,1e9;1e9;1E9,short_answer
+Convert 0.01 J to GJ,1e-11;1e-11;1E-11,short_answer
+Convert 1000 coz to oz,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>5</sup> cft to ft,1000;1e3;1E3,short_answer
+Convert 100 s to ks,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>8</sup> noz to oz,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>5</sup> clb to lb,1000;1e3;1E3,short_answer
+Convert 10 Pa to mPa,10000;1e4;1E4,short_answer
+Convert 10 cs to s,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>5</sup> moz to oz,100;1e2;1E2,short_answer
+Convert 1000 mi to Mmi,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 bar to mbar,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-9</sup> Mg to g,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 cg to g,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-9</sup> Gcal to cal,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-7</sup> Gg to g,100;1e2;1E2,short_answer
+Convert 0.1 mi to cmi,10;1e1;1E1,short_answer
+Convert 0.1 day to Gday,1e-10;1e-10;1E-10,short_answer
+Convert 10 min to nmin,1e10;1e10;1E10,short_answer
+Convert 10 s to µs,1e7;1e7;1E7,short_answer
+Convert 1 x 10<sup>-7</sup> Mgal to gal,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-6</sup> Mgal to gal,1;1e0;1E0;1.,short_answer
+Convert 0.1 coz to oz,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 cal to ncal,1e7;1e7;1E7,short_answer
+Convert 0.1 L to cL,10;1e1;1E1,short_answer
+Convert 0.001 lb to nlb,1000000;1e6;1E6,short_answer
+Convert 1000 bar to Gbar,0.000001;1e-6;1E-6,short_answer
+Convert 1000 L to ML,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 L to kL,0.000001;1e-6;1E-6,short_answer
+Convert 0.001 gal to Mgal,1e-9;1e-9;1E-9,short_answer
+Convert 0.01 oz to Goz,1e-11;1e-11;1E-11,short_answer
+Convert 0.001 g to Gg,1e-12;1e-12;1E-12,short_answer
+Convert 1 x 10<sup>-5</sup> ks to s,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-9</sup> Mgal to gal,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>5</sup> mm to m,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>6</sup> nmin to min,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 ccal to cal,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 Pa to kPa,0.01;1e-2;1E-2;.01,short_answer
+Convert 10 L to kL,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>10</sup> nm to m,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>8</sup> µmi to mi,100;1e2;1E2,short_answer
+Convert 0.001 ft to kft,0.000001;1e-6;1E-6,short_answer
+Convert 0.01 ft to kft,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>9</sup> µft to ft,1000;1e3;1E3,short_answer
+Convert 1 g to kg,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>8</sup> µoz to oz,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-10</sup> Gmin to min,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>11</sup> nPa to Pa,100;1e2;1E2,short_answer
+Convert 0.1 m to cm,10;1e1;1E1,short_answer
+Convert 100 g to Mg,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 0.001 s to Gs,1e-12;1e-12;1E-12,short_answer
+Convert 1 x 10<sup>-6</sup> Gbar to bar,1000;1e3;1E3,short_answer
+Convert 0.001 g to Mg,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>5</sup> µday to day,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 kbar to bar,1;1e0;1E0;1.,short_answer
+Convert 1 m to km,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 mi to cmi,1000;1e3;1E3,short_answer
+Convert 10 cft to ft,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>6</sup> µs to s,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-9</sup> Ggal to gal,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-8</sup> Ggal to gal,10;1e1;1E1,short_answer
+Convert 100 m to km,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 bar to nbar,1e11;1e11;1E11,short_answer
+Convert 1 x 10<sup>-12</sup> Gmi to mi,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 kh to h,100;1e2;1E2,short_answer
+Convert 1 ch to h,0.01;1e-2;1E-2;.01,short_answer
+Convert 10 g to Mg,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>-4</sup> Mmi to mi,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-11</sup> Gmi to mi,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 kmi to mi,1;1e0;1E0;1.,short_answer
+Convert 1000 day to cday,100000;1e5;1E5,short_answer
+Convert 0.1 cal to µcal,100000;1e5;1E5,short_answer
+Convert 1000 cal to ncal,1e12;1e12;1E12,short_answer
+Convert 100 s to Ms,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 0.01 gal to mgal,10;1e1;1E1,short_answer
+Convert 0.1 h to ch,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>5</sup> µft to ft,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-11</sup> Gm to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-11</sup> GL to L,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 m to Mm,0.000001;1e-6;1E-6,short_answer
+Convert 10 Pa to kPa,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-5</sup> ML to L,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>11</sup> nmin to min,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-7</sup> Mg to g,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>6</sup> µday to day,1;1e0;1E0;1.,short_answer
+Convert 0.01 ft to cft,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>9</sup> nday to day,1;1e0;1E0;1.,short_answer
+Convert 10 m to nm,1e10;1e10;1E10,short_answer
+Convert 100 J to µJ,1e8;1e8;1E8,short_answer
+Convert 1 x 10<sup>-7</sup> Mmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 µbar to bar,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 mi to cmi,100;1e2;1E2,short_answer
+Convert 100 lb to clb,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-11</sup> Gm to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-6</sup> kcal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 cPa to Pa,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-9</sup> GPa to Pa,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-4</sup> Mmin to min,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-4</sup> Mh to h,100;1e2;1E2,short_answer
+Convert 0.001 Mg to g,1000;1e3;1E3,short_answer
+Convert 0.1 gal to mgal,100;1e2;1E2,short_answer
+Convert 1 min to Gmin,1e-9;1e-9;1E-9,short_answer
+Convert 1000 mi to nmi,1e12;1e12;1E12,short_answer
+Convert 1 x 10<sup>9</sup> µL to L,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>10</sup> ncal to cal,10;1e1;1E1,short_answer
+Convert 0.01 s to µs,10000;1e4;1E4,short_answer
+Convert 0.1 m to cm,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-4</sup> kft to ft,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 mi to Mmi,0.000001;1e-6;1E-6,short_answer
+Convert 0.01 mi to Mmi,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>-5</sup> Mlb to lb,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-11</sup> Gmi to mi,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-9</sup> Gday to day,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>6</sup> nlb to lb,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>8</sup> µmi to mi,100;1e2;1E2,short_answer
+Convert 10 m to Mm,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>8</sup> noz to oz,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 mi to Gmi,1e-10;1e-10;1E-10,short_answer
+Convert 100 ft to cft,10000;1e4;1E4,short_answer
+Convert 1000 cmin to min,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>6</sup> mbar to bar,1000;1e3;1E3,short_answer
+Convert 0.001 h to ch,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 s to ns,1e10;1e10;1E10,short_answer
+Convert 1000 cmin to min,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>7</sup> µcal to cal,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-8</sup> Gmin to min,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-10</sup> GJ to J,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 oz to koz,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 g to ng,1e9;1e9;1E9,short_answer
+Convert 100 g to mg,100000;1e5;1E5,short_answer
+Convert 10 s to ms,10000;1e4;1E4,short_answer
+Convert 0.1 cmi to mi,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>6</sup> mft to ft,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-9</sup> Moz to oz,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>6</sup> nm to m,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 ms to s,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 cal to Mcal,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 0.01 lb to mlb,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>5</sup> cPa to Pa,1000;1e3;1E3,short_answer
+Convert 0.01 s to Gs,1e-11;1e-11;1E-11,short_answer
+Convert 0.01 cal to ccal,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>7</sup> nlb to lb,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-8</sup> Ms to s,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-6</sup> Gh to h,1000;1e3;1E3,short_answer
+Convert 0.001 klb to lb,1;1e0;1E0;1.,short_answer
+Convert 1 h to nh,1e9;1e9;1E9,short_answer
+Convert 100 gal to cgal,10000;1e4;1E4,short_answer
+Convert 10 cg to g,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 mm to m,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-5</sup> km to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-6</sup> Mmi to mi,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>5</sup> µlb to lb,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 mh to h,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 Mmin to min,1000;1e3;1E3,short_answer
+Convert 1 kPa to Pa,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-12</sup> Gcal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-8</sup> Mgal to gal,0.01;1e-2;1E-2;.01,short_answer
+Convert 100 h to ch,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-12</sup> Glb to lb,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 mi to µmi,1000;1e3;1E3,short_answer
+Convert 0.1 Pa to GPa,1e-10;1e-10;1E-10,short_answer
+Convert 1 x 10<sup>4</sup> µft to ft,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 cJ to J,10;1e1;1E1,short_answer
+Convert 10 cmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-4</sup> kJ to J,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 bar to µbar,1e9;1e9;1E9,short_answer
+Convert 1 x 10<sup>4</sup> µcal to cal,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 Pa to MPa,0.000001;1e-6;1E-6,short_answer
+Convert 10 Pa to µPa,1e7;1e7;1E7,short_answer
+Convert 100 mmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>12</sup> nday to day,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-10</sup> Ggal to gal,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 kday to day,100;1e2;1E2,short_answer
+Convert 1 mft to ft,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 µmi to mi,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 ft to cft,100;1e2;1E2,short_answer
+Convert 10 gal to mgal,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>10</sup> nmi to mi,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>12</sup> ns to s,1000;1e3;1E3,short_answer
+Convert 0.1 ft to Mft,1e-7;1e-7;1E-7,short_answer
+Convert 0.01 klb to lb,10;1e1;1E1,short_answer
+Convert 0.01 min to mmin,10;1e1;1E1,short_answer
+Convert 10 day to mday,10000;1e4;1E4,short_answer
+Convert 0.1 J to GJ,1e-10;1e-10;1E-10,short_answer
+Convert 0.001 oz to µoz,1000;1e3;1E3,short_answer
+Convert 1000 ft to cft,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>4</sup> µs to s,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>6</sup> nday to day,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-6</sup> Gbar to bar,1000;1e3;1E3,short_answer
+Convert 0.001 m to Gm,1e-12;1e-12;1E-12,short_answer
+Convert 1000 h to mh,1000000;1e6;1E6,short_answer
+Convert 0.1 J to kJ,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1 x 10<sup>-9</sup> Mcal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 oz to Moz,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1000 µg to g,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>4</sup> cm to m,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-10</sup> GPa to Pa,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 cg to g,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>6</sup> µs to s,1;1e0;1E0;1.,short_answer
+Convert 0.1 m to Gm,1e-10;1e-10;1E-10,short_answer
+Convert 100 h to mh,100000;1e5;1E5,short_answer
+Convert 1000 ccal to cal,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-8</sup> Mm to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>6</sup> nday to day,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 cbar to bar,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 cft to ft,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>4</sup> mm to m,10;1e1;1E1,short_answer
+Convert 0.1 mi to nmi,1e8;1e8;1E8,short_answer
+Convert 0.01 bar to kbar,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 0.01 oz to Goz,1e-11;1e-11;1E-11,short_answer
+Convert 1 ft to Mft,0.000001;1e-6;1E-6,short_answer
+Convert 1 lb to Mlb,0.000001;1e-6;1E-6,short_answer
+Convert 10 mi to cmi,1000;1e3;1E3,short_answer
+Convert 1 kL to L,1000;1e3;1E3,short_answer
+Convert 10 mi to kmi,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-8</sup> Goz to oz,10;1e1;1E1,short_answer
+Convert 1000 bar to Gbar,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>5</sup> mmin to min,100;1e2;1E2,short_answer
+Convert 0.001 cal to ccal,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 mL to L,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 min to Mmin,1e-9;1e-9;1E-9,short_answer
+Convert 10 cg to g,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 mgal to gal,1;1e0;1E0;1.,short_answer
+Convert 0.01 min to mmin,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-8</sup> ML to L,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-9</sup> Ms to s,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 gal to µgal,1e8;1e8;1E8,short_answer
+Convert 1000 day to kday,1;1e0;1E0;1.,short_answer
+Convert 0.001 cal to µcal,1000;1e3;1E3,short_answer
+Convert 0.001 cal to Mcal,1e-9;1e-9;1E-9,short_answer
+Convert 1 mi to nmi,1e9;1e9;1E9,short_answer
+Convert 0.001 ft to mft,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-5</sup> Mft to ft,10;1e1;1E1,short_answer
+Convert 1000 ft to cft,100000;1e5;1E5,short_answer
+Convert 0.1 J to GJ,1e-10;1e-10;1E-10,short_answer
+Convert 1000 min to Gmin,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>-6</sup> Gmi to mi,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>6</sup> nbar to bar,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 gal to µgal,1e7;1e7;1E7,short_answer
+Convert 100 oz to coz,10000;1e4;1E4,short_answer
+Convert 100 L to cL,10000;1e4;1E4,short_answer
+Convert 1000 mPa to Pa,1;1e0;1E0;1.,short_answer
+Convert 10 cday to day,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>10</sup> nL to L,10;1e1;1E1,short_answer
+Convert 10 mi to Mmi,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 0.1 s to µs,100000;1e5;1E5,short_answer
+Convert 0.01 Pa to mPa,10;1e1;1E1,short_answer
+Convert 0.001 mi to cmi,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 day to cday,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 s to Gs,1e-11;1e-11;1E-11,short_answer
+Convert 1 x 10<sup>-7</sup> Mmin to min,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 m to Gm,0.000001;1e-6;1E-6,short_answer
+Convert 0.1 bar to cbar,10;1e1;1E1,short_answer
+Convert 1000 oz to µoz,1e9;1e9;1E9,short_answer
+Convert 0.1 bar to cbar,10;1e1;1E1,short_answer
+Convert 0.1 gal to kgal,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1 mL to L,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 bar to kbar,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>-4</sup> koz to oz,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-9</sup> Mft to ft,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 day to mday,1;1e0;1E0;1.,short_answer
+Convert 10 cday to day,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 s to Gs,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>9</sup> µg to g,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-10</sup> Gft to ft,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 mday to day,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>4</sup> ms to s,10;1e1;1E1,short_answer
+Convert 1000 cL to L,10;1e1;1E1,short_answer
+Convert 0.01 lb to klb,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 0.01 min to mmin,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-5</sup> Mgal to gal,10;1e1;1E1,short_answer
+Convert 10 s to Ms,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 10 L to cL,1000;1e3;1E3,short_answer
+Convert 10 lb to clb,1000;1e3;1E3,short_answer
+Convert 0.1 h to µh,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>6</sup> µcal to cal,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-9</sup> Mmi to mi,0.001;1e-3;1E-3;.001,short_answer
+Convert 100 oz to noz,1e11;1e11;1E11,short_answer
+Convert 1000 g to cg,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>-12</sup> Gcal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 kmi to mi,10;1e1;1E1,short_answer
+Convert 0.01 ft to µft,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>6</sup> mPa to Pa,1000;1e3;1E3,short_answer
+Convert 10 cm to m,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 g to Gg,1e-7;1e-7;1E-7,short_answer
+Convert 1 x 10<sup>11</sup> ns to s,100;1e2;1E2,short_answer
+Convert 0.001 m to cm,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 min to Mmin,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>5</sup> µoz to oz,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 day to mday,10;1e1;1E1,short_answer
+Convert 0.01 s to Ms,1e-8;1e-8;1E-8,short_answer
+Convert 10 h to kh,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 cJ to J,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 mi to Mmi,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>-11</sup> Gft to ft,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 L to cL,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 bar to mbar,100;1e2;1E2,short_answer
+Convert 10 moz to oz,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>7</sup> nPa to Pa,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 L to ML,1e-7;1e-7;1E-7,short_answer
+Convert 0.1 kmi to mi,100;1e2;1E2,short_answer
+Convert 0.1 kgal to gal,100;1e2;1E2,short_answer
+Convert 0.1 bar to µbar,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>7</sup> nJ to J,0.01;1e-2;1E-2;.01,short_answer
+Convert 10 day to kday,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>4</sup> µh to h,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>12</sup> nmi to mi,1000;1e3;1E3,short_answer
+Convert 0.001 J to µJ,1000;1e3;1E3,short_answer
+Convert 1000 bar to cbar,100000;1e5;1E5,short_answer
+Convert 0.01 min to nmin,1e7;1e7;1E7,short_answer
+Convert 1 x 10<sup>-4</sup> kgal to gal,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 day to Gday,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>7</sup> nmin to min,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>8</sup> nday to day,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-11</sup> Gft to ft,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 mi to nmi,1e12;1e12;1E12,short_answer
+Convert 1 x 10<sup>-8</sup> Ms to s,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 bar to cbar,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 L to GL,1e-12;1e-12;1E-12,short_answer
+Convert 100 bar to Gbar,1e-7;1e-7;1E-7,short_answer
+Convert 1 x 10<sup>8</sup> µft to ft,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-9</sup> Mh to h,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 bar to nbar,1e8;1e8;1E8,short_answer
+Convert 1 x 10<sup>8</sup> µs to s,100;1e2;1E2,short_answer
+Convert 1000 oz to noz,1e12;1e12;1E12,short_answer
+Convert 0.001 Pa to cPa,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 L to µL,1e8;1e8;1E8,short_answer
+Convert 1 x 10<sup>-11</sup> Gbar to bar,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-8</sup> Gs to s,10;1e1;1E1,short_answer
+Convert 10 h to kh,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>4</sup> mft to ft,10;1e1;1E1,short_answer
+Convert 1 lb to nlb,1e9;1e9;1E9,short_answer
+Convert 1 x 10<sup>8</sup> nh to h,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 L to nL,1e7;1e7;1E7,short_answer
+Convert 1 x 10<sup>-4</sup> Mm to m,100;1e2;1E2,short_answer
+Convert 0.001 min to Mmin,1e-9;1e-9;1E-9,short_answer
+Convert 1000 µL to L,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 L to kL,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1000 J to GJ,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>6</sup> mJ to J,1000;1e3;1E3,short_answer
+Convert 100 cal to Gcal,1e-7;1e-7;1E-7,short_answer
+Convert 100 s to ks,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 ft to mft,10;1e1;1E1,short_answer
+Convert 0.1 cmi to mi,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>9</sup> µbar to bar,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-10</sup> Gm to m,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-5</sup> kg to g,0.01;1e-2;1E-2;.01,short_answer
+Convert 100 min to Gmin,1e-7;1e-7;1E-7,short_answer
+Convert 1000 µmi to mi,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 h to Gh,1e-10;1e-10;1E-10,short_answer
+Convert 0.01 kmi to mi,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-10</sup> Gmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 min to cmin,1;1e0;1E0;1.,short_answer
+Convert 0.001 koz to oz,1;1e0;1E0;1.,short_answer
+Convert 10 L to kL,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>4</sup> µbar to bar,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 min to Mmin,1e-7;1e-7;1E-7,short_answer
+Convert 1000 gal to kgal,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-8</sup> Mmin to min,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 klb to lb,1000;1e3;1E3,short_answer
+Convert 100 mmin to min,0.1;1e-1;1E-1;.1,short_answer
+Convert 10 s to µs,1e7;1e7;1E7,short_answer
+Convert 100 h to nh,1e11;1e11;1E11,short_answer
+Convert 0.001 g to µg,1000;1e3;1E3,short_answer
+Convert 100 cal to ccal,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-6</sup> Gs to s,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-10</sup> Gm to m,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 kgal to gal,1;1e0;1E0;1.,short_answer
+Convert 1 gal to ngal,1e9;1e9;1E9,short_answer
+Convert 1000 bar to nbar,1e12;1e12;1E12,short_answer
+Convert 1 min to Gmin,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>12</sup> ng to g,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>10</sup> nmi to mi,10;1e1;1E1,short_answer
+Convert 0.001 m to Gm,1e-12;1e-12;1E-12,short_answer
+Convert 1000 s to ks,1;1e0;1E0;1.,short_answer
+Convert 0.001 MJ to J,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-11</sup> Gs to s,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 kJ to J,100;1e2;1E2,short_answer
+Convert 1000 mPa to Pa,1;1e0;1E0;1.,short_answer
+Convert 0.01 g to cg,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-4</sup> kcal to cal,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.001 s to cs,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>7</sup> µmi to mi,10;1e1;1E1,short_answer
+Convert 1 L to nL,1e9;1e9;1E9,short_answer
+Convert 1 ks to s,1000;1e3;1E3,short_answer
+Convert 0.001 ft to kft,0.000001;1e-6;1E-6,short_answer
+Convert 1000 L to ML,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 mJ to J,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 cm to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 J to kJ,1;1e0;1E0;1.,short_answer
+Convert 100 L to cL,10000;1e4;1E4,short_answer
+Convert 0.001 J to kJ,0.000001;1e-6;1E-6,short_answer
+Convert 1 x 10<sup>-11</sup> Gmin to min,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>11</sup> ncal to cal,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>4</sup> ch to h,100;1e2;1E2,short_answer
+Convert 10 h to Mh,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 x 10<sup>10</sup> ng to g,10;1e1;1E1,short_answer
+Convert 1000 oz to koz,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>5</sup> cPa to Pa,1000;1e3;1E3,short_answer
+Convert 0.001 Mgal to gal,1000;1e3;1E3,short_answer
+Convert 0.001 gal to Mgal,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>-4</sup> Mlb to lb,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-8</sup> Ms to s,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.01 h to Mh,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>6</sup> µmi to mi,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-10</sup> Glb to lb,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 mi to cmi,10;1e1;1E1,short_answer
+Convert 1 koz to oz,1000;1e3;1E3,short_answer
+Convert 0.001 klb to lb,1;1e0;1E0;1.,short_answer
+Convert 0.001 mi to Gmi,1e-12;1e-12;1E-12,short_answer
+Convert 0.01 lb to µlb,10000;1e4;1E4,short_answer
+Convert 1000 h to Gh,0.000001;1e-6;1E-6,short_answer
+Convert 0.1 mi to kmi,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 0.001 s to µs,1000;1e3;1E3,short_answer
+Convert 100 h to µh,1e8;1e8;1E8,short_answer
+Convert 1 x 10<sup>9</sup> nJ to J,1;1e0;1E0;1.,short_answer
+Convert 100 mi to Gmi,1e-7;1e-7;1E-7,short_answer
+Convert 100 cmin to min,1;1e0;1E0;1.,short_answer
+Convert 1 h to Gh,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>10</sup> ng to g,10;1e1;1E1,short_answer
+Convert 1000 s to ns,1e12;1e12;1E12,short_answer
+Convert 0.001 g to mg,1;1e0;1E0;1.,short_answer
+Convert 10 mi to Gmi,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>6</sup> mmi to mi,1000;1e3;1E3,short_answer
+Convert 0.1 kg to g,100;1e2;1E2,short_answer
+Convert 10 m to Gm,1e-8;1e-8;1E-8,short_answer
+Convert 100 L to µL,1e8;1e8;1E8,short_answer
+Convert 1 moz to oz,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 g to µg,1e7;1e7;1E7,short_answer
+Convert 10 s to Gs,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>6</sup> mm to m,1000;1e3;1E3,short_answer
+Convert 1 mcal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 g to Mg,1e-7;1e-7;1E-7,short_answer
+Convert 1 x 10<sup>4</sup> mbar to bar,10;1e1;1E1,short_answer
+Convert 0.001 Pa to nPa,1000000;1e6;1E6,short_answer
+Convert 1 h to µh,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>8</sup> µmi to mi,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>6</sup> nh to h,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.01 min to Mmin,1e-8;1e-8;1E-8,short_answer
+Convert 100 h to µh,1e8;1e8;1E8,short_answer
+Convert 0.001 cal to ncal,1000000;1e6;1E6,short_answer
+Convert 0.01 ft to mft,10;1e1;1E1,short_answer
+Convert 1000 cgal to gal,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>5</sup> µft to ft,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 h to Mh,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>-9</sup> Gday to day,1;1e0;1E0;1.,short_answer
+Convert 0.001 m to µm,1000;1e3;1E3,short_answer
+Convert 0.01 kbar to bar,10;1e1;1E1,short_answer
+Convert 1000 h to kh,1;1e0;1E0;1.,short_answer
+Convert 100 mPa to Pa,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 m to nm,1e12;1e12;1E12,short_answer
+Convert 1 x 10<sup>6</sup> µm to m,1;1e0;1E0;1.,short_answer
+Convert 0.001 day to cday,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 mi to nmi,1e12;1e12;1E12,short_answer
+Convert 10 oz to moz,10000;1e4;1E4,short_answer
+Convert 1 ft to cft,100;1e2;1E2,short_answer
+Convert 100 day to Mday,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 0.001 ft to nft,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>6</sup> mft to ft,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>6</sup> µday to day,1;1e0;1E0;1.,short_answer
+Convert 1000 gal to µgal,1e9;1e9;1E9,short_answer
+Convert 1000 min to µmin,1e9;1e9;1E9,short_answer
+Convert 1 gal to cgal,100;1e2;1E2,short_answer
+Convert 1 day to Gday,1e-9;1e-9;1E-9,short_answer
+Convert 1000 mday to day,1;1e0;1E0;1.,short_answer
+Convert 0.1 g to µg,100000;1e5;1E5,short_answer
+Convert 1 x 10<sup>-5</sup> km to m,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 g to kg,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>-7</sup> Gmi to mi,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-8</sup> Mmi to mi,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 Mh to h,1000;1e3;1E3,short_answer
+Convert 100 mL to L,0.1;1e-1;1E-1;.1,short_answer
+Convert 100 mPa to Pa,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-6</sup> kg to g,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>5</sup> ch to h,1000;1e3;1E3,short_answer
+Convert 100 gal to kgal,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.1 L to nL,1e8;1e8;1E8,short_answer
+Convert 0.1 Pa to nPa,1e8;1e8;1E8,short_answer
+Convert 1 x 10<sup>-10</sup> Gg to g,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 coz to oz,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 cmin to min,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 ccal to cal,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>7</sup> nday to day,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>8</sup> nh to h,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>4</sup> mmin to min,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-6</sup> Mlb to lb,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-5</sup> kgal to gal,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>-9</sup> Moz to oz,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 coz to oz,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.1 L to cL,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-4</sup> MPa to Pa,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-5</sup> klb to lb,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>11</sup> nm to m,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>12</sup> nlb to lb,1000;1e3;1E3,short_answer
+Convert 1 kL to L,1000;1e3;1E3,short_answer
+Convert 0.1 J to MJ,1e-7;1e-7;1E-7,short_answer
+Convert 0.1 mi to µmi,100000;1e5;1E5,short_answer
+Convert 0.01 L to ML,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>-9</sup> Gs to s,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-10</sup> Goz to oz,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 cPa to Pa,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 min to µmin,1000;1e3;1E3,short_answer
+Convert 0.001 cal to Gcal,1e-12;1e-12;1E-12,short_answer
+Convert 1000 h to mh,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>-9</sup> Gbar to bar,1;1e0;1E0;1.,short_answer
+Convert 10 cal to ccal,1000;1e3;1E3,short_answer
+Convert 1000 h to nh,1e12;1e12;1E12,short_answer
+Convert 1 x 10<sup>-8</sup> Mcal to cal,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 ft to kft,1;1e0;1E0;1.,short_answer
+Convert 0.001 mi to Gmi,1e-12;1e-12;1E-12,short_answer
+Convert 0.1 oz to coz,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>8</sup> nlb to lb,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-5</sup> kPa to Pa,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 day to cday,100;1e2;1E2,short_answer
+Convert 1000 g to cg,100000;1e5;1E5,short_answer
+Convert 1 min to cmin,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-7</sup> Mbar to bar,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 Pa to mPa,1000000;1e6;1E6,short_answer
+Convert 0.1 mi to Gmi,1e-10;1e-10;1E-10,short_answer
+Convert 0.001 ks to s,1;1e0;1E0;1.,short_answer
+Convert 1000 m to km,1;1e0;1E0;1.,short_answer
+Convert 10 ft to kft,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 x 10<sup>4</sup> µgal to gal,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 J to cJ,100;1e2;1E2,short_answer
+Convert 1 ft to Gft,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>-9</sup> Mbar to bar,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 bar to mbar,1;1e0;1E0;1.,short_answer
+Convert 100 ft to nft,1e11;1e11;1E11,short_answer
+Convert 0.001 gal to µgal,1000;1e3;1E3,short_answer
+Convert 0.001 gal to Ggal,1e-12;1e-12;1E-12,short_answer
+Convert 1 x 10<sup>6</sup> ngal to gal,0.001;1e-3;1E-3;.001,short_answer
+Convert 10 cal to Mcal,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 0.1 min to kmin,0.0001;1e-4;1E-4;.0001,short_answer
+Convert 1 x 10<sup>12</sup> nlb to lb,1000;1e3;1E3,short_answer
+Convert 0.001 Mm to m,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>-5</sup> Mbar to bar,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-7</sup> Mmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 kmi to mi,1000;1e3;1E3,short_answer
+Convert 0.1 mi to Mmi,1e-7;1e-7;1E-7,short_answer
+Convert 10 gal to Ggal,1e-8;1e-8;1E-8,short_answer
+Convert 100 ft to cft,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-7</sup> Mft to ft,0.1;1e-1;1E-1;.1,short_answer
+Convert 1000 min to Gmin,0.000001;1e-6;1E-6,short_answer
+Convert 10 mi to Mmi,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 1 kg to g,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>6</sup> mbar to bar,1000;1e3;1E3,short_answer
+Convert 100 ft to kft,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 min to Gmin,1e-11;1e-11;1E-11,short_answer
+Convert 1 x 10<sup>-8</sup> Gday to day,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-10</sup> Gmi to mi,0.1;1e-1;1E-1;.1,short_answer
+Convert 0.01 h to kh,0.00001;1e-5;1E-5;.00001,short_answer
+Convert 0.01 ft to nft,1e7;1e7;1E7,short_answer
+Convert 1 x 10<sup>5</sup> ms to s,100;1e2;1E2,short_answer
+Convert 1 lb to Glb,1e-9;1e-9;1E-9,short_answer
+Convert 1 x 10<sup>5</sup> mft to ft,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>10</sup> noz to oz,10;1e1;1E1,short_answer
+Convert 1 oz to µoz,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>-8</sup> GPa to Pa,10;1e1;1E1,short_answer
+Convert 0.1 m to Gm,1e-10;1e-10;1E-10,short_answer
+Convert 1 oz to µoz,1000000;1e6;1E6,short_answer
+Convert 1 kPa to Pa,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>4</sup> cs to s,100;1e2;1E2,short_answer
+Convert 1 mday to day,0.001;1e-3;1E-3;.001,short_answer
+Convert 1 x 10<sup>5</sup> µday to day,0.1;1e-1;1E-1;.1,short_answer
+Convert 1 x 10<sup>-6</sup> MPa to Pa,1;1e0;1E0;1.,short_answer
+Convert 0.001 day to mday,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>-8</sup> Mft to ft,0.01;1e-2;1E-2;.01,short_answer
+Convert 0.001 oz to noz,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>4</sup> cL to L,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>-4</sup> Mbar to bar,100;1e2;1E2,short_answer
+Convert 10 cal to ccal,1000;1e3;1E3,short_answer
+Convert 1 x 10<sup>5</sup> mmi to mi,100;1e2;1E2,short_answer
+Convert 1 x 10<sup>9</sup> µPa to Pa,1000;1e3;1E3,short_answer
+Convert 1000 h to µh,1e9;1e9;1E9,short_answer
+Convert 1 x 10<sup>6</sup> nm to m,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.001 Mmin to min,1000;1e3;1E3,short_answer
+Convert 0.01 gal to mgal,10;1e1;1E1,short_answer
+Convert 1 x 10<sup>-7</sup> Gcal to cal,100;1e2;1E2,short_answer
+Convert 0.1 kPa to Pa,100;1e2;1E2,short_answer
+Convert 0.01 cal to ncal,1e7;1e7;1E7,short_answer
+Convert 10 lb to klb,0.01;1e-2;1E-2;.01,short_answer
+Convert 1000 ccal to cal,10;1e1;1E1,short_answer
+Convert 0.01 m to Mm,1e-8;1e-8;1E-8,short_answer
+Convert 0.1 kg to g,100;1e2;1E2,short_answer
+Convert 0.01 h to µh,10000;1e4;1E4,short_answer
+Convert 1 x 10<sup>-5</sup> kL to L,0.01;1e-2;1E-2;.01,short_answer
+Convert 1 ft to µft,1000000;1e6;1E6,short_answer
+Convert 1 x 10<sup>-12</sup> GPa to Pa,0.001;1e-3;1E-3;.001,short_answer
+Convert 0.1 kcal to cal,100;1e2;1E2,short_answer
+Convert 1000 mi to Gmi,0.000001;1e-6;1E-6,short_answer
+Convert 0.001 mi to Mmi,1e-9;1e-9;1E-9,short_answer
+Convert 0.1 ft to cft,10;1e1;1E1,short_answer
+Convert 1000 mbar to bar,1;1e0;1E0;1.,short_answer
+Convert 1 x 10<sup>6</sup> noz to oz,0.001;1e-3;1E-3;.001,short_answer
+Convert 1000 s to ns,1e12;1e12;1E12,short_answer
+Convert 10 bar to Gbar,1e-8;1e-8;1E-8,short_answer
+Convert 1 x 10<sup>-4</sup> klb to lb,0.1;1e-1;1E-1;.1,short_answer
