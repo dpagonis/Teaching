@@ -7,8 +7,8 @@ import numpy as np
 import csv
 
 from dp_qti.makeqti import *
-from dp_qti import sf
-from dp_qti import weakacid
+from dp_chem import sf
+from dp_chem import weakacid
 
 acids = pd.read_csv('aminoacids.csv')
 acids['pKa'] = acids['pKa'].apply(lambda x: [float(i) for i in x.split(';')])

@@ -14,8 +14,8 @@ HEADERS = {
     "Authorization": f"Bearer {API_TOKEN}"
 }
 
-course_id = 570486 #input("Enter the course ID: ")
-quiz_id = 1453468 #input("Enter the quiz ID: ")
+course_id = 580186 #input("Enter the course ID: ")
+quiz_id = 1528778 #input("Enter the quiz ID: ")
 
 
 # Disable the default headers set by `requests` by creating a Session

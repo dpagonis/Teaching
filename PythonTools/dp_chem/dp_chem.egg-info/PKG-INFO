@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: dp-chem
+Version: 0.1
+Summary: A package for handling common chemistry concepts, geared towards programmatic generation of question banks
+Author: Demetrios Pagonis
+Author-email: demetriospagonis@weber.edu

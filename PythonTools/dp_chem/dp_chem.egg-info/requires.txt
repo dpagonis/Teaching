@@ -2,5 +2,3 @@ numpy
 pandas
 jinja2
 scipy
-lxml
-dp_chem

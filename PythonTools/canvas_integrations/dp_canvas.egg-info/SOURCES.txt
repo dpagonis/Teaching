@@ -1,0 +1,13 @@
+setup.py
+dp_canvas/__init__.py
+dp_canvas/canvas_plots (demetriospagonis@weber.edu).py
+dp_canvas/canvas_plots.py
+dp_canvas/gets.py
+dp_canvas/interact.py
+dp_canvas/message.py
+dp_canvas/process.py
+dp_canvas.egg-info/PKG-INFO
+dp_canvas.egg-info/SOURCES.txt
+dp_canvas.egg-info/dependency_links.txt
+dp_canvas.egg-info/requires.txt
+dp_canvas.egg-info/top_level.txt

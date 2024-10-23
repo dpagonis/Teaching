@@ -12,7 +12,7 @@ HEADERS = {
     "Authorization": f"Bearer {API_TOKEN}"
 }
 
-submission_id = 20209883
+submission_id = 21147868
 
 
 # Disable the default headers set by `requests` by creating a Session
@@ -35,9 +35,7 @@ response = session.get(f"{BASE_URL}/quiz_submissions/{submission_id}/questions",
 
 if response.status_code == 200:
     data = response.json()
-
-    with open('Submission_Questions.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+    print(json.dumps(data, indent=4))
 
 else:
     print(f"Error {response.status_code}: {response.text}")

@@ -1,0 +1,14 @@
+setup.py
+dp_chem/__init__.py
+dp_chem/molecule.py
+dp_chem/periodictable.py
+dp_chem/reaction.py
+dp_chem/sigfig.py
+dp_chem/uncertainvalue.py
+dp_chem/units.py
+dp_chem/weakacid.py
+dp_chem.egg-info/PKG-INFO
+dp_chem.egg-info/SOURCES.txt
+dp_chem.egg-info/dependency_links.txt
+dp_chem.egg-info/requires.txt
+dp_chem.egg-info/top_level.txt

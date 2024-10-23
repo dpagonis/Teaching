@@ -24,58 +24,74 @@ def generate_questions():
     questions_df = pd.DataFrame(questions)
     return questions_df, basename, assessment_ident
 
+def PT_to_N():
+
+    temp = sf.random_value((250,310),(2,4))
+    pres = sf.random_value((600,1013),(3,5))
+    
+    N = 6.02214076e23 * (pres*100) * 1e-6 / (8.3145 * temp)
+
+    answers = N.answers(sf_tolerance=1,roundoff_tolerance=True)
+
+    question_options = [
+        f'Calculate the concentration of molecules in air (in molecules cm<sup>-3</sup>) at {temp} K and {pres} mbar.',
+        f'Calculate the concentration of molecules in air (in molecules cm<sup>-3</sup>) at {pres} mbar and {temp} K.',
+        f'The pressure and temperature of a sample are {pres} mbar and {temp} K. Calculate the concentration of gas in this sample in molecules cm<sup>-3</sup>.',
+        f'The pressure and temperature of a sample are {temp} K and {pres} mbar. Calculate the concentration of gas in this sample in molecules cm<sup>-3</sup>.',
+    ]
+
+    formatted_question = random.choice(question_options)
+
+    return formatted_question, answers 
+
+def NT_to_P():
+
+    temp = sf.random_value((250,310),(2,4))
+    N = sf.random_value((1e19,2.9e19),(3,5))
+    
+    pres = ((N/6.02214076e23) * 8.3145 * temp / 1e-6)/100
+
+    answers = pres.answers(sf_tolerance=1,roundoff_tolerance=True)
+
+    question_options = [
+        f'Calculate the pressure of a parcel (in mbar) if the total gas concentration is {N} molecules cm<sup>-3</sup> and the temperature is {temp} K',
+        f'An airmass at {temp} K has a total gas concentration of {N} molecules cm<sup>-3</sup>. What is the pressure of this airmass in mbar?'
+    ]
+
+    formatted_question = random.choice(question_options)
+
+    return formatted_question, answers 
+
+def NP_to_T():
+
+    pres = sf.random_value((600,1013),(3,5))
+    N = sf.random_value((1e19,2.9e19),(3,5))
+
+    temp = (pres*100) * 1e-6 / ((N/6.02214076e23) * 8.3145)
+
+    answers = temp.answers(sf_tolerance=1,roundoff_tolerance=True)
+
+    question_options = [
+        f'Calculate the temperature of a parcel (in K) if the total gas concentration is {N} molecules cm<sup>-3</sup> and the pressure is {pres} mbar',
+        f'An airmass at {pres} mbar has a total gas concentration of {N} molecules cm<sup>-3</sup>. What is the temperature of this airmass in Kelvin?'
+    ]
+
+    formatted_question = random.choice(question_options)
+
+    return formatted_question, answers 
+
+
 def generate_question():
     question_type = 'short_answer'
 
     question_options = [
-        'Calculate the concentration of molecules in air at {temp} K and {pres} mbar.;conc.answers(sf_tolerance=1)',
-        'The concentration of molecules in an air sample is {conc} molecules cm-3 at {temp} K. Calculate the pressure of this sample in mbar.;pres.answers(sf_tolerance=1)',
-        'The pressure and temperature of a sample are {pres} mbar and {temp_C} C. Calculate the concentration of gas in this sample in molecules cm-3.;conc.answers(sf_tolerance=1)',
-        'The concentration of molecules in an air sample is {conc} molecules cm-3 at {pres} mbar. Calculate the temperature of this sample in K.;temp.answers(sf_tolerance=1)'
+        PT_to_N,
+        NT_to_P,
+        NP_to_T,
     ]
 
-    # generating random values for variables, doing calculations, & prepping namespace here
-    R = 8.3145
-    NA = 6.0221408e+23
-    i = 0
-    
-    while True:
-        temp = sf.random_value((250,310),(3,4),units_str='K')
-        temp_C = temp.convert_to('C')
-        pres = sf.random_value((400,1200),(3,4))
-        v=1e-6 #1 cm3
-        conc = (pres*100) * v / (R * temp) * NA
-
-        T_check = (pres*100) * v / (R * conc) * NA
-        P_check = (conc * R * temp) / (v * NA) / 100
-        conc_degC_check = (pres*100) * v / (R * (temp_C+273.15)) * NA
-
-        temp_from_conc = True if T_check.scientific_notation() == temp.scientific_notation() else False
-        pres_from_conc = True if P_check.scientific_notation() == pres.scientific_notation() else False
-        conc_from_C = True if conc_degC_check.scientific_notation() == conc.scientific_notation() else False
-
-        if all([temp_from_conc, pres_from_conc, conc_from_C]): #if all values are self-consistent
-            if(i > 100):
-                print(i,'iterations to get self-consistent values') # catch inefficient but not terrible code
-            break
-
-        if i > 1e6: #catch terrible code
-            raise RuntimeError("The loop has gone too far without acheiving self-consistent values!")
-    
-    #####------------------Shouldn't need to edit anything from here down--------------------------#####
-    # Randomly select a question and its answer(s)
-    question_row = random.choice(question_options) if len(question_options) > 1 else question_options[0]
-    question_text = question_row.split(';')[0]
-    answer_equation = question_row.split(';')[1]
-
-   # Get a dictionary of all local variables
-    namespace = locals()
-
-    # Replace placeholders in the question with the generated values
-    formatted_question = question_text.format(**namespace)
-
-    # Calculate the answer using the provided equation
-    answer = eval(answer_equation, globals(), namespace)
+    func = random.choice(question_options)
+    formatted_question, answer = func()
 
     return {
         'question': formatted_question,

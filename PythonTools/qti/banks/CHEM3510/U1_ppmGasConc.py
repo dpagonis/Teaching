@@ -26,13 +26,121 @@ def generate_questions():
     questions_df = pd.DataFrame(questions)
     return questions_df, basename, assessment_ident
 
+def ppm_to_n():
+
+    molecule = random.choice(['ozone', 'NO', 'NO<sub>2</sub>', 'HNO<sub>3</sub>', 'CH<sub>4</sub>', 'methane', 'carbon monoxide'])
+
+    ppm = sf.random_value((0.1,10),(2,4),True)
+    temp = sf.random_value((250,310),(2,4))
+    pres = sf.random_value((700,1013),(3,5))
+    
+    N = 6.02214076e23 * (pres*100) * 1e-6 / (8.3145 * temp)
+    n = N * ppm * 1e-6
+    answers = n.answers(sf_tolerance=1,roundoff_tolerance=True)
+
+    question_options = [
+        f'Assume {molecule} has a concentration of {ppm} ppm at {temp} K and {pres} mbar. Calculate the concentration of {molecule} in this sample in molecules cm<sup>-3</sup>.',
+        f'Assume {molecule} has a concentration of {ppm} ppm at {pres} mbar and {temp} K. Calculate the concentration of {molecule} in this sample in molecules cm<sup>-3</sup>.',
+    ]
+
+    formatted_question = random.choice(question_options)
+
+    return formatted_question, answers 
+
+
+def ppb_to_n():
+
+    molecule = random.choice(['ozone', 'NO', 'NO<sub>2</sub>', 'HNO<sub>3</sub>', 'CH<sub>4</sub>', 'methane', 'carbon monoxide'])
+
+    ppb = sf.random_value((1,100),(2,4),True)
+    temp = sf.random_value((250,310),(2,4))
+    pres = sf.random_value((700,1013),(3,5))
+    
+    N = 6.02214076e23 * (pres*100) * 1e-6 / (8.3145 * temp)
+    n = N * ppb * 1e-9
+    answers = n.answers(sf_tolerance=1,roundoff_tolerance=True)
+
+    question_options = [
+        f'Assume {molecule} has a concentration of {ppb} ppb at {temp} K and {pres} mbar. Calculate the concentration of {molecule} in this sample in molecules cm<sup>-3</sup>.',
+        f'Assume {molecule} has a concentration of {ppb} ppb at {pres} mbar and {temp} K. Calculate the concentration of {molecule} in this sample in molecules cm<sup>-3</sup>.',
+    ]
+
+    formatted_question = random.choice(question_options)
+
+    return formatted_question, answers 
+
+def n_to_ppm():
+
+    molecule = random.choice(['ozone', 'NO', 'NO<sub>2</sub>', 'HNO<sub>3</sub>', 'CH<sub>4</sub>', 'methane', 'carbon monoxide'])
+
+    n = sf.random_value((1e12,1e15),(2,4),True)
+    temp = sf.random_value((250,310),(2,4))
+    pres = sf.random_value((700,1013),(3,5))
+    
+    N = 6.02214076e23 * (pres*100) * 1e-6 / (8.3145 * temp)
+    ppm = 1e6 * n / N
+    
+    answers = ppm.answers(sf_tolerance=1,roundoff_tolerance=True)
+
+    question_options = [
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {temp} K and {pres} mbar. Calculate the concentration of {molecule} in this sample in parts per million.',
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {temp} K and {pres} mbar. Calculate the concentration of {molecule} in this sample in ppm.',
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {pres} mbar and {temp} K. Calculate the concentration of {molecule} in this sample in parts per million.',
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {pres} mbar and {temp} K. Calculate the concentration of {molecule} in this sample in ppm.',
+    ]
+
+    formatted_question = random.choice(question_options)
+
+    return formatted_question, answers 
+
+def n_to_ppb():
+
+    molecule = random.choice(['ozone', 'NO', 'NO<sub>2</sub>', 'HNO<sub>3</sub>', 'CH<sub>4</sub>', 'methane', 'carbon monoxide'])
+
+    n = sf.random_value((1e19,1e13),(2,4),True)
+    temp = sf.random_value((250,310),(2,4))
+    pres = sf.random_value((700,1013),(3,5))
+    
+    N = 6.02214076e23 * (pres*100) * 1e-6 / (8.3145 * temp)
+    ppb = 1e9 * n / N
+    
+    answers = ppb.answers(sf_tolerance=1,roundoff_tolerance=True)
+
+    question_options = [
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {temp} K and {pres} mbar. Calculate the concentration of {molecule} in this sample in parts per billion.',
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {temp} K and {pres} mbar. Calculate the concentration of {molecule} in this sample in ppb.',
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {pres} mbar and {temp} K. Calculate the concentration of {molecule} in this sample in parts per billion.',
+        f'Assume {molecule} has a concentration of {n.html} molecules cm<sup>-3</sup> at {pres} mbar and {temp} K. Calculate the concentration of {molecule} in this sample in ppb.',
+    ]
+
+    formatted_question = random.choice(question_options)
+
+    return formatted_question, answers 
+
+def generate_question():
+    question_type = 'short_answer'
+
+    question_options = [
+        n_to_ppm,
+        n_to_ppb,
+        ppm_to_n,
+        ppb_to_n
+    ]
+
+    func = random.choice(question_options)
+    formatted_question, answer = func()
+
+    return {
+        'question': formatted_question,
+        'correct_answers': answer,
+        'question_type': question_type
+    }
+
 def generate_question():
     question_type = 'short_answer'
 
     question_options = [
         'The concentration of {gas} in an air sample is {conc} molecules cm-3 at {temp} K and {pres} mbar. Calculate the mixing ratio in ppm.;ppm.answers(sf_tolerance=1)',
-        'A molecule has a concentration of {ppm} ppb at {pres} mbar and {temp} K. Calculate the concentration of gas in this sample in molecules cm-3.;conc_ppb.answers(sf_tolerance=1)',
-        'A molecule has a concentration of {ppm} ppm at {pres} mbar and {temp} K. Calculate the concentration of gas in this sample in molecules cm-3.;conc.answers(sf_tolerance=1)',
         'The concentration of {gas} in an air sample is {conc_ppb} molecules cm-3 at {temp} K and {pres} mbar. Calculate the mixing ratio in ppb.;ppm.answers(sf_tolerance=1)'
     ]
 

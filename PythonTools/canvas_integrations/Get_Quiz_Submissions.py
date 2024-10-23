@@ -16,7 +16,7 @@ with open("COURSE_ID.txt", "r") as file:
     course_id = file.readline().strip()
 
     
-quiz_id = 1434880
+quiz_id = 1528778
 
 # Disable the default headers set by `requests` by creating a Session
 session = requests.Session()
@@ -38,10 +38,10 @@ while endpoint:
         endpoint = next_link[0]["url"] if next_link else None
 
     else:
-        print(f"Error {response.status_code}: {response.text}")
         endpoint = None
+        print(f"Error {response.status_code}: {response.text}")
+        
 
 # Save all the quiz submissions to a JSON file
 print(f'found {len(all_submissions)} submissions')
-with open('Quiz_Submissions.json', 'w') as json_file:
-    json.dump({"quiz_submissions": all_submissions}, json_file, indent=4)
+print(json.dumps(all_submissions,indent=4))

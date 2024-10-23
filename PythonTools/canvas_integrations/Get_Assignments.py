@@ -43,7 +43,8 @@ while endpoint:
     else:
         print(f"Error {response.status_code}: {response.text}")
         endpoint = None
-
+for a in all_data:
+    print(f'{a["name"]} {a["id"]}')
 # Save all the data to a JSON file
 with open(fout, 'w') as json_file:
     json.dump(all_data, json_file, indent=4)

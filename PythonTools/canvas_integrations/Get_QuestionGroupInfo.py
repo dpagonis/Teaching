@@ -12,9 +12,11 @@ HEADERS = {
     "Authorization": f"Bearer {API_TOKEN}"
 }
 
-course_id = 570517
-quiz_id = 1434880
-group_id = 994724
+with open("COURSE_ID.txt", "r") as file:
+    course_id = file.readline().strip()
+
+quiz_id = 1528778
+group_id = 1136995
 
 
 session = requests.Session()
@@ -24,18 +26,10 @@ session.headers.update(HEADERS)
 
 response = session.get(f"{BASE_URL}/courses/{course_id}/quizzes/{quiz_id}/groups/{group_id}")
 
-# For debugging
-# print(f"HTTP Method: {response.request.method}")
-# print(f"URL: {response.request.url}")
-# print(f"Headers: {response.request.headers}")
-
 
 if response.status_code == 200:
     data = response.json()
-    print(data)
-    with open('Question_Group_Info.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
-
+    print(json.dumps(data, indent=2))
 
 else:
     print(f"Error {response.status_code}")

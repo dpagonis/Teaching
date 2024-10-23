@@ -6,7 +6,7 @@ It reads a CSV file ('extended_time_students.csv') containing student IDs and th
 For each student who requires extra time, the script posts a quiz extension to the Canvas API. It handles pagination to ensure all assignments are processed and reports success or errors for each extension posted.
 
 Requires:
-- A CSV file 'extended_time_students.csv' with columns 'id' (student's Canvas ID) and 'extra_time' (time multiplier).
+- A CSV file 'extended_time_students.csv' with columns 'id' (student's Canvas ID) and 'extra_time' (time multiplier). For time-and-a-half the value of extra_time should be 1.5
 - 'config.txt' containing the Canvas API token.
 - 'COURSE_ID.txt' containing the course ID.
 
