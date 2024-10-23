@@ -7,4 +7,4 @@ PythonTools/attendance/attendance.csv
 PythonTools/canvas_integrations/Quiz_Report.json
 PythonTools/canvas_integrations/QuizReport_Student.csv
 PythonTools/polling/credentials.json
-PythonTools/qti/banks/CHEM1200/png/*.*
+banks/CHEM1200/png/*.*
