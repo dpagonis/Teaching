@@ -1,7 +1,7 @@
 import math
 import random
 import warnings
-from decimal import Decimal, ROUND_HALF_UP
+from decimal import Decimal, ROUND_HALF_UP, getcontext
 
 from .units import units as units_class
 
@@ -32,6 +32,13 @@ class sigfig:
     else:
         self.last_decimal_place = last_decimal_place
         self.sig_figs = self._find_first_decimal_place(self.value_str) - self.last_decimal_place +1
+
+    self.html = self.as_num()
+    if 'e' in self.html:
+      base, exp = self.scientific_notation().split('e')
+      self.html = f'{base} x 10<sup>{exp}</sup>'
+
+    self.tex = self._generate_tex_string()
    
   def scientific_notation(self):
     prec = self.sig_figs if self._check_rounded_exponent_increase(self.sig_figs-1) else self.sig_figs-1
@@ -96,6 +103,10 @@ class sigfig:
         if '.' in as_num_str:
           no_lead_zero_str = '.'+as_num_str.split('.')[1]
           answers += [no_lead_zero_str]
+
+      if "0e0" in answers:
+         answers.append("0")
+         answers.append("0.")
   
       # # Add leading/trailing spaces for all answers
       # answers_with_leading_space = [' ' + ans for ans in answers]
@@ -150,7 +161,7 @@ class sigfig:
             converted_value = value_in_kelvin
         else:
             raise ValueError('Unknown temperature unit: ' + output_unit_str)
-        return converted_value
+        return sigfig(str(converted_value.value),sig_figs=converted_value.sig_figs,units_str=output_unit_str)
     else:
       factor = self.units.convert_to(output_unit_str) 
       if factor is None:
@@ -160,7 +171,7 @@ class sigfig:
         return self
       else:
         output_sf = self * factor
-        return output_sf
+        return sigfig(str(output_sf.value),sig_figs=output_sf.sig_figs,units_str=output_unit_str)
 
   @staticmethod
   def random_value(value_range=(1e-3, 1000), sf_range=(1, 5), value_log=False, units_str=""):
@@ -233,6 +244,14 @@ class sigfig:
           
     return decimal_place 
   
+  def _generate_tex_string(self):
+     if 'e' in self.as_num():
+        base, exp = self.as_num().split('e')
+        tex = base + '\\times10^'+exp
+        return tex 
+     else:
+        return self.as_num()
+  
   def _check_rounded_exponent_increase(self, dplaces):
     # Convert the original number to a string in scientific notation
     num = self.value
@@ -240,7 +259,7 @@ class sigfig:
     rounded_sci_notation = format(num, f".{dplaces}e")
     rounded_exponent = int(rounded_sci_notation.split("e")[-1])
     # Round the number and convert it to a string in scientific notation
-    original_sci_notation = format(num, f".{15}e")
+    original_sci_notation = format(num, f".{10}e")
     original_exponent = int(original_sci_notation.split("e")[-1])
     # Compare the exponents and return True if the exponent has increased, False otherwise
     return rounded_exponent > original_exponent
@@ -296,7 +315,7 @@ class sigfig:
   def __mul__(self, other):
     if isinstance(other, sigfig):
       result = self.value * other.value
-      return sigfig(str(result), sig_figs=min(self.sig_figs, other.sig_figs))
+      return sigfig(str(result), sig_figs=min(self.sig_figs, other.sig_figs))#,units_str=f'{self.units_str} {other.units_str}')
     else:
       result = self.value * other
       return sigfig(str(result),sig_figs=self.sig_figs)

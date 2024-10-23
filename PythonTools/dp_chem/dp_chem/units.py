@@ -7,7 +7,7 @@ class units:
             'mass': ['kg', 'g', 'lb', 'oz'],
             'temperature': ['K', 'C', 'F'],
             'current': ['A'],
-            'amount': ['molecules', 'mQ', 'mol'],  # longer units first
+            'amount': ['molecules','molecule','molec', 'mQ', 'mol'],  # longer units first
             'volume': ['L', 'gal'],
             'energy': ['J','cal','Cal'],
             'frequency': ['Hz'],
@@ -57,6 +57,7 @@ class units:
             'molec':  1 / 6.02214076e23,  # molecules to mole
             'mQ':  1 / 6.02214076e23,  # molecules to mole
             'molecules': 1 / 6.02214076e23,  # molecules to mole
+            'molecule':1 / 6.02214076e23,
             'L': 1e-3,        # liter to cubic meter
             'gal': 0.00378541, # US gallon to cubic meter
             'cal': 4.184,     # calorie to joule
@@ -75,6 +76,7 @@ class units:
         self.unit_coefs = self._parse_units()
         self.units_str_si = self._construct_si_units_str()
         self.unit_type = self._determine_unit_type()
+        self.tex = self._format_tex()
 
     def _parse_units(self, str_to_parse=None):
         str_to_parse = self.units_str if str_to_parse is None else str_to_parse    
@@ -127,7 +129,7 @@ class units:
                         unit_exponents[category] += exponent
                     else:  # recursively parse units string from categories_si
                         si_unit_str = self.categories_si[category]
-                        si_unit_str = f"{si_unit_str}{exp}"
+                        si_unit_str = f"{si_unit_str}"
                         si_unit_exponents = self._parse_units(si_unit_str)
                         for si_category, si_exponent in si_unit_exponents.items():
                             unit_exponents[si_category] += si_exponent * exponent
@@ -169,14 +171,45 @@ class units:
 
         return factor
     
+    def _format_tex(self):
+        numerator_units = []
+        denom_units = []
+        for u in self.units_str.split(' '):
+            pattern = r'([a-zA-Z]+)(-?\d+)?'
+            match = re.match(pattern, u)
+            if match:
+                unit = match.group(1)
+                power = match.group(2)
+
+                if power:
+                    power = int(power)
+                    
+                    if abs(power) > 1:
+                        unit = unit + '^{' + str(abs(power)) + '}'
+                    
+                    if power < 0:
+                        denom_units.append(unit)
+                    else:
+                        numerator_units.append(unit)
+                else:
+                    numerator_units.append(unit)
+
+        # Handle the case where there's no denominator
+        if denom_units:
+            return '\\frac{' + '\\,'.join(numerator_units) + '}{' + '\\,'.join(denom_units) + '}'
+        else:
+            return '\\,'.join(numerator_units)
+
+        return ''
+    
 
 def main():
-    test_unit = units("day")
+    test_unit = units("mi3 day-2 s-1")
     print(test_unit.unit_coefs)
     print(test_unit.units_str_si)
     print(test_unit.unit_type)
     print(test_unit.to_si_factor)
-    print(test_unit.convert_to('hr'))
+    print(test_unit.tex)
 
 if __name__ == "__main__":
     main()

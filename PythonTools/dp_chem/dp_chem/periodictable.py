@@ -1,4 +1,5 @@
 import numpy as np
+import math
 import pandas as pd
 from jinja2 import Environment, FileSystemLoader
 from pathlib import Path
@@ -92,7 +93,7 @@ class periodictable:
                     'atomic_number': '',
                     'name': '',
                     'mass':'',
-                    'extra_properties': {},
+                    'extra_properties': [],
                     'border_class': ''
                 }
                 if atomic_number is not None:
@@ -104,7 +105,7 @@ class periodictable:
                                 'atomic_number': element['atomic_number'],
                                 'name': element['name'],
                                 'mass': format_mass(element) if include_atomic_mass is True else None,
-                                'extra_properties': {prop: element[prop] for prop in additional_properties},
+                                'extra_properties': [element[prop] if isinstance(element[prop], (int, str)) or not math.isnan(element[prop]) else ' ' for prop in additional_properties],
                                 'border_class': 'dashed-right-border' if int(element['atomic_number']) in (56, 88) else ('dashed-left-border' if int(element['atomic_number']) in (71, 103) else ''),
                             }
                 table_row.append(cell)

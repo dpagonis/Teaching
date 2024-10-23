@@ -1,12 +1,13 @@
 #manifest code isn't working with new quiz imports
 #eventually need other question types to be supported
 
-import pandas as pd
+
 from lxml import etree
 import zipfile
 import urllib.parse
 import hashlib
 import html
+
 
 
 # Save the XML file to a ZIP file
@@ -288,6 +289,10 @@ def handle_true_false_question(row, item, index):
     setvar.text = "100"
 
 def handle_multi_select_question(row, item, index):
+    correct_answers = row['correct_answers'].split(';') if len(row['correct_answers']) > 0 else []
+    incorrect_answers = row['incorrect_answers'].split(';') if len(row['incorrect_answers']) > 0 else []
+
+
     # Add metadata
     itemmetadata = etree.SubElement(item, "itemmetadata")
     qtimetadata = etree.SubElement(itemmetadata, "qtimetadata")
@@ -325,7 +330,7 @@ def handle_multi_select_question(row, item, index):
     response_lid = etree.SubElement(presentation, "response_lid", attrib={"ident" : "response1", "rcardinality" : "Multiple"})
     render_choice = etree.SubElement(response_lid, "render_choice")
 
-    for answer in row["correct_answers"]+row["incorrect_answers"]:
+    for answer in correct_answers + incorrect_answers:
         response_label = etree.SubElement(render_choice, "response_label", attrib={"ident": hashlib.md5(answer.encode()).hexdigest()})
         material = etree.SubElement(response_label, "material")
         mattext = etree.SubElement(material, "mattext", attrib={"texttype": "text/plain"})
@@ -340,11 +345,11 @@ def handle_multi_select_question(row, item, index):
     
     and_element = etree.SubElement(conditionvar, "and")
     
-    for answer in row["correct_answers"]:
+    for answer in correct_answers:
         varequal = etree.SubElement(and_element, "varequal", attrib={"respident":"response1"})
         varequal.text = hashlib.md5(answer.encode()).hexdigest()
 
-    for answer in row["incorrect_answers"]:
+    for answer in incorrect_answers:
         not_element = etree.SubElement(and_element, "not")
         varequal = etree.SubElement(not_element, "varequal", attrib={"respident":"response1"})
         varequal.text = hashlib.md5(answer.encode()).hexdigest()

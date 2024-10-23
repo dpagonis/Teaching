@@ -12,9 +12,15 @@ class uncertainvalue:
             raise TypeError("Expected n to be a positive number")
         
         self.n = n
-        self.stdev = sf(str(stdev),sig_figs=1,units_str=units_str)
-        if self.stdev.scientific_notation().split('e')[0] == '1':
-            self.stdev = sf(str(stdev), sig_figs=2,units_str=units_str)    
+
+        #apply 2 and 20 rule
+        first_nzd = next((digit for digit in str(stdev) if digit.isdigit() and digit != '0'), None)
+
+        if first_nzd == '1':
+            self.stdev = sf(str(stdev), sig_figs=2, units_str=units_str)
+        else:
+            self.stdev = sf(str(stdev), sig_figs=1, units_str=units_str)
+ 
         self.mean = sf(str(mean),last_decimal_place=self.stdev.last_decimal_place,units_str=units_str)
         self.stderr = self.stdev / n**0.5
         if self.stderr.scientific_notation().split('e')[0] == '1':

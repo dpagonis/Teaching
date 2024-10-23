@@ -22,6 +22,7 @@ class molecule:
         element_dict (dict): A dictionary with elements as keys and their corresponding counts as values.
         molecular_weight (sf): The molecular weight of the molecule (in g mol^-1).
         tex (str): LaTeX formatted representation of the molecule's formula.
+        simple_html (str): html rep of the formula
         phase (str): The phase of the molecule.
         coefficient (int): Coefficient for balancing chemical reactions.
         concentration (float): Concentration of the molecule in a reaction.
@@ -108,7 +109,7 @@ class molecule:
         # Create a copy of the formula to work with
         formula = self.formula
 
-        molecular_weight = sf('0',sig_figs=999,units_str="g mol-1")
+        molecular_weight = sf('0',sig_figs=12,units_str="g mol-1")
 
         if formula == 'e':
             return molecular_weight
@@ -132,7 +133,10 @@ class molecule:
                     subgroup_count = 1
                 
                 # Add the molecular weight of the subgroup, multiplied by its count, to the total molecular weight
-                molecular_weight += subgroup_mol.molecular_weight * subgroup_count
+                subgroup_mw = subgroup_mol.molecular_weight
+                if subgroup_mw.last_decimal_place < -6:
+                    subgroup_mw = sf(subgroup_mw.scientific_notation(), last_decimal_place=-6)
+                molecular_weight += subgroup_mw * subgroup_count
 
                 # Update the formula to continue with the rest of it
                 formula = rest_str
@@ -146,6 +150,8 @@ class molecule:
                     atomic_mass = sf(str(periodictable.property(element, prop='mass')))
                     if count:
                         atomic_mass *= int(count)
+                    if atomic_mass.last_decimal_place < -6:
+                        atomic_mass = sf(atomic_mass.scientific_notation(),last_decimal_place=-6)
                     molecular_weight += atomic_mass
                     formula = formula[match.end():]
 
