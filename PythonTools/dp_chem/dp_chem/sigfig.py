@@ -123,18 +123,22 @@ class sigfig:
     # Process native sigfigs first
     final_answers.extend(_generate_answers(self.sig_figs))
 
-    # Process the remaining values
-    for sf_adjust in list(range(-sf_tolerance, 0)) + list(range(1, sf_tolerance + 1)):
-      adjusted_sf = self.sig_figs + sf_adjust
-      if adjusted_sf >= 1:
-          final_answers.extend(_generate_answers(adjusted_sf))
-
+    # roundoff tolerance at native sigfigs
     if roundoff_tolerance is True:
       if(self.value > float(self.scientific_notation())):  #number was rounded down, so increment last digit up
         roundoff_sf_instance = sigfig(self.scientific_notation()) + 10**self.last_decimal_place
       else: #number was rounded up, so increment last digit down    
         roundoff_sf_instance = sigfig(self.scientific_notation()) - 10**self.last_decimal_place
-      final_answers.extend(roundoff_sf_instance.answers(sf_tolerance=sf_tolerance,roundoff_tolerance=False).split(';'))
+      final_answers.extend(roundoff_sf_instance.answers(sf_tolerance=0,roundoff_tolerance=False).split(';'))
+
+    # sig fig tolerance (with roundoff occuring recursively therein)
+    for sf_adjust in list(range(-sf_tolerance, 0)) + list(range(1, sf_tolerance + 1)):
+      adjusted_sf = self.sig_figs + sf_adjust
+      if adjusted_sf >= 1:
+          other_sf_instance = sigfig(str(self.value),sig_figs = adjusted_sf)
+          final_answers.extend(other_sf_instance.answers(roundoff_tolerance=roundoff_tolerance).split(';'))
+
+    
     
     # Combine the generated answers and return the final answer string
     answer_string = ';'.join(final_answers)
@@ -285,6 +289,9 @@ class sigfig:
       else:
         formatted = "{:.{}f}".format(self.value, -1*self.last_decimal_place)
     return formatted
+  
+  def __repr__(self):
+    return f"{self.__str__()} ({self.__class__.__name__} object)"
   
   def __add__(self, other):
     if isinstance(other, sigfig):

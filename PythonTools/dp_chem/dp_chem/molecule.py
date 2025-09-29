@@ -32,7 +32,13 @@ class molecule:
         subtract(substr): Subtracts another molecule or chemical formula from the current molecule.
     """
     
-    def __init__(self, molec_string, charge=0, phase=None, coefficient=None, concentration=None):
+    def __init__(self, molec_string=None, charge=0, phase=None, coefficient=None, concentration=None):
+        
+        ask_for_inputs = False
+        if molec_string is None:
+            ask_for_inputs=True
+            molec_string=input("Enter the formula of the molecule:")
+
         #note that if you include charge in molec_string and in the charge argument it will be double-counted
         self.charge = charge
         while '+' in molec_string:
@@ -51,6 +57,13 @@ class molecule:
         self.phase = str(phase) if phase is not None else None
         self.coefficient = coefficient
         self.concentration = concentration
+
+        if ask_for_inputs:
+            print('-------------Key Attributes--------------')
+            print('molecular_weight (sigfig): molecular weight')
+            print('charge (int): charge of molecule')
+            print('formula (string): plain text representation of the formula')
+            print('-----------------------------------------')
         
     def _parse_formula(self, formula_str):
         
@@ -265,6 +278,9 @@ class molecule:
             chargestr = ''
             
         return self.formula + chargestr
+    
+    def __repr__(self):
+        return f"{self.__str__()} ({self.__class__.__name__} object)"
         
 def main():
     test = molecule('H2O')

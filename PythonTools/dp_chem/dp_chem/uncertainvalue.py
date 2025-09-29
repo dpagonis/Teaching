@@ -1,13 +1,22 @@
 import math
 import scipy.stats as stats
+import numpy as np
 import random
 
 from .sigfig import sigfig as sf
 
 class uncertainvalue:
-    def __init__(self, mean, stdev, n=math.inf, units_str = ''):
-        if not isinstance(stdev, sf) and stdev <= 0:
-            raise TypeError("Expected stdev to be a positive number")
+    def __init__(self, mean, stdev=None, n=math.inf, units_str = ''):
+        if stdev is None:
+            if isinstance(mean,list) or isinstance(mean,np.ndarray):
+                a=np.array(mean)
+                mean=a.mean()
+                stdev=a.std(ddof=1)
+                n=len(a)
+        else:
+            if not isinstance(stdev, sf) and stdev <= 0:
+                raise TypeError("Expected stdev to be a positive number")
+        
         if n <= 0:
             raise TypeError("Expected n to be a positive number")
         
@@ -85,11 +94,14 @@ class uncertainvalue:
         return uncertainvalue(mean, stdev, n)
 
     def __str__(self):
-        if self.mean.value > 1e3 or self.mean.value < 1e-3:
+        if abs(self.mean.value) > 1e3 or abs(self.mean.value) < 1e-3:
             formatted = "{} ± {}".format(self.mean.scientific_notation(),self.stdev.scientific_notation())
         else:
             formatted = "{} ± {}".format(self.mean.as_num(),self.stdev.as_num())    
         return formatted
+    
+    def __repr__(self):
+        return f"{self.__str__()} ({self.__class__.__name__} object)" 
     
     def __add__(self, other):
         if isinstance(other, uncertainvalue):
