@@ -15,4 +15,4 @@ from .binning import binning
 from .diurnal import diurnal
 from .gis import gis
 from .camxdata import camxdata
-import .epa as epa
+from .epa import epa
