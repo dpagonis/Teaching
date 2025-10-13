@@ -2,15 +2,22 @@ from setuptools import setup, find_packages
 
 setup(
     name="dp_chem",
-    version="0.1",
+    version="1.0",
     packages=find_packages(),
-    description="A package for handling common chemistry concepts, geared towards programmatic generation of question banks",
+    description="A package for handling chemistry concepts and data",
     author="Demetrios Pagonis",
     author_email="demetriospagonis@weber.edu",
     install_requires=[
         'numpy',
         'pandas',
         'jinja2',
-        'scipy'
+        'scipy',
+        'matplotlib',
+        'xarray',
+        'requests',
+        'cartopy',
+        'shapely',
+        'geopandas',
+        'zipfile',
     ],
 )

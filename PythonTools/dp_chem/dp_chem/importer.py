@@ -5,10 +5,12 @@ import inspect
 # Add the names of the modules you want to "star import" to this list.
 # These are the local module names (the .py file names without extension).
 MODULES_TO_IMPORT = [
+    "gentools",
     "sigfig",
     "weakacid",
     "stats",
     "reload",
+    "uncertainvalue",
 ]
 # ---------------------
 

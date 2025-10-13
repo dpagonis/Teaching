@@ -9,13 +9,22 @@ class sigfig:
 
   def __init__(self, value, sig_figs=None, last_decimal_place=None, units_str=""):
     
-    if not isinstance(value, str):
-      raise TypeError("value input must be a string")  
-    
-    if not isinstance(units_str, str):
-      raise TypeError("Units input must be a string")  
+    # Accept strings, ints, and floats. ints are safely converted to strings.
+    # floats must be accompanied by an explicit sig_figs value because float
+    # objects don't reliably carry significant-figure information.
+    if isinstance(value, int):
+      value_str = str(value)
+    elif isinstance(value, float):
+      if sig_figs is None:
+        raise ValueError("Float input must include sig_figs because floats do not carry significant-figure information.")
+      # create a string representation of the float with the provided sig figs
+      value_str = str(value)
+    elif isinstance(value, str):
+      value_str = value
+    else:
+      raise TypeError("value input must be a string, int, or float")
 
-    self.value_str = value
+    self.value_str = value_str
     self.value = float(self.value_str)
 
     if sig_figs is not None and last_decimal_place is not None:

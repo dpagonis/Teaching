@@ -1,21 +1,64 @@
 import inspect
 import os
-
 from dp_chem import molecule
+import getpass
+from datetime import datetime
 
+def save_fig(fig, fname=None, dpi=200, annotate=True, fontsize=8):
+    """
+    Save a matplotlib.figure.Figure to disk. If fname is None, a default path
+    is produced from main_dir() with a .png extension. Optionally annotate the
+    figure with the user, save datetime, and the script that created it.
+    """
+    import matplotlib.pyplot as _plt
 
+    # determine filename
+    if fname is None:
+        fname = fig_dir()
+
+    # annotation
+    if annotate:
+        try:
+            user = getpass.getuser()
+        except Exception:
+            user = os.environ.get("USER") or os.environ.get("USERNAME") or "unknown"
+
+        try:
+            main_path = main_dir()
+            script_name = os.path.basename(main_path)
+        except Exception:
+            script_name = "unknown"
+
+        date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        annotation = f"{user} | {date_str} | {script_name}"
+
+        # Add annotation in the lower-right corner of the figure
+        # Use fig.text so it appears on all subplots and is saved with the figure.
+        fig.text(0.99, 0.99, annotation, ha="right", va="top",
+                 fontsize=fontsize, alpha=0.5)
+
+    # save
+    # Accept either a figure object or the pyplot state
+    if hasattr(fig, "savefig"):
+        fig.savefig(fname, dpi=dpi, bbox_inches="tight")
+    else:
+        # assume pyplot
+        _plt.savefig(fname, dpi=dpi, bbox_inches="tight")
+
+    return fname
 
 def fig_dir():
     maindir = main_dir()
-    return maindir.replace(".py",".png")
+    return maindir.replace(".py", ".png")
 
 def main_dir():
     # Find the outermost script (__main__)
     for frame in inspect.stack():
         module = inspect.getmodule(frame.frame)
         if module and module.__name__ == "__main__":
-            parent_script = module.__file__
-            break
+            parent_script = getattr(module, "__file__", None)
+            if parent_script:
+                break
     else:
         raise RuntimeError("Could not determine the outermost script (__main__).")
 

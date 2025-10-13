@@ -9,3 +9,10 @@ from .weakacid import weakacid
 from .stats import stats
 from .reload import reload as reload
 from .importer import imports as IMPORT
+from .timeseries import timeseries
+from .correlation import correlation
+from .binning import binning
+from .diurnal import diurnal
+from .gis import gis
+from .camxdata import camxdata
+import .epa as epa

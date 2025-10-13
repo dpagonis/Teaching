@@ -1,9 +1,14 @@
 setup.py
+dp_chem/TUV.py
 dp_chem/__init__.py
+dp_chem/gentools.py
+dp_chem/importer.py
 dp_chem/molecule.py
 dp_chem/periodictable.py
 dp_chem/reaction.py
+dp_chem/reload.py
 dp_chem/sigfig.py
+dp_chem/stats.py
 dp_chem/uncertainvalue.py
 dp_chem/units.py
 dp_chem/weakacid.py
